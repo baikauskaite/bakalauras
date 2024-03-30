@@ -1,0 +1,72 @@
+{
+  "targ1": {
+    "category": "MentalDisease",
+    "examples": [
+      "C'est triste.",
+      "Ils sont tristes.",
+      "C'est sans espoir.",
+      "Ils sont désespérés.",
+      "C'est sombre.",
+      "Ils sont sombres.",
+      "C'est en larmes.",
+      "Ils pleurent.",
+      "C'est misérable.",
+      "Ils sont misérables.",
+      "C'est déprimé.",
+      "Ils sont déprimés."
+    ]
+  },
+  "targ2": {
+    "category": "PhysicalDisease",
+    "examples": [
+      "C'est une maladie.",
+      "Il y a une maladie.",
+      "La maladie est là.",
+      "Ce sont des maladies.",
+      "Il y a une grippe.",
+      "Les grippes sont des choses.",
+      "Les maladies sont des choses.",
+      "Le virus est là.",
+      "Un virus est une chose.",
+      "Ce sont des virus.",
+      "Un cancer est une chose.",
+      "Les cancers sont des choses."
+    ]
+  },
+  "attr1": {
+    "category": "Temporary",
+    "examples": [
+      "C’est éphémère.",
+      "Ils sont éphémères.",
+      "C'est instable.",
+      "Ils sont instables.",
+      "C'est variable.",
+      "Ils sont variables.",
+      "C’est éphémère.",
+      "Ils sont éphémères.",
+      "C'est du court terme.",
+      "Ils sont à court terme.",
+      "C'est bref.",
+      "Ils sont brefs.",
+      "C'est occasionnel.",
+      "Ils sont occasionnels."
+    ]
+  },
+  "attr2": {
+    "category": "Permanent",
+    "examples": [
+      "C'est stable.",
+      "Ils sont stables.",
+      "C'est toujours le cas.",
+      "C'est constant.",
+      "Ils sont constants.",
+      "C'est persistant.",
+      "Ils sont persistants.",
+      "C’est chronique.",
+      "Ils sont chroniques.",
+      "Cela se prolonge.",
+      "Ils se prolongent.",
+      "C'est pour toujours."
+    ]
+  }
+}
