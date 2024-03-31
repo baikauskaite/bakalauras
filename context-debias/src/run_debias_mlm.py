@@ -483,9 +483,9 @@ def train(args, data, datasets, model: PreTrainedModel, original_model, tokenize
             if 'neutral' != key:
                 with torch.no_grad():
                     outputs = original_model(inputs)
-                    final_layer_hiddens = outputs.hidden_states[-1]
+                    final_layer_original_hiddens = outputs.hidden_states[-1]
                     # first_token_hidden = final_layer_hiddens[0, :, 0]
-                    all_layer_hiddens = outputs.hidden_states
+                    all_layer_original_hiddens = outputs.hidden_states
                 if args.token_loss:
                     token_predicts = model.classifier(final_layer_hiddens)
                     token_original = original_model.classifier(final_layer_original_hiddens)

@@ -1,5 +1,5 @@
 model_type=camembert
-gpu=gpu_id
+gpu=0
 debias_layer=all # first last all
 loss_target=token # token sentence
 dev_data_size=1000
@@ -36,8 +36,8 @@ CUDA_VISIBLE_DEVICES=$gpu python ../src/run_debias_mlm.py \
     --data_file=$TRAIN_DATA \
     --do_eval \
     --learning_rate 5e-5 \
-    --per_gpu_train_batch_size 32 \
-    --per_gpu_eval_batch_size 32 \
+    --per_gpu_train_batch_size 4 \
+    --per_gpu_eval_batch_size 4 \
     --num_train_epochs 3 \
     --block_size 128 \
     --loss_target $loss_target \
