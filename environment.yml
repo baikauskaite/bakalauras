@@ -88,7 +88,6 @@ dependencies:
       - contextvars==2.4
       - cymem==2.0.8
       - deep-translator==1.5.0
-      - en-core-web-sm==3.6.0
       - h5py==3.1.0
       - immutables==0.19
       - importlib-metadata==4.8.3
