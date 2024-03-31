@@ -1,5 +1,5 @@
-model_type=$1
-gpu=$2
+model_type=camembert
+gpu=gpu_id
 debias_layer=all # first last all
 loss_target=token # token sentence
 dev_data_size=1000
