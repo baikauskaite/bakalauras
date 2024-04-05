@@ -1,3 +1,5 @@
+mamba activate sent-bias
+
 model_type=camembert
 seed=42
 block_size=128

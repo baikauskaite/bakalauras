@@ -1,15 +1,30 @@
 ''' Convenience functions for handling CamemBERT model'''
 import torch
+import os
 
 from transformers import CamembertModel, CamembertTokenizer, CamembertConfig
 
-def load_model(version='camembert-base'):
-    ''' Load camemBERT model and corresponding tokenizer '''
-    tokenizer = CamembertTokenizer.from_pretrained(version)
-    # config = CamembertConfig.from_pretrained(version, output_hidden_states=True)
-    model = CamembertModel.from_pretrained(version)
-    model.eval()
-
+def load_model(version='camembert-base', local_path=None):
+    ''' 
+    Load CamemBERT model and corresponding tokenizer.
+    
+    Parameters:
+    - version: The version of the model to load from Hugging Face model hub if local_path is None. Default is 'camembert-base'.
+    - local_path: The path to a local directory containing model and tokenizer files. If None, load from Hugging Face model hub.
+    
+    Returns:
+    - model: The loaded CamemBERT model.
+    - tokenizer: The corresponding tokenizer.
+    '''
+    if local_path is None:
+        model = CamembertModel.from_pretrained(version)
+        tokenizer = CamembertTokenizer.from_pretrained(version)
+    else:
+        path = os.path.join(local_path, 'camembert')
+        config = CamembertConfig.from_pretrained(path)
+        model = CamembertModel.from_pretrained(path, config=config)
+        tokenizer = CamembertTokenizer.from_pretrained(path)
+    
     return model, tokenizer
 
 

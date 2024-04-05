@@ -97,6 +97,9 @@ def handle_arguments(arguments):
     parser.add_argument('--glove_path', '-g', type=str,
                         help="File to GloVe vectors in .txt format. "
                              "Required if bow or infersent models are specified.")
+    parser.add_argument('--local_path', type=str,
+                        help="Local path to model files if not loading from Hugging Face model hub.",
+                        default=None)
 
     elmo_group = parser.add_argument_group(ModelName.ELMO.value, 'Options for ELMo model')
     elmo_group.add_argument('--time_combine_method', type=str, choices=["max", "mean", "concat", "last"],
@@ -369,7 +372,7 @@ def main(arguments):
                 #     encs_attr2 = encs["attr2"]["encs"]
 
                 if model_name == ModelName.CAMEMBERT.value:
-                    model, tokenizer = camembert.load_model(args.camembert_version)
+                    model, tokenizer = camembert.load_model(args.camembert_version, args.local_path)
                     # print(len(encs["targ1"]["examples"]))
                     # print(len(encs["targ2"]["examples"]))
                     # print(len(encs["attr1"]["examples"]))

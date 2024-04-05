@@ -1,3 +1,5 @@
+mamba activate sent-bias
+
 model_type=camembert
 gpu=0
 debias_layer=all # first last all
