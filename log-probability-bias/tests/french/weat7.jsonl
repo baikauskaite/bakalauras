@@ -1,0 +1,29 @@
+{
+  "templates": ["[GEND] aime [ATTR]"],
+  "attr1": {
+    "category": "Mathematics",
+    "examples": [
+      "les mathématiques",
+      "l'algèbre",
+      "la géométrie",
+      "le calcul",
+      "les équations",
+      "le calcul",
+      "les nombres",
+      "l'addition"
+    ]
+  },
+  "attr2": {
+    "category": "Arts",
+    "examples": [
+      "la poésie",
+      "l'art",
+      "la danse",
+      "la littérature",
+      "le roman",
+      "la symphonie",
+      "le drame",
+      "la sculpture"
+    ]
+  }
+}
