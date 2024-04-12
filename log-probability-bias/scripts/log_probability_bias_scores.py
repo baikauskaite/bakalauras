@@ -147,6 +147,7 @@ def predict_word(text: str, model: AutoModelForMaskedLM, tokenizer: AutoTokenize
     tokenized_text3 = copy.deepcopy(tokenized_text)
     for mask_pos in mask_positions:
         predicted_index = torch.argmax(predictions[0, mask_pos, :]).item()
+        print(predicted_index)
         tokenized_text3["input_ids"][0][mask_pos] = predicted_index
         tokenized_text3 = tokenizer.decode(tokenized_text3['input_ids'][0])
 
@@ -157,6 +158,7 @@ def predict_word(text: str, model: AutoModelForMaskedLM, tokenizer: AutoTokenize
 results = {}
 results['categories'] = []
 results['demographic'] = []
+results['tgt_word'] = []
 results['tgt_text'] = []
 results['log_probs'] = []
 results['pred_sent'] = []
@@ -177,6 +179,7 @@ for i in tqdm(range(len(my_tgt_texts))):
 
             results['categories'].append(my_categories[i])
             results['demographic'].append(key)
+            results['tgt_word'].append(val)
             results['tgt_text'].append(my_tgt_texts[i])
             results['log_probs'].append(log_probs) # Dažniausiai šita reikšmė yra neigiama, nežinau, ar taip turi būti
             results['pred_sent'].append(pred_sent)
