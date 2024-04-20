@@ -48,4 +48,4 @@ BERT_DeBias/*.sh
 figures/
 figures/*
 /results/*
-/models/*
+/tokenized/*

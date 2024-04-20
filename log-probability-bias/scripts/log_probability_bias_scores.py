@@ -20,7 +20,7 @@ log.basicConfig(format='%(asctime)s: %(message)s', datefmt='%m/%d %I:%M:%S %p', 
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--model', type=str)
-parser.add_argument('--model_dir', type=str, default=None)
+parser.add_argument('--model_version', type=str)
 parser.add_argument('--demographic', type=str)
 parser.add_argument('--data_dir', '-d', type=str,
                     help="Directory containing examples for each test",
@@ -32,7 +32,7 @@ parser.add_argument('--out_file', type=str)
 args = parser.parse_args()
 
 MODEL = args.model
-MODEL_DIR = args.model_dir
+MODEL_VERSION = args.model_version
 DATA_DIR = args.data_dir
 OUT_FILE = args.out_file
 
@@ -56,7 +56,7 @@ for test in TESTS:
 ####################################
 
 # Load pre-trained model with masked language model head
-model, tokenizer = initialize_model_tokenizer(MODEL, MODEL_DIR)
+model, tokenizer = initialize_model_tokenizer(MODEL, MODEL_VERSION)
 
 weat = json.load(open(os.path.join(DATA_DIR, TESTS[0] + TEST_EXT)))
 categories = {"attr1": weat['attr1']['category'], "attr2": weat['attr2']['category']}
@@ -147,9 +147,16 @@ def predict_word(text: str, model: AutoModelForMaskedLM, tokenizer: AutoTokenize
     tokenized_text3 = copy.deepcopy(tokenized_text)
     for mask_pos in mask_positions:
         predicted_index = torch.argmax(predictions[0, mask_pos, :]).item()
-        print(predicted_index)
+        # print(predicted_index)
         tokenized_text3["input_ids"][0][mask_pos] = predicted_index
         tokenized_text3 = tokenizer.decode(tokenized_text3['input_ids'][0])
+
+    # Get top 5 predictions
+    # topk = torch.topk(predictions[0, mask_positions[0], :], 5)
+    # topk_probs = topk.values.tolist()
+    # topk_tokens = tokenizer.convert_ids_to_tokens(topk.indices.tolist())
+    # print('Top 5 predictions: ', topk_tokens)
+    # print('Top 5 probabilities: ', topk_probs)
 
     return out_prob, tokenized_text3
 
@@ -179,9 +186,9 @@ for i in tqdm(range(len(my_tgt_texts))):
 
             results['categories'].append(my_categories[i])
             results['demographic'].append(key)
-            results['tgt_word'].append(val)
+            results['tgt_word'].append(tgt_word)
             results['tgt_text'].append(my_tgt_texts[i])
-            results['log_probs'].append(log_probs) # Dažniausiai šita reikšmė yra neigiama, nežinau, ar taip turi būti
+            results['log_probs'].append(log_probs)
             results['pred_sent'].append(pred_sent)
 
 # Write results to tsv

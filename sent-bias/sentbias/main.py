@@ -97,9 +97,6 @@ def handle_arguments(arguments):
     parser.add_argument('--glove_path', '-g', type=str,
                         help="File to GloVe vectors in .txt format. "
                              "Required if bow or infersent models are specified.")
-    parser.add_argument('--local_path', type=str,
-                        help="Local path to model files if not loading from Hugging Face model hub.",
-                        default=None)
 
     elmo_group = parser.add_argument_group(ModelName.ELMO.value, 'Options for ELMo model')
     elmo_group.add_argument('--time_combine_method', type=str, choices=["max", "mean", "concat", "last"],
@@ -137,8 +134,7 @@ def handle_arguments(arguments):
                             help="Version of BERT to use.", default="bert-large-cased")
     
     camembert_group = parser.add_argument_group(ModelName.CAMEMBERT.value, 'Options for CamemBERT model')
-    camembert_group.add_argument('--camembert_version', type=str, choices=['camembert-base', 'camembert-large'],
-                        help="Version of CamemBERT to use.", default="camembert-base")
+    camembert_group.add_argument('--camembert_version', type=str, help="Version of CamemBERT to use.", default="camembert-base")
 
     return parser.parse_args(arguments)
 
@@ -207,40 +203,6 @@ def main(arguments):
         # - else load the saved vectors '''
         log.info('Running tests for model {}'.format(model_name))
 
-        # if model_name == ModelName.BOW.value:
-        #     model_options = ''
-        #     if args.glove_path is None:
-        #         raise Exception('glove_path must be specified for {} model'.format(model_name))
-        # elif model_name == ModelName.INFERSENT.value:
-        #     if args.glove_path is None:
-        #         raise Exception('glove_path must be specified for {} model'.format(model_name))
-        #     if args.infersent_dir is None:
-        #         raise Exception('infersent_dir must be specified for {} model'.format(model_name))
-        #     model_options = ''
-        # elif model_name == ModelName.GENSEN.value:
-        #     if args.glove_h5_path is None:
-        #         raise Exception('glove_h5_path must be specified for {} model'.format(model_name))
-        #     if args.gensen_dir is None:
-        #         raise Exception('gensen_dir must be specified for {} model'.format(model_name))
-        #     gensen_version_list = split_comma_and_check(args.gensen_version, GENSEN_VERSIONS, "gensen_prefix")
-        #     if len(gensen_version_list) > 2:
-        #         raise ValueError('gensen_version can only have one or two elements')
-        #     model_options = 'version=' + args.gensen_version
-        # elif model_name == ModelName.GUSE.value:
-        #     model_options = ''
-        # elif model_name == ModelName.COVE.value:
-        #     if args.cove_encs is None:
-        #         raise Exception('cove_encs must be specified for {} model'.format(model_name))
-        #     model_options = ''
-        # elif model_name == ModelName.ELMO.value:
-        #     model_options = 'time_combine={};layer_combine={}'.format(
-        #         args.time_combine_method, args.layer_combine_method)
-        # elif model_name == ModelName.BERT.value:
-        #     model_options = 'version=' + args.bert_version
-        # elif model_name == ModelName.OPENAI.value:
-        #     if args.openai_encs is None:
-        #         raise Exception('openai_encs must be specified for {} model'.format(model_name))
-        #     model_options = ''
         if model_name == ModelName.CAMEMBERT.value:
             model_options = 'version=' + args.camembert_version
         else:
@@ -250,9 +212,7 @@ def main(arguments):
 
         for test in tests:
             log.info('Running test {} for model {}'.format(test, model_name))
-            enc_file = os.path.join(args.exp_dir, "%s.%s.h5" % (
-                "%s;%s" % (model_name, model_options) if model_options else model_name,
-                test))
+            enc_file = os.path.join(args.exp_dir, "%s.%s.h5" % ("%s" % (model_name), test))
             if not args.ignore_cached_encs and os.path.isfile(enc_file):
                 log.info("Loading encodings from %s", enc_file)
                 encs = load_encodings(enc_file)
@@ -372,7 +332,7 @@ def main(arguments):
                 #     encs_attr2 = encs["attr2"]["encs"]
 
                 if model_name == ModelName.CAMEMBERT.value:
-                    model, tokenizer = camembert.load_model(args.camembert_version, args.local_path)
+                    model, tokenizer = camembert.load_model(args.camembert_version)
                     # print(len(encs["targ1"]["examples"]))
                     # print(len(encs["targ2"]["examples"]))
                     # print(len(encs["attr1"]["examples"]))

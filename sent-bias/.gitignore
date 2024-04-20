@@ -26,4 +26,3 @@
 *.zip
 Miniforge3-*
 requirements.txt
-/models/*/
