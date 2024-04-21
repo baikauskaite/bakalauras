@@ -1,0 +1,2 @@
+date,model,is_debiased,test_name,effect_size,p_value
+2024-04-21,camembert,false,weat0,-,-

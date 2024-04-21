@@ -425,56 +425,6 @@ def train(args, data, datasets, model: PreTrainedModel, original_model, tokenize
                 if args.token_loss:
                     token_predicts = model.lm_head(final_layer_hiddens)
                     token_original = original_model.lm_head(final_layer_original_hiddens)
-        # elif args.model_type == 'bert':
-        #     final_layer_hiddens, first_token_hidden, all_layer_hiddens = model.bert(inputs)
-        #     if 'neutral' != key:
-        #         with torch.no_grad():
-        #             final_layer_original_hiddens, _, all_layer_original_hiddens = original_model.bert(inputs)
-        #         if args.token_loss:
-        #             token_predicts = model.cls(final_layer_hiddens)
-        #             token_original = original_model.cls(final_layer_original_hiddens)
-        # elif args.model_type == 'albert':
-        #     final_layer_hiddens, first_token_hidden, all_layer_hiddens = model.albert(inputs)
-        #     if 'neutral' != key:
-        #         with torch.no_grad():
-        #             final_layer_original_hiddens, _, all_layer_original_hiddens = original_model.albert(inputs)
-        #         if args.token_loss:
-        #             token_predicts = model.classifier(final_layer_hiddens)
-        #             token_original = original_model.classifier(final_layer_original_hiddens)
-        # elif args.model_type == 'dbert':
-        #     final_layer_hiddens, all_layer_hiddens = model.distilbert(inputs)
-        #     if 'neutral' != key:
-        #         with torch.no_grad():
-        #             final_layer_original_hiddens, all_layer_original_hiddens = original_model.distilbert(inputs)
-        #         if args.token_loss:
-        #             token_predicts = model.classifier(final_layer_hiddens)
-        #             token_original = original_model.classifier(final_layer_original_hiddens)
-        # elif args.model_type == 'electra':
-        #     final_layer_hiddens, all_layer_hiddens = model.electra(inputs)
-        #     if 'neutral' != key:
-        #         with torch.no_grad():
-        #             final_layer_original_hiddens, all_layer_original_hiddens = original_model.electra(inputs)
-        #         if args.token_loss:
-        #             hiddens = model.generator_predictions(final_layer_hiddens)
-        #             token_predicts = model.generator_lm_head(hiddens)
-        #             original_hiddens = original_model.generator_predictions(final_layer_original_hiddens)
-        #             token_original = original_model.generator_lm_head(original_hiddens)
-        # elif args.model_type == 'gpt2':
-        #     final_layer_hiddens, first_token_hidden, all_layer_hiddens = model.transformer(inputs)
-        #     if 'neutral' != key:
-        #         with torch.no_grad():
-        #            final_layer_original_hiddens, _, all_layer_original_hiddens = original_model.transformer(inputs)
-        #         if args.token_loss:
-        #             token_predicts = model.lm_head(final_layer_hiddens)
-        #             token_original = original_model.lm_head(final_layer_original_hiddens)
-        # elif args.model_type == 'gpt':
-        #     final_layer_hiddens, all_layer_hiddens = model.transformer(inputs)
-        #     if 'neutral' != key:
-        #         with torch.no_grad():
-        #             final_layer_original_hiddens, all_layer_original_hiddens = original_model.transformer(inputs)
-        #         if args.token_loss:
-        #             token_predicts = model.lm_head(final_layer_hiddens)
-        #             token_original = original_model.lm_head(final_layer_original_hiddens)
         elif args.model_type == 'camembert':
             outputs = model(inputs)
             final_layer_hiddens = outputs.hidden_states[-1]

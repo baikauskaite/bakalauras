@@ -1,0 +1,2 @@
+date,model,is_debiased,epoch,accuracy,precision,recall
+2024-04-21,camembert,false,1,-,-,-

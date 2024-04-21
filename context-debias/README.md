@@ -31,11 +31,11 @@ pip install .
 
 ### To debias your contextualised embeddings
 ```
-curl -o data/news-commentary-v15.en.gz -OL https://data.statmt.org/news-commentary/v15/training-monolingual/news-commentary-v15.en.gz
-gunzip data/news-commentary-v15.en.gz
+curl -o data/news-commentary-v18.fr.gz -OL https://data.statmt.org/news-commentary/v18/training-monolingual/news-commentary-v18.fr.gz
+gunzip data/news-commentary-v18.fr.gz
 cd script
-./preprocess.sh [bert/roberta/albert/dbert/electra] ../data/news-commentary-v15.en
-./debias.sh [bert/roberta/albert/dbert/electra] gpu_id
+./preprocess.sh
+./debias.sh
 
 ```
 

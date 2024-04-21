@@ -11,20 +11,14 @@ beta=0.8
 
 if [ $model_type = 'bert' ]; then
     model_name_or_path=bert-base-uncased
-elif [ $model_type = 'roberta' ]; then
-    model_name_or_path=roberta-base
-elif [ $model_type = 'albert' ]; then
-    model_name_or_path=albert-base-v2
-elif [ $model_type = 'dbert' ]; then
-    model_name_or_path=distilbert-base-uncased
-elif [ $model_type = 'electra' ]; then
-    model_name_or_path=google/electra-small-discriminator
 elif [ $model_type = 'camembert' ]; then
     model_name_or_path=camembert-base
 fi
 
-TRAIN_DATA=../preprocess/$seed/$model_type/data.bin
-OUTPUT_DIR=../debiased_models/$seed/$model_type
+BASE_DIR="/home/viktorija/bakalaurinis/context-debias"
+
+TRAIN_DATA="${BASE_DIR}/preprocess/$seed/$model_type/data.bin"
+OUTPUT_DIR="${BASE_DIR}/../models/${model_type}-debiased"
 
 rm -r $OUTPUT_DIR
 
