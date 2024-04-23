@@ -1,0 +1,181 @@
+Parsed args: 
+Namespace(tests='sent-weat0,sent-weat1,sent-weat2,sent-weat3,sent-weat3b,sent-weat4,sent-weat4b,sent-weat5,sent-weat5b,sent-weat6', models='camembert', seed=42, log_file='/home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/log.log', results_path=None, ignore_cached_encs=True, dont_cache_encs=False, data_dir='/home/viktorija/bakalaurinis/sent-bias/tests/french', exp_dir='/home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased', n_samples=100000, parametric=False, use_cpu=False, glove_path=None, time_combine_method='mean', layer_combine_method='add', infersent_dir=None, glove_h5_path=None, gensen_dir=None, gensen_version='nli_large_bothskip_parse,nli_large_bothskip', cove_encs=None, openai_encs=None, bert_version='bert-large-cased', camembert_version='/home/viktorija/bakalaurinis/models/camembert-debiased')
+Tests selected:
+	sent-weat0
+	sent-weat1
+	sent-weat2
+	sent-weat3
+	sent-weat3b
+	sent-weat4
+	sent-weat4b
+	sent-weat5
+	sent-weat5b
+	sent-weat6
+Models selected:
+	camembert
+Running tests for model camembert
+Running test sent-weat0 for model camembert
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat0.jsonl...
+Computing sentence encodings
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat0.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between GrammaticallyMale and GrammaticallyFemale in association to attributes MaleTerms and FemaleTerms
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.73721
+computing effect size...
+esize: -0.0901913
+Running test sent-weat1 for model camembert
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat1.jsonl...
+Computing sentence encodings
+Removed 5 examples from targ1
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat1.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between Flowers and Insects in association to attributes Pleasant and Unpleasant
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.02343
+computing effect size...
+esize: 0.216831
+Running test sent-weat2 for model camembert
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat2.jsonl...
+Computing sentence encodings
+Removed 4 examples from targ2
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat2.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between Instruments and Weapons in association to attributes Pleasant and Unpleasant
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.81733
+computing effect size...
+esize: -0.102407
+Running test sent-weat3 for model camembert
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat3.jsonl...
+Computing sentence encodings
+Removed 10 examples from targ1
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat3.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between MaleTerms and FemaleTerms in association to attributes Career and Family
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.47306
+computing effect size...
+esize: 0.0176694
+Running test sent-weat3b for model camembert
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat3b.jsonl...
+Computing sentence encodings
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat3b.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between MaleNames and FemaleNames in association to attributes Career and Family
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.02206
+computing effect size...
+esize: 0.427116
+Running test sent-weat4 for model camembert
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat4.jsonl...
+Computing sentence encodings
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat4.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between Math and Arts in association to attributes MaleTerms and FemaleTerms
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.04428
+computing effect size...
+esize: 0.429793
+Running test sent-weat4b for model camembert
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat4b.jsonl...
+Computing sentence encodings
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat4b.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between Math and Arts in association to attributes MaleNames and FemaleNames
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.04681
+computing effect size...
+esize: 0.417855
+Running test sent-weat5 for model camembert
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat5.jsonl...
+Computing sentence encodings
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat5.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between Science and Arts in association to attributes MaleTerms and FemaleTerms
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.45405
+computing effect size...
+esize: 0.0355112
+Running test sent-weat5b for model camembert
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat5b.jsonl...
+Computing sentence encodings
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat5b.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between Science and Arts in association to attributes MaleNames and FemaleNames
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.2008
+computing effect size...
+esize: 0.241827
+Running test sent-weat6 for model camembert
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat6.jsonl...
+Computing sentence encodings
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat6.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between MentalDisease and PhysicalDisease in association to attributes Temporary and Permanent
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.68026
+computing effect size...
+esize: -0.193732
+Model: camembert
+Options: version=/home/viktorija/bakalaurinis/models/camembert-debiased
+	Test sent-weat0:	p-val: 0.737210000	esize: -0.09
+	Test sent-weat1:	p-val: 0.023430000	esize: 0.22
+	Test sent-weat2:	p-val: 0.817330000	esize: -0.10
+	Test sent-weat3:	p-val: 0.473060000	esize: 0.02
+	Test sent-weat3b:	p-val: 0.022060000	esize: 0.43
+	Test sent-weat4:	p-val: 0.044280000	esize: 0.43
+	Test sent-weat4b:	p-val: 0.046810000	esize: 0.42
+	Test sent-weat5:	p-val: 0.454050000	esize: 0.04
+	Test sent-weat5b:	p-val: 0.200800000	esize: 0.24
+	Test sent-weat6:	p-val: 0.680260000	esize: -0.19
