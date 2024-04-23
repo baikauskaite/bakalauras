@@ -1,0 +1,222 @@
+04/23 03:47:38 PM: Seeding random number generators with 42
+04/23 03:47:38 PM: Parsed args: 
+Namespace(tests='sent-weat0,sent-weat1,sent-weat2,sent-weat3,sent-weat3b,sent-weat4,sent-weat4b,sent-weat5,sent-weat5b,sent-weat6', models='camembert', seed=42, log_file='/home/viktorija/bakalaurinis/sent-bias/results/camembert-base/log.log', results_path=None, ignore_cached_encs=True, dont_cache_encs=False, data_dir='/home/viktorija/bakalaurinis/sent-bias/tests/french', exp_dir='/home/viktorija/bakalaurinis/sent-bias/results/camembert-base', n_samples=100000, parametric=False, use_cpu=False, glove_path=None, time_combine_method='mean', layer_combine_method='add', infersent_dir=None, glove_h5_path=None, gensen_dir=None, gensen_version='nli_large_bothskip_parse,nli_large_bothskip', cove_encs=None, openai_encs=None, bert_version='bert-large-cased', camembert_version='camembert-base')
+04/23 03:47:38 PM: Tests selected:
+04/23 03:47:38 PM: 	sent-weat0
+04/23 03:47:38 PM: 	sent-weat1
+04/23 03:47:38 PM: 	sent-weat2
+04/23 03:47:38 PM: 	sent-weat3
+04/23 03:47:38 PM: 	sent-weat3b
+04/23 03:47:38 PM: 	sent-weat4
+04/23 03:47:38 PM: 	sent-weat4b
+04/23 03:47:38 PM: 	sent-weat5
+04/23 03:47:38 PM: 	sent-weat5b
+04/23 03:47:38 PM: 	sent-weat6
+04/23 03:47:38 PM: Models selected:
+04/23 03:47:38 PM: 	camembert
+04/23 03:47:38 PM: Running tests for model camembert
+04/23 03:47:38 PM: Running test sent-weat0 for model camembert
+04/23 03:47:38 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat0.jsonl...
+04/23 03:47:38 PM: Computing sentence encodings
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:47:45 PM: 	Done!
+04/23 03:47:45 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-base/camembert.sent-weat0.h5
+04/23 03:47:46 PM: Running SEAT...
+04/23 03:47:46 PM: Representation dimension: 768
+04/23 03:47:46 PM: Computing cosine similarities...
+04/23 03:47:46 PM: Null hypothesis: no difference between GrammaticallyMale and GrammaticallyFemale in association to attributes MaleTerms and FemaleTerms
+04/23 03:47:46 PM: Computing pval...
+04/23 03:47:46 PM: Using non-parametric test
+04/23 03:47:46 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:47:46 PM: pval: 1e-05
+04/23 03:47:46 PM: computing effect size...
+04/23 03:47:46 PM: esize: 1.49941
+04/23 03:47:46 PM: Running test sent-weat1 for model camembert
+04/23 03:47:46 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat1.jsonl...
+04/23 03:47:46 PM: Computing sentence encodings
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:47:57 PM: Removed 5 examples from targ1
+04/23 03:47:57 PM: 	Done!
+04/23 03:47:57 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-base/camembert.sent-weat1.h5
+04/23 03:47:57 PM: Running SEAT...
+04/23 03:47:57 PM: Representation dimension: 768
+04/23 03:47:57 PM: Computing cosine similarities...
+04/23 03:47:57 PM: Null hypothesis: no difference between Flowers and Insects in association to attributes Pleasant and Unpleasant
+04/23 03:47:57 PM: Computing pval...
+04/23 03:47:57 PM: Using non-parametric test
+04/23 03:47:57 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:47:58 PM: pval: 1e-05
+04/23 03:47:58 PM: computing effect size...
+04/23 03:47:58 PM: esize: 0.984337
+04/23 03:47:58 PM: Running test sent-weat2 for model camembert
+04/23 03:47:58 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat2.jsonl...
+04/23 03:47:58 PM: Computing sentence encodings
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:48:08 PM: Removed 4 examples from targ2
+04/23 03:48:08 PM: 	Done!
+04/23 03:48:08 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-base/camembert.sent-weat2.h5
+04/23 03:48:09 PM: Running SEAT...
+04/23 03:48:09 PM: Representation dimension: 768
+04/23 03:48:09 PM: Computing cosine similarities...
+04/23 03:48:09 PM: Null hypothesis: no difference between Instruments and Weapons in association to attributes Pleasant and Unpleasant
+04/23 03:48:09 PM: Computing pval...
+04/23 03:48:09 PM: Using non-parametric test
+04/23 03:48:09 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:48:09 PM: pval: 1e-05
+04/23 03:48:09 PM: computing effect size...
+04/23 03:48:09 PM: esize: 0.696089
+04/23 03:48:09 PM: Running test sent-weat3 for model camembert
+04/23 03:48:09 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat3.jsonl...
+04/23 03:48:09 PM: Computing sentence encodings
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:48:13 PM: Removed 10 examples from targ1
+04/23 03:48:13 PM: 	Done!
+04/23 03:48:13 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-base/camembert.sent-weat3.h5
+04/23 03:48:13 PM: Running SEAT...
+04/23 03:48:13 PM: Representation dimension: 768
+04/23 03:48:13 PM: Computing cosine similarities...
+04/23 03:48:14 PM: Null hypothesis: no difference between MaleTerms and FemaleTerms in association to attributes Career and Family
+04/23 03:48:14 PM: Computing pval...
+04/23 03:48:14 PM: Using non-parametric test
+04/23 03:48:14 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:48:14 PM: pval: 0.90241
+04/23 03:48:14 PM: computing effect size...
+04/23 03:48:14 PM: esize: -0.325546
+04/23 03:48:14 PM: Running test sent-weat3b for model camembert
+04/23 03:48:14 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat3b.jsonl...
+04/23 03:48:14 PM: Computing sentence encodings
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:48:18 PM: 	Done!
+04/23 03:48:18 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-base/camembert.sent-weat3b.h5
+04/23 03:48:18 PM: Running SEAT...
+04/23 03:48:18 PM: Representation dimension: 768
+04/23 03:48:18 PM: Computing cosine similarities...
+04/23 03:48:18 PM: Null hypothesis: no difference between MaleNames and FemaleNames in association to attributes Career and Family
+04/23 03:48:18 PM: Computing pval...
+04/23 03:48:18 PM: Using non-parametric test
+04/23 03:48:18 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:48:18 PM: pval: 0.81217
+04/23 03:48:18 PM: computing effect size...
+04/23 03:48:18 PM: esize: -0.187647
+04/23 03:48:18 PM: Running test sent-weat4 for model camembert
+04/23 03:48:18 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat4.jsonl...
+04/23 03:48:18 PM: Computing sentence encodings
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:48:22 PM: 	Done!
+04/23 03:48:22 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-base/camembert.sent-weat4.h5
+04/23 03:48:22 PM: Running SEAT...
+04/23 03:48:22 PM: Representation dimension: 768
+04/23 03:48:22 PM: Computing cosine similarities...
+04/23 03:48:22 PM: Null hypothesis: no difference between Math and Arts in association to attributes MaleTerms and FemaleTerms
+04/23 03:48:22 PM: Computing pval...
+04/23 03:48:22 PM: Using non-parametric test
+04/23 03:48:22 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:48:22 PM: pval: 0.0009
+04/23 03:48:22 PM: computing effect size...
+04/23 03:48:22 PM: esize: 0.770912
+04/23 03:48:22 PM: Running test sent-weat4b for model camembert
+04/23 03:48:22 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat4b.jsonl...
+04/23 03:48:22 PM: Computing sentence encodings
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:48:26 PM: 	Done!
+04/23 03:48:26 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-base/camembert.sent-weat4b.h5
+04/23 03:48:26 PM: Running SEAT...
+04/23 03:48:26 PM: Representation dimension: 768
+04/23 03:48:26 PM: Computing cosine similarities...
+04/23 03:48:26 PM: Null hypothesis: no difference between Math and Arts in association to attributes MaleNames and FemaleNames
+04/23 03:48:26 PM: Computing pval...
+04/23 03:48:26 PM: Using non-parametric test
+04/23 03:48:26 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:48:26 PM: pval: 0.07219
+04/23 03:48:26 PM: computing effect size...
+04/23 03:48:26 PM: esize: 0.365327
+04/23 03:48:26 PM: Running test sent-weat5 for model camembert
+04/23 03:48:26 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat5.jsonl...
+04/23 03:48:26 PM: Computing sentence encodings
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:48:29 PM: 	Done!
+04/23 03:48:29 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-base/camembert.sent-weat5.h5
+04/23 03:48:29 PM: Running SEAT...
+04/23 03:48:29 PM: Representation dimension: 768
+04/23 03:48:29 PM: Computing cosine similarities...
+04/23 03:48:29 PM: Null hypothesis: no difference between Science and Arts in association to attributes MaleTerms and FemaleTerms
+04/23 03:48:29 PM: Computing pval...
+04/23 03:48:29 PM: Using non-parametric test
+04/23 03:48:29 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:48:30 PM: pval: 0.32164
+04/23 03:48:30 PM: computing effect size...
+04/23 03:48:30 PM: esize: 0.135299
+04/23 03:48:30 PM: Running test sent-weat5b for model camembert
+04/23 03:48:30 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat5b.jsonl...
+04/23 03:48:30 PM: Computing sentence encodings
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:48:33 PM: 	Done!
+04/23 03:48:33 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-base/camembert.sent-weat5b.h5
+04/23 03:48:33 PM: Running SEAT...
+04/23 03:48:33 PM: Representation dimension: 768
+04/23 03:48:33 PM: Computing cosine similarities...
+04/23 03:48:33 PM: Null hypothesis: no difference between Science and Arts in association to attributes MaleNames and FemaleNames
+04/23 03:48:33 PM: Computing pval...
+04/23 03:48:33 PM: Using non-parametric test
+04/23 03:48:33 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:48:33 PM: pval: 0.94736
+04/23 03:48:33 PM: computing effect size...
+04/23 03:48:33 PM: esize: -0.46773
+04/23 03:48:33 PM: Running test sent-weat6 for model camembert
+04/23 03:48:33 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat6.jsonl...
+04/23 03:48:33 PM: Computing sentence encodings
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:48:35 PM: 	Done!
+04/23 03:48:35 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-base/camembert.sent-weat6.h5
+04/23 03:48:35 PM: Running SEAT...
+04/23 03:48:35 PM: Representation dimension: 768
+04/23 03:48:35 PM: Computing cosine similarities...
+04/23 03:48:35 PM: Null hypothesis: no difference between MentalDisease and PhysicalDisease in association to attributes Temporary and Permanent
+04/23 03:48:35 PM: Computing pval...
+04/23 03:48:35 PM: Using non-parametric test
+04/23 03:48:35 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:48:35 PM: pval: 0.00166
+04/23 03:48:35 PM: computing effect size...
+04/23 03:48:35 PM: esize: 1.1352
+04/23 03:48:35 PM: Model: camembert
+04/23 03:48:35 PM: Options: version=camembert-base
+04/23 03:48:35 PM: 	Test sent-weat0:	p-val: 0.000010000	esize: 1.50
+04/23 03:48:35 PM: 	Test sent-weat1:	p-val: 0.000010000	esize: 0.98
+04/23 03:48:35 PM: 	Test sent-weat2:	p-val: 0.000010000	esize: 0.70
+04/23 03:48:35 PM: 	Test sent-weat3:	p-val: 0.902410000	esize: -0.33
+04/23 03:48:35 PM: 	Test sent-weat3b:	p-val: 0.812170000	esize: -0.19
+04/23 03:48:35 PM: 	Test sent-weat4:	p-val: 0.000900000	esize: 0.77
+04/23 03:48:35 PM: 	Test sent-weat4b:	p-val: 0.072190000	esize: 0.37
+04/23 03:48:35 PM: 	Test sent-weat5:	p-val: 0.321640000	esize: 0.14
+04/23 03:48:35 PM: 	Test sent-weat5b:	p-val: 0.947360000	esize: -0.47
+04/23 03:48:35 PM: 	Test sent-weat6:	p-val: 0.001660000	esize: 1.14
+98 98
+76 80
+98 98
+167 167
+100 109
+167 167
+156 156
+100 109
+156 156
+32 32
+49 45
+32 32
+45 45
+49 45
+45 45
+32 32
+42 32
+32 32
+32 32
+45 45
+32 32
+24 24
+42 41
+24 24
+24 24
+45 45
+24 24
+12 12
+12 12
+12 12

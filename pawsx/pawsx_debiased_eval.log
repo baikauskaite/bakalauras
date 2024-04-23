@@ -1,0 +1,200 @@
+04/21/2024 19:56:55 - WARNING - __main__ - Process rank: 0, device: cpu, n_gpu: 0, distributed training: False, 16-bits training: False
+04/21/2024 19:56:55 - INFO - __main__ - Training/evaluation parameters TrainingArguments(
+_n_gpu=0,
+accelerator_config={'split_batches': False, 'dispatch_batches': None, 'even_batches': True, 'use_seedable_sampler': True},
+adafactor=False,
+adam_beta1=0.9,
+adam_beta2=0.999,
+adam_epsilon=1e-08,
+auto_find_batch_size=False,
+bf16=False,
+bf16_full_eval=False,
+data_seed=None,
+dataloader_drop_last=False,
+dataloader_num_workers=0,
+dataloader_persistent_workers=False,
+dataloader_pin_memory=False,
+dataloader_prefetch_factor=None,
+ddp_backend=None,
+ddp_broadcast_buffers=None,
+ddp_bucket_cap_mb=None,
+ddp_find_unused_parameters=None,
+ddp_timeout=1800,
+debug=[],
+deepspeed=None,
+disable_tqdm=False,
+dispatch_batches=None,
+do_eval=True,
+do_predict=False,
+do_train=False,
+eval_accumulation_steps=None,
+eval_delay=0,
+eval_steps=None,
+evaluation_strategy=IntervalStrategy.NO,
+fp16=False,
+fp16_backend=auto,
+fp16_full_eval=False,
+fp16_opt_level=O1,
+fsdp=[],
+fsdp_config={'min_num_params': 0, 'xla': False, 'xla_fsdp_v2': False, 'xla_fsdp_grad_ckpt': False},
+fsdp_min_num_params=0,
+fsdp_transformer_layer_cls_to_wrap=None,
+full_determinism=False,
+gradient_accumulation_steps=1,
+gradient_checkpointing=False,
+gradient_checkpointing_kwargs=None,
+greater_is_better=None,
+group_by_length=False,
+half_precision_backend=auto,
+hub_always_push=False,
+hub_model_id=None,
+hub_private_repo=False,
+hub_strategy=HubStrategy.EVERY_SAVE,
+hub_token=<HUB_TOKEN>,
+ignore_data_skip=False,
+include_inputs_for_metrics=False,
+include_num_input_tokens_seen=False,
+include_tokens_per_second=False,
+jit_mode_eval=False,
+label_names=None,
+label_smoothing_factor=0.0,
+learning_rate=2e-05,
+length_column_name=length,
+load_best_model_at_end=False,
+local_rank=0,
+log_level=passive,
+log_level_replica=warning,
+log_on_each_node=True,
+logging_dir=/home/viktorija/bakalaurinis/pawsx/../models/camembert-debiased-finetuned-pawsx-finetuned-pawsx/runs/Apr21_19-56-55_Paulius-PC,
+logging_first_step=False,
+logging_nan_inf_filter=True,
+logging_steps=500,
+logging_strategy=IntervalStrategy.STEPS,
+lr_scheduler_kwargs={},
+lr_scheduler_type=SchedulerType.LINEAR,
+max_grad_norm=1.0,
+max_steps=-1,
+metric_for_best_model=None,
+mp_parameters=,
+neftune_noise_alpha=None,
+no_cuda=False,
+num_train_epochs=3.0,
+optim=OptimizerNames.ADAMW_TORCH,
+optim_args=None,
+optim_target_modules=None,
+output_dir=/home/viktorija/bakalaurinis/pawsx/../models/camembert-debiased-finetuned-pawsx-finetuned-pawsx,
+overwrite_output_dir=False,
+past_index=-1,
+per_device_eval_batch_size=8,
+per_device_train_batch_size=8,
+prediction_loss_only=False,
+push_to_hub=False,
+push_to_hub_model_id=None,
+push_to_hub_organization=None,
+push_to_hub_token=<PUSH_TO_HUB_TOKEN>,
+ray_scope=last,
+remove_unused_columns=True,
+report_to=['tensorboard'],
+resume_from_checkpoint=None,
+run_name=/home/viktorija/bakalaurinis/pawsx/../models/camembert-debiased-finetuned-pawsx-finetuned-pawsx,
+save_on_each_node=False,
+save_only_model=False,
+save_safetensors=True,
+save_steps=50000,
+save_strategy=IntervalStrategy.STEPS,
+save_total_limit=None,
+seed=42,
+skip_memory_metrics=True,
+split_batches=None,
+tf32=None,
+torch_compile=False,
+torch_compile_backend=None,
+torch_compile_mode=None,
+torchdynamo=None,
+tpu_metrics_debug=False,
+tpu_num_cores=None,
+use_cpu=True,
+use_ipex=False,
+use_legacy_prediction_loop=False,
+use_mps_device=False,
+warmup_ratio=0.0,
+warmup_steps=0,
+weight_decay=0.0,
+)
+Overwrite dataset info from restored data version if exists.
+04/21/2024 19:57:01 - INFO - datasets.builder - Overwrite dataset info from restored data version if exists.
+Loading Dataset info from /home/viktorija/.cache/huggingface/datasets/nyu-mll___glue/mrpc/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c
+04/21/2024 19:57:01 - INFO - datasets.info - Loading Dataset info from /home/viktorija/.cache/huggingface/datasets/nyu-mll___glue/mrpc/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c
+Found cached dataset glue (/home/viktorija/.cache/huggingface/datasets/nyu-mll___glue/mrpc/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c)
+04/21/2024 19:57:01 - INFO - datasets.builder - Found cached dataset glue (/home/viktorija/.cache/huggingface/datasets/nyu-mll___glue/mrpc/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c)
+Loading Dataset info from /home/viktorija/.cache/huggingface/datasets/nyu-mll___glue/mrpc/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c
+04/21/2024 19:57:01 - INFO - datasets.info - Loading Dataset info from /home/viktorija/.cache/huggingface/datasets/nyu-mll___glue/mrpc/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c
+[INFO|configuration_utils.py:724] 2024-04-21 19:57:01,110 >> loading configuration file /home/viktorija/bakalaurinis/models/camembert-debiased-finetuned-pawsx/config.json
+[INFO|configuration_utils.py:789] 2024-04-21 19:57:01,111 >> Model config CamembertConfig {
+  "_name_or_path": "/home/viktorija/bakalaurinis/models/camembert-debiased-finetuned-pawsx",
+  "architectures": [
+    "CamembertForSequenceClassification"
+  ],
+  "attention_probs_dropout_prob": 0.1,
+  "bos_token_id": 5,
+  "classifier_dropout": null,
+  "eos_token_id": 6,
+  "finetuning_task": "mrpc",
+  "hidden_act": "gelu",
+  "hidden_dropout_prob": 0.1,
+  "hidden_size": 768,
+  "initializer_range": 0.02,
+  "intermediate_size": 3072,
+  "layer_norm_eps": 1e-05,
+  "max_position_embeddings": 514,
+  "model_type": "camembert",
+  "num_attention_heads": 12,
+  "num_hidden_layers": 12,
+  "output_hidden_states": "true",
+  "output_past": true,
+  "pad_token_id": 1,
+  "position_embedding_type": "absolute",
+  "problem_type": "single_label_classification",
+  "torch_dtype": "float32",
+  "transformers_version": "4.39.3",
+  "type_vocab_size": 1,
+  "use_cache": true,
+  "vocab_size": 32005
+}
+
+[INFO|tokenization_utils_base.py:2082] 2024-04-21 19:57:01,112 >> loading file sentencepiece.bpe.model
+[INFO|tokenization_utils_base.py:2082] 2024-04-21 19:57:01,112 >> loading file tokenizer.json
+[INFO|tokenization_utils_base.py:2082] 2024-04-21 19:57:01,112 >> loading file added_tokens.json
+[INFO|tokenization_utils_base.py:2082] 2024-04-21 19:57:01,112 >> loading file special_tokens_map.json
+[INFO|tokenization_utils_base.py:2082] 2024-04-21 19:57:01,112 >> loading file tokenizer_config.json
+[INFO|modeling_utils.py:3280] 2024-04-21 19:57:01,158 >> loading weights file /home/viktorija/bakalaurinis/models/camembert-debiased-finetuned-pawsx/model.safetensors
+[INFO|modeling_utils.py:4024] 2024-04-21 19:57:01,250 >> All model checkpoint weights were used when initializing CamembertForSequenceClassification.
+
+[INFO|modeling_utils.py:4032] 2024-04-21 19:57:01,250 >> All the weights of CamembertForSequenceClassification were initialized from the model checkpoint at /home/viktorija/bakalaurinis/models/camembert-debiased-finetuned-pawsx.
+If your task is similar to the task the model of the checkpoint was trained on, you can already use CamembertForSequenceClassification for predictions without further training.
+Loading cached processed dataset at /home/viktorija/.cache/huggingface/datasets/nyu-mll___glue/mrpc/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c/cache-6bbf64b103c7e903.arrow
+04/21/2024 19:57:01 - INFO - datasets.arrow_dataset - Loading cached processed dataset at /home/viktorija/.cache/huggingface/datasets/nyu-mll___glue/mrpc/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c/cache-6bbf64b103c7e903.arrow
+Loading cached processed dataset at /home/viktorija/.cache/huggingface/datasets/nyu-mll___glue/mrpc/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c/cache-63d5937e1d9ca2d4.arrow
+04/21/2024 19:57:01 - INFO - datasets.arrow_dataset - Loading cached processed dataset at /home/viktorija/.cache/huggingface/datasets/nyu-mll___glue/mrpc/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c/cache-63d5937e1d9ca2d4.arrow
+Loading cached processed dataset at /home/viktorija/.cache/huggingface/datasets/nyu-mll___glue/mrpc/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c/cache-99fd23b05c85b313.arrow
+04/21/2024 19:57:01 - INFO - datasets.arrow_dataset - Loading cached processed dataset at /home/viktorija/.cache/huggingface/datasets/nyu-mll___glue/mrpc/0.0.0/bcdcba79d07bc864c1c254ccfcedcce55bcc9a8c/cache-99fd23b05c85b313.arrow
+/home/viktorija/miniforge3/envs/flue/lib/python3.11/site-packages/accelerate/accelerator.py:436: FutureWarning: Passing the following arguments to `Accelerator` is deprecated and will be removed in version 1.0 of Accelerate: dict_keys(['dispatch_batches', 'split_batches', 'even_batches', 'use_seedable_sampler']). Please pass an `accelerate.DataLoaderConfiguration` instead: 
+dataloader_config = DataLoaderConfiguration(dispatch_batches=None, split_batches=False, even_batches=True, use_seedable_sampler=True)
+  warnings.warn(
+04/21/2024 19:57:02 - INFO - __main__ - *** Evaluate ***
+[INFO|trainer.py:765] 2024-04-21 19:57:02,359 >> The following columns in the evaluation set don't have a corresponding argument in `CamembertForSequenceClassification.forward` and have been ignored: idx, sentence2, sentence1. If idx, sentence2, sentence1 are not expected by `CamembertForSequenceClassification.forward`,  you can safely ignore this message.
+[INFO|trainer.py:3512] 2024-04-21 19:57:02,361 >> ***** Running Evaluation *****
+[INFO|trainer.py:3514] 2024-04-21 19:57:02,361 >>   Num examples = 408
+[INFO|trainer.py:3517] 2024-04-21 19:57:02,361 >>   Batch size = 8
+  0%|          | 0/51 [00:00<?, ?it/s]  4%|▍         | 2/51 [00:01<00:45,  1.07it/s]  6%|▌         | 3/51 [00:03<01:01,  1.28s/it]  8%|▊         | 4/51 [00:05<01:09,  1.48s/it] 10%|▉         | 5/51 [00:07<01:13,  1.59s/it] 12%|█▏        | 6/51 [00:09<01:15,  1.68s/it] 14%|█▎        | 7/51 [00:10<01:16,  1.73s/it] 16%|█▌        | 8/51 [00:12<01:16,  1.78s/it] 18%|█▊        | 9/51 [00:14<01:15,  1.81s/it] 20%|█▉        | 10/51 [00:16<01:18,  1.92s/it] 22%|██▏       | 11/51 [00:18<01:16,  1.91s/it] 24%|██▎       | 12/51 [00:20<01:15,  1.93s/it] 25%|██▌       | 13/51 [00:22<01:13,  1.94s/it] 27%|██▋       | 14/51 [00:24<01:14,  2.02s/it] 29%|██▉       | 15/51 [00:27<01:13,  2.05s/it] 31%|███▏      | 16/51 [00:29<01:12,  2.07s/it] 33%|███▎      | 17/51 [00:31<01:09,  2.04s/it] 35%|███▌      | 18/51 [00:33<01:06,  2.03s/it] 37%|███▋      | 19/51 [00:35<01:04,  2.01s/it] 39%|███▉      | 20/51 [00:37<01:02,  2.03s/it] 41%|████      | 21/51 [00:39<01:00,  2.03s/it] 43%|████▎     | 22/51 [00:41<00:59,  2.04s/it] 45%|████▌     | 23/51 [00:43<00:57,  2.06s/it] 47%|████▋     | 24/51 [00:45<00:56,  2.08s/it] 49%|████▉     | 25/51 [00:47<00:54,  2.09s/it] 51%|█████     | 26/51 [00:49<00:52,  2.11s/it] 53%|█████▎    | 27/51 [00:51<00:50,  2.12s/it] 55%|█████▍    | 28/51 [00:54<00:49,  2.15s/it] 57%|█████▋    | 29/51 [00:56<00:47,  2.16s/it] 59%|█████▉    | 30/51 [00:58<00:45,  2.18s/it] 61%|██████    | 31/51 [01:00<00:43,  2.20s/it] 63%|██████▎   | 32/51 [01:02<00:42,  2.21s/it] 65%|██████▍   | 33/51 [01:05<00:40,  2.23s/it] 67%|██████▋   | 34/51 [01:07<00:38,  2.25s/it] 69%|██████▊   | 35/51 [01:09<00:36,  2.26s/it] 71%|███████   | 36/51 [01:12<00:34,  2.29s/it] 73%|███████▎  | 37/51 [01:14<00:32,  2.31s/it] 75%|███████▍  | 38/51 [01:16<00:30,  2.32s/it] 76%|███████▋  | 39/51 [01:19<00:28,  2.34s/it] 78%|███████▊  | 40/51 [01:21<00:25,  2.35s/it] 80%|████████  | 41/51 [01:24<00:23,  2.37s/it] 82%|████████▏ | 42/51 [01:26<00:21,  2.38s/it] 84%|████████▍ | 43/51 [01:28<00:19,  2.39s/it] 86%|████████▋ | 44/51 [01:31<00:16,  2.41s/it] 88%|████████▊ | 45/51 [01:33<00:14,  2.44s/it] 90%|█████████ | 46/51 [01:36<00:12,  2.46s/it] 92%|█████████▏| 47/51 [01:38<00:09,  2.47s/it] 94%|█████████▍| 48/51 [01:41<00:07,  2.50s/it] 96%|█████████▌| 49/51 [01:44<00:05,  2.52s/it] 98%|█████████▊| 50/51 [01:46<00:02,  2.52s/it]100%|██████████| 51/51 [01:49<00:00,  2.55s/it]100%|██████████| 51/51 [01:49<00:00,  2.14s/it]
+[INFO|modelcard.py:450] 2024-04-21 19:58:53,492 >> Dropping the following result as it does not have all the necessary fields:
+{'task': {'name': 'Text Classification', 'type': 'text-classification'}, 'dataset': {'name': 'GLUE MRPC', 'type': 'glue', 'args': 'mrpc'}}
+***** eval metrics *****
+  eval_accuracy           =     0.6838
+  eval_combined_score     =      0.748
+  eval_f1                 =     0.8122
+  eval_loss               =      0.624
+  eval_runtime            = 0:01:50.98
+  eval_samples            =        408
+  eval_samples_per_second =      3.676
+  eval_steps_per_second   =       0.46

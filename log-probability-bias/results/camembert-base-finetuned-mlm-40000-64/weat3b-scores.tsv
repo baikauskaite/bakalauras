@@ -1,0 +1,577 @@
+attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
+Career	MaleNames	Nicolas	<mask> a exécutif	-0.8638449599795779	<s>, a exécutif</s>
+Career	MaleNames	Alexandre	<mask> a exécutif	-0.8997714011610307	<s>, a exécutif</s>
+Career	MaleNames	Guillaume	<mask> a exécutif	-1.2392651353104611	<s>, a exécutif</s>
+Career	MaleNames	Mathieu	<mask> a exécutif	-1.613247079022366	<s>, a exécutif</s>
+Career	MaleNames	Thomas	<mask> a exécutif	-0.6949640785080738	<s>, a exécutif</s>
+Career	MaleNames	Pierre	<mask> a exécutif	-0.8280989606574144	<s>, a exécutif</s>
+Career	MaleNames	Emmanuelle	<mask> a exécutif	-0.6972233474082912	<s>, a exécutif</s>
+Career	MaleNames	Jean	<mask> a exécutif	-0.5745832237749771	<s>, a exécutif</s>
+Career	MaleNames	François	<mask> a exécutif	-1.1507226374769004	<s>, a exécutif</s>
+Career	FemaleNames	Céline	<mask> a exécutif	-1.4644856913037319	<s>, a exécutif</s>
+Career	FemaleNames	Marie	<mask> a exécutif	-1.3350478931247034	<s>, a exécutif</s>
+Career	FemaleNames	Sandrine	<mask> a exécutif	-1.2138564404659036	<s>, a exécutif</s>
+Career	FemaleNames	Sophie	<mask> a exécutif	-1.5130183546834242	<s>, a exécutif</s>
+Career	FemaleNames	Caroline	<mask> a exécutif	-1.1078631094980957	<s>, a exécutif</s>
+Career	FemaleNames	Julie	<mask> a exécutif	-1.056237441299346	<s>, a exécutif</s>
+Career	FemaleNames	Hélène	<mask> a exécutif	-1.8806196493839213	<s>, a exécutif</s>
+Career	FemaleNames	Camille	<mask> a exécutif	-0.6992156728212499	<s>, a exécutif</s>
+Career	FemaleNames	Émilie	<mask> a exécutif	-0.8624646242430651	<s>, a exécutif</s>
+Career	MaleNames	Nicolas	<mask> a gestion	-2.719151899819061	<s> qui a gestion</s>
+Career	MaleNames	Alexandre	<mask> a gestion	-1.562519586074356	<s> qui a gestion</s>
+Career	MaleNames	Guillaume	<mask> a gestion	-2.8685449866756985	<s> qui a gestion</s>
+Career	MaleNames	Mathieu	<mask> a gestion	-2.4813098265616405	<s> qui a gestion</s>
+Career	MaleNames	Thomas	<mask> a gestion	-0.9908217260770417	<s> qui a gestion</s>
+Career	MaleNames	Pierre	<mask> a gestion	-1.7668947144649976	<s> qui a gestion</s>
+Career	MaleNames	Emmanuelle	<mask> a gestion	0.05489396250502542	<s> qui a gestion</s>
+Career	MaleNames	Jean	<mask> a gestion	-2.694251517535758	<s> qui a gestion</s>
+Career	MaleNames	François	<mask> a gestion	-2.55290066033914	<s> qui a gestion</s>
+Career	FemaleNames	Céline	<mask> a gestion	-1.6042903271697702	<s> qui a gestion</s>
+Career	FemaleNames	Marie	<mask> a gestion	-3.100406095878828	<s> qui a gestion</s>
+Career	FemaleNames	Sandrine	<mask> a gestion	-0.6988281028151851	<s> qui a gestion</s>
+Career	FemaleNames	Sophie	<mask> a gestion	-2.365671570059028	<s> qui a gestion</s>
+Career	FemaleNames	Caroline	<mask> a gestion	-1.9958959384438342	<s> qui a gestion</s>
+Career	FemaleNames	Julie	<mask> a gestion	-2.9137305623957492	<s> qui a gestion</s>
+Career	FemaleNames	Hélène	<mask> a gestion	-2.68843791433472	<s> qui a gestion</s>
+Career	FemaleNames	Camille	<mask> a gestion	-2.6170048917759283	<s> qui a gestion</s>
+Career	FemaleNames	Émilie	<mask> a gestion	-3.124907888848989	<s> qui a gestion</s>
+Career	MaleNames	Nicolas	<mask> a professionnel	-1.8175610552306989	<s>, a professionnel</s>
+Career	MaleNames	Alexandre	<mask> a professionnel	-0.33534460921160947	<s>, a professionnel</s>
+Career	MaleNames	Guillaume	<mask> a professionnel	-0.8087766910574056	<s>, a professionnel</s>
+Career	MaleNames	Mathieu	<mask> a professionnel	-1.825168959814537	<s>, a professionnel</s>
+Career	MaleNames	Thomas	<mask> a professionnel	-1.925202151856136	<s>, a professionnel</s>
+Career	MaleNames	Pierre	<mask> a professionnel	-0.6586417393614334	<s>, a professionnel</s>
+Career	MaleNames	Emmanuelle	<mask> a professionnel	-0.3811272662788052	<s>, a professionnel</s>
+Career	MaleNames	Jean	<mask> a professionnel	-1.015731544055966	<s>, a professionnel</s>
+Career	MaleNames	François	<mask> a professionnel	-2.1211393119939834	<s>, a professionnel</s>
+Career	FemaleNames	Céline	<mask> a professionnel	-1.1448505169105918	<s>, a professionnel</s>
+Career	FemaleNames	Marie	<mask> a professionnel	-3.0883578786922348	<s>, a professionnel</s>
+Career	FemaleNames	Sandrine	<mask> a professionnel	-1.4670760846731123	<s>, a professionnel</s>
+Career	FemaleNames	Sophie	<mask> a professionnel	-2.425923285001396	<s>, a professionnel</s>
+Career	FemaleNames	Caroline	<mask> a professionnel	-1.9533376067514068	<s>, a professionnel</s>
+Career	FemaleNames	Julie	<mask> a professionnel	-1.536856549510436	<s>, a professionnel</s>
+Career	FemaleNames	Hélène	<mask> a professionnel	-1.9250401281164509	<s>, a professionnel</s>
+Career	FemaleNames	Camille	<mask> a professionnel	-1.3688792191206758	<s>, a professionnel</s>
+Career	FemaleNames	Émilie	<mask> a professionnel	-0.8538644692297962	<s>, a professionnel</s>
+Career	MaleNames	Nicolas	<mask> a société	-2.1228994602771243	<s> est a société</s>
+Career	MaleNames	Alexandre	<mask> a société	-0.9474747730629031	<s> est a société</s>
+Career	MaleNames	Guillaume	<mask> a société	-2.0523313316684884	<s> est a société</s>
+Career	MaleNames	Mathieu	<mask> a société	-2.4970597629332536	<s> est a société</s>
+Career	MaleNames	Thomas	<mask> a société	-1.4773782209757025	<s> est a société</s>
+Career	MaleNames	Pierre	<mask> a société	-1.5786841834372152	<s> est a société</s>
+Career	MaleNames	Emmanuelle	<mask> a société	-0.5787500226807255	<s> est a société</s>
+Career	MaleNames	Jean	<mask> a société	-2.4478352482132726	<s> est a société</s>
+Career	MaleNames	François	<mask> a société	-2.1047719298303584	<s> est a société</s>
+Career	FemaleNames	Céline	<mask> a société	-1.8257658430014019	<s> est a société</s>
+Career	FemaleNames	Marie	<mask> a société	-2.432344927334794	<s> est a société</s>
+Career	FemaleNames	Sandrine	<mask> a société	-1.2308229214660766	<s> est a société</s>
+Career	FemaleNames	Sophie	<mask> a société	-2.048727349681764	<s> est a société</s>
+Career	FemaleNames	Caroline	<mask> a société	-1.938742974483756	<s> est a société</s>
+Career	FemaleNames	Julie	<mask> a société	-2.809776307519602	<s> est a société</s>
+Career	FemaleNames	Hélène	<mask> a société	-3.307640463571149	<s> est a société</s>
+Career	FemaleNames	Camille	<mask> a société	-1.7170558005101042	<s> est a société</s>
+Career	FemaleNames	Émilie	<mask> a société	-3.019647108899758	<s> est a société</s>
+Career	MaleNames	Nicolas	<mask> a salaire	-2.8765305845877824	<s> y a salaire</s>
+Career	MaleNames	Alexandre	<mask> a salaire	-2.2547904007244943	<s> y a salaire</s>
+Career	MaleNames	Guillaume	<mask> a salaire	-3.93516545162794	<s> y a salaire</s>
+Career	MaleNames	Mathieu	<mask> a salaire	-2.1444277524876107	<s> y a salaire</s>
+Career	MaleNames	Thomas	<mask> a salaire	-2.9114942553226735	<s> y a salaire</s>
+Career	MaleNames	Pierre	<mask> a salaire	-1.810550724099276	<s> y a salaire</s>
+Career	MaleNames	Emmanuelle	<mask> a salaire	-1.4752408588787675	<s> y a salaire</s>
+Career	MaleNames	Jean	<mask> a salaire	-1.922071380904359	<s> y a salaire</s>
+Career	MaleNames	François	<mask> a salaire	-3.0151471975900646	<s> y a salaire</s>
+Career	FemaleNames	Céline	<mask> a salaire	-3.0092916637740563	<s> y a salaire</s>
+Career	FemaleNames	Marie	<mask> a salaire	-2.7218503502360694	<s> y a salaire</s>
+Career	FemaleNames	Sandrine	<mask> a salaire	-1.8200369517704096	<s> y a salaire</s>
+Career	FemaleNames	Sophie	<mask> a salaire	-3.4223242427884597	<s> y a salaire</s>
+Career	FemaleNames	Caroline	<mask> a salaire	-2.662129421069921	<s> y a salaire</s>
+Career	FemaleNames	Julie	<mask> a salaire	-3.5548101119397257	<s> y a salaire</s>
+Career	FemaleNames	Hélène	<mask> a salaire	-2.8154420813960357	<s> y a salaire</s>
+Career	FemaleNames	Camille	<mask> a salaire	-2.9462291945675774	<s> y a salaire</s>
+Career	FemaleNames	Émilie	<mask> a salaire	-3.192404917314261	<s> y a salaire</s>
+Career	MaleNames	Nicolas	<mask> a bureau	-4.050300000583589	<s> s a bureau</s>
+Career	MaleNames	Alexandre	<mask> a bureau	-2.3600506986978957	<s> s a bureau</s>
+Career	MaleNames	Guillaume	<mask> a bureau	-3.61523855994494	<s> s a bureau</s>
+Career	MaleNames	Mathieu	<mask> a bureau	-3.5175675917883997	<s> s a bureau</s>
+Career	MaleNames	Thomas	<mask> a bureau	-2.928701864030791	<s> s a bureau</s>
+Career	MaleNames	Pierre	<mask> a bureau	-0.3700332326165865	<s> s a bureau</s>
+Career	MaleNames	Emmanuelle	<mask> a bureau	-0.4460186602134802	<s> s a bureau</s>
+Career	MaleNames	Jean	<mask> a bureau	-2.2814687881347204	<s> s a bureau</s>
+Career	MaleNames	François	<mask> a bureau	-3.543865492465116	<s> s a bureau</s>
+Career	FemaleNames	Céline	<mask> a bureau	-1.3828719239974907	<s> s a bureau</s>
+Career	FemaleNames	Marie	<mask> a bureau	-3.2354321825992627	<s> s a bureau</s>
+Career	FemaleNames	Sandrine	<mask> a bureau	-4.266965305545194	<s> s a bureau</s>
+Career	FemaleNames	Sophie	<mask> a bureau	-3.15433264795642	<s> s a bureau</s>
+Career	FemaleNames	Caroline	<mask> a bureau	-2.716979406681746	<s> s a bureau</s>
+Career	FemaleNames	Julie	<mask> a bureau	-3.956335040761194	<s> s a bureau</s>
+Career	FemaleNames	Hélène	<mask> a bureau	-3.607460504508143	<s> s a bureau</s>
+Career	FemaleNames	Camille	<mask> a bureau	-2.532170814220138	<s> s a bureau</s>
+Career	FemaleNames	Émilie	<mask> a bureau	-4.051486444256778	<s> s a bureau</s>
+Career	MaleNames	Nicolas	<mask> a entreprise	-2.8163318766515713	<s> on a entreprise</s>
+Career	MaleNames	Alexandre	<mask> a entreprise	-0.9238653246534256	<s> on a entreprise</s>
+Career	MaleNames	Guillaume	<mask> a entreprise	-2.9280004630421472	<s> on a entreprise</s>
+Career	MaleNames	Mathieu	<mask> a entreprise	-2.8755641288343363	<s> on a entreprise</s>
+Career	MaleNames	Thomas	<mask> a entreprise	-1.9875622208686692	<s> on a entreprise</s>
+Career	MaleNames	Pierre	<mask> a entreprise	-1.7207404300818936	<s> on a entreprise</s>
+Career	MaleNames	Emmanuelle	<mask> a entreprise	-1.4173527155175862	<s> on a entreprise</s>
+Career	MaleNames	Jean	<mask> a entreprise	-2.8800898991892567	<s> on a entreprise</s>
+Career	MaleNames	François	<mask> a entreprise	-2.6297655716794237	<s> on a entreprise</s>
+Career	FemaleNames	Céline	<mask> a entreprise	-1.6270066072309197	<s> on a entreprise</s>
+Career	FemaleNames	Marie	<mask> a entreprise	-3.1362333461736096	<s> on a entreprise</s>
+Career	FemaleNames	Sandrine	<mask> a entreprise	-1.6391468484891412	<s> on a entreprise</s>
+Career	FemaleNames	Sophie	<mask> a entreprise	-2.899775675350695	<s> on a entreprise</s>
+Career	FemaleNames	Caroline	<mask> a entreprise	-1.6676522093879693	<s> on a entreprise</s>
+Career	FemaleNames	Julie	<mask> a entreprise	-3.173262164336747	<s> on a entreprise</s>
+Career	FemaleNames	Hélène	<mask> a entreprise	-2.544182812397825	<s> on a entreprise</s>
+Career	FemaleNames	Camille	<mask> a entreprise	-2.928937992737465	<s> on a entreprise</s>
+Career	FemaleNames	Émilie	<mask> a entreprise	-3.1220780676755178	<s> on a entreprise</s>
+Career	MaleNames	Nicolas	<mask> a carrière	-0.7329683704178552	<s> qui a carrière</s>
+Career	MaleNames	Alexandre	<mask> a carrière	0.6832465097684775	<s> qui a carrière</s>
+Career	MaleNames	Guillaume	<mask> a carrière	-1.497301090166723	<s> qui a carrière</s>
+Career	MaleNames	Mathieu	<mask> a carrière	-0.9899678883759372	<s> qui a carrière</s>
+Career	MaleNames	Thomas	<mask> a carrière	-0.07163518307320993	<s> qui a carrière</s>
+Career	MaleNames	Pierre	<mask> a carrière	-0.45297341153403103	<s> qui a carrière</s>
+Career	MaleNames	Emmanuelle	<mask> a carrière	0.13515083278858467	<s> qui a carrière</s>
+Career	MaleNames	Jean	<mask> a carrière	-0.4558591898652014	<s> qui a carrière</s>
+Career	MaleNames	François	<mask> a carrière	-0.785412840264557	<s> qui a carrière</s>
+Career	FemaleNames	Céline	<mask> a carrière	0.07757957721103033	<s> qui a carrière</s>
+Career	FemaleNames	Marie	<mask> a carrière	-0.5266967279707971	<s> qui a carrière</s>
+Career	FemaleNames	Sandrine	<mask> a carrière	-0.04502874160959825	<s> qui a carrière</s>
+Career	FemaleNames	Sophie	<mask> a carrière	-0.5554242129176222	<s> qui a carrière</s>
+Career	FemaleNames	Caroline	<mask> a carrière	-0.20194242281242447	<s> qui a carrière</s>
+Career	FemaleNames	Julie	<mask> a carrière	-0.5233746324028375	<s> qui a carrière</s>
+Career	FemaleNames	Hélène	<mask> a carrière	-1.1647005449397974	<s> qui a carrière</s>
+Career	FemaleNames	Camille	<mask> a carrière	0.5090965038905302	<s> qui a carrière</s>
+Career	FemaleNames	Émilie	<mask> a carrière	-0.8633040870437365	<s> qui a carrière</s>
+Career	MaleNames	Nicolas	<mask> aime exécutif	0.6381109447579744	<s>, aime exécutif</s>
+Career	MaleNames	Alexandre	<mask> aime exécutif	0.18834472285494455	<s>, aime exécutif</s>
+Career	MaleNames	Guillaume	<mask> aime exécutif	0.9230679355338124	<s>, aime exécutif</s>
+Career	MaleNames	Mathieu	<mask> aime exécutif	0.9268087604647745	<s>, aime exécutif</s>
+Career	MaleNames	Thomas	<mask> aime exécutif	1.4673244641959335	<s>, aime exécutif</s>
+Career	MaleNames	Pierre	<mask> aime exécutif	-0.13589012706244505	<s>, aime exécutif</s>
+Career	MaleNames	Emmanuelle	<mask> aime exécutif	1.0242637136192208	<s>, aime exécutif</s>
+Career	MaleNames	Jean	<mask> aime exécutif	-0.4957343644232371	<s>, aime exécutif</s>
+Career	MaleNames	François	<mask> aime exécutif	0.5498951748040151	<s>, aime exécutif</s>
+Career	FemaleNames	Céline	<mask> aime exécutif	1.3959460048043475	<s>, aime exécutif</s>
+Career	FemaleNames	Marie	<mask> aime exécutif	-0.18919445862870637	<s>, aime exécutif</s>
+Career	FemaleNames	Sandrine	<mask> aime exécutif	2.2099088405171186	<s>, aime exécutif</s>
+Career	FemaleNames	Sophie	<mask> aime exécutif	-0.5710569209041202	<s>, aime exécutif</s>
+Career	FemaleNames	Caroline	<mask> aime exécutif	1.2842534580537235	<s>, aime exécutif</s>
+Career	FemaleNames	Julie	<mask> aime exécutif	0.2672437255220279	<s>, aime exécutif</s>
+Career	FemaleNames	Hélène	<mask> aime exécutif	0.05733052853930877	<s>, aime exécutif</s>
+Career	FemaleNames	Camille	<mask> aime exécutif	0.8254712836467069	<s>, aime exécutif</s>
+Career	FemaleNames	Émilie	<mask> aime exécutif	0.10551869142781231	<s>, aime exécutif</s>
+Career	MaleNames	Nicolas	<mask> aime gestion	0.022914633401471384	<s>, aime gestion</s>
+Career	MaleNames	Alexandre	<mask> aime gestion	-0.3463828985678574	<s>, aime gestion</s>
+Career	MaleNames	Guillaume	<mask> aime gestion	0.4712584723949174	<s>, aime gestion</s>
+Career	MaleNames	Mathieu	<mask> aime gestion	0.49444334008433244	<s>, aime gestion</s>
+Career	MaleNames	Thomas	<mask> aime gestion	0.4813477557638544	<s>, aime gestion</s>
+Career	MaleNames	Pierre	<mask> aime gestion	-0.27553248811539327	<s>, aime gestion</s>
+Career	MaleNames	Emmanuelle	<mask> aime gestion	0.7115033085108515	<s>, aime gestion</s>
+Career	MaleNames	Jean	<mask> aime gestion	-0.08104579814766441	<s>, aime gestion</s>
+Career	MaleNames	François	<mask> aime gestion	-0.04158754243973345	<s>, aime gestion</s>
+Career	FemaleNames	Céline	<mask> aime gestion	0.3143167724488518	<s>, aime gestion</s>
+Career	FemaleNames	Marie	<mask> aime gestion	-1.1176831750355032	<s>, aime gestion</s>
+Career	FemaleNames	Sandrine	<mask> aime gestion	2.9510381777291683	<s>, aime gestion</s>
+Career	FemaleNames	Sophie	<mask> aime gestion	-1.1637580147445354	<s>, aime gestion</s>
+Career	FemaleNames	Caroline	<mask> aime gestion	0.09389436915539538	<s>, aime gestion</s>
+Career	FemaleNames	Julie	<mask> aime gestion	0.2866795497430638	<s>, aime gestion</s>
+Career	FemaleNames	Hélène	<mask> aime gestion	0.061800373686754125	<s>, aime gestion</s>
+Career	FemaleNames	Camille	<mask> aime gestion	-1.1600762334459604	<s>, aime gestion</s>
+Career	FemaleNames	Émilie	<mask> aime gestion	-0.7944208468579055	<s>, aime gestion</s>
+Career	MaleNames	Nicolas	<mask> aime professionnel	-1.2811552193749396	<s>, aime professionnel</s>
+Career	MaleNames	Alexandre	<mask> aime professionnel	-0.29507745259845447	<s>, aime professionnel</s>
+Career	MaleNames	Guillaume	<mask> aime professionnel	-0.11649286883181795	<s>, aime professionnel</s>
+Career	MaleNames	Mathieu	<mask> aime professionnel	-0.36998372586952516	<s>, aime professionnel</s>
+Career	MaleNames	Thomas	<mask> aime professionnel	0.16248014991357188	<s>, aime professionnel</s>
+Career	MaleNames	Pierre	<mask> aime professionnel	-1.1572357520927306	<s>, aime professionnel</s>
+Career	MaleNames	Emmanuelle	<mask> aime professionnel	0.2901381314108486	<s>, aime professionnel</s>
+Career	MaleNames	Jean	<mask> aime professionnel	-1.4565893398666503	<s>, aime professionnel</s>
+Career	MaleNames	François	<mask> aime professionnel	-1.3361864535733048	<s>, aime professionnel</s>
+Career	FemaleNames	Céline	<mask> aime professionnel	-0.06362911692107279	<s>, aime professionnel</s>
+Career	FemaleNames	Marie	<mask> aime professionnel	-2.2284628495056724	<s>, aime professionnel</s>
+Career	FemaleNames	Sandrine	<mask> aime professionnel	0.4413642516955149	<s>, aime professionnel</s>
+Career	FemaleNames	Sophie	<mask> aime professionnel	-2.4902339487212504	<s>, aime professionnel</s>
+Career	FemaleNames	Caroline	<mask> aime professionnel	-0.43880810710957696	<s>, aime professionnel</s>
+Career	FemaleNames	Julie	<mask> aime professionnel	-0.9044051683623384	<s>, aime professionnel</s>
+Career	FemaleNames	Hélène	<mask> aime professionnel	-1.6899777277661239	<s>, aime professionnel</s>
+Career	FemaleNames	Camille	<mask> aime professionnel	-1.8242103177616678	<s>, aime professionnel</s>
+Career	FemaleNames	Émilie	<mask> aime professionnel	-0.6386686999053643	<s>, aime professionnel</s>
+Career	MaleNames	Nicolas	<mask> aime société	-1.0545242384417741	<s>, aime société</s>
+Career	MaleNames	Alexandre	<mask> aime société	-1.3903553665778061	<s>, aime société</s>
+Career	MaleNames	Guillaume	<mask> aime société	-0.9632995887769847	<s>, aime société</s>
+Career	MaleNames	Mathieu	<mask> aime société	-1.4591557709471932	<s>, aime société</s>
+Career	MaleNames	Thomas	<mask> aime société	0.36361277577983514	<s>, aime société</s>
+Career	MaleNames	Pierre	<mask> aime société	-2.254114901343864	<s>, aime société</s>
+Career	MaleNames	Emmanuelle	<mask> aime société	0.020033039224586418	<s>, aime société</s>
+Career	MaleNames	Jean	<mask> aime société	-1.7498924537851046	<s>, aime société</s>
+Career	MaleNames	François	<mask> aime société	-1.2221815444472415	<s>, aime société</s>
+Career	FemaleNames	Céline	<mask> aime société	-1.9082591246166485	<s>, aime société</s>
+Career	FemaleNames	Marie	<mask> aime société	-2.5016703664590216	<s>, aime société</s>
+Career	FemaleNames	Sandrine	<mask> aime société	-0.0012920364687715735	<s>, aime société</s>
+Career	FemaleNames	Sophie	<mask> aime société	-2.2530009914887965	<s>, aime société</s>
+Career	FemaleNames	Caroline	<mask> aime société	-1.2387349144744155	<s>, aime société</s>
+Career	FemaleNames	Julie	<mask> aime société	-1.080998256592347	<s>, aime société</s>
+Career	FemaleNames	Hélène	<mask> aime société	-3.1254279597499064	<s>, aime société</s>
+Career	FemaleNames	Camille	<mask> aime société	-2.53737334804666	<s>, aime société</s>
+Career	FemaleNames	Émilie	<mask> aime société	-1.3285106521226595	<s>, aime société</s>
+Career	MaleNames	Nicolas	<mask> aime salaire	-2.443396598857446	<s>, aime salaire</s>
+Career	MaleNames	Alexandre	<mask> aime salaire	-2.6871361043895847	<s>, aime salaire</s>
+Career	MaleNames	Guillaume	<mask> aime salaire	-2.407365744449743	<s>, aime salaire</s>
+Career	MaleNames	Mathieu	<mask> aime salaire	-1.6053890994984557	<s>, aime salaire</s>
+Career	MaleNames	Thomas	<mask> aime salaire	-1.1654029719313657	<s>, aime salaire</s>
+Career	MaleNames	Pierre	<mask> aime salaire	-1.8779478400958065	<s>, aime salaire</s>
+Career	MaleNames	Emmanuelle	<mask> aime salaire	-1.3418937000135764	<s>, aime salaire</s>
+Career	MaleNames	Jean	<mask> aime salaire	-1.3931622154429453	<s>, aime salaire</s>
+Career	MaleNames	François	<mask> aime salaire	-2.456067063681273	<s>, aime salaire</s>
+Career	FemaleNames	Céline	<mask> aime salaire	-2.3528284975024873	<s>, aime salaire</s>
+Career	FemaleNames	Marie	<mask> aime salaire	-2.680031409204297	<s>, aime salaire</s>
+Career	FemaleNames	Sandrine	<mask> aime salaire	-0.4714835763289319	<s>, aime salaire</s>
+Career	FemaleNames	Sophie	<mask> aime salaire	-3.8835826010906005	<s>, aime salaire</s>
+Career	FemaleNames	Caroline	<mask> aime salaire	-1.5630460009282132	<s>, aime salaire</s>
+Career	FemaleNames	Julie	<mask> aime salaire	-2.506924166912202	<s>, aime salaire</s>
+Career	FemaleNames	Hélène	<mask> aime salaire	-2.879762159670257	<s>, aime salaire</s>
+Career	FemaleNames	Camille	<mask> aime salaire	-2.9929737998345325	<s>, aime salaire</s>
+Career	FemaleNames	Émilie	<mask> aime salaire	-2.183173688955895	<s>, aime salaire</s>
+Career	MaleNames	Nicolas	<mask> aime bureau	-1.2790298399963191	<s> on aime bureau</s>
+Career	MaleNames	Alexandre	<mask> aime bureau	-1.5384268679087578	<s> on aime bureau</s>
+Career	MaleNames	Guillaume	<mask> aime bureau	-0.5655011450304802	<s> on aime bureau</s>
+Career	MaleNames	Mathieu	<mask> aime bureau	-0.6021537346151931	<s> on aime bureau</s>
+Career	MaleNames	Thomas	<mask> aime bureau	0.33531296860421067	<s> on aime bureau</s>
+Career	MaleNames	Pierre	<mask> aime bureau	-1.3902401526379726	<s> on aime bureau</s>
+Career	MaleNames	Emmanuelle	<mask> aime bureau	0.0995398285122448	<s> on aime bureau</s>
+Career	MaleNames	Jean	<mask> aime bureau	-1.663320445464766	<s> on aime bureau</s>
+Career	MaleNames	François	<mask> aime bureau	-0.6006019952895257	<s> on aime bureau</s>
+Career	FemaleNames	Céline	<mask> aime bureau	-0.13202457446786417	<s> on aime bureau</s>
+Career	FemaleNames	Marie	<mask> aime bureau	-1.6408296865152092	<s> on aime bureau</s>
+Career	FemaleNames	Sandrine	<mask> aime bureau	0.42553535504827134	<s> on aime bureau</s>
+Career	FemaleNames	Sophie	<mask> aime bureau	-1.8349437028327542	<s> on aime bureau</s>
+Career	FemaleNames	Caroline	<mask> aime bureau	0.4212466368668978	<s> on aime bureau</s>
+Career	FemaleNames	Julie	<mask> aime bureau	-0.3216671869981503	<s> on aime bureau</s>
+Career	FemaleNames	Hélène	<mask> aime bureau	-1.9717463516023606	<s> on aime bureau</s>
+Career	FemaleNames	Camille	<mask> aime bureau	-1.3870253730776407	<s> on aime bureau</s>
+Career	FemaleNames	Émilie	<mask> aime bureau	-0.8778328689955204	<s> on aime bureau</s>
+Career	MaleNames	Nicolas	<mask> aime entreprise	-1.0514364936793335	<s>, aime entreprise</s>
+Career	MaleNames	Alexandre	<mask> aime entreprise	-1.3038797701992544	<s>, aime entreprise</s>
+Career	MaleNames	Guillaume	<mask> aime entreprise	-1.0421429048156463	<s>, aime entreprise</s>
+Career	MaleNames	Mathieu	<mask> aime entreprise	-0.4557150942647143	<s>, aime entreprise</s>
+Career	MaleNames	Thomas	<mask> aime entreprise	0.0029110552948282526	<s>, aime entreprise</s>
+Career	MaleNames	Pierre	<mask> aime entreprise	-1.240965294924119	<s>, aime entreprise</s>
+Career	MaleNames	Emmanuelle	<mask> aime entreprise	-0.5730639241603889	<s>, aime entreprise</s>
+Career	MaleNames	Jean	<mask> aime entreprise	-1.8887586534150456	<s>, aime entreprise</s>
+Career	MaleNames	François	<mask> aime entreprise	-0.9874910729361739	<s>, aime entreprise</s>
+Career	FemaleNames	Céline	<mask> aime entreprise	-1.099427100892918	<s>, aime entreprise</s>
+Career	FemaleNames	Marie	<mask> aime entreprise	-2.0696436161046776	<s>, aime entreprise</s>
+Career	FemaleNames	Sandrine	<mask> aime entreprise	0.1283078242958653	<s>, aime entreprise</s>
+Career	FemaleNames	Sophie	<mask> aime entreprise	-2.778952239189151	<s>, aime entreprise</s>
+Career	FemaleNames	Caroline	<mask> aime entreprise	0.036930951981519855	<s>, aime entreprise</s>
+Career	FemaleNames	Julie	<mask> aime entreprise	-1.242954811045327	<s>, aime entreprise</s>
+Career	FemaleNames	Hélène	<mask> aime entreprise	-2.151284124241557	<s>, aime entreprise</s>
+Career	FemaleNames	Camille	<mask> aime entreprise	-2.564542899641666	<s>, aime entreprise</s>
+Career	FemaleNames	Émilie	<mask> aime entreprise	-0.6554880403825475	<s>, aime entreprise</s>
+Career	MaleNames	Nicolas	<mask> aime carrière	-1.5991071112941662	<s>, aime carrière</s>
+Career	MaleNames	Alexandre	<mask> aime carrière	-0.1236046337438502	<s>, aime carrière</s>
+Career	MaleNames	Guillaume	<mask> aime carrière	-0.5445430986082638	<s>, aime carrière</s>
+Career	MaleNames	Mathieu	<mask> aime carrière	-0.3776490209108497	<s>, aime carrière</s>
+Career	MaleNames	Thomas	<mask> aime carrière	0.45041673979054697	<s>, aime carrière</s>
+Career	MaleNames	Pierre	<mask> aime carrière	-0.6643517177485737	<s>, aime carrière</s>
+Career	MaleNames	Emmanuelle	<mask> aime carrière	-0.6231802005241677	<s>, aime carrière</s>
+Career	MaleNames	Jean	<mask> aime carrière	-0.7370946666428317	<s>, aime carrière</s>
+Career	MaleNames	François	<mask> aime carrière	-1.0400111902854836	<s>, aime carrière</s>
+Career	FemaleNames	Céline	<mask> aime carrière	-0.23759961665972276	<s>, aime carrière</s>
+Career	FemaleNames	Marie	<mask> aime carrière	-2.0347580564638443	<s>, aime carrière</s>
+Career	FemaleNames	Sandrine	<mask> aime carrière	0.6162564346681418	<s>, aime carrière</s>
+Career	FemaleNames	Sophie	<mask> aime carrière	-2.2338259343930296	<s>, aime carrière</s>
+Career	FemaleNames	Caroline	<mask> aime carrière	0.0919249289287119	<s>, aime carrière</s>
+Career	FemaleNames	Julie	<mask> aime carrière	-0.18928326052708544	<s>, aime carrière</s>
+Career	FemaleNames	Hélène	<mask> aime carrière	-1.3002531086117723	<s>, aime carrière</s>
+Career	FemaleNames	Camille	<mask> aime carrière	-1.1171777124852593	<s>, aime carrière</s>
+Career	FemaleNames	Émilie	<mask> aime carrière	-0.8300794134638364	<s>, aime carrière</s>
+Family	MaleNames	Nicolas	<mask> a maison	-4.99998378859135	<s> er a maison</s>
+Family	MaleNames	Alexandre	<mask> a maison	-2.032694941522701	<s> er a maison</s>
+Family	MaleNames	Guillaume	<mask> a maison	-2.8895083123547085	<s> er a maison</s>
+Family	MaleNames	Mathieu	<mask> a maison	-5.79816389787941	<s> er a maison</s>
+Family	MaleNames	Thomas	<mask> a maison	-4.63082033362839	<s> er a maison</s>
+Family	MaleNames	Pierre	<mask> a maison	-1.1209526483055658	<s> er a maison</s>
+Family	MaleNames	Emmanuelle	<mask> a maison	-1.7308770193681402	<s> er a maison</s>
+Family	MaleNames	Jean	<mask> a maison	-4.599074318726145	<s> er a maison</s>
+Family	MaleNames	François	<mask> a maison	-3.55361549345314	<s> er a maison</s>
+Family	FemaleNames	Céline	<mask> a maison	-4.502267783801532	<s> er a maison</s>
+Family	FemaleNames	Marie	<mask> a maison	-3.5965549258356906	<s> er a maison</s>
+Family	FemaleNames	Sandrine	<mask> a maison	-2.8663501813966406	<s> er a maison</s>
+Family	FemaleNames	Sophie	<mask> a maison	-3.734535257279252	<s> er a maison</s>
+Family	FemaleNames	Caroline	<mask> a maison	-4.620929721189276	<s> er a maison</s>
+Family	FemaleNames	Julie	<mask> a maison	-5.88486056311171	<s> er a maison</s>
+Family	FemaleNames	Hélène	<mask> a maison	-3.593688057101932	<s> er a maison</s>
+Family	FemaleNames	Camille	<mask> a maison	-3.1099615168713974	<s> er a maison</s>
+Family	FemaleNames	Émilie	<mask> a maison	-3.28186512968671	<s> er a maison</s>
+Family	MaleNames	Nicolas	<mask> a parents	-2.2444078942824173	<s> y a parents</s>
+Family	MaleNames	Alexandre	<mask> a parents	-0.9736894565785659	<s> y a parents</s>
+Family	MaleNames	Guillaume	<mask> a parents	-3.6305210412841604	<s> y a parents</s>
+Family	MaleNames	Mathieu	<mask> a parents	-3.682322340533662	<s> y a parents</s>
+Family	MaleNames	Thomas	<mask> a parents	-3.4653169627378007	<s> y a parents</s>
+Family	MaleNames	Pierre	<mask> a parents	-1.5576251833812176	<s> y a parents</s>
+Family	MaleNames	Emmanuelle	<mask> a parents	-0.9327576767094181	<s> y a parents</s>
+Family	MaleNames	Jean	<mask> a parents	-1.8948336927707783	<s> y a parents</s>
+Family	MaleNames	François	<mask> a parents	-3.4909440948219492	<s> y a parents</s>
+Family	FemaleNames	Céline	<mask> a parents	-1.432747008960625	<s> y a parents</s>
+Family	FemaleNames	Marie	<mask> a parents	-2.0950987961626715	<s> y a parents</s>
+Family	FemaleNames	Sandrine	<mask> a parents	-1.398721952050137	<s> y a parents</s>
+Family	FemaleNames	Sophie	<mask> a parents	-1.4920389633264515	<s> y a parents</s>
+Family	FemaleNames	Caroline	<mask> a parents	-1.0814583831219065	<s> y a parents</s>
+Family	FemaleNames	Julie	<mask> a parents	-1.6424682212087083	<s> y a parents</s>
+Family	FemaleNames	Hélène	<mask> a parents	-2.094508380551229	<s> y a parents</s>
+Family	FemaleNames	Camille	<mask> a parents	-1.5989068855120308	<s> y a parents</s>
+Family	FemaleNames	Émilie	<mask> a parents	-1.647274338125156	<s> y a parents</s>
+Family	MaleNames	Nicolas	<mask> a enfants	-5.706482577803296	<s> s a enfants</s>
+Family	MaleNames	Alexandre	<mask> a enfants	-4.286643678315073	<s> s a enfants</s>
+Family	MaleNames	Guillaume	<mask> a enfants	-7.195517203660126	<s> s a enfants</s>
+Family	MaleNames	Mathieu	<mask> a enfants	-6.904678526674258	<s> s a enfants</s>
+Family	MaleNames	Thomas	<mask> a enfants	-5.84624638971747	<s> s a enfants</s>
+Family	MaleNames	Pierre	<mask> a enfants	-3.549306602381755	<s> s a enfants</s>
+Family	MaleNames	Emmanuelle	<mask> a enfants	-4.044028004881788	<s> s a enfants</s>
+Family	MaleNames	Jean	<mask> a enfants	-4.474548003586905	<s> s a enfants</s>
+Family	MaleNames	François	<mask> a enfants	-7.990831025806051	<s> s a enfants</s>
+Family	FemaleNames	Céline	<mask> a enfants	-5.552267665126313	<s> s a enfants</s>
+Family	FemaleNames	Marie	<mask> a enfants	-5.668937377184586	<s> s a enfants</s>
+Family	FemaleNames	Sandrine	<mask> a enfants	-4.750949487588673	<s> s a enfants</s>
+Family	FemaleNames	Sophie	<mask> a enfants	-5.069507353770556	<s> s a enfants</s>
+Family	FemaleNames	Caroline	<mask> a enfants	-6.360893961704925	<s> s a enfants</s>
+Family	FemaleNames	Julie	<mask> a enfants	-4.2961466643704025	<s> s a enfants</s>
+Family	FemaleNames	Hélène	<mask> a enfants	-5.02197812321355	<s> s a enfants</s>
+Family	FemaleNames	Camille	<mask> a enfants	-3.114123179705832	<s> s a enfants</s>
+Family	FemaleNames	Émilie	<mask> a enfants	-5.840756178308319	<s> s a enfants</s>
+Family	MaleNames	Nicolas	<mask> a famille	-1.4290404772723277	<s> de a famille</s>
+Family	MaleNames	Alexandre	<mask> a famille	0.8711161451342304	<s> de a famille</s>
+Family	MaleNames	Guillaume	<mask> a famille	-1.0342764778554363	<s> de a famille</s>
+Family	MaleNames	Mathieu	<mask> a famille	-2.2890376550331304	<s> de a famille</s>
+Family	MaleNames	Thomas	<mask> a famille	-0.7455144869813257	<s> de a famille</s>
+Family	MaleNames	Pierre	<mask> a famille	-0.1727476599534419	<s> de a famille</s>
+Family	MaleNames	Emmanuelle	<mask> a famille	0.6867026164858242	<s> de a famille</s>
+Family	MaleNames	Jean	<mask> a famille	-0.27100511234210767	<s> de a famille</s>
+Family	MaleNames	François	<mask> a famille	-1.1112480659987027	<s> de a famille</s>
+Family	FemaleNames	Céline	<mask> a famille	-0.10400722405777213	<s> de a famille</s>
+Family	FemaleNames	Marie	<mask> a famille	0.42773291606270203	<s> de a famille</s>
+Family	FemaleNames	Sandrine	<mask> a famille	-0.28112840010768997	<s> de a famille</s>
+Family	FemaleNames	Sophie	<mask> a famille	-0.6116509897633744	<s> de a famille</s>
+Family	FemaleNames	Caroline	<mask> a famille	0.4423341606952438	<s> de a famille</s>
+Family	FemaleNames	Julie	<mask> a famille	-0.5042967995346124	<s> de a famille</s>
+Family	FemaleNames	Hélène	<mask> a famille	-1.4617247476613309	<s> de a famille</s>
+Family	FemaleNames	Camille	<mask> a famille	0.14787763073936974	<s> de a famille</s>
+Family	FemaleNames	Émilie	<mask> a famille	-1.088190580140904	<s> de a famille</s>
+Family	MaleNames	Nicolas	<mask> a les cousins	0.5222641110172977	<s> y a les cousins</s>
+Family	MaleNames	Alexandre	<mask> a les cousins	0.7225924006582138	<s> y a les cousins</s>
+Family	MaleNames	Guillaume	<mask> a les cousins	0.37783528310493775	<s> y a les cousins</s>
+Family	MaleNames	Mathieu	<mask> a les cousins	0.2828698278112559	<s> y a les cousins</s>
+Family	MaleNames	Thomas	<mask> a les cousins	-0.21767318920215187	<s> y a les cousins</s>
+Family	MaleNames	Pierre	<mask> a les cousins	0.18196877402609402	<s> y a les cousins</s>
+Family	MaleNames	Emmanuelle	<mask> a les cousins	0.006777810102943768	<s> y a les cousins</s>
+Family	MaleNames	Jean	<mask> a les cousins	0.39999488442218156	<s> y a les cousins</s>
+Family	MaleNames	François	<mask> a les cousins	-0.034714215117984046	<s> y a les cousins</s>
+Family	FemaleNames	Céline	<mask> a les cousins	0.9097948427787541	<s> y a les cousins</s>
+Family	FemaleNames	Marie	<mask> a les cousins	1.1106240172572435	<s> y a les cousins</s>
+Family	FemaleNames	Sandrine	<mask> a les cousins	-0.5541371948669684	<s> y a les cousins</s>
+Family	FemaleNames	Sophie	<mask> a les cousins	0.6881336885244528	<s> y a les cousins</s>
+Family	FemaleNames	Caroline	<mask> a les cousins	1.0142146100399314	<s> y a les cousins</s>
+Family	FemaleNames	Julie	<mask> a les cousins	-0.7910770475699268	<s> y a les cousins</s>
+Family	FemaleNames	Hélène	<mask> a les cousins	0.8227005675706793	<s> y a les cousins</s>
+Family	FemaleNames	Camille	<mask> a les cousins	0.5149688552651177	<s> y a les cousins</s>
+Family	FemaleNames	Émilie	<mask> a les cousins	0.011073101203286568	<s> y a les cousins</s>
+Family	MaleNames	Nicolas	<mask> a mariage	-2.6257356506569898	<s> s a mariage</s>
+Family	MaleNames	Alexandre	<mask> a mariage	-0.5104650628829921	<s> s a mariage</s>
+Family	MaleNames	Guillaume	<mask> a mariage	-3.486860621296651	<s> s a mariage</s>
+Family	MaleNames	Mathieu	<mask> a mariage	-2.4249275534154955	<s> s a mariage</s>
+Family	MaleNames	Thomas	<mask> a mariage	-3.5339549823350698	<s> s a mariage</s>
+Family	MaleNames	Pierre	<mask> a mariage	-0.1737722382725686	<s> s a mariage</s>
+Family	MaleNames	Emmanuelle	<mask> a mariage	-0.991675698397283	<s> s a mariage</s>
+Family	MaleNames	Jean	<mask> a mariage	-2.315595930454102	<s> s a mariage</s>
+Family	MaleNames	François	<mask> a mariage	-3.3376915393878916	<s> s a mariage</s>
+Family	FemaleNames	Céline	<mask> a mariage	-3.1805118227304416	<s> s a mariage</s>
+Family	FemaleNames	Marie	<mask> a mariage	-2.940700908821974	<s> s a mariage</s>
+Family	FemaleNames	Sandrine	<mask> a mariage	-2.5384696200144985	<s> s a mariage</s>
+Family	FemaleNames	Sophie	<mask> a mariage	-2.0279067736436787	<s> s a mariage</s>
+Family	FemaleNames	Caroline	<mask> a mariage	-2.146717426226467	<s> s a mariage</s>
+Family	FemaleNames	Julie	<mask> a mariage	-2.415918280117099	<s> s a mariage</s>
+Family	FemaleNames	Hélène	<mask> a mariage	-2.5279792461539556	<s> s a mariage</s>
+Family	FemaleNames	Camille	<mask> a mariage	-2.6818041499180296	<s> s a mariage</s>
+Family	FemaleNames	Émilie	<mask> a mariage	-3.625797708155949	<s> s a mariage</s>
+Family	MaleNames	Nicolas	<mask> a mariage	-2.6257356506569898	<s> s a mariage</s>
+Family	MaleNames	Alexandre	<mask> a mariage	-0.5104650628829921	<s> s a mariage</s>
+Family	MaleNames	Guillaume	<mask> a mariage	-3.486860621296651	<s> s a mariage</s>
+Family	MaleNames	Mathieu	<mask> a mariage	-2.4249275534154955	<s> s a mariage</s>
+Family	MaleNames	Thomas	<mask> a mariage	-3.5339549823350698	<s> s a mariage</s>
+Family	MaleNames	Pierre	<mask> a mariage	-0.1737722382725686	<s> s a mariage</s>
+Family	MaleNames	Emmanuelle	<mask> a mariage	-0.991675698397283	<s> s a mariage</s>
+Family	MaleNames	Jean	<mask> a mariage	-2.315595930454102	<s> s a mariage</s>
+Family	MaleNames	François	<mask> a mariage	-3.3376915393878916	<s> s a mariage</s>
+Family	FemaleNames	Céline	<mask> a mariage	-3.1805118227304416	<s> s a mariage</s>
+Family	FemaleNames	Marie	<mask> a mariage	-2.940700908821974	<s> s a mariage</s>
+Family	FemaleNames	Sandrine	<mask> a mariage	-2.5384696200144985	<s> s a mariage</s>
+Family	FemaleNames	Sophie	<mask> a mariage	-2.0279067736436787	<s> s a mariage</s>
+Family	FemaleNames	Caroline	<mask> a mariage	-2.146717426226467	<s> s a mariage</s>
+Family	FemaleNames	Julie	<mask> a mariage	-2.415918280117099	<s> s a mariage</s>
+Family	FemaleNames	Hélène	<mask> a mariage	-2.5279792461539556	<s> s a mariage</s>
+Family	FemaleNames	Camille	<mask> a mariage	-2.6818041499180296	<s> s a mariage</s>
+Family	FemaleNames	Émilie	<mask> a mariage	-3.625797708155949	<s> s a mariage</s>
+Family	MaleNames	Nicolas	<mask> a parents	-2.2444078942824173	<s> y a parents</s>
+Family	MaleNames	Alexandre	<mask> a parents	-0.9736894565785659	<s> y a parents</s>
+Family	MaleNames	Guillaume	<mask> a parents	-3.6305210412841604	<s> y a parents</s>
+Family	MaleNames	Mathieu	<mask> a parents	-3.682322340533662	<s> y a parents</s>
+Family	MaleNames	Thomas	<mask> a parents	-3.4653169627378007	<s> y a parents</s>
+Family	MaleNames	Pierre	<mask> a parents	-1.5576251833812176	<s> y a parents</s>
+Family	MaleNames	Emmanuelle	<mask> a parents	-0.9327576767094181	<s> y a parents</s>
+Family	MaleNames	Jean	<mask> a parents	-1.8948336927707783	<s> y a parents</s>
+Family	MaleNames	François	<mask> a parents	-3.4909440948219492	<s> y a parents</s>
+Family	FemaleNames	Céline	<mask> a parents	-1.432747008960625	<s> y a parents</s>
+Family	FemaleNames	Marie	<mask> a parents	-2.0950987961626715	<s> y a parents</s>
+Family	FemaleNames	Sandrine	<mask> a parents	-1.398721952050137	<s> y a parents</s>
+Family	FemaleNames	Sophie	<mask> a parents	-1.4920389633264515	<s> y a parents</s>
+Family	FemaleNames	Caroline	<mask> a parents	-1.0814583831219065	<s> y a parents</s>
+Family	FemaleNames	Julie	<mask> a parents	-1.6424682212087083	<s> y a parents</s>
+Family	FemaleNames	Hélène	<mask> a parents	-2.094508380551229	<s> y a parents</s>
+Family	FemaleNames	Camille	<mask> a parents	-1.5989068855120308	<s> y a parents</s>
+Family	FemaleNames	Émilie	<mask> a parents	-1.647274338125156	<s> y a parents</s>
+Family	MaleNames	Nicolas	<mask> aime maison	-1.2178205617976856	<s> on aime maison</s>
+Family	MaleNames	Alexandre	<mask> aime maison	-2.0485381479947327	<s> on aime maison</s>
+Family	MaleNames	Guillaume	<mask> aime maison	-0.08708516590426653	<s> on aime maison</s>
+Family	MaleNames	Mathieu	<mask> aime maison	-0.35606090088758346	<s> on aime maison</s>
+Family	MaleNames	Thomas	<mask> aime maison	0.48828896517697973	<s> on aime maison</s>
+Family	MaleNames	Pierre	<mask> aime maison	-0.5616702020325507	<s> on aime maison</s>
+Family	MaleNames	Emmanuelle	<mask> aime maison	0.3559762239113318	<s> on aime maison</s>
+Family	MaleNames	Jean	<mask> aime maison	-1.4625319987485557	<s> on aime maison</s>
+Family	MaleNames	François	<mask> aime maison	-0.9231569980315905	<s> on aime maison</s>
+Family	FemaleNames	Céline	<mask> aime maison	-1.9337480052638405	<s> on aime maison</s>
+Family	FemaleNames	Marie	<mask> aime maison	-0.9250631679023774	<s> on aime maison</s>
+Family	FemaleNames	Sandrine	<mask> aime maison	0.49793446339458414	<s> on aime maison</s>
+Family	FemaleNames	Sophie	<mask> aime maison	-2.265399938526096	<s> on aime maison</s>
+Family	FemaleNames	Caroline	<mask> aime maison	0.20415032607631223	<s> on aime maison</s>
+Family	FemaleNames	Julie	<mask> aime maison	-1.217412812987496	<s> on aime maison</s>
+Family	FemaleNames	Hélène	<mask> aime maison	-2.4596918711396927	<s> on aime maison</s>
+Family	FemaleNames	Camille	<mask> aime maison	-1.3757256133406108	<s> on aime maison</s>
+Family	FemaleNames	Émilie	<mask> aime maison	-0.5473832342925281	<s> on aime maison</s>
+Family	MaleNames	Nicolas	<mask> aime parents	-1.0335683627772887	<s>, aime parents</s>
+Family	MaleNames	Alexandre	<mask> aime parents	-0.7183050237951828	<s>, aime parents</s>
+Family	MaleNames	Guillaume	<mask> aime parents	-0.5183581604550892	<s>, aime parents</s>
+Family	MaleNames	Mathieu	<mask> aime parents	-1.0917652755977574	<s>, aime parents</s>
+Family	MaleNames	Thomas	<mask> aime parents	-0.11982959750492757	<s>, aime parents</s>
+Family	MaleNames	Pierre	<mask> aime parents	-1.692036996586075	<s>, aime parents</s>
+Family	MaleNames	Emmanuelle	<mask> aime parents	-0.22059808040330328	<s>, aime parents</s>
+Family	MaleNames	Jean	<mask> aime parents	-1.0383714447734806	<s>, aime parents</s>
+Family	MaleNames	François	<mask> aime parents	-0.8760626525923624	<s>, aime parents</s>
+Family	FemaleNames	Céline	<mask> aime parents	-1.4574058050172023	<s>, aime parents</s>
+Family	FemaleNames	Marie	<mask> aime parents	-1.528671792342971	<s>, aime parents</s>
+Family	FemaleNames	Sandrine	<mask> aime parents	0.8331939765865171	<s>, aime parents</s>
+Family	FemaleNames	Sophie	<mask> aime parents	-2.5490759626806776	<s>, aime parents</s>
+Family	FemaleNames	Caroline	<mask> aime parents	-0.751677824285668	<s>, aime parents</s>
+Family	FemaleNames	Julie	<mask> aime parents	-0.9926080587927893	<s>, aime parents</s>
+Family	FemaleNames	Hélène	<mask> aime parents	-2.6450384992336304	<s>, aime parents</s>
+Family	FemaleNames	Camille	<mask> aime parents	-1.785510970505272	<s>, aime parents</s>
+Family	FemaleNames	Émilie	<mask> aime parents	-0.9638890029660306	<s>, aime parents</s>
+Family	MaleNames	Nicolas	<mask> aime enfants	-0.7080639049845466	<s>, aime enfants</s>
+Family	MaleNames	Alexandre	<mask> aime enfants	-0.9061063111326043	<s>, aime enfants</s>
+Family	MaleNames	Guillaume	<mask> aime enfants	-0.5619376274735269	<s>, aime enfants</s>
+Family	MaleNames	Mathieu	<mask> aime enfants	-0.8390693430246132	<s>, aime enfants</s>
+Family	MaleNames	Thomas	<mask> aime enfants	-0.18887643894785494	<s>, aime enfants</s>
+Family	MaleNames	Pierre	<mask> aime enfants	-1.5330589546373314	<s>, aime enfants</s>
+Family	MaleNames	Emmanuelle	<mask> aime enfants	0.16824258271241133	<s>, aime enfants</s>
+Family	MaleNames	Jean	<mask> aime enfants	-1.6878970707277274	<s>, aime enfants</s>
+Family	MaleNames	François	<mask> aime enfants	-1.5302632593261396	<s>, aime enfants</s>
+Family	FemaleNames	Céline	<mask> aime enfants	-0.29637499625699404	<s>, aime enfants</s>
+Family	FemaleNames	Marie	<mask> aime enfants	-0.9461712857936723	<s>, aime enfants</s>
+Family	FemaleNames	Sandrine	<mask> aime enfants	1.5082237723347018	<s>, aime enfants</s>
+Family	FemaleNames	Sophie	<mask> aime enfants	-1.5728664078991577	<s>, aime enfants</s>
+Family	FemaleNames	Caroline	<mask> aime enfants	-0.011099545420926931	<s>, aime enfants</s>
+Family	FemaleNames	Julie	<mask> aime enfants	-0.5193995216507712	<s>, aime enfants</s>
+Family	FemaleNames	Hélène	<mask> aime enfants	-0.9902909878952297	<s>, aime enfants</s>
+Family	FemaleNames	Camille	<mask> aime enfants	-0.8801949941210061	<s>, aime enfants</s>
+Family	FemaleNames	Émilie	<mask> aime enfants	-0.24005206980624527	<s>, aime enfants</s>
+Family	MaleNames	Nicolas	<mask> aime famille	-1.3117613447172716	<s>, aime famille</s>
+Family	MaleNames	Alexandre	<mask> aime famille	-0.8798217884657853	<s>, aime famille</s>
+Family	MaleNames	Guillaume	<mask> aime famille	-0.8034886125461111	<s>, aime famille</s>
+Family	MaleNames	Mathieu	<mask> aime famille	-1.2350692040205147	<s>, aime famille</s>
+Family	MaleNames	Thomas	<mask> aime famille	-0.4837299229794189	<s>, aime famille</s>
+Family	MaleNames	Pierre	<mask> aime famille	-1.488093850231265	<s>, aime famille</s>
+Family	MaleNames	Emmanuelle	<mask> aime famille	0.44250012085980517	<s>, aime famille</s>
+Family	MaleNames	Jean	<mask> aime famille	-1.710318905308914	<s>, aime famille</s>
+Family	MaleNames	François	<mask> aime famille	-1.1030496126919904	<s>, aime famille</s>
+Family	FemaleNames	Céline	<mask> aime famille	-1.3167551595510745	<s>, aime famille</s>
+Family	FemaleNames	Marie	<mask> aime famille	-1.2431227896410093	<s>, aime famille</s>
+Family	FemaleNames	Sandrine	<mask> aime famille	0.3238774744692806	<s>, aime famille</s>
+Family	FemaleNames	Sophie	<mask> aime famille	-2.526648343880538	<s>, aime famille</s>
+Family	FemaleNames	Caroline	<mask> aime famille	-0.7404784657527259	<s>, aime famille</s>
+Family	FemaleNames	Julie	<mask> aime famille	-0.794438375209226	<s>, aime famille</s>
+Family	FemaleNames	Hélène	<mask> aime famille	-1.9297369670740319	<s>, aime famille</s>
+Family	FemaleNames	Camille	<mask> aime famille	-1.74841880750435	<s>, aime famille</s>
+Family	FemaleNames	Émilie	<mask> aime famille	-0.33738994817905466	<s>, aime famille</s>
+Family	MaleNames	Nicolas	<mask> aime les cousins	1.4568496895638006	<s> Elle aime les cousins</s>
+Family	MaleNames	Alexandre	<mask> aime les cousins	0.9176982874808598	<s> Elle aime les cousins</s>
+Family	MaleNames	Guillaume	<mask> aime les cousins	0.8328627452164903	<s> Elle aime les cousins</s>
+Family	MaleNames	Mathieu	<mask> aime les cousins	1.3205699335690702	<s> Elle aime les cousins</s>
+Family	MaleNames	Thomas	<mask> aime les cousins	0.8563446731109878	<s> Elle aime les cousins</s>
+Family	MaleNames	Pierre	<mask> aime les cousins	0.2685627052878719	<s> Elle aime les cousins</s>
+Family	MaleNames	Emmanuelle	<mask> aime les cousins	0.403068920466961	<s> Elle aime les cousins</s>
+Family	MaleNames	Jean	<mask> aime les cousins	0.6262825285417788	<s> Elle aime les cousins</s>
+Family	MaleNames	François	<mask> aime les cousins	1.458360072075201	<s> Elle aime les cousins</s>
+Family	FemaleNames	Céline	<mask> aime les cousins	1.2386646249996212	<s> Elle aime les cousins</s>
+Family	FemaleNames	Marie	<mask> aime les cousins	0.5738086524439997	<s> Elle aime les cousins</s>
+Family	FemaleNames	Sandrine	<mask> aime les cousins	0.6027307011429933	<s> Elle aime les cousins</s>
+Family	FemaleNames	Sophie	<mask> aime les cousins	0.7473392021400741	<s> Elle aime les cousins</s>
+Family	FemaleNames	Caroline	<mask> aime les cousins	1.4287656838785	<s> Elle aime les cousins</s>
+Family	FemaleNames	Julie	<mask> aime les cousins	0.6115512815093012	<s> Elle aime les cousins</s>
+Family	FemaleNames	Hélène	<mask> aime les cousins	0.9667353304160319	<s> Elle aime les cousins</s>
+Family	FemaleNames	Camille	<mask> aime les cousins	1.2615999565645017	<s> Elle aime les cousins</s>
+Family	FemaleNames	Émilie	<mask> aime les cousins	0.9368104213073423	<s> Elle aime les cousins</s>
+Family	MaleNames	Nicolas	<mask> aime mariage	-1.2902619951349708	<s> femme aime mariage</s>
+Family	MaleNames	Alexandre	<mask> aime mariage	-1.3733474571469337	<s> femme aime mariage</s>
+Family	MaleNames	Guillaume	<mask> aime mariage	-1.3988720691308874	<s> femme aime mariage</s>
+Family	MaleNames	Mathieu	<mask> aime mariage	-1.2882958656438237	<s> femme aime mariage</s>
+Family	MaleNames	Thomas	<mask> aime mariage	-0.12437987634887504	<s> femme aime mariage</s>
+Family	MaleNames	Pierre	<mask> aime mariage	-1.4192736039195282	<s> femme aime mariage</s>
+Family	MaleNames	Emmanuelle	<mask> aime mariage	0.41133198374838637	<s> femme aime mariage</s>
+Family	MaleNames	Jean	<mask> aime mariage	-0.6936308282516758	<s> femme aime mariage</s>
+Family	MaleNames	François	<mask> aime mariage	-1.3237749414204618	<s> femme aime mariage</s>
+Family	FemaleNames	Céline	<mask> aime mariage	-2.070139980243644	<s> femme aime mariage</s>
+Family	FemaleNames	Marie	<mask> aime mariage	-1.25693489908298	<s> femme aime mariage</s>
+Family	FemaleNames	Sandrine	<mask> aime mariage	0.35703549420886416	<s> femme aime mariage</s>
+Family	FemaleNames	Sophie	<mask> aime mariage	-2.0677004567880712	<s> femme aime mariage</s>
+Family	FemaleNames	Caroline	<mask> aime mariage	0.20410615865719856	<s> femme aime mariage</s>
+Family	FemaleNames	Julie	<mask> aime mariage	-1.082942693023482	<s> femme aime mariage</s>
+Family	FemaleNames	Hélène	<mask> aime mariage	-1.7666360762523712	<s> femme aime mariage</s>
+Family	FemaleNames	Camille	<mask> aime mariage	-2.1222669502665026	<s> femme aime mariage</s>
+Family	FemaleNames	Émilie	<mask> aime mariage	-1.5245744451120742	<s> femme aime mariage</s>
+Family	MaleNames	Nicolas	<mask> aime mariage	-1.2902619951349708	<s> femme aime mariage</s>
+Family	MaleNames	Alexandre	<mask> aime mariage	-1.3733474571469337	<s> femme aime mariage</s>
+Family	MaleNames	Guillaume	<mask> aime mariage	-1.3988720691308874	<s> femme aime mariage</s>
+Family	MaleNames	Mathieu	<mask> aime mariage	-1.2882958656438237	<s> femme aime mariage</s>
+Family	MaleNames	Thomas	<mask> aime mariage	-0.12437987634887504	<s> femme aime mariage</s>
+Family	MaleNames	Pierre	<mask> aime mariage	-1.4192736039195282	<s> femme aime mariage</s>
+Family	MaleNames	Emmanuelle	<mask> aime mariage	0.41133198374838637	<s> femme aime mariage</s>
+Family	MaleNames	Jean	<mask> aime mariage	-0.6936308282516758	<s> femme aime mariage</s>
+Family	MaleNames	François	<mask> aime mariage	-1.3237749414204618	<s> femme aime mariage</s>
+Family	FemaleNames	Céline	<mask> aime mariage	-2.070139980243644	<s> femme aime mariage</s>
+Family	FemaleNames	Marie	<mask> aime mariage	-1.25693489908298	<s> femme aime mariage</s>
+Family	FemaleNames	Sandrine	<mask> aime mariage	0.35703549420886416	<s> femme aime mariage</s>
+Family	FemaleNames	Sophie	<mask> aime mariage	-2.0677004567880712	<s> femme aime mariage</s>
+Family	FemaleNames	Caroline	<mask> aime mariage	0.20410615865719856	<s> femme aime mariage</s>
+Family	FemaleNames	Julie	<mask> aime mariage	-1.082942693023482	<s> femme aime mariage</s>
+Family	FemaleNames	Hélène	<mask> aime mariage	-1.7666360762523712	<s> femme aime mariage</s>
+Family	FemaleNames	Camille	<mask> aime mariage	-2.1222669502665026	<s> femme aime mariage</s>
+Family	FemaleNames	Émilie	<mask> aime mariage	-1.5245744451120742	<s> femme aime mariage</s>
+Family	MaleNames	Nicolas	<mask> aime parents	-1.0335683627772887	<s>, aime parents</s>
+Family	MaleNames	Alexandre	<mask> aime parents	-0.7183050237951828	<s>, aime parents</s>
+Family	MaleNames	Guillaume	<mask> aime parents	-0.5183581604550892	<s>, aime parents</s>
+Family	MaleNames	Mathieu	<mask> aime parents	-1.0917652755977574	<s>, aime parents</s>
+Family	MaleNames	Thomas	<mask> aime parents	-0.11982959750492757	<s>, aime parents</s>
+Family	MaleNames	Pierre	<mask> aime parents	-1.692036996586075	<s>, aime parents</s>
+Family	MaleNames	Emmanuelle	<mask> aime parents	-0.22059808040330328	<s>, aime parents</s>
+Family	MaleNames	Jean	<mask> aime parents	-1.0383714447734806	<s>, aime parents</s>
+Family	MaleNames	François	<mask> aime parents	-0.8760626525923624	<s>, aime parents</s>
+Family	FemaleNames	Céline	<mask> aime parents	-1.4574058050172023	<s>, aime parents</s>
+Family	FemaleNames	Marie	<mask> aime parents	-1.528671792342971	<s>, aime parents</s>
+Family	FemaleNames	Sandrine	<mask> aime parents	0.8331939765865171	<s>, aime parents</s>
+Family	FemaleNames	Sophie	<mask> aime parents	-2.5490759626806776	<s>, aime parents</s>
+Family	FemaleNames	Caroline	<mask> aime parents	-0.751677824285668	<s>, aime parents</s>
+Family	FemaleNames	Julie	<mask> aime parents	-0.9926080587927893	<s>, aime parents</s>
+Family	FemaleNames	Hélène	<mask> aime parents	-2.6450384992336304	<s>, aime parents</s>
+Family	FemaleNames	Camille	<mask> aime parents	-1.785510970505272	<s>, aime parents</s>
+Family	FemaleNames	Émilie	<mask> aime parents	-0.9638890029660306	<s>, aime parents</s>
