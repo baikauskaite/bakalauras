@@ -1,6 +1,6 @@
 {
     "targ1": {
-        "category": "Grammatically Male Words",
+        "category": "GrammaticallyMale",
         "examples": [
             "C'est un livre.",
             "Il y a un livre.",
@@ -103,7 +103,7 @@
         ]
     },
     "targ2": {
-        "category": "Grammatically Female Words",
+        "category": "GrammaticallyFemale",
         "examples": [
             "C'est une table.",
             "Il y a une table.",
@@ -206,7 +206,7 @@
         ]
     },
     "attr1": {
-        "category": "Male Terms",
+        "category": "MaleTerms",
         "examples": [
             "C'est un homme.",
             "Il y a un homme.",
@@ -302,7 +302,7 @@
         ]
     },
     "attr2": {
-        "category": "Female Terms",
+        "category": "FemaleTerms",
         "examples": [
             "C'est une femme.",
             "Il y a une femme.",

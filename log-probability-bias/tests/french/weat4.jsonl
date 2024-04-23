@@ -1,0 +1,57 @@
+{
+  "templates": ["[ATTR] aime [TARG]"],
+  "targ1": {
+    "category": "Math",
+    "examples": [
+      "mathématiques",
+      "algèbre",
+      "géométrie",
+      "calcul",
+      "équations",
+      "calcul",
+      "Nombres",
+      "ajout"
+    ]
+  },
+  "targ2": {
+    "category": "Arts",
+    "examples": [
+      "poésie",
+      "art",
+      "danse",
+      "littérature",
+      "roman",
+      "symphonie",
+      "drame",
+      "sculpture"
+    ]
+  },
+  "attr1": {
+    "category": "MaleTerms",
+    "examples": [
+        "garçon",
+        "père",
+        "masculin",
+        "mari",
+        "fils",
+        "oncle",
+        "homme",
+        "mâle",
+        "frère"
+    ]
+  },
+  "attr2": {
+      "category": "FemaleTerms",
+      "examples": [
+          "demoiselle",
+          "mère",
+          "féminin",
+          "épouse",
+          "fille",
+          "tante",
+          "femme",
+          "femelle",
+          "soeur"
+      ]
+  }
+}

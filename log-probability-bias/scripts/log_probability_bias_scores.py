@@ -21,20 +21,18 @@ log.basicConfig(format='%(asctime)s: %(message)s', datefmt='%m/%d %I:%M:%S %p', 
 parser = argparse.ArgumentParser()
 parser.add_argument('--model', type=str)
 parser.add_argument('--model_version', type=str)
-parser.add_argument('--demographic', type=str)
 parser.add_argument('--data_dir', '-d', type=str,
                     help="Directory containing examples for each test",
                     default='tests')
 parser.add_argument('--tests', '-t', type=str,
                     help="WEAT tests to run (a comma-separated list; test files should be in `data_dir` and "
                             "have corresponding names, with extension {}). Default: all tests.".format(TEST_EXT))
-parser.add_argument('--out_file', type=str)
+parser.add_argument('--output_dir', type=str)
 args = parser.parse_args()
 
 MODEL = args.model
 MODEL_VERSION = args.model_version
 DATA_DIR = args.data_dir
-OUT_FILE = args.out_file
 
 all_tests = sorted(
     [
@@ -58,46 +56,37 @@ for test in TESTS:
 # Load pre-trained model with masked language model head
 model, tokenizer = initialize_model_tokenizer(MODEL, MODEL_VERSION)
 
-weat = json.load(open(os.path.join(DATA_DIR, TESTS[0] + TEST_EXT)))
-categories = {"attr1": weat['attr1']['category'], "attr2": weat['attr2']['category']}
-# categories = [key for key in weat.keys() if key != 'templates']
-# categories = np.unique(categories)
+# create a list of loaded TESTS
+WEAT_TESTS = []
 
-# Taken from https://github.com/shivaomrani/GG_Disentangling/blob/master/main.ipynb
-# Demographic words to use to query and obtain probabilities for
-all_tgt_words = {
-    'GEND': {
-        'male': ['garçon', 'père', 'masculin', 'mari', 'fils', 'oncle', 'homme', 'mâle', 'frère'],
-        'female': ['demoiselle', 'mère', 'féminin', 'épouse', 'fille', 'tante', 'femme', 'femelle', 'soeur']
-    }
-}
-
-DEMOGRAPHIC = 'GEND'
-TARGET_DICT = all_tgt_words[DEMOGRAPHIC]
-
-my_tgt_texts = []
-my_prior_texts = []
-my_categories = []
-
-# clean up template sentences
-templates = weat['templates']
-templates = [x.replace("[" + DEMOGRAPHIC + "]", tokenizer.mask_token) for x in templates]
-# templates = ["[CLS] " + x + " [SEP]" for x in templates]
+for test in TESTS:
+    WEAT_TESTS.append({
+        'name': test, 
+        'data': json.load(open(os.path.join(DATA_DIR, test + TEST_EXT)))
+    })
 
 # Generate target and prior sentences
-for ATTRIBUTE in categories.keys():
-    for template in templates:
-        attr = re.sub(r'\d+', '', ATTRIBUTE)
-        attr = attr.upper()
-        if attr in template:
-            for attribute in weat[ATTRIBUTE]["examples"]:
-                tmp = copy.deepcopy(template)
+for weat in WEAT_TESTS:
+    templates = weat['data']['templates']
+    templates = [x.replace("[TARG]", tokenizer.mask_token) for x in templates]
+    weat['tgt_texts'] = []
+    weat['prior_texts'] = []
+    weat['attributes'] = []
 
-                tgt_text = tmp.replace("[" + attr + "]", attribute)
-                prior_text = tmp.replace("[" + attr + "]", f'{tokenizer.mask_token} ' * len(attribute.split(" "))) # Not sure why this is needed
-                my_tgt_texts.append(tgt_text)
-                my_prior_texts.append(prior_text)
-                my_categories.append(categories[ATTRIBUTE])
+    for ATTRIBUTE in ['attr1', 'attr2']:
+        for template in templates:
+
+            if 'ATTR' in template:
+                examples = weat['data'][ATTRIBUTE]['examples']
+
+                for attr_word in examples:
+                    tmp = copy.deepcopy(template)
+                    tgt_text = tmp.replace("[ATTR]", attr_word)
+                    prior_text = tmp.replace("[ATTR]", f'{tokenizer.mask_token} ' * len(attr_word.split(" "))) # Not sure why this is needed
+
+                    weat['tgt_texts'].append(tgt_text)
+                    weat['prior_texts'].append(prior_text)
+                    weat['attributes'].append(weat['data'][ATTRIBUTE]['category'])
 
 # Function for finding the target position (helper function for later)
 def find_tgt_pos(text, tgt):
@@ -113,7 +102,6 @@ def find_tgt_pos(text, tgt):
 # Return probability for the target word, and fill in the sentence (just for debugging)
 # Assumes that the first masked position is the target word
 def predict_word(text: str, model: AutoModelForMaskedLM, tokenizer: AutoTokenizer, tgt_word: str):
-    # print('Template sentence: ', text)
     tokenized_text = tokenizer(text, return_tensors='pt')
 
     model.eval()
@@ -125,7 +113,7 @@ def predict_word(text: str, model: AutoModelForMaskedLM, tokenizer: AutoTokenize
     predictions = F.softmax(predictions, dim=-1)
     mask_positions = []
 
-    for i in range(len(tokenized_text)):
+    for i in range(len(tokenized_text["input_ids"][0])):
         if tokenized_text["input_ids"][0][i] == tokenizer.mask_token_id:
             mask_positions.append(i)
 
@@ -147,9 +135,9 @@ def predict_word(text: str, model: AutoModelForMaskedLM, tokenizer: AutoTokenize
     tokenized_text3 = copy.deepcopy(tokenized_text)
     for mask_pos in mask_positions:
         predicted_index = torch.argmax(predictions[0, mask_pos, :]).item()
-        # print(predicted_index)
-        tokenized_text3["input_ids"][0][mask_pos] = predicted_index
-        tokenized_text3 = tokenizer.decode(tokenized_text3['input_ids'][0])
+        tokenized_text3['input_ids'][0][mask_pos] = predicted_index
+    
+    tokenized_text3 = tokenizer.decode(tokenized_text3['input_ids'][0])
 
     # Get top 5 predictions
     # topk = torch.topk(predictions[0, mask_positions[0], :], 5)
@@ -162,35 +150,41 @@ def predict_word(text: str, model: AutoModelForMaskedLM, tokenizer: AutoTokenize
 
 
 # run through all generated templates and calculate results dataframe
-results = {}
-results['categories'] = []
-results['demographic'] = []
-results['tgt_word'] = []
-results['tgt_text'] = []
-results['log_probs'] = []
-results['pred_sent'] = []
+for weat in WEAT_TESTS:
+    results = {}
+    results['attribute'] = []
+    results['target'] = []
+    results['tgt_word'] = []
+    results['tgt_sent'] = []
+    results['log_probs'] = []
+    results['pred_sent'] = []
 
-# Run through all generated permutations
-for i in tqdm(range(len(my_tgt_texts))):
-    tgt_text = my_tgt_texts[i]
-    prior_text = my_prior_texts[i]
+    # Run through all generated permutations
+    for i in tqdm(range(len(weat['tgt_texts']))):
+        tgt_text = weat['tgt_texts'][i]
+        prior_text = weat['prior_texts'][i]
 
-    for key, val in TARGET_DICT.items():
-        for tgt_word in val:
-            tgt_probs, pred_sent = predict_word(tgt_text, model, tokenizer, tgt_word)
-            prior_probs, _ = predict_word(prior_text, model, tokenizer, tgt_word)
+        for TARGET in ['targ1', 'targ2']:
+            examples = weat['data'][TARGET]['examples']
 
-            # calculate log and store in results dictionary
-            tgt_probs, pred_sent, prior_probs = np.array(tgt_probs), np.array(pred_sent), np.array(prior_probs)
-            log_probs = np.log(tgt_probs / prior_probs)
+            for tgt_word in examples:
+                tgt_probs, pred_sent = predict_word(tgt_text, model, tokenizer, tgt_word)
+                prior_probs, _ = predict_word(prior_text, model, tokenizer, tgt_word)
 
-            results['categories'].append(my_categories[i])
-            results['demographic'].append(key)
-            results['tgt_word'].append(tgt_word)
-            results['tgt_text'].append(my_tgt_texts[i])
-            results['log_probs'].append(log_probs)
-            results['pred_sent'].append(pred_sent)
+                # calculate log and store in results dictionary
+                tgt_probs, pred_sent, prior_probs = np.array(tgt_probs), np.array(pred_sent), np.array(prior_probs)
+                log_probs = np.log(tgt_probs / prior_probs)
 
-# Write results to tsv
-results = pd.DataFrame(results)
-results.to_csv(OUT_FILE, sep='\t', index=False)
+                results['attribute'].append(weat['attributes'][i])
+                results['target'].append(weat['data'][TARGET]['category'])
+                results['tgt_word'].append(tgt_word)
+                results['tgt_sent'].append(tgt_text)
+                results['log_probs'].append(log_probs)
+                results['pred_sent'].append(pred_sent)
+
+    # Write results to tsv
+    results = pd.DataFrame(results)
+    OUT_FILE = os.path.join(args.output_dir, f"{weat['name']}-scores.tsv")
+    results.to_csv(OUT_FILE, sep='\t', index=False)
+    log.info('Results written to {}'.format(OUT_FILE))
+

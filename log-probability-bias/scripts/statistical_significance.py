@@ -5,21 +5,22 @@ import pandas as pd
 
 for fpath in sys.argv[1:]:
     df = pd.read_csv(fpath, sep='\t')
-    categories = np.unique(df.categories)
+    attributes = np.unique(df.attribute)
+    targets = np.unique(df.target)
 
-    for cat in categories:
-        tmp = df[df.categories == cat]
-        m = tmp[tmp.demographic == 'male'].log_probs
-        f = tmp[tmp.demographic == 'female'].log_probs
+    for attr in attributes:
+        tmp = df[df.attribute == attr]
+        targ1 = tmp[tmp.target == targets[0]].log_probs
+        targ2 = tmp[tmp.target == targets[1]].log_probs
 
-        m_mean = np.mean(m)
-        f_mean = np.mean(f)
+        targ1_mean = np.mean(targ1)
+        targ2_mean = np.mean(targ2)
 
-        wilcoxon = stats.wilcoxon(m, f)
+        wilcoxon = stats.wilcoxon(targ1, targ2)
 
-        print('****', cat, '****')
-        print('male mean,\t', m_mean)
-        print('female mean,\t', f_mean)
+        print('****', attr, '****')
+        print(f'{targets[0]} mean,\t', targ1_mean)
+        print(f'{targets[1]} mean,\t', targ2_mean)
 
         print("Test statistic,\t", wilcoxon[0])
         print("p-value,\t", wilcoxon[1])

@@ -1,0 +1,56 @@
+{
+  "targ1": {
+    "category": "MaleNames",
+    "examples": [
+      "Nicolas",
+      "Alexandre",
+      "Guillaume",
+      "Mathieu",
+      "Thomas",
+      "Pierre",
+      "Emmanuelle",
+      "Jean",
+      "François"
+    ]
+  },
+  "targ2": {
+    "category": "FemaleNames",
+    "examples": [
+      "Céline",
+      "Marie",
+      "Sandrine",
+      "Sophie",
+      "Caroline",
+      "Julie",
+      "Hélène",
+      "Camille",
+      "Émilie"
+    ]
+  },
+  "attr1": {
+    "category": "Career",
+    "examples": [
+      "exécutif",
+      "gestion",
+      "professionnel",
+      "société",
+      "salaire",
+      "bureau",
+      "entreprise",
+      "carrière"
+    ]
+  },
+  "attr2": {
+    "category": "Family",
+    "examples": [
+      "maison",
+      "parents",
+      "enfants",
+      "famille",
+      "les cousins",
+      "mariage",
+      "mariage",
+      "parents"
+    ]
+  }
+}

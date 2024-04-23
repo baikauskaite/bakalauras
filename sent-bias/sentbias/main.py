@@ -333,10 +333,6 @@ def main(arguments):
 
                 if model_name == ModelName.CAMEMBERT.value:
                     model, tokenizer = camembert.load_model(args.camembert_version)
-                    # print(len(encs["targ1"]["examples"]))
-                    # print(len(encs["targ2"]["examples"]))
-                    # print(len(encs["attr1"]["examples"]))
-                    # print(len(encs["attr2"]["examples"]))
 
                     encs_targ1 = camembert.encode(model, tokenizer, encs["targ1"]["examples"])
                     encs_targ2 = camembert.encode(model, tokenizer, encs["targ2"]["examples"])

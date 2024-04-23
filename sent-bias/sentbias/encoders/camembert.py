@@ -26,8 +26,8 @@ def encode(model: CamembertModel, tokenizer: CamembertTokenizer, texts):
         enc = enc[:, 0, :] # extract the last rep of the first input
 
         # Print duplicates
-        if text in encs:
-            print(text)
+        # if text in encs:
+        #     print(text)
 
         encs[text] = enc.detach().view(-1).numpy()
 

@@ -17,7 +17,7 @@ fi
 
 MODEL_NAME="camembert"
 LANGUAGE="french"
-TESTS="weat0"
+TESTS=weat0,weat1,weat2,weat3,weat3b,weat4,weat4b,weat5,weat5b,weat6
 
 BASE_DIR="/home/viktorija/bakalaurinis/log-probability-bias"
 
@@ -30,10 +30,13 @@ mkdir -p "$OUTPUT_DIR"
 python $BASE_DIR/scripts/log_probability_bias_scores.py \
     --model ${MODEL_NAME} \
     --model_version ${MODEL_VERSION} \
-    --demographic 'GEND' \
     --data_dir "${BASE_DIR}/tests/${LANGUAGE}" \
     --tests ${TESTS} \
-    --out_file ${OUT_FILE_SCORES} 
- 
-python $BASE_DIR/scripts/statistical_significance.py ${OUT_FILE_SCORES} > ${OUT_FILE_SIGNIFICANCE}
+    --output_dir ${OUTPUT_DIR} 
 
+# For each file in the output directory, calculate statistical significance
+for file in ${OUTPUT_DIR}/*-scores.tsv; do
+    testname=$(basename $file)
+    testname=${testname%%-scores.tsv}
+    python $BASE_DIR/scripts/statistical_significance.py "${file}" > "${OUTPUT_DIR}/${testname}-significance.txt"
+done

@@ -1,12 +1,13 @@
-DIRECTORY="/home/viktorija/bakalaurinis/sent-bias-master/tests/english"
+BASE_DIR="/home/viktorija/bakalaurinis/sent-bias"
+DIRECTORY="${BASE_DIR}/tests/english"
 
-for file in "$DIRECTORY"/*
+for file in "$DIRECTORY"/*-fr-names.jsonl
 do
   echo $file
   filename=$(basename "$file")
 
   if [ -f "$file" ] && [[ $filename == sent* ]]; then
-    python translate.py --test_name $file
+    python $BASE_DIR/scripts/translate.py --test_name $filename
 
     if [ $? -ne 0 ]; then
       echo "translate.py exited with an error. Stopping the script."

@@ -1,0 +1,57 @@
+{
+  "templates": ["[ATTR] aime [TARG]"],
+  "targ1": {
+    "category": "Science",
+    "examples": [
+      "science",
+      "technologie",
+      "la physique",
+      "chimie",
+      "Einstein",
+      "NASA",
+      "expérience",
+      "astronomie"
+    ]
+  },
+  "targ2": {
+    "category": "Arts",
+    "examples": [
+      "poésie",
+      "art",
+      "Shakespeare",
+      "danse",
+      "littérature",
+      "roman",
+      "symphonie",
+      "drame"
+    ]
+  },
+  "attr1": {
+    "category": "MaleNames",
+    "examples": [
+      "Nicolas",
+      "Alexandre",
+      "Guillaume",
+      "Mathieu",
+      "Thomas",
+      "Pierre",
+      "Emmanuelle",
+      "Jean",
+      "François"
+    ]
+  },
+  "attr2": {
+    "category": "FemaleNames",
+    "examples": [
+      "Céline",
+      "Marie",
+      "Sandrine",
+      "Sophie",
+      "Caroline",
+      "Julie",
+      "Hélène",
+      "Camille",
+      "Émilie"
+    ]
+  }
+}

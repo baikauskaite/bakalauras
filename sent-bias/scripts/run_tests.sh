@@ -14,8 +14,7 @@ else
     MODEL_TYPE=$MODEL_VERSION
 fi
 
-# TESTS=sent-weat1,sent-weat2,sent-weat3b,sent-weat5b,sent-weat6b,sent-weat7,sent-weat8,sent-weat9
-TESTS=sent-weat0
+TESTS=sent-weat0,sent-weat1,sent-weat2,sent-weat3,sent-weat3b,sent-weat4,sent-weat4b,sent-weat5,sent-weat5b,sent-weat6
 
 LANGUAGE=french
 SEED=42
@@ -24,9 +23,9 @@ OUTPUT_DIR="${BASE_DIR}/results/${MODEL_TYPE}"
 DATA_DIR="${BASE_DIR}/tests/${LANGUAGE}"
 LOCAL_DIR="${BASE_DIR}/data"
 
-mkdir "$OUTPUT_DIR"
+mkdir -p "$OUTPUT_DIR"
 
-python $BASE_DIR/scripts/main.py \
+python $BASE_DIR/sentbias/main.py \
     --log_file ${OUTPUT_DIR}/log.log \
     -t ${TESTS} -m camembert \
     --camembert_version ${MODEL_VERSION} \
