@@ -39,12 +39,15 @@ python $BASE_DIR/extract_pawsx.py   --indir "${DATA_RAW}/x-final" \
 
 task_name=MRPC
 batch_size=8
-lr=5e-6
+lr=2e-5
 epochs=4
 
 OUTPUT_DIR="${BASE_DIR}/../models/${MODEL_TYPE}-finetuned-pawsx"
 
 save_steps=50000
+					# --per_device_train_batch_size $batch_size \
+                                        # --do_train \
+                                        # --num_train_epochs $epochs \
 
 python $BASE_DIR/run_glue.py \
                                         --train_file "${DATA_PROC}\train.tsv" \
@@ -53,11 +56,9 @@ python $BASE_DIR/run_glue.py \
                                         --task_name $task_name \
                                         --output_dir $OUTPUT_DIR \
                                         --max_seq_length 512 \
-                                        --do_train \
+					--per_device_eval_batch_size $batch_size \
+					--use_cpu \
                                         --do_eval \
                                         --learning_rate $lr \
-                                        --num_train_epochs $epochs \
-                                        --fp16 \
-                                        --fp16_opt_level O1 \
                                         --save_steps $save_steps \
                                         |& tee output.log

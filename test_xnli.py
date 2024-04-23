@@ -12,14 +12,14 @@ SOURCE_MODEL_DIR = os.path.join(BASE_DIR, "../models/camembert-debiased")
 SAVE_MODEL_DIR = os.path.join(BASE_DIR, "../models")
 
 # Select to use the original model or the debiased model
-# MODEL_SELECTION = MODEL_CHECKPOINT
-MODEL_SELECTION = SOURCE_MODEL_DIR
+MODEL_SELECTION = MODEL_CHECKPOINT
+#MODEL_SELECTION = SOURCE_MODEL_DIR
 
 model_name = MODEL_SELECTION.split("/")[-1]
 
 num_epochs = 4
-batch_size = 8
-train_size = 1_000
+batch_size = 64
+#train_size = 1_000
 
 # ##############################################################################
 
@@ -54,9 +54,8 @@ class DebugTrainer(Trainer):
     def prediction_step(self, model, inputs, prediction_loss_only, ignore_keys=None):
         outputs = super().prediction_step(model, inputs, prediction_loss_only=False, ignore_keys=None)
         _, logits, labels = outputs
+        logits = logits.to('cpu')
         predictions = np.argmax(logits, axis=-1)
-        print("Predictions:", predictions)
-        print("Labels:", labels)
         return outputs
 
 # ##############################################################################
@@ -68,23 +67,24 @@ recall_metric = evaluate.load("recall")
 
 dataset = load_dataset("xnli", "fr")
 
-test_size = int(0.1 * train_size)
+#test_size = int(0.1 * train_size)
 
-downsampled_dataset = dataset["train"].train_test_split(
-    train_size=train_size, test_size=test_size, seed=42
-)
+#downsampled_dataset = dataset["train"].train_test_split(
+#    train_size=train_size, test_size=test_size, seed=42
+#)
 
-num_labels = len(set(downsampled_dataset['train']['label']))
+num_labels = len(set(dataset['train']['label']))
 model, tokenizer = load_model_and_tokenizer(MODEL_SELECTION, num_labels)
+model.to('cuda')
 
 # Prepare data for training and evaluation
-downsampled_dataset = downsampled_dataset.map(lambda example: {
+dataset = dataset.map(lambda example: {
     'labels': example['label'], 
     **{k: v for k, v in example.items() if k != 'label'}
     }, remove_columns=['label'])
 
-train_dataset = prepare_data(tokenizer, downsampled_dataset['train'])
-eval_dataset = prepare_data(tokenizer, downsampled_dataset['test'])
+train_dataset = prepare_data(tokenizer, dataset['train'])
+eval_dataset = prepare_data(tokenizer, dataset['test'])
 
 # Define training arguments
 training_args = TrainingArguments(
@@ -93,10 +93,9 @@ training_args = TrainingArguments(
     evaluation_strategy="epoch",
     learning_rate=2e-5,
     weight_decay=0.01,
-    warmup_ratio=0.06,
     per_device_train_batch_size=batch_size,
     per_device_eval_batch_size=batch_size,
-    # fp16=True,
+    fp16=True,
     num_train_epochs=num_epochs,
     logging_dir='./logs',
     load_best_model_at_end=True,

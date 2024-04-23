@@ -19,8 +19,8 @@ SOURCE_MODEL_DIR = os.path.join(BASE_DIR, "../models/camembert-debiased")
 SAVE_MODEL_DIR = os.path.join(BASE_DIR, "../models")
 
 # Select to use the original model or the debiased model
-MODEL_SELECTION = MODEL_CHECKPOINT
-# MODEL_SELECTION = SOURCE_MODEL_DIR
+#MODEL_SELECTION = MODEL_CHECKPOINT
+MODEL_SELECTION = SOURCE_MODEL_DIR
 
 dataset_path = os.path.join(BASE_DIR, "tokenized")
 model_name = MODEL_SELECTION.split("/")[-1]
@@ -28,8 +28,8 @@ model_name = MODEL_SELECTION.split("/")[-1]
 num_epochs = 4
 learning_rate = 2e-5
 wwm_probability = 0.2
-batch_size = 8
-train_size = 1_000
+batch_size = 32
+train_size = 50_000
 chunk_size = 128
 
 # ##############################################################################
@@ -153,7 +153,7 @@ def main():
     samples = [lm_datasets["train"][i] for i in range(2)]
     batch = whole_word_masking_data_collator(samples)
 
-    test_size = int(0.1 * train_size)
+    test_size = int(0.025 * train_size)
 
     downsampled_dataset = lm_datasets["train"].train_test_split(
         train_size=train_size, test_size=test_size, seed=42
@@ -163,12 +163,14 @@ def main():
         output_dir=os.path.join(SAVE_MODEL_DIR, f"{model_name}-finetuned-mlm"),
         overwrite_output_dir=True,
         evaluation_strategy="epoch",
+        eval_accumulation_steps=2,
         learning_rate=learning_rate,
         weight_decay=0.01,
         warmup_ratio=0.06,
         per_device_train_batch_size=batch_size,
-        per_device_eval_batch_size=batch_size,
+        per_device_eval_batch_size=batch_size // 2,
         # fp16=True,
+        bf16=True,
         num_train_epochs=num_epochs,
         logging_dir='./logs',
         load_best_model_at_end=True,

@@ -55,6 +55,7 @@ for test in TESTS:
 
 # Load pre-trained model with masked language model head
 model, tokenizer = initialize_model_tokenizer(MODEL, MODEL_VERSION)
+model.to('cuda')
 
 # create a list of loaded TESTS
 WEAT_TESTS = []
@@ -106,8 +107,10 @@ def predict_word(text: str, model: AutoModelForMaskedLM, tokenizer: AutoTokenize
 
     model.eval()
     with torch.no_grad():
+        tokenized_text.to('cuda')
         outputs = model(**tokenized_text)
         predictions = outputs.logits
+        predictions.to('cpu')
 
     # normalize by softmax
     predictions = F.softmax(predictions, dim=-1)

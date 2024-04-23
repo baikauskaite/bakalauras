@@ -413,7 +413,7 @@ def train(args, data, datasets, model: PreTrainedModel, original_model, tokenize
         inputs = next(dataloaders[key])
         if len(inputs) == 2:
             inputs, labels = inputs
-            labels = labels.to(args.device)
+            labels = labels.to('cpu')
         else:
             labels = None
         inputs = inputs.to(args.device)
@@ -576,7 +576,8 @@ def train(args, data, datasets, model: PreTrainedModel, original_model, tokenize
                 steps_trained_in_current_epoch -= 1
                 continue
 
-            loss = forward(attributes_hiddens, train_dataloaders, key)
+            with torch.autocast(device_type='cuda'):
+                loss = forward(attributes_hiddens, train_dataloaders, key)
 
             if args.n_gpu > 1:
                 loss = loss.mean()  # mean() to average on multi-gpu parallel training
@@ -816,7 +817,7 @@ def main():
 
     # Setup CUDA, GPU & distributed training
     if args.local_rank == -1 or args.no_cuda:
-        device = torch.device("cuda" if torch.cuda.is_available() and not args.no_cuda else "cpu")
+        device = torch.device("cuda")
         args.n_gpu = 0 if args.no_cuda else torch.cuda.device_count()
     else:  # Initializes the distributed backend which will take care of sychronizing nodes/GPUs
         torch.cuda.set_device(args.local_rank)
@@ -902,6 +903,7 @@ def main():
         model.resize_token_embeddings(len(tokenizer))
         original_model.resize_token_embeddings(len(tokenizer))
 
+    print(args.device)
     model.to(args.device)
     original_model.to(args.device)
 

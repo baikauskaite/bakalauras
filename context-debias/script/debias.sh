@@ -1,7 +1,7 @@
 mamba activate sent-bias
 
 model_type=camembert
-gpu=0
+gpu=1
 debias_layer=all # first last all
 loss_target=token # token sentence
 dev_data_size=1000
@@ -24,7 +24,7 @@ rm -r $OUTPUT_DIR
 
 echo $model_type $seed
 
-CUDA_VISIBLE_DEVICES=$gpu python ../src/run_debias_mlm.py \
+python ../src/run_debias_mlm.py \
     --output_dir=$OUTPUT_DIR \
     --model_type=$model_type \
     --model_name_or_path=$model_name_or_path \
@@ -32,8 +32,8 @@ CUDA_VISIBLE_DEVICES=$gpu python ../src/run_debias_mlm.py \
     --data_file=$TRAIN_DATA \
     --do_eval \
     --learning_rate 5e-5 \
-    --per_gpu_train_batch_size 4 \
-    --per_gpu_eval_batch_size 4 \
+    --per_gpu_train_batch_size 32 \
+    --per_gpu_eval_batch_size 32 \
     --num_train_epochs 3 \
     --block_size 128 \
     --loss_target $loss_target \
