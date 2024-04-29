@@ -13,8 +13,8 @@ parser.add_argument('--dir', type=str, default='sent-bias/tests',
                     help='Directory where the test files are located')
 args = parser.parse_args()
 
-SOURCE_LANGUAGE = "english"
-TARGET_LANGUAGE = "french"
+SOURCE_LANGUAGE = "french"
+TARGET_LANGUAGE = "german"
 TEST_NAME = args.test_name
 BASE_PATH = os.path.join("/home/viktorija/bakalaurinis", args.dir)
 

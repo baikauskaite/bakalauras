@@ -6,14 +6,20 @@ import numpy as np
 
 # ##############################################################################
 
+# Select model_checkpoint, source_model_dir, and language
 BASE_DIR = "/home/viktorija/bakalaurinis/log-probability-bias"
 MODEL_CHECKPOINT = "camembert-base"
+# MODEL_CHECKPOINT = "uklfr/gottbert-base"
 SOURCE_MODEL_DIR = os.path.join(BASE_DIR, "../models/camembert-debiased")
+# SOURCE_MODEL_DIR = os.path.join(BASE_DIR, "../models/gottbert-debiased")
+LANGUAGE = "fr"
+# LANGUAGE = "de"
+
 SAVE_MODEL_DIR = os.path.join(BASE_DIR, "../models")
 
 # Select to use the original model or the debiased model
-# MODEL_SELECTION = MODEL_CHECKPOINT
-MODEL_SELECTION = SOURCE_MODEL_DIR
+MODEL_SELECTION = MODEL_CHECKPOINT
+# MODEL_SELECTION = SOURCE_MODEL_DIR
 
 model_name = MODEL_SELECTION.split("/")[-1]
 
@@ -55,8 +61,6 @@ class DebugTrainer(Trainer):
         outputs = super().prediction_step(model, inputs, prediction_loss_only=False, ignore_keys=None)
         _, logits, labels = outputs
         predictions = np.argmax(logits, axis=-1)
-        print("Predictions:", predictions)
-        print("Labels:", labels)
         return outputs
 
 # ##############################################################################
@@ -66,7 +70,7 @@ accuracy_metric = evaluate.load("accuracy")
 precision_metric = evaluate.load("precision")
 recall_metric = evaluate.load("recall")
 
-dataset = load_dataset("xnli", "fr")
+dataset = load_dataset("xnli", LANGUAGE)
 
 test_size = int(0.1 * train_size)
 

@@ -1,0 +1,54 @@
+{
+  "targ1": {
+    "category": "Math",
+    "examples": [
+      "Mathematik",
+      "Algebra",
+      "Geometrie",
+      "Infinitesimalrechnung",
+      "Gleichungen",
+      "Berechnung",
+      "Zahlen",
+      "Zusatz"
+    ]
+  },
+  "targ2": {
+    "category": "Arts",
+    "examples": [
+      "Poesie",
+      "Kunst",
+      "tanzen",
+      "Literatur",
+      "Roman",
+      "Symphonie",
+      "Theater",
+      "Skulptur"
+    ]
+  },
+  "attr1": {
+    "category": "MaleTerms",
+    "examples": [
+      "Mann",
+      "Junge",
+      "Vater",
+      "Männlich",
+      "Großvater",
+      "Ehemann",
+      "Sohn",
+      "Onkel"
+    ]
+  },
+  "attr2": {
+    "category": "FemaleTerms",
+    "examples": [
+      "Mädchen",
+      "Weiblich",
+      "Tante",
+      "Tochter",
+      "Ehefrau",
+      "Frau",
+      "Mutter",
+      "Großmutter"
+    ]
+  }
+}

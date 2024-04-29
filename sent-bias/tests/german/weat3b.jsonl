@@ -1,0 +1,56 @@
+{
+  "targ1": {
+    "category": "MaleNames",
+    "examples": [
+      "Johannes",
+      "Lukas",
+      "Daniel",
+      "Paul",
+      "Thomas",
+      "Benjamin",
+      "Felix",
+      "Christoph",
+      "Maximilian"
+    ]
+  },
+  "targ2": {
+    "category": "FemaleNames",
+    "examples": [
+      "Julia",
+      "Michaela",
+      "Anna",
+      "Laura",
+      "Sofie",
+      "Sarah",
+      "Lisa",
+      "Jessica",
+      "Sabrina"
+    ]
+  },
+  "attr1": {
+    "category": "Career",
+    "examples": [
+      "Exekutive",
+      "Management",
+      "Fachmann",
+      "Konzern",
+      "Gehalt",
+      "Büro",
+      "Geschäft",
+      "Karriere"
+    ]
+  },
+  "attr2": {
+    "category": "Family",
+    "examples": [
+      "heim",
+      "Eltern",
+      "Kinder",
+      "Familie",
+      "Cousins",
+      "Hochzeit",
+      "Hochzeit",
+      "Verwandte"
+    ]
+  }
+}

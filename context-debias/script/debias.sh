@@ -1,6 +1,24 @@
-mamba activate sent-bias
+#!/bin/bash
 
-model_type=camembert
+set -e
+
+MODEL_VERSION=$1
+
+if [ -z "$MODEL_VERSION" ]; then
+    echo "Provide model version ('camembert-base' or 'uklfr/gottbert-base') or path to model"
+    exit 1
+fi
+
+if [[ $MODEL_VERSION == *"/"* && -d $MODEL_VERSION ]]; then
+    MODEL_TYPE=$(basename $MODEL_VERSION)
+else
+    if [[ "$MODEL_VERSION" == */* ]]; then
+        MODEL_TYPE="${MODEL_VERSION##*/}"
+    else
+        MODEL_TYPE=$MODEL_VERSION
+    fi
+fi
+
 gpu=0
 debias_layer=all # first last all
 loss_target=token # token sentence
@@ -9,16 +27,10 @@ seed=42
 alpha=0.2
 beta=0.8
 
-if [ $model_type = 'bert' ]; then
-    model_name_or_path=bert-base-uncased
-elif [ $model_type = 'camembert' ]; then
-    model_name_or_path=camembert-base
-fi
-
 BASE_DIR="/home/viktorija/bakalaurinis/context-debias"
 
-TRAIN_DATA="${BASE_DIR}/preprocess/$seed/$model_type/data.bin"
-OUTPUT_DIR="${BASE_DIR}/../models/${model_type}-debiased"
+TRAIN_DATA="${BASE_DIR}/preprocess/$seed/$MODEL_TYPE/data.bin"
+OUTPUT_DIR="${BASE_DIR}/../models/${MODEL_TYPE}-debiased"
 
 rm -r $OUTPUT_DIR
 
@@ -26,8 +38,8 @@ echo $model_type $seed
 
 CUDA_VISIBLE_DEVICES=$gpu python ../src/run_debias_mlm.py \
     --output_dir=$OUTPUT_DIR \
-    --model_type=$model_type \
-    --model_name_or_path=$model_name_or_path \
+    --model_type=$MODEL_TYPE \
+    --model_name_or_path=$MODEL_VERSION \
     --do_train \
     --data_file=$TRAIN_DATA \
     --do_eval \

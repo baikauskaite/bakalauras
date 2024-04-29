@@ -1,6 +1,6 @@
 import os
 import re
-from transformers import CamembertModel, CamembertForMaskedLM, CamembertTokenizer, CamembertConfig
+from transformers import AutoModelForMaskedLM, AutoTokenizer
 
 def split_comma_and_check(arg_str, allowed_set, item_type) -> list:
     ''' Given a comma-separated string of items,
@@ -28,16 +28,16 @@ def test_sort_key(test):
     return key
 
 def initialize_model_tokenizer(model_type, version):
-    if model_type == 'camembert':
-        model, tokenizer = load_camembert(version)
+    if 'camembert' in model_type or 'gottbert' in model_type:
+        model, tokenizer = load_model_tokenizer(version)
     else:
         raise ValueError('Model not supported')
     
     return model, tokenizer
 
-def load_camembert(version='camembert-base'):
-    model = CamembertForMaskedLM.from_pretrained(version)
-    tokenizer = CamembertTokenizer.from_pretrained(version)
+def load_model_tokenizer(version='camembert-base'):
+    model = AutoModelForMaskedLM.from_pretrained(version)
+    tokenizer = AutoTokenizer.from_pretrained(version)
     model.eval()
     
     return model, tokenizer

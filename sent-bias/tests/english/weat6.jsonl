@@ -1,54 +1,48 @@
 {
   "targ1": {
-    "category": "MaleNames",
+    "category": "MentalDisease",
     "examples": [
-      "John",
-      "Paul",
-      "Mike",
-      "Kevin",
-      "Steve",
-      "Greg",
-      "Jeff",
-      "Bill"
+      "sad",
+      "hopeless",
+      "gloomy",
+      "tearful",
+      "miserable",
+      "depressed"
     ]
   },
   "targ2": {
-    "category": "FemaleNames",
+    "category": "PhysicalDisease",
     "examples": [
-      "Amy",
-      "Joan",
-      "Lisa",
-      "Sarah",
-      "Diana",
-      "Kate",
-      "Ann",
-      "Donna"
+      "sick",
+      "illness",
+      "influenza",
+      "disease",
+      "virus",
+      "cancer"
     ]
   },
   "attr1": {
-    "category": "Career",
+    "category": "Temporary",
     "examples": [
-      "executive",
-      "management",
-      "professional",
-      "corporation",
-      "salary",
-      "office",
-      "business",
-      "career"
+      "impermanent",
+      "unstable",
+      "variable",
+      "fleeting",
+      "short-term",
+      "brief",
+      "occasional"
     ]
   },
   "attr2": {
-    "category": "Family",
+    "category": "Permanent",
     "examples": [
-      "home",
-      "parents",
-      "children",
-      "family",
-      "cousins",
-      "marriage",
-      "wedding",
-      "relatives"
+      "stable",
+      "always",
+      "constant",
+      "persistent",
+      "chronic",
+      "prolonged",
+      "forever"
     ]
   }
 }

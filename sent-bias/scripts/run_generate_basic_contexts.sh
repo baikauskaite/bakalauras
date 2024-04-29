@@ -1,8 +1,11 @@
 BASE_DIR="/home/viktorija/bakalaurinis/sent-bias"
 DIRECTORY="${BASE_DIR}/tests/english"
 
-for file in "$DIRECTORY"/*-fr-names.jsonl
+for file in "$DIRECTORY"/*
 do
+  if [[ "$file" =~ \fr-names.jsonl$ ]] || [[ "$file" =~ \de-names.jsonl$ ]]; then
+    continue
+  fi
   echo $file
   filename=$(basename "$file")
 

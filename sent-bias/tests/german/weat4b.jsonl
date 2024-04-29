@@ -1,0 +1,56 @@
+{
+  "targ1": {
+    "category": "Math",
+    "examples": [
+      "Mathematik",
+      "Algebra",
+      "Geometrie",
+      "Infinitesimalrechnung",
+      "Gleichungen",
+      "Berechnung",
+      "Zahlen",
+      "Zusatz"
+    ]
+  },
+  "targ2": {
+    "category": "Arts",
+    "examples": [
+      "Poesie",
+      "Kunst",
+      "tanzen",
+      "Literatur",
+      "Roman",
+      "Symphonie",
+      "Theater",
+      "Skulptur"
+    ]
+  },
+  "attr1": {
+    "category": "MaleNames",
+    "examples": [
+      "Johannes",
+      "Lukas",
+      "Daniel",
+      "Paul",
+      "Thomas",
+      "Benjamin",
+      "Felix",
+      "Christoph",
+      "Maximilian"
+    ]
+  },
+  "attr2": {
+    "category": "FemaleNames",
+    "examples": [
+      "Julia",
+      "Michaela",
+      "Anna",
+      "Laura",
+      "Sofie",
+      "Sarah",
+      "Lisa",
+      "Jessica",
+      "Sabrina"
+    ]
+  }
+}

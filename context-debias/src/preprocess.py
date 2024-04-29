@@ -19,21 +19,16 @@ def parse_args():
     parser.add_argument('--block_size', type=int, default=128)
     parser.add_argument('--seed', type=int, default=42)
     parser.add_argument('--model_type', type=str, required=True,
-                        choices=['bert', 'roberta', 'electra', 'albert', 'dbert', 'camembert'])
+                        choices=['bert', 'roberta', 'electra', 'albert', 'dbert', 'camembert', 'gottbert'])
+    parser.add_argument('--model_name_or_path', type=str, default='camembert-base')
 
     args = parser.parse_args()
 
     return args
 
 def prepare_transformer(args):
-    if args.model_type == 'bert':
-        pretrained_weights = 'bert-base-uncased'
-        model = BertModel.from_pretrained(pretrained_weights, output_hidden_states=True)
-        tokenizer = BertTokenizer.from_pretrained(pretrained_weights)
-    elif args.model_type == 'camembert':
-        pretrained_weights = 'camembert-base'
-        model = CamembertModel.from_pretrained(pretrained_weights)
-        tokenizer = CamembertTokenizer.from_pretrained(pretrained_weights)
+    model = AutoModel.from_pretrained(args.model_name_or_path)
+    tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path) 
 
     return model, tokenizer
 
@@ -62,9 +57,12 @@ def main(args):
         stereotypes = [word.strip() for word in open(args.stereotypes)]
         stereotype_set = set(stereotypes)
 
-    pat = re.compile(r"""'s|'t|'re|'ve|'m|'ll|'d| ?\p{L}+| ?\p{N}+| ?[^\s\p{L}\p{N}]+|\s+(?!\S)|\s+""")
-    # Regex for French
-    pat = re.compile(r"""l'|qu'|n'|t'|j'|c'|d'|s'|m'|à l'|à la|au|aux|du|des| ?\p{L}+| ?\p{N}+| ?[^\s\p{L}\p{N}]+|\s+(?!\S)|\s+""")
+    # if 'bert' in args.model_type:
+    #     pat = re.compile(r"""'s|'t|'re|'ve|'m|'ll|'d| ?\p{L}+| ?\p{N}+| ?[^\s\p{L}\p{N}]+|\s+(?!\S)|\s+""")
+    if 'camembert' in args.model_type:
+        pat = re.compile(r"""l'|qu'|n'|t'|j'|c'|d'|s'|m'| ?\p{L}+| ?\p{N}+| ?[^\s\p{L}\p{N}]+|\s+(?!\S)|\s+""")
+    elif 'gottbert' in args.model_type:
+        pat = re.compile(r""" ?\p{L}+| ?\p{N}+| ?[^\s\p{L}\p{N}]+|\s+(?!\S)|\s+""")
 
     attributes_l = []
     all_attributes_set = set()

@@ -360,23 +360,8 @@ def train(args, data, datasets, model: PreTrainedModel, original_model, tokenize
 
     def get_hiddens_of_model(input):
         model.zero_grad()
-        if args.model_type == 'roberta':
-            _, _, hiddens = model.roberta(input)
-        # elif args.model_type == 'bert':
-        #     _, _, hiddens = model.bert(input)
-        # elif args.model_type == 'albert':
-        #     _, _, hiddens = model.albert(input)
-        # elif args.model_type == 'dbert':
-        #     _, hiddens = model.distilbert(input)
-        # elif args.model_type == 'electra':
-        #     _, hiddens = model.electra(input)
-        # elif args.model_type == 'gpt2':
-        #     _, _, hiddens = model.transformer(input)
-        # elif args.model_type == 'gpt':
-        #     _, hiddens = model.transformer(input)
-        elif args.model_type == 'camembert':
-            outputs = model(input)
-            hiddens = outputs.hidden_states
+        outputs = model(input)
+        hiddens = outputs.hidden_states
 
         return hiddens
 
@@ -416,29 +401,20 @@ def train(args, data, datasets, model: PreTrainedModel, original_model, tokenize
             labels = labels.to(args.device)
         else:
             labels = None
+        
         inputs = inputs.to(args.device)
-        if args.model_type == 'roberta':
-            final_layer_hiddens, first_token_hidden, all_layer_hiddens = model.roberta(inputs)
-            if 'neutral' != key:
-                with torch.no_grad():
-                    final_layer_original_hiddens, _, all_layer_original_hiddens = original_model.roberta(inputs)
-                if args.token_loss:
-                    token_predicts = model.lm_head(final_layer_hiddens)
-                    token_original = original_model.lm_head(final_layer_original_hiddens)
-        elif args.model_type == 'camembert':
-            outputs = model(inputs)
-            final_layer_hiddens = outputs.hidden_states[-1]
-            # first_token_hidden = final_layer_hiddens[0, :, 0]
-            all_layer_hiddens = outputs.hidden_states
-            if 'neutral' != key:
-                with torch.no_grad():
-                    outputs = original_model(inputs)
-                    final_layer_original_hiddens = outputs.hidden_states[-1]
-                    # first_token_hidden = final_layer_hiddens[0, :, 0]
-                    all_layer_original_hiddens = outputs.hidden_states
-                if args.token_loss:
-                    token_predicts = model.classifier(final_layer_hiddens)
-                    token_original = original_model.classifier(final_layer_original_hiddens)
+
+        outputs = model(inputs)
+        final_layer_hiddens = outputs.hidden_states[-1]
+        all_layer_hiddens = outputs.hidden_states
+        if 'neutral' != key:
+            with torch.no_grad():
+                outputs = original_model(inputs)
+                final_layer_original_hiddens = outputs.hidden_states[-1]
+                all_layer_original_hiddens = outputs.hidden_states
+            if args.token_loss:
+                token_predicts = model.lm_head(final_layer_hiddens)
+                token_original = original_model.lm_head(final_layer_original_hiddens)
 
         all_layer_hiddens = torch.stack(all_layer_hiddens, 2)
         if 'neutral' != key:
@@ -778,7 +754,7 @@ def main():
     args = parser.parse_args()
 
     '''
-    if args.model_type in ["bert", "roberta", "distilbert", "camembert"] and not args.mlm:
+    if args.model_type in ["bert", "roberta", "distilbert", "camembert", "gottbert"] and not args.mlm:
         raise ValueError(
             "BERT and RoBERTa-like models do not have LM heads but masked LM heads. They must be run using the --mlm "
             "flag (masked language modeling)."

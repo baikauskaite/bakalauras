@@ -1,0 +1,49 @@
+{
+  "templates": ["[TARG] ist [ATTR]"],
+  "targ1": {
+    "category": "MentalDisease",
+    "examples": [
+      "traurig",
+      "hoffnungslos",
+      "düster",
+      "weinerlich",
+      "miserabel",
+      "deprimiert"
+    ]
+  },
+  "targ2": {
+    "category": "PhysicalDisease",
+    "examples": [
+      "krank",
+      "Erkrankung",
+      "Grippe",
+      "Krankheit",
+      "Virus",
+      "Krebs"
+    ]
+  },
+  "attr1": {
+    "category": "Temporary",
+    "examples": [
+      "unbeständig",
+      "instabil",
+      "Variable",
+      "flüchtig",
+      "kurzfristig",
+      "knapp",
+      "gelegentlich"
+    ]
+  },
+  "attr2": {
+    "category": "Permanent",
+    "examples": [
+      "stabil",
+      "stets",
+      "Konstante",
+      "hartnäckig",
+      "chronisch",
+      "verlängert",
+      "für immer"
+    ]
+  }
+}

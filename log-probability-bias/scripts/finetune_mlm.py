@@ -13,16 +13,22 @@ import torch.nn.functional as F
 
 # ##############################################################################
 
+# Select model_checkpoint, source_model_dir, and language
 BASE_DIR = "/home/viktorija/bakalaurinis/log-probability-bias"
 MODEL_CHECKPOINT = "camembert-base"
+# MODEL_CHECKPOINT = "uklfr/gottbert-base"
 SOURCE_MODEL_DIR = os.path.join(BASE_DIR, "../models/camembert-debiased")
+# SOURCE_MODEL_DIR = os.path.join(BASE_DIR, "../models/gottbert-debiased")
+LANGUAGE = "fr"
+# LANGUAGE = "de"
+
 SAVE_MODEL_DIR = os.path.join(BASE_DIR, "../models")
 
 # Select to use the original model or the debiased model
 MODEL_SELECTION = MODEL_CHECKPOINT
 # MODEL_SELECTION = SOURCE_MODEL_DIR
 
-dataset_path = os.path.join(BASE_DIR, "tokenized")
+dataset_path = os.path.join(BASE_DIR, LANGUAGE, "tokenized")
 model_name = MODEL_SELECTION.split("/")[-1]
 
 num_epochs = 4
@@ -130,7 +136,7 @@ def main():
     if os.path.exists(train_path) and "dataset_info.json" in os.listdir(train_path):
         lm_datasets = load_from_disk(dataset_path)
     else:
-        dataset = load_dataset('wikipedia', '20220301.fr')
+        dataset = load_dataset('wikipedia', '20220301.%s' % LANGUAGE)
         total_examples = len(dataset['train'])
         half_point = total_examples // 30
         part_train = dataset['train'].select(range(half_point))

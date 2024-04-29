@@ -1,0 +1,72 @@
+{
+  "targ1": {
+    "category": "MentalDisease",
+    "examples": [
+      "Das ist traurig.",
+      "Sie sind traurig.",
+      "Das ist hoffnungslos.",
+      "Sie sind hoffnungslos.",
+      "Das ist düster.",
+      "Sie sind düster.",
+      "Das ist tränenreich.",
+      "Sie sind weinerlich.",
+      "Das ist erbärmlich.",
+      "Sie sind unglücklich.",
+      "Das ist deprimierend.",
+      "Sie sind deprimiert."
+    ]
+  },
+  "targ2": {
+    "category": "PhysicalDisease",
+    "examples": [
+      "Das ist eine Krankheit.",
+      "Es liegt eine Krankheit vor.",
+      "Das ist eine Grippe.",
+      "Die Grippe ist da.",
+      "Das ist eine Krankheit.",
+      "Eine Krankheit ist eine Sache.",
+      "Die Krankheiten sind da.",
+      "Dies ist ein Virus.",
+      "Das sind Viren.",
+      "Die Viren sind da.",
+      "Es liegt Krebs vor.",
+      "Die Krebsarten sind da."
+    ]
+  },
+  "attr1": {
+    "category": "Temporary",
+    "examples": [
+      "Das ist vergänglich.",
+      "Sie sind vergänglich.",
+      "Das ist instabil.",
+      "Sie sind instabil.",
+      "Das ist variabel.",
+      "Sie sind variabel.",
+      "Das ist flüchtig.",
+      "Sie sind flüchtig.",
+      "Das ist kurzfristig.",
+      "Sie sind kurzfristig.",
+      "Das ist kurz.",
+      "Sie sind kurz.",
+      "Dies kommt gelegentlich vor.",
+      "Sie kommen gelegentlich vor."
+    ]
+  },
+  "attr2": {
+    "category": "Permanent",
+    "examples": [
+      "Das ist stabil.",
+      "Sie sind stabil.",
+      "Das ist immer so.",
+      "Das ist konstant.",
+      "Sie sind konstant.",
+      "Das ist hartnäckig.",
+      "Sie sind hartnäckig.",
+      "Das ist chronisch.",
+      "Sie sind chronisch.",
+      "Dies ist länger.",
+      "Sie sind verlängert.",
+      "Das ist für immer."
+    ]
+  }
+}

@@ -41,7 +41,6 @@ def main():
 
     indir = os.path.expanduser(args.indir)
     outdir = os.path.expanduser(args.outdir)
-    lang = 'fr'
 
     if not os.path.exists(outdir):
         os.makedirs(outdir)
@@ -55,7 +54,7 @@ def main():
         sent_pairs = []
         labels = []
         count = 0
-        with open(os.path.join(indir, lang, splts[s][0]), 'rt', encoding='utf-8') as f_in:
+        with open(os.path.join(indir, splts[s][0]), 'rt', encoding='utf-8') as f_in:
             next(f_in)
             with open(os.path.join(outdir, splts[s][idx]), 'w') as f_out:
                 tsv_output = csv.writer(f_out, delimiter='\t')

@@ -1,0 +1,72 @@
+{
+  "targ1": {
+    "category": "MentalDisease",
+    "examples": [
+      "This is sad.",
+      "They are sad.",
+      "This is hopeless.",
+      "They are hopeless.",
+      "This is gloomy.",
+      "They are gloomy.",
+      "This is tearful.",
+      "They are tearful.",
+      "This is miserable.",
+      "They are miserable.",
+      "This is depressed.",
+      "They are depressed."
+    ]
+  },
+  "targ2": {
+    "category": "PhysicalDisease",
+    "examples": [
+      "This is an illness.",
+      "There is an illness.",
+      "This is an influenza.",
+      "The influenzas are here.",
+      "This is a disease.",
+      "A disease is a thing.",
+      "The diseases are here.",
+      "This is a virus.",
+      "These are viruses.",
+      "The viruses are here.",
+      "There is a cancer.",
+      "The cancers are here."
+    ]
+  },
+  "attr1": {
+    "category": "Temporary",
+    "examples": [
+      "This is impermanent.",
+      "They are impermanent.",
+      "This is unstable.",
+      "They are unstable.",
+      "This is variable.",
+      "They are variable.",
+      "This is fleeting.",
+      "They are fleeting.",
+      "This is short-term.",
+      "They are short-term.",
+      "This is brief.",
+      "They are brief.",
+      "This is occasional.",
+      "They are occasional."
+    ]
+  },
+  "attr2": {
+    "category": "Permanent",
+    "examples": [
+      "This is stable.",
+      "They are stable.",
+      "This is always.",
+      "This is constant.",
+      "They are constant.",
+      "This is persistent.",
+      "They are persistent.",
+      "This is chronic.",
+      "They are chronic.",
+      "This is prolonged.",
+      "They are prolonged.",
+      "This is forever."
+    ]
+  }
+}

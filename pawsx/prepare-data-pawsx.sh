@@ -8,6 +8,7 @@ set -e
 DATA_DIR=$1
 MODEL_DIR=$2
 do_lower=$3
+LANGUAGE=$4
 
 # Check number of arguments
 if [ $# -eq 3 ]
@@ -18,7 +19,7 @@ else
     exit 1
 fi
 
-python flue/extract_pawsx.py --indir $DATA_DIR/raw/x-final --outdir $DATA_DIR/processed --do_lower $do_lower
+python flue/extract_pawsx.py --indir $DATA_DIR/raw/x-final --outdir $DATA_DIR/processed --do_lower $do_lower --language $LANGUAGE
 
 # data paths
 TOKENIZER=./tools/tokenize.sh
@@ -42,12 +43,12 @@ for split in train valid test; do
 
     awk -F '\t' '{ print $4}' $DATA_DIR/processed/${split}_0.tsv \
     | awk '{gsub(/\"/,"")};1' \
-    | $TOKENIZER fr \
+    | $TOKENIZER LANGUAGE \
     > $DATA_DIR/processed/${split}.x1
 
     awk -F '\t' '{ print $5}' $DATA_DIR/processed/${split}_0.tsv \
     | awk '{gsub(/\"/,"")};1' \
-    | $TOKENIZER fr \
+    | $TOKENIZER LANGUAGE \
     > $DATA_DIR/processed/${split}.x2
 
     $FASTBPE applybpe $DATA_DIR/processed/${split}.s1 $DATA_DIR/processed/${split}.x1 $CODES_PATH
