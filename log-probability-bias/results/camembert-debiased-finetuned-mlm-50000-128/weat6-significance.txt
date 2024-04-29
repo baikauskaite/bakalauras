@@ -1,0 +1,12 @@
+**** Permanent ****
+MentalDisease mean,	 -0.3422631856709114
+PhysicalDisease mean,	 -1.5253333726797573
+Test statistic,	 137.0
+p-value,	 3.362946836205083e-05
+
+**** Temporary ****
+MentalDisease mean,	 -0.26539966021269845
+PhysicalDisease mean,	 -2.17423520652204
+Test statistic,	 75.0
+p-value,	 2.2049653125577606e-07
+

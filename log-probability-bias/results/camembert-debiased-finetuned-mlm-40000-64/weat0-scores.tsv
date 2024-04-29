@@ -1,0 +1,1441 @@
+attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime chat	0.02579706237596422	<s> On aime chat</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime chat	-0.7351331270354482	<s> On aime chat</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime chat	0.9903012093905418	<s> On aime chat</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime chat	-0.3389086017641444	<s> On aime chat</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime chat	-0.5001005618964465	<s> On aime chat</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime chat	-1.1703971669240676	<s> On aime chat</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime chat	0.46598041440876287	<s> On aime chat</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime chat	2.4175926269392525	<s> On aime chat</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime chat	-0.561790448173512	<s> On aime chat</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime chat	0.07428565071804835	<s> On aime chat</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime chat	1.2646962529814547	<s> On aime chat</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime chat	0.7754378334945166	<s> On aime chat</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime chat	-1.2885173825865133	<s> On aime chat</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime chat	0.8630070367309844	<s> On aime chat</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime chat	1.0603786239952004	<s> On aime chat</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime chat	0.2584986236229826	<s> On aime chat</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime chat	3.1409012518314987	<s> On aime chat</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime chat	0.4577460950030751	<s> On aime chat</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime chien	0.0977790689511522	<s> On aime chien</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime chien	0.17936006479675096	<s> On aime chien</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime chien	0.43113051184798457	<s> On aime chien</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime chien	-0.09383475467864885	<s> On aime chien</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime chien	-0.4935425123138628	<s> On aime chien</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime chien	-0.05777578073634196	<s> On aime chien</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime chien	1.0683437555863584	<s> On aime chien</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime chien	2.8973370642531795	<s> On aime chien</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime chien	-0.03372126612748169	<s> On aime chien</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime chien	-0.21086388556255659	<s> On aime chien</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime chien	1.849280506225922	<s> On aime chien</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime chien	0.7587710517788815	<s> On aime chien</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime chien	-0.45106064422186565	<s> On aime chien</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime chien	-0.31274033494129727	<s> On aime chien</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime chien	0.554267618788403	<s> On aime chien</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime chien	0.9213858732293848	<s> On aime chien</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime chien	3.659399805234935	<s> On aime chien</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime chien	0.35780306834202996	<s> On aime chien</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime livre	-0.15187992245543963	<s> On aime livre</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime livre	-1.7879635985169544	<s> On aime livre</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime livre	0.8019344310167463	<s> On aime livre</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime livre	-1.2953818267566808	<s> On aime livre</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime livre	-1.9641807308880832	<s> On aime livre</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime livre	-1.6564934067240198	<s> On aime livre</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime livre	0.9863507853795602	<s> On aime livre</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime livre	-2.346242289759069	<s> On aime livre</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime livre	-1.3797032637793472	<s> On aime livre</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime livre	-1.2710010906666351	<s> On aime livre</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime livre	-0.6955983884737271	<s> On aime livre</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime livre	0.7386566235117518	<s> On aime livre</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime livre	-1.731027881750155	<s> On aime livre</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime livre	-0.15583166823492323	<s> On aime livre</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime livre	0.6065528604854367	<s> On aime livre</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime livre	0.5168748634280311	<s> On aime livre</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime livre	-2.554505487151557	<s> On aime livre</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime livre	-0.1669138120589383	<s> On aime livre</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime stylo	0.8667592837334347	<s>, aime stylo</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime stylo	-0.29500790429492885	<s>, aime stylo</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime stylo	1.0266128902037932	<s>, aime stylo</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime stylo	-0.9526818751639843	<s>, aime stylo</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime stylo	0.09730594413741868	<s>, aime stylo</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime stylo	-0.5349329698135641	<s>, aime stylo</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime stylo	0.24214139115333108	<s>, aime stylo</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime stylo	-0.481122806621831	<s>, aime stylo</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime stylo	-0.35062677651165985	<s>, aime stylo</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime stylo	0.26896351324186984	<s>, aime stylo</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime stylo	-0.3294313037613314	<s>, aime stylo</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime stylo	1.0034361954166537	<s>, aime stylo</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime stylo	-1.0734761835601951	<s>, aime stylo</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime stylo	0.4267216299125299	<s>, aime stylo</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime stylo	0.4919297972176229	<s>, aime stylo</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime stylo	0.1699146091664026	<s>, aime stylo</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime stylo	-0.8743545415842605	<s>, aime stylo</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime stylo	-0.32659560204010585	<s>, aime stylo</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime soleil	0.15143004722209089	<s> on aime soleil</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime soleil	-0.3683067411364618	<s> on aime soleil</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime soleil	0.8144499654385483	<s> on aime soleil</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime soleil	-0.9911925252629283	<s> on aime soleil</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime soleil	-2.0871475592875663	<s> on aime soleil</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime soleil	-0.5551840950807633	<s> on aime soleil</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime soleil	0.8476326923062617	<s> on aime soleil</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime soleil	0.5237506320713406	<s> on aime soleil</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime soleil	-0.506007840517167	<s> on aime soleil</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime soleil	-0.2717887190377979	<s> on aime soleil</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime soleil	0.41196049794243544	<s> on aime soleil</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime soleil	0.9497597118920961	<s> on aime soleil</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime soleil	-0.9055636058208731	<s> on aime soleil</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime soleil	-0.5504948244388291	<s> on aime soleil</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime soleil	1.3851030538434388	<s> on aime soleil</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime soleil	0.2572786737550108	<s> on aime soleil</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime soleil	0.3425363673370041	<s> on aime soleil</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime soleil	-0.9489833686486834	<s> on aime soleil</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime sac	1.1439128827385623	<s> on aime sac</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime sac	-1.525917869656468	<s> on aime sac</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime sac	2.7208991205734017	<s> on aime sac</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime sac	-0.39531176579543315	<s> on aime sac</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime sac	-0.4673413444416257	<s> on aime sac</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime sac	-1.410758449287797	<s> on aime sac</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime sac	1.2909069646471585	<s> on aime sac</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime sac	-0.12677369861794857	<s> on aime sac</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime sac	-0.3245103971309149	<s> on aime sac</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime sac	0.3149044432482782	<s> on aime sac</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime sac	0.057485302998792204	<s> on aime sac</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime sac	2.721259637080976	<s> on aime sac</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime sac	-0.5393555933644442	<s> on aime sac</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime sac	1.4378939531713657	<s> on aime sac</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime sac	0.18243130864161833	<s> on aime sac</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime sac	2.039873140839838	<s> on aime sac</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime sac	0.8340179983646169	<s> on aime sac</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime sac	1.3298198426160561	<s> on aime sac</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime téléphone	0.02758679368975789	<s> On aime téléphone</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime téléphone	-1.3784232958185583	<s> On aime téléphone</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime téléphone	0.8896153552414244	<s> On aime téléphone</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime téléphone	-0.963952714949377	<s> On aime téléphone</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime téléphone	-0.7116482460658567	<s> On aime téléphone</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime téléphone	-1.022352782314823	<s> On aime téléphone</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime téléphone	0.22810296204953545	<s> On aime téléphone</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime téléphone	-1.0608497995803607	<s> On aime téléphone</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime téléphone	-1.3622266644788399	<s> On aime téléphone</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime téléphone	-1.3324781697091423	<s> On aime téléphone</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime téléphone	-0.4631725298938167	<s> On aime téléphone</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime téléphone	0.9620163663982669	<s> On aime téléphone</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime téléphone	-0.3110815548471808	<s> On aime téléphone</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime téléphone	-0.35650654187450836	<s> On aime téléphone</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime téléphone	-0.22905317832775748	<s> On aime téléphone</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime téléphone	0.19778469569625723	<s> On aime téléphone</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime téléphone	-1.7812324710973928	<s> On aime téléphone</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime téléphone	-0.7655860682044846	<s> On aime téléphone</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime ordinateur	0.24462154437997724	<s> qui aime ordinateur</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime ordinateur	-2.3230450379410317	<s> qui aime ordinateur</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime ordinateur	0.33075544830210246	<s> qui aime ordinateur</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime ordinateur	-2.0003660143741575	<s> qui aime ordinateur</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime ordinateur	-1.9338086756175132	<s> qui aime ordinateur</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime ordinateur	-1.876877610746033	<s> qui aime ordinateur</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime ordinateur	-0.26819301591837474	<s> qui aime ordinateur</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime ordinateur	-1.6712530548755888	<s> qui aime ordinateur</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime ordinateur	-1.6488220987988167	<s> qui aime ordinateur</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime ordinateur	-1.92661165804873	<s> qui aime ordinateur</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime ordinateur	-1.1315781418418596	<s> qui aime ordinateur</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime ordinateur	0.6156846241216173	<s> qui aime ordinateur</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime ordinateur	-1.962322124572526	<s> qui aime ordinateur</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime ordinateur	-1.2709063472555233	<s> qui aime ordinateur</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime ordinateur	-0.5981843910599768	<s> qui aime ordinateur</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime ordinateur	-0.10661928726290139	<s> qui aime ordinateur</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime ordinateur	-1.7809016868711693	<s> qui aime ordinateur</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime ordinateur	-1.0724070330947708	<s> qui aime ordinateur</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime jardin	-0.058519271022499354	<s> On aime jardin</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime jardin	-1.7339548531083269	<s> On aime jardin</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime jardin	0.7500518749174827	<s> On aime jardin</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime jardin	-1.0914283374740679	<s> On aime jardin</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime jardin	-2.600465325688421	<s> On aime jardin</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime jardin	-1.627114751751809	<s> On aime jardin</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime jardin	0.39199978050789613	<s> On aime jardin</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime jardin	-1.0564150325796775	<s> On aime jardin</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime jardin	-1.532031089996629	<s> On aime jardin</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime jardin	-1.376057072187133	<s> On aime jardin</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime jardin	-0.825736022794304	<s> On aime jardin</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime jardin	0.4263263059803094	<s> On aime jardin</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime jardin	-1.0012555790501994	<s> On aime jardin</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime jardin	-0.7697939932723894	<s> On aime jardin</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime jardin	-0.9312863174100664	<s> On aime jardin</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime jardin	0.2780875041972029	<s> On aime jardin</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime jardin	-1.3459618957572754	<s> On aime jardin</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime jardin	-1.167375610195483	<s> On aime jardin</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime arbre	0.6677353796324162	<s> On aime arbre</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime arbre	-1.629177407584169	<s> On aime arbre</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime arbre	1.1526219120378582	<s> On aime arbre</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime arbre	-1.3646067257218066	<s> On aime arbre</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime arbre	-1.1686519231655415	<s> On aime arbre</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime arbre	-1.1892816862616484	<s> On aime arbre</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime arbre	0.9650685790417226	<s> On aime arbre</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime arbre	0.4677821822586094	<s> On aime arbre</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime arbre	-0.6621205642856751	<s> On aime arbre</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime arbre	-0.10019987863812119	<s> On aime arbre</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime arbre	0.030494494938126854	<s> On aime arbre</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime arbre	1.0187618042690278	<s> On aime arbre</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime arbre	-1.0712568982716322	<s> On aime arbre</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime arbre	0.1829592109293985	<s> On aime arbre</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime arbre	0.5041348597300601	<s> On aime arbre</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime arbre	1.0461441726467637	<s> On aime arbre</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime arbre	1.12623857892241	<s> On aime arbre</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime arbre	-0.2806165531696026	<s> On aime arbre</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime bureau	0.13845906346851028	<s> On aime bureau</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime bureau	-1.6372358498668875	<s> On aime bureau</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime bureau	1.8588273186737567	<s> On aime bureau</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime bureau	-0.8158757010487896	<s> On aime bureau</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime bureau	-1.9096759214190617	<s> On aime bureau</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime bureau	-1.384981995704621	<s> On aime bureau</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime bureau	0.272115027823373	<s> On aime bureau</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime bureau	-1.3114746016393135	<s> On aime bureau</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime bureau	-1.7156603644781054	<s> On aime bureau</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime bureau	-1.2192169840859024	<s> On aime bureau</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime bureau	-1.2089039559885009	<s> On aime bureau</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime bureau	1.6582619454201477	<s> On aime bureau</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime bureau	-0.7388600073788619	<s> On aime bureau</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime bureau	-0.6960481616737411	<s> On aime bureau</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime bureau	-0.31612459132022447	<s> On aime bureau</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime bureau	0.4683229209822116	<s> On aime bureau</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime bureau	-1.5152003184783673	<s> On aime bureau</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime bureau	-0.7138226079772236	<s> On aime bureau</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime ciel	-0.6474400390844491	<s> Terre aime ciel</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime ciel	-1.957484798779651	<s> Terre aime ciel</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime ciel	1.04379057851253	<s> Terre aime ciel</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime ciel	-2.5603233565430124	<s> Terre aime ciel</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime ciel	-2.5763575548194524	<s> Terre aime ciel</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime ciel	-2.114170653140223	<s> Terre aime ciel</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime ciel	0.39269863460236204	<s> Terre aime ciel</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime ciel	-0.0416829214434029	<s> Terre aime ciel</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime ciel	-1.3213226076412365	<s> Terre aime ciel</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime ciel	-1.992811796089711	<s> Terre aime ciel</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime ciel	-0.3681356174784771	<s> Terre aime ciel</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime ciel	1.1775205476067352	<s> Terre aime ciel</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime ciel	-2.026491814100926	<s> Terre aime ciel</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime ciel	-2.175326599286911	<s> Terre aime ciel</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime ciel	-0.054995149660543474	<s> Terre aime ciel</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime ciel	0.019263987549683118	<s> Terre aime ciel</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime ciel	1.0282378095470628	<s> Terre aime ciel</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime ciel	-2.2344361249745335	<s> Terre aime ciel</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime nuage	0.8633290640982607	<s> qui aime nuage</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime nuage	0.3378450666799317	<s> qui aime nuage</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime nuage	1.6471849966246968	<s> qui aime nuage</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime nuage	-0.5974611269917152	<s> qui aime nuage</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime nuage	-0.4850505544994715	<s> qui aime nuage</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime nuage	-0.3811290135094321	<s> qui aime nuage</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime nuage	-0.23698166630859344	<s> qui aime nuage</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime nuage	0.7055298625695481	<s> qui aime nuage</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime nuage	-0.09035716020453187	<s> qui aime nuage</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime nuage	0.15143934538842618	<s> qui aime nuage</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime nuage	1.0799366946688966	<s> qui aime nuage</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime nuage	1.9513293617931542	<s> qui aime nuage</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime nuage	-0.7827437587552095	<s> qui aime nuage</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime nuage	1.0899525691830003	<s> qui aime nuage</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime nuage	-0.08223749493022135	<s> qui aime nuage</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime nuage	0.6438803839618333	<s> qui aime nuage</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime nuage	2.0498383579901813	<s> qui aime nuage</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime nuage	0.4383622524534191	<s> qui aime nuage</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime miroir	1.5693536748977799	<s>, aime miroir</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime miroir	0.13384397271007528	<s>, aime miroir</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime miroir	3.2196516254098975	<s>, aime miroir</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime miroir	-0.4672976386169998	<s>, aime miroir</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime miroir	-0.27117207331017934	<s>, aime miroir</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime miroir	-0.28367327265307357	<s>, aime miroir</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime miroir	1.642719716694244	<s>, aime miroir</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime miroir	1.703643209182126	<s>, aime miroir</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime miroir	0.6805395729252569	<s>, aime miroir</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime miroir	-0.010547664960918794	<s>, aime miroir</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime miroir	0.7475974159756441	<s>, aime miroir</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime miroir	2.5699985784788755	<s>, aime miroir</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime miroir	-0.826741823282958	<s>, aime miroir</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime miroir	0.8530572685569553	<s>, aime miroir</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime miroir	0.9723663162677619	<s>, aime miroir</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime miroir	1.653027830096777	<s>, aime miroir</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime miroir	1.28108644550542	<s>, aime miroir</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime miroir	0.8086275093723745	<s>, aime miroir</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime tableau	-0.8304115011465019	<s>, aime tableau</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime tableau	-2.820457438704859	<s>, aime tableau</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime tableau	0.11955912635755532	<s>, aime tableau</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime tableau	-2.4947406401277457	<s>, aime tableau</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime tableau	-1.6473136803283466	<s>, aime tableau</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime tableau	-1.2026578380124315	<s>, aime tableau</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime tableau	-0.12281627747588383	<s>, aime tableau</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime tableau	-2.6924334723120547	<s>, aime tableau</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime tableau	-2.7204766981666717	<s>, aime tableau</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime tableau	-2.4155130908130555	<s>, aime tableau</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime tableau	-2.668686446349397	<s>, aime tableau</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime tableau	-0.05573950168193848	<s>, aime tableau</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime tableau	-2.455081087092244	<s>, aime tableau</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime tableau	-1.704190794493498	<s>, aime tableau</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime tableau	0.3410375997581384	<s>, aime tableau</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime tableau	-0.9005882087675501	<s>, aime tableau</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime tableau	-2.499180742831497	<s>, aime tableau</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime tableau	-2.084885189335372	<s>, aime tableau</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime vélo	0.16733323431537814	<s> On aime vélo</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime vélo	0.08673195124688103	<s> On aime vélo</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime vélo	0.008146217255402271	<s> On aime vélo</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime vélo	-1.3933143258185334	<s> On aime vélo</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime vélo	-0.9889516222655368	<s> On aime vélo</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime vélo	-0.1135888643948634	<s> On aime vélo</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime vélo	0.4280892164237226	<s> On aime vélo</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime vélo	-1.3286065894338777	<s> On aime vélo</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime vélo	-0.3314832931153373	<s> On aime vélo</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime vélo	-1.424507541425233	<s> On aime vélo</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime vélo	-0.4973197097459202	<s> On aime vélo</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime vélo	0.5806989574851846	<s> On aime vélo</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime vélo	-1.0772242816318667	<s> On aime vélo</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime vélo	-0.689658211275276	<s> On aime vélo</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime vélo	0.025897013299299814	<s> On aime vélo</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime vélo	0.0014586064390210624	<s> On aime vélo</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime vélo	-1.5062207049287002	<s> On aime vélo</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime vélo	-1.043618792284783	<s> On aime vélo</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime camion	-0.14083584926111548	<s> qui aime camion</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime camion	0.012248592919264683	<s> qui aime camion</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime camion	0.20102868266056861	<s> qui aime camion</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime camion	0.09853626504149139	<s> qui aime camion</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime camion	0.10032793471493999	<s> qui aime camion</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime camion	-0.14425346169478656	<s> qui aime camion</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime camion	-0.03565615009884339	<s> qui aime camion</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime camion	-0.29257373829737365	<s> qui aime camion</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime camion	-0.11653392426277631	<s> qui aime camion</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime camion	-0.026146979304654767	<s> qui aime camion</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime camion	0.1551365404716175	<s> qui aime camion</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime camion	0.31671691219256154	<s> qui aime camion</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime camion	-0.05298488921722129	<s> qui aime camion</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime camion	0.009403539207139851	<s> qui aime camion</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime camion	0.25209171333945485	<s> qui aime camion</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime camion	0.2538952535871188	<s> qui aime camion</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime camion	-0.11368467850358835	<s> qui aime camion</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime camion	0.14833621512703873	<s> qui aime camion</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime bateau	0.09919233814618715	<s> s aime bateau</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime bateau	-1.4215697027331213	<s> s aime bateau</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime bateau	0.43752345809638915	<s> s aime bateau</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime bateau	-1.6223463854811417	<s> s aime bateau</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime bateau	-1.6488757605563729	<s> s aime bateau</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime bateau	-0.8948773089876739	<s> s aime bateau</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime bateau	0.40165812482780267	<s> s aime bateau</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime bateau	-0.6041459612951209	<s> s aime bateau</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime bateau	-1.2418855611480517	<s> s aime bateau</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime bateau	-1.7090910755627828	<s> s aime bateau</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime bateau	-1.3354252059501512	<s> s aime bateau</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime bateau	0.5014486726580744	<s> s aime bateau</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime bateau	-1.8493213594098454	<s> s aime bateau</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime bateau	-0.9512810757004664	<s> s aime bateau</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime bateau	0.6523723929073552	<s> s aime bateau</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime bateau	-0.39462140774155163	<s> s aime bateau</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime bateau	-0.4186028038119215	<s> s aime bateau</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime bateau	-1.038331926043726	<s> s aime bateau</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime pont	-0.3916029983820643	<s> on aime pont</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime pont	-0.19705721577681218	<s> on aime pont</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime pont	-0.21786318175386096	<s> on aime pont</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime pont	-0.5212670123400495	<s> on aime pont</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime pont	-0.0796137423856625	<s> on aime pont</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime pont	0.0037927143656228688	<s> on aime pont</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime pont	-0.029187712609635555	<s> on aime pont</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime pont	-0.726139589480517	<s> on aime pont</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime pont	-0.13601451113395682	<s> on aime pont</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime pont	-1.0153956035661043	<s> on aime pont</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime pont	-0.4309906681175734	<s> on aime pont</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime pont	-0.24230200801859716	<s> on aime pont</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime pont	-0.3395053441921023	<s> on aime pont</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime pont	-0.5414272560854209	<s> on aime pont</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime pont	0.010466089654202768	<s> on aime pont</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime pont	-0.43537627611768753	<s> on aime pont</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime pont	-0.561884409677053	<s> on aime pont</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime pont	-0.6222415002057918	<s> on aime pont</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime train	0.7718630863774729	<s> elle aime train</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime train	0.15967348664615136	<s> elle aime train</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime train	1.2977457216116906	<s> elle aime train</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime train	0.6431350087501291	<s> elle aime train</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime train	0.287334262737674	<s> elle aime train</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime train	-0.20100397498580366	<s> elle aime train</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime train	0.17081937596796712	<s> elle aime train</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime train	1.0221461716829459	<s> elle aime train</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime train	-0.06286618664957262	<s> elle aime train</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime train	1.1931381845024414	<s> elle aime train</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime train	0.7765234144721772	<s> elle aime train</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime train	0.976981124616768	<s> elle aime train</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime train	-0.57148500832007	<s> elle aime train</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime train	1.261011571836991	<s> elle aime train</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime train	0.08307172699931904	<s> elle aime train</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime train	0.6201480713286591	<s> elle aime train</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime train	1.0920305764614353	<s> elle aime train</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime train	1.0000886605585986	<s> elle aime train</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime feutre	0.21043217673389028	<s> il aime feutre</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime feutre	0.12926257092927687	<s> il aime feutre</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime feutre	-0.03948454695810009	<s> il aime feutre</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime feutre	0.42070003159313585	<s> il aime feutre</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime feutre	0.3660145866757134	<s> il aime feutre</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime feutre	0.00945140302758912	<s> il aime feutre</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime feutre	0.08021214398221647	<s> il aime feutre</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime feutre	-0.047500172394299454	<s> il aime feutre</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime feutre	0.20614527219878082	<s> il aime feutre</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime feutre	0.549741883928984	<s> il aime feutre</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime feutre	0.3843523146965913	<s> il aime feutre</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime feutre	0.2143496364185482	<s> il aime feutre</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime feutre	0.15501017086818383	<s> il aime feutre</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime feutre	0.3983073018312324	<s> il aime feutre</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime feutre	0.3260507629099832	<s> il aime feutre</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime feutre	0.3668836403845475	<s> il aime feutre</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime feutre	0.1069089499269945	<s> il aime feutre</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime feutre	0.3253302669738629	<s> il aime feutre</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime tapis	0.7758504986309954	<s> On aime tapis</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime tapis	-1.1379651873607743	<s> On aime tapis</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime tapis	1.9736104227531717	<s> On aime tapis</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime tapis	-1.0209999646694905	<s> On aime tapis</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime tapis	-0.8248348922779521	<s> On aime tapis</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime tapis	-0.8783799240659801	<s> On aime tapis</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime tapis	0.8818042347821092	<s> On aime tapis</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime tapis	0.2635578093352527	<s> On aime tapis</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime tapis	-1.122518662661289	<s> On aime tapis</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime tapis	-0.5981133843587446	<s> On aime tapis</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime tapis	-0.20458609662610794	<s> On aime tapis</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime tapis	1.7860254628236614	<s> On aime tapis</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime tapis	-1.4873709969808353	<s> On aime tapis</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime tapis	0.10959285746120848	<s> On aime tapis</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime tapis	0.5701312429251141	<s> On aime tapis</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime tapis	0.8835343339945818	<s> On aime tapis</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime tapis	-0.05584046351377817	<s> On aime tapis</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime tapis	-0.8192696666438474	<s> On aime tapis</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime mur	0.49886608947263156	<s> qui aime mur</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime mur	-0.8900098597037218	<s> qui aime mur</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime mur	1.2260616783469547	<s> qui aime mur</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime mur	-1.7481457687114528	<s> qui aime mur</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime mur	-1.259814884442042	<s> qui aime mur</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime mur	-0.48283924164380015	<s> qui aime mur</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime mur	0.667602479800392	<s> qui aime mur</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime mur	-0.34440481683806407	<s> qui aime mur</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime mur	0.058457772763001944	<s> qui aime mur</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime mur	-1.2090068547215007	<s> qui aime mur</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime mur	-0.6460410684364374	<s> qui aime mur</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime mur	0.7293995442847988	<s> qui aime mur</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime mur	-1.1770960705617652	<s> qui aime mur</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime mur	-0.21608386592262718	<s> qui aime mur</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime mur	0.008084715786581743	<s> qui aime mur</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime mur	0.22177318940792018	<s> qui aime mur</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime mur	-0.5384994518271109	<s> qui aime mur</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime mur	-0.24999015413045686	<s> qui aime mur</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime plafond	0.6536915953720751	<s>, aime plafond</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime plafond	-1.3360278459349328	<s>, aime plafond</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime plafond	0.2607881548558511	<s>, aime plafond</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime plafond	-1.3081477944190205	<s>, aime plafond</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime plafond	-0.029759242100688452	<s>, aime plafond</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime plafond	-0.7925441765012295	<s>, aime plafond</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime plafond	-0.5118825319380702	<s>, aime plafond</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime plafond	-0.3224714806755979	<s>, aime plafond</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime plafond	-0.18048745448139322	<s>, aime plafond</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime plafond	-0.7209527665383081	<s>, aime plafond</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime plafond	-1.0465415392852653	<s>, aime plafond</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime plafond	0.2197377396997705	<s>, aime plafond</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime plafond	-1.4851617007032074	<s>, aime plafond</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime plafond	-0.08617678200746519	<s>, aime plafond</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime plafond	-0.6625229790363445	<s>, aime plafond</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime plafond	-0.19527681205457387	<s>, aime plafond</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime plafond	0.484910215415063	<s>, aime plafond</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime plafond	-0.5952575590151084	<s>, aime plafond</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime plancher	0.9218630805512149	<s> On aime plancher</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime plancher	-0.6304368553335812	<s> On aime plancher</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime plancher	0.9912118970305344	<s> On aime plancher</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime plancher	0.0772728366396536	<s> On aime plancher</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime plancher	-0.3946467955240209	<s> On aime plancher</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime plancher	-0.1868768114396203	<s> On aime plancher</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime plancher	0.5091776128580229	<s> On aime plancher</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime plancher	0.09090465371471716	<s> On aime plancher</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime plancher	-0.3507309491054821	<s> On aime plancher</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime plancher	-0.31618827694714796	<s> On aime plancher</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime plancher	0.2082657564222684	<s> On aime plancher</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime plancher	0.8911613306914994	<s> On aime plancher</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime plancher	-0.22826908839607363	<s> On aime plancher</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime plancher	0.6749672239440995	<s> On aime plancher</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime plancher	0.054922133603230346	<s> On aime plancher</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime plancher	0.8515971219338045	<s> On aime plancher</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime plancher	-0.2123608370923849	<s> On aime plancher</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime plancher	0.25222059604679453	<s> On aime plancher</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime lit	1.5327459186952959	<s>, aime lit</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime lit	-1.0298537347497334	<s>, aime lit</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime lit	2.714619258232485	<s>, aime lit</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime lit	0.18857912701883078	<s>, aime lit</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime lit	-0.32031676669849013	<s>, aime lit</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime lit	-0.8482623326405923	<s>, aime lit</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime lit	1.0396600425561444	<s>, aime lit</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime lit	0.722664364991348	<s>, aime lit</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime lit	-0.0811824339663244	<s>, aime lit</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime lit	0.3057036851142118	<s>, aime lit</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime lit	0.5672493619405203	<s>, aime lit</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime lit	2.4462046446772066	<s>, aime lit</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime lit	-0.7772707582974928	<s>, aime lit</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime lit	1.5174092361353035	<s>, aime lit</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime lit	0.3842674415888083	<s>, aime lit</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime lit	1.6918943962640096	<s>, aime lit</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime lit	0.2990241539065477	<s>, aime lit</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime lit	1.0482148773589268	<s>, aime lit</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime oreiller	0.2947336354700955	<s> On aime oreiller</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime oreiller	-2.068946831284548	<s> On aime oreiller</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime oreiller	1.3999466895356165	<s> On aime oreiller</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime oreiller	-1.6423935167926254	<s> On aime oreiller</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime oreiller	-2.0280050455087326	<s> On aime oreiller</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime oreiller	-1.2179499077974842	<s> On aime oreiller</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime oreiller	0.07894521982754081	<s> On aime oreiller</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime oreiller	-0.42338940499031574	<s> On aime oreiller</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime oreiller	-1.2448963371612365	<s> On aime oreiller</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime oreiller	-0.7050465853888557	<s> On aime oreiller</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime oreiller	-0.1349930559584171	<s> On aime oreiller</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime oreiller	1.5223022109807296	<s> On aime oreiller</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime oreiller	-1.1260233197791334	<s> On aime oreiller</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime oreiller	-0.4401249423916729	<s> On aime oreiller</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime oreiller	1.1717796715874496	<s> On aime oreiller</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime oreiller	0.3699016570532417	<s> On aime oreiller</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime oreiller	-0.03854835698730679	<s> On aime oreiller</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime oreiller	-0.33388905865363494	<s> On aime oreiller</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime canapé	1.5050143568019174	<s> On aime canapé</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime canapé	-1.6717816212677286	<s> On aime canapé</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime canapé	1.4005706522260235	<s> On aime canapé</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime canapé	-0.9771381791123238	<s> On aime canapé</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime canapé	-0.8262583276208084	<s> On aime canapé</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime canapé	-1.6611343823209155	<s> On aime canapé</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime canapé	0.5451235132087008	<s> On aime canapé</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime canapé	-0.5656696651378345	<s> On aime canapé</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime canapé	-1.136611043334657	<s> On aime canapé</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime canapé	-0.6003594123361079	<s> On aime canapé</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime canapé	-0.1408681940912892	<s> On aime canapé</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime canapé	1.6343334206310214	<s> On aime canapé</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime canapé	-0.9527579446467291	<s> On aime canapé</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime canapé	0.37939672687538717	<s> On aime canapé</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime canapé	0.06842220531287034	<s> On aime canapé</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime canapé	1.0991986102757378	<s> On aime canapé</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime canapé	-0.6253477110272845	<s> On aime canapé</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime canapé	-0.21448531810327154	<s> On aime canapé</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime fauteuil	0.25664772502349076	<s> s aime fauteuil</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime fauteuil	-1.7093236633269842	<s> s aime fauteuil</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime fauteuil	1.7886274744074486	<s> s aime fauteuil</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime fauteuil	-1.1711337306311138	<s> s aime fauteuil</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime fauteuil	-0.8509017930450683	<s> s aime fauteuil</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime fauteuil	-0.776500947597002	<s> s aime fauteuil</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime fauteuil	0.1745803055355174	<s> s aime fauteuil</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime fauteuil	-0.47540824619881783	<s> s aime fauteuil</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime fauteuil	-1.5467482376617936	<s> s aime fauteuil</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime fauteuil	-1.116053195418621	<s> s aime fauteuil</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime fauteuil	-1.1553727672981229	<s> s aime fauteuil</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime fauteuil	1.0397231568002068	<s> s aime fauteuil</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime fauteuil	-1.4583078918893873	<s> s aime fauteuil</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime fauteuil	-0.8914651488318467	<s> s aime fauteuil</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime fauteuil	0.570391946996208	<s> s aime fauteuil</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime fauteuil	0.05240510194455365	<s> s aime fauteuil</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime fauteuil	-0.4194217635085857	<s> s aime fauteuil</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime fauteuil	-1.329827460823697	<s> s aime fauteuil</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime rideau	0.541276082622041	<s>'aime rideau</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime rideau	-1.5853862207012033	<s>'aime rideau</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime rideau	2.18116905540712	<s>'aime rideau</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime rideau	-0.616581883779395	<s>'aime rideau</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime rideau	-0.9583472360734513	<s>'aime rideau</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime rideau	-1.2693985451962366	<s>'aime rideau</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime rideau	0.622344581858306	<s>'aime rideau</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime rideau	-0.40702468641947287	<s>'aime rideau</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime rideau	-1.0981106364373232	<s>'aime rideau</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime rideau	0.03223521195747792	<s>'aime rideau</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime rideau	-0.4058392733614932	<s>'aime rideau</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime rideau	2.3820687144793844	<s>'aime rideau</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime rideau	-0.7855477157855124	<s>'aime rideau</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime rideau	0.5378223505149029	<s>'aime rideau</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime rideau	0.49710568164585495	<s>'aime rideau</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime rideau	1.2628459556968015	<s>'aime rideau</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime rideau	0.09490566760693113	<s>'aime rideau</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime rideau	-0.1205328843545532	<s>'aime rideau</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime frigo	-0.3606570090032346	<s> on aime frigo</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime frigo	-0.6278907485481956	<s> on aime frigo</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime frigo	-1.0018528934353763	<s> on aime frigo</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime frigo	-0.23979366715912737	<s> on aime frigo</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime frigo	-0.05697704074829946	<s> on aime frigo</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime frigo	0.05290573353625154	<s> on aime frigo</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime frigo	-0.5146883337209146	<s> on aime frigo</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime frigo	-1.2398003256463201	<s> on aime frigo</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime frigo	-0.562340014800107	<s> on aime frigo</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime frigo	-0.964868275066638	<s> on aime frigo</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime frigo	-0.05383803809504984	<s> on aime frigo</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime frigo	-0.3067311193461035	<s> on aime frigo</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime frigo	-1.0045927797041934	<s> on aime frigo</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime frigo	-0.413267013208889	<s> on aime frigo</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime frigo	0.5440204590142639	<s> on aime frigo</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime frigo	-0.2765008052796079	<s> on aime frigo</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime frigo	-0.9679295487054917	<s> on aime frigo</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime frigo	-0.13958915731751984	<s> on aime frigo</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime four	-0.4058530378781085	<s> on aime four</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime four	-1.150149081291994	<s> on aime four</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime four	-0.7145155490375458	<s> on aime four</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime four	-0.7269962732400364	<s> on aime four</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime four	-0.5600765315670065	<s> on aime four</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime four	-0.7022474352218009	<s> on aime four</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime four	-0.5323646764865853	<s> on aime four</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime four	-1.1723144269312402	<s> on aime four</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime four	-0.9570524702344632	<s> on aime four</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime four	-1.3443367272410416	<s> on aime four</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime four	-0.48013706859623384	<s> on aime four</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime four	-0.3994291214481704	<s> on aime four</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime four	-1.2647498326762594	<s> on aime four</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime four	-0.9997123364279961	<s> on aime four</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime four	0.21874782135580256	<s> on aime four</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime four	-0.7320426072697035	<s> on aime four</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime four	-1.0601927854346158	<s> on aime four</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime four	-0.8925316785991162	<s> on aime four</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime lave-vaisselle	0.39107063511041396	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime lave-vaisselle	-1.329150022401352	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime lave-vaisselle	1.158849852832953	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime lave-vaisselle	-0.4454583071038981	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime lave-vaisselle	-0.6589439246834816	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime lave-vaisselle	-0.9087798546213962	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime lave-vaisselle	0.3753229902550747	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime lave-vaisselle	-0.6968830981400016	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime lave-vaisselle	-0.7814591469827624	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime lave-vaisselle	-1.5648582828878972	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime lave-vaisselle	-0.31272481640770955	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime lave-vaisselle	0.8818437475732648	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime lave-vaisselle	-0.46181751816011407	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime lave-vaisselle	-0.37285359705195725	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime lave-vaisselle	-0.36827159271519144	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime lave-vaisselle	0.5929709432479454	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime lave-vaisselle	-0.5166661654066562	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime lave-vaisselle	-0.46115131603737997	<s> On aime lave-vaisselle</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime verre	0.11890095385040986	<s> On aime verre</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime verre	-1.4620740306899096	<s> On aime verre</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime verre	0.9890699812172927	<s> On aime verre</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime verre	-1.7787780237110582	<s> On aime verre</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime verre	-1.4621366239146312	<s> On aime verre</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime verre	-0.8724563657283537	<s> On aime verre</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime verre	0.4474183361111689	<s> On aime verre</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime verre	-1.3276470651589047	<s> On aime verre</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime verre	-1.3864873401741666	<s> On aime verre</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime verre	-0.6138437628910541	<s> On aime verre</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime verre	-0.4771806872010465	<s> On aime verre</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime verre	0.8008232715873386	<s> On aime verre</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime verre	-1.6197270776673067	<s> On aime verre</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime verre	-0.7237095676410824	<s> On aime verre</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime verre	0.6319843336641175	<s> On aime verre</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime verre	0.3260121548159489	<s> On aime verre</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime verre	-1.2398212448610757	<s> On aime verre</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime verre	-0.9081148365539263	<s> On aime verre</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime assiette	-0.014975038521862822	<s> On aime assiette</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime assiette	-1.9604825024067773	<s> On aime assiette</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime assiette	-0.039752024727688996	<s> On aime assiette</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime assiette	-0.614964859809418	<s> On aime assiette</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime assiette	-1.4485549450867916	<s> On aime assiette</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime assiette	-1.51068490877954	<s> On aime assiette</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime assiette	-0.4383858718561123	<s> On aime assiette</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime assiette	-1.0613288190964674	<s> On aime assiette</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime assiette	-1.6164631657661603	<s> On aime assiette</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime assiette	-0.33528368571702793	<s> On aime assiette</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime assiette	-0.11120313079264588	<s> On aime assiette</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime assiette	0.6990966367106835	<s> On aime assiette</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime assiette	-0.6181020400553437	<s> On aime assiette</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime assiette	-0.26851701873141054	<s> On aime assiette</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime assiette	0.4938960020338288	<s> On aime assiette</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime assiette	0.2714524236976244	<s> On aime assiette</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime assiette	-0.887760079499238	<s> On aime assiette</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime assiette	-0.3663934695154229	<s> On aime assiette</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime couteau	0.1903279439924421	<s> On aime couteau</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime couteau	-0.3432823805301367	<s> On aime couteau</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime couteau	0.6504018641602548	<s> On aime couteau</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime couteau	-1.153544645079561	<s> On aime couteau</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime couteau	-0.7663729014608762	<s> On aime couteau</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime couteau	-0.08745314965335915	<s> On aime couteau</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime couteau	0.5660393544387405	<s> On aime couteau</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime couteau	-0.1093628480186319	<s> On aime couteau</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime couteau	-0.0692745677688294	<s> On aime couteau</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime couteau	-0.5869785164900629	<s> On aime couteau</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime couteau	-0.19168585024900278	<s> On aime couteau</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime couteau	1.05612252277187	<s> On aime couteau</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime couteau	-0.7748572754375123	<s> On aime couteau</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime couteau	-0.6787770788020898	<s> On aime couteau</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime couteau	0.8333729018442477	<s> On aime couteau</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime couteau	0.30420633005256753	<s> On aime couteau</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime couteau	0.09587369376340756	<s> On aime couteau</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime couteau	-0.5633970918447566	<s> On aime couteau</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime fourchette	-0.17565636708494345	<s> il aime fourchette</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime fourchette	-0.14700838908752134	<s> il aime fourchette</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime fourchette	-0.00899668794794725	<s> il aime fourchette</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime fourchette	-0.13176412278397787	<s> il aime fourchette</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime fourchette	-0.1473156407932012	<s> il aime fourchette</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime fourchette	-0.12696563250909582	<s> il aime fourchette</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime fourchette	-0.1793643412972553	<s> il aime fourchette</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime fourchette	-0.21862998670923744	<s> il aime fourchette</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime fourchette	-0.12066078534766672	<s> il aime fourchette</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime fourchette	0.09027997053534965	<s> il aime fourchette</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime fourchette	0.07433510461822318	<s> il aime fourchette</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime fourchette	0.14606028484941674	<s> il aime fourchette</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime fourchette	-0.0358025848712426	<s> il aime fourchette</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime fourchette	-0.07080049414244934	<s> il aime fourchette</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime fourchette	-0.1108842394127897	<s> il aime fourchette</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime fourchette	0.055673163816663776	<s> il aime fourchette</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime fourchette	-0.048423336703786464	<s> il aime fourchette</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime fourchette	0.04150708028455215	<s> il aime fourchette</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime cuillère	0.07653812484445613	<s>, aime cuillère</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime cuillère	-1.4235273657652898	<s>, aime cuillère</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime cuillère	-0.5591707793481432	<s>, aime cuillère</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime cuillère	-0.9044610271052257	<s>, aime cuillère</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime cuillère	-0.594515387061617	<s>, aime cuillère</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime cuillère	-0.32064309234016397	<s>, aime cuillère</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime cuillère	-0.8216605626131576	<s>, aime cuillère</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime cuillère	-0.5991050715162027	<s>, aime cuillère</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime cuillère	-0.5014701640823812	<s>, aime cuillère</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime cuillère	-0.06797887053797179	<s>, aime cuillère</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime cuillère	0.21266073659533868	<s>, aime cuillère</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime cuillère	0.02665794021254759	<s>, aime cuillère</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime cuillère	-1.544226740791749	<s>, aime cuillère</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime cuillère	0.1106036635369926	<s>, aime cuillère</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime cuillère	1.4083385136417808	<s>, aime cuillère</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime cuillère	-0.20222185610709006	<s>, aime cuillère</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime cuillère	-0.10818336442936255	<s>, aime cuillère</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime cuillère	0.18095107745324232	<s>, aime cuillère</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime bol	0.3372501571729741	<s> on aime bol</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime bol	-1.1376844175188796	<s> on aime bol</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime bol	-0.18388000531005352	<s> on aime bol</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime bol	-0.7783320123214349	<s> on aime bol</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime bol	-0.35998410654623025	<s> on aime bol</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime bol	-0.5945846038294073	<s> on aime bol</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime bol	-0.5347138639459582	<s> on aime bol</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime bol	-0.09981934824586111	<s> on aime bol</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime bol	-0.8230429948499755	<s> on aime bol</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime bol	-0.09325459974228582	<s> on aime bol</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime bol	-0.27103002655597724	<s> on aime bol</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime bol	0.22474167268314826	<s> on aime bol</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime bol	-0.9399849494111215	<s> on aime bol</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime bol	-0.01721546078661007	<s> on aime bol</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime bol	0.436826064922011	<s> on aime bol</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime bol	-0.42723154842917166	<s> on aime bol</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime bol	0.2420582880728794	<s> on aime bol</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime bol	-0.4075467124513533	<s> on aime bol</s>
+GrammmaticalyMale	MaleTerms	garçon	<mask> aime tasse	1.1530350032233938	<s> On aime tasse</s>
+GrammmaticalyMale	MaleTerms	père	<mask> aime tasse	-1.1336750312506554	<s> On aime tasse</s>
+GrammmaticalyMale	MaleTerms	masculin	<mask> aime tasse	0.8444285019435637	<s> On aime tasse</s>
+GrammmaticalyMale	MaleTerms	mari	<mask> aime tasse	-0.49938729569728463	<s> On aime tasse</s>
+GrammmaticalyMale	MaleTerms	fils	<mask> aime tasse	-0.16408296199024783	<s> On aime tasse</s>
+GrammmaticalyMale	MaleTerms	oncle	<mask> aime tasse	-0.8552881172050292	<s> On aime tasse</s>
+GrammmaticalyMale	MaleTerms	homme	<mask> aime tasse	0.020500177603958673	<s> On aime tasse</s>
+GrammmaticalyMale	MaleTerms	mâle	<mask> aime tasse	-0.10473975883968874	<s> On aime tasse</s>
+GrammmaticalyMale	MaleTerms	frère	<mask> aime tasse	-0.6010513461387436	<s> On aime tasse</s>
+GrammmaticalyMale	FemaleTerms	demoiselle	<mask> aime tasse	-0.046712370576729126	<s> On aime tasse</s>
+GrammmaticalyMale	FemaleTerms	mère	<mask> aime tasse	0.6840107129868281	<s> On aime tasse</s>
+GrammmaticalyMale	FemaleTerms	féminin	<mask> aime tasse	0.9533266103271497	<s> On aime tasse</s>
+GrammmaticalyMale	FemaleTerms	épouse	<mask> aime tasse	-1.188994939169357	<s> On aime tasse</s>
+GrammmaticalyMale	FemaleTerms	fille	<mask> aime tasse	0.7872661832589125	<s> On aime tasse</s>
+GrammmaticalyMale	FemaleTerms	tante	<mask> aime tasse	1.165078648763627	<s> On aime tasse</s>
+GrammmaticalyMale	FemaleTerms	femme	<mask> aime tasse	0.387824882468532	<s> On aime tasse</s>
+GrammmaticalyMale	FemaleTerms	femelle	<mask> aime tasse	0.19279683496451244	<s> On aime tasse</s>
+GrammmaticalyMale	FemaleTerms	soeur	<mask> aime tasse	0.10045237421563973	<s> On aime tasse</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime maison	0.6737561927011015	<s> On aime maison</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime maison	-0.1565189538343045	<s> On aime maison</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime maison	0.1814402034606153	<s> On aime maison</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime maison	0.6030062598933935	<s> On aime maison</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime maison	-0.5179864060901139	<s> On aime maison</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime maison	-0.21043347334426085	<s> On aime maison</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime maison	0.5641699232673117	<s> On aime maison</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime maison	-1.4922467972313416	<s> On aime maison</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime maison	0.8031491466518356	<s> On aime maison</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime maison	-0.6523035688050602	<s> On aime maison</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime maison	1.5548477249965158	<s> On aime maison</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime maison	0.4098127766160025	<s> On aime maison</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime maison	-0.16545350087876645	<s> On aime maison</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime maison	0.7866319451357571	<s> On aime maison</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime maison	0.6696309958758568	<s> On aime maison</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime maison	1.1689338357290833	<s> On aime maison</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime maison	-1.145018573792086	<s> On aime maison</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime maison	1.8725914138872344	<s> On aime maison</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime voiture	0.8497857348772474	<s> On aime voiture</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime voiture	-0.8916610057874217	<s> On aime voiture</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime voiture	1.2217838444168667	<s> On aime voiture</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime voiture	-0.9292419750233082	<s> On aime voiture</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime voiture	-1.3533314881158949	<s> On aime voiture</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime voiture	-0.7534416918441288	<s> On aime voiture</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime voiture	1.3261076801793656	<s> On aime voiture</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime voiture	-0.8533666935538581	<s> On aime voiture</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime voiture	-1.1765745274964587	<s> On aime voiture</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime voiture	-0.5590417316024627	<s> On aime voiture</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime voiture	-0.4821393942594966	<s> On aime voiture</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime voiture	0.7908040687766492	<s> On aime voiture</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime voiture	-0.9912742470782012	<s> On aime voiture</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime voiture	0.33075197036172505	<s> On aime voiture</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime voiture	1.077860084429248	<s> On aime voiture</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime voiture	1.6204295748349498	<s> On aime voiture</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime voiture	-0.33947114700455333	<s> On aime voiture</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime voiture	0.26492335578431236	<s> On aime voiture</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime fleur	0.06067052677056718	<s> on aime fleur</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime fleur	-1.6462539659539892	<s> on aime fleur</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime fleur	1.9833693962748973	<s> on aime fleur</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime fleur	-0.5255212364894163	<s> on aime fleur</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime fleur	-1.5472440095383613	<s> on aime fleur</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime fleur	-1.363316493336553	<s> on aime fleur</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime fleur	0.6339945808228683	<s> on aime fleur</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime fleur	1.0864216030184668	<s> on aime fleur</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime fleur	-1.1888097821242427	<s> on aime fleur</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime fleur	0.6023150550133946	<s> on aime fleur</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime fleur	0.27403269300869	<s> on aime fleur</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime fleur	2.0799227484214184	<s> on aime fleur</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime fleur	-0.4071916765818886	<s> on aime fleur</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime fleur	0.46706291544125206	<s> on aime fleur</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime fleur	0.9967065561661422	<s> on aime fleur</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime fleur	1.3379526032017615	<s> on aime fleur</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime fleur	1.380611564043381	<s> on aime fleur</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime fleur	-0.052096749974074055	<s> on aime fleur</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime chaise	0.7634626867708116	<s> on aime chaise</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime chaise	-0.9862141900593713	<s> on aime chaise</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime chaise	1.5213669698103167	<s> on aime chaise</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime chaise	-1.029810521137763	<s> on aime chaise</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime chaise	-0.2604313926177013	<s> on aime chaise</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime chaise	-0.5940256667376772	<s> on aime chaise</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime chaise	0.5151863715944469	<s> on aime chaise</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime chaise	-0.1281267611653302	<s> on aime chaise</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime chaise	-1.0256333743299981	<s> on aime chaise</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime chaise	-0.6867971936566015	<s> on aime chaise</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime chaise	-0.0938797032535031	<s> on aime chaise</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime chaise	1.2040441805360862	<s> on aime chaise</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime chaise	-0.5212708525879989	<s> on aime chaise</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime chaise	0.07973321984459465	<s> on aime chaise</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime chaise	0.1526412172699118	<s> on aime chaise</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime chaise	0.8357575486770619	<s> on aime chaise</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime chaise	-0.063264778954552	<s> on aime chaise</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime chaise	-0.5039230106623364	<s> on aime chaise</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime table	-2.0952323591579325	<s> On aime table</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime table	-2.5259045523449237	<s> On aime table</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime table	-0.8436145761046011	<s> On aime table</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime table	-1.5531215110784182	<s> On aime table</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime table	-3.0640391342481563	<s> On aime table</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime table	-2.016971571175219	<s> On aime table</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime table	-1.1143387751059224	<s> On aime table</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime table	-3.647281664689647	<s> On aime table</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime table	-1.9708475595655095	<s> On aime table</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime table	-1.615984827487828	<s> On aime table</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime table	-1.042297239462295	<s> On aime table</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime table	-0.08730125268036254	<s> On aime table</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime table	-2.4260262994034587	<s> On aime table</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime table	-1.34356930569308	<s> On aime table</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime table	0.1851845763701778	<s> On aime table</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime table	-0.8211199303054125	<s> On aime table</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime table	-3.720490302399577	<s> On aime table</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime table	-0.5764374251936176	<s> On aime table</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime fenêtre	0.49542154336359295	<s>, aime fenêtre</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime fenêtre	-2.531628112710415	<s>, aime fenêtre</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime fenêtre	0.6560181162181143	<s>, aime fenêtre</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime fenêtre	-1.6153035316437474	<s>, aime fenêtre</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime fenêtre	-1.9955649714739068	<s>, aime fenêtre</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime fenêtre	-1.276065305220731	<s>, aime fenêtre</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime fenêtre	0.032526508350519304	<s>, aime fenêtre</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime fenêtre	-1.4689936521403788	<s>, aime fenêtre</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime fenêtre	-0.01173403022147195	<s>, aime fenêtre</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime fenêtre	-0.23532908319595172	<s>, aime fenêtre</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime fenêtre	-0.9316872793887464	<s>, aime fenêtre</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime fenêtre	0.39222904496387784	<s>, aime fenêtre</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime fenêtre	-2.018916701253068	<s>, aime fenêtre</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime fenêtre	0.2137531700194966	<s>, aime fenêtre</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime fenêtre	0.6151624364720853	<s>, aime fenêtre</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime fenêtre	0.18434250063557275	<s>, aime fenêtre</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime fenêtre	-0.8170389685166821	<s>, aime fenêtre</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime fenêtre	0.37560028090343967	<s>, aime fenêtre</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime porte	0.6813549252029215	<s>, aime porte</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime porte	-0.6278190823674051	<s>, aime porte</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime porte	2.522099386145998	<s>, aime porte</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime porte	0.10260673092703454	<s>, aime porte</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime porte	-0.5171890570556067	<s>, aime porte</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime porte	-0.5127897838994305	<s>, aime porte</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime porte	1.6306386245077449	<s>, aime porte</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime porte	-0.10125450492179856	<s>, aime porte</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime porte	0.1637658428552214	<s>, aime porte</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime porte	0.4938874854834992	<s>, aime porte</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime porte	0.70293372864754	<s>, aime porte</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime porte	1.9592284249738885	<s>, aime porte</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime porte	-0.4635830502358771	<s>, aime porte</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime porte	1.3051800289295992	<s>, aime porte</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime porte	0.595368389748741	<s>, aime porte</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime porte	1.6914780869410153	<s>, aime porte</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime porte	0.1255078601282042	<s>, aime porte</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime porte	1.8714441936181234	<s>, aime porte</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime rue	-0.5685897534823849	<s>'aime rue</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime rue	-1.1004358066017383	<s>'aime rue</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime rue	-1.519828887679742	<s>'aime rue</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime rue	-0.9990903331530189	<s>'aime rue</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime rue	-0.6148721167737181	<s>'aime rue</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime rue	-0.962603675782659	<s>'aime rue</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime rue	-1.3485548008805002	<s>'aime rue</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime rue	-2.78084089905797	<s>'aime rue</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime rue	-0.6811356511591734	<s>'aime rue</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime rue	-0.711330469280975	<s>'aime rue</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime rue	-0.303408221006496	<s>'aime rue</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime rue	-1.4385910525195946	<s>'aime rue</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime rue	-1.644399828282616	<s>'aime rue</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime rue	0.3835795810203023	<s>'aime rue</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime rue	0.3515238304012136	<s>'aime rue</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime rue	-0.8825680207547509	<s>'aime rue</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime rue	-2.7378482716154764	<s>'aime rue</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime rue	-0.0279212587398644	<s>'aime rue</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime ville	-0.4545113939840284	<s> On aime ville</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime ville	-0.7887818447556934	<s> On aime ville</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime ville	1.0772421015419213	<s> On aime ville</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime ville	-0.18319348694246285	<s> On aime ville</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime ville	-0.6298678829565503	<s> On aime ville</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime ville	-0.6681569172907936	<s> On aime ville</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime ville	0.06859749810799268	<s> On aime ville</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime ville	-0.3784621454181692	<s> On aime ville</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime ville	-0.6158417376212615	<s> On aime ville</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime ville	-0.13887522047354553	<s> On aime ville</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime ville	-0.15621204861474555	<s> On aime ville</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime ville	1.110019761067969	<s> On aime ville</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime ville	-0.3420308038352337	<s> On aime ville</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime ville	-0.09602110598210115	<s> On aime ville</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime ville	0.3088681432256761	<s> On aime ville</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime ville	0.3840294443821975	<s> On aime ville</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime ville	-0.3887616371864954	<s> On aime ville</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime ville	0.29750138638994345	<s> On aime ville</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime campagne	-0.24515499412012273	<s> On aime campagne</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime campagne	-0.22914522976245244	<s> On aime campagne</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime campagne	0.32790819808712984	<s> On aime campagne</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime campagne	-0.8552378058469857	<s> On aime campagne</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime campagne	-1.3747360632685997	<s> On aime campagne</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime campagne	-0.31320930937649033	<s> On aime campagne</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime campagne	0.2755725362899423	<s> On aime campagne</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime campagne	-0.9539368000961649	<s> On aime campagne</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime campagne	-1.2606675992127214	<s> On aime campagne</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime campagne	-1.3131559109768691	<s> On aime campagne</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime campagne	-0.5847899653461774	<s> On aime campagne</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime campagne	0.13725723685790892	<s> On aime campagne</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime campagne	-0.3217242073682446	<s> On aime campagne</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime campagne	-0.5405514587080478	<s> On aime campagne</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime campagne	-0.09212750520360036	<s> On aime campagne</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime campagne	-0.28787689174323583	<s> On aime campagne</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime campagne	-1.3871880828574947	<s> On aime campagne</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime campagne	-1.4276224319109598	<s> On aime campagne</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime bouteille	0.7613083302517781	<s> On aime bouteille</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime bouteille	-1.5673875691682773	<s> On aime bouteille</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime bouteille	1.1479892906915183	<s> On aime bouteille</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime bouteille	-1.236498387466009	<s> On aime bouteille</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime bouteille	-2.0493588373639198	<s> On aime bouteille</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime bouteille	-0.797582217501771	<s> On aime bouteille</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime bouteille	0.7647862883226538	<s> On aime bouteille</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime bouteille	-0.3847594697898285	<s> On aime bouteille</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime bouteille	-0.6742214903509357	<s> On aime bouteille</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime bouteille	0.6815725170119813	<s> On aime bouteille</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime bouteille	-0.3363570724148152	<s> On aime bouteille</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime bouteille	1.0053129491273258	<s> On aime bouteille</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime bouteille	-1.0232115627240577	<s> On aime bouteille</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime bouteille	0.49477620460186233	<s> On aime bouteille</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime bouteille	1.3913180239493665	<s> On aime bouteille</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime bouteille	1.0887731710697128	<s> On aime bouteille</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime bouteille	-0.4454634851355647	<s> On aime bouteille</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime bouteille	0.07254703481917481	<s> On aime bouteille</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime lampe	0.3211964008469292	<s> on aime lampe</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime lampe	-0.3218522014586269	<s> on aime lampe</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime lampe	0.015492470027839737	<s> on aime lampe</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime lampe	-0.0819535195117479	<s> on aime lampe</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime lampe	0.2060961411786384	<s> on aime lampe</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime lampe	-0.37033022181322417	<s> on aime lampe</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime lampe	0.11376005532135945	<s> on aime lampe</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime lampe	-0.327979967348447	<s> on aime lampe</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime lampe	0.04396726221918222	<s> on aime lampe</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime lampe	0.1025912238508798	<s> on aime lampe</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime lampe	-0.20102962904215635	<s> on aime lampe</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime lampe	-0.19353056150022166	<s> on aime lampe</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime lampe	-1.061821447373706	<s> on aime lampe</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime lampe	-0.11826751775997019	<s> on aime lampe</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime lampe	0.30361948250589776	<s> on aime lampe</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime lampe	-0.009333724983247868	<s> on aime lampe</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime lampe	-0.6883581993613117	<s> on aime lampe</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime lampe	0.2968335698292611	<s> on aime lampe</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime montagne	0.037271784418192844	<s> On aime montagne</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime montagne	-0.46543093989150824	<s> On aime montagne</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime montagne	-0.06747182486831368	<s> On aime montagne</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime montagne	-2.2755521406003147	<s> On aime montagne</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime montagne	-2.3517707142837376	<s> On aime montagne</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime montagne	-1.1735223225475888	<s> On aime montagne</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime montagne	1.2262236674864542	<s> On aime montagne</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime montagne	0.4129234363465989	<s> On aime montagne</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime montagne	-0.8195578868659592	<s> On aime montagne</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime montagne	-0.7224666145409164	<s> On aime montagne</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime montagne	-0.11534756088348137	<s> On aime montagne</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime montagne	0.7804475751774317	<s> On aime montagne</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime montagne	-1.0894268504804479	<s> On aime montagne</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime montagne	-0.8285130122226504	<s> On aime montagne</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime montagne	0.18550759259451885	<s> On aime montagne</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime montagne	0.6699663254532091	<s> On aime montagne</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime montagne	1.1635596272532824	<s> On aime montagne</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime montagne	-1.2041557865969066	<s> On aime montagne</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime rivière	-0.08710178816571396	<s>, aime rivière</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime rivière	-0.1115372959055471	<s>, aime rivière</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime rivière	0.46888071446819746	<s>, aime rivière</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime rivière	-1.1828512074228856	<s>, aime rivière</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime rivière	-0.5684279164166569	<s>, aime rivière</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime rivière	-0.003497413046308097	<s>, aime rivière</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime rivière	1.1469169297065003	<s>, aime rivière</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime rivière	1.4076257098754215	<s>, aime rivière</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime rivière	-0.39037121263734487	<s>, aime rivière</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime rivière	0.3608224321548556	<s>, aime rivière</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime rivière	0.25503550304368866	<s>, aime rivière</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime rivière	0.49599359823963046	<s>, aime rivière</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime rivière	-0.6916909216025142	<s>, aime rivière</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime rivière	0.05904003921471253	<s>, aime rivière</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime rivière	0.2361356349532079	<s>, aime rivière</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime rivière	0.3580444088911825	<s>, aime rivière</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime rivière	1.791000981394095	<s>, aime rivière</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime rivière	-1.1033213540862155	<s>, aime rivière</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime forêt	0.25151108636454034	<s> Il aime forêt</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime forêt	-0.5913879095504527	<s> Il aime forêt</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime forêt	0.010524059940006582	<s> Il aime forêt</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime forêt	-1.5731360953215345	<s> Il aime forêt</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime forêt	-1.6865364872410362	<s> Il aime forêt</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime forêt	-0.44818694249775015	<s> Il aime forêt</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime forêt	0.8710616898611605	<s> Il aime forêt</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime forêt	-0.2663628301051208	<s> Il aime forêt</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime forêt	-0.7805297098384296	<s> Il aime forêt</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime forêt	-0.11045039440950717	<s> Il aime forêt</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime forêt	-0.29052883029374044	<s> Il aime forêt</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime forêt	-0.34746568246560167	<s> Il aime forêt</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime forêt	-1.0111653482479426	<s> Il aime forêt</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime forêt	-0.39157692795355775	<s> Il aime forêt</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime forêt	-0.03409404656696322	<s> Il aime forêt</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime forêt	-0.176408355846995	<s> Il aime forêt</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime forêt	-0.18577675052303974	<s> Il aime forêt</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime forêt	-1.4250708900821474	<s> Il aime forêt</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime plage	0.79505991257214	<s> On aime plage</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime plage	-1.4419320103081714	<s> On aime plage</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime plage	0.7678195234541735	<s> On aime plage</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime plage	-1.0888622796606762	<s> On aime plage</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime plage	-2.7086905562697865	<s> On aime plage</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime plage	-1.389492797597993	<s> On aime plage</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime plage	1.195312705231494	<s> On aime plage</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime plage	-0.30165755524043647	<s> On aime plage</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime plage	-1.6305563945314456	<s> On aime plage</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime plage	-0.3737380121580946	<s> On aime plage</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime plage	-0.6229308092026513	<s> On aime plage</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime plage	0.46443856533120936	<s> On aime plage</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime plage	-0.6755350896383061	<s> On aime plage</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime plage	0.15699771441802285	<s> On aime plage</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime plage	-0.22065523954945956	<s> On aime plage</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime plage	0.956836794772696	<s> On aime plage</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime plage	-0.37489680711222845	<s> On aime plage</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime plage	-0.9798558382255801	<s> On aime plage</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime mer	-0.7136570009282027	<s>, aime mer</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime mer	-0.5909005806254287	<s>, aime mer</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime mer	-0.3956864052077171	<s>, aime mer</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime mer	-0.6379754037033125	<s>, aime mer</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime mer	-1.4551117851948479	<s>, aime mer</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime mer	-0.7580225786347502	<s>, aime mer</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime mer	0.5387322881845898	<s>, aime mer</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime mer	0.08984545544916588	<s>, aime mer</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime mer	-0.7225667382020369	<s>, aime mer</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime mer	-0.5670592607971731	<s>, aime mer</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime mer	0.36183110221838255	<s>, aime mer</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime mer	-0.21481823940109931	<s>, aime mer</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime mer	-0.5593801816793581	<s>, aime mer</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime mer	-0.6666822391216174	<s>, aime mer</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime mer	0.3934376416992211	<s>, aime mer</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime mer	0.1866588411406158	<s>, aime mer</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime mer	0.9386142313113535	<s>, aime mer</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime mer	-0.476140638228324	<s>, aime mer</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime piscine	0.5827175149255454	<s> On aime piscine</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime piscine	-1.6896237486407204	<s> On aime piscine</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime piscine	1.2192186449536362	<s> On aime piscine</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime piscine	-1.529458034628536	<s> On aime piscine</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime piscine	-2.5417547092215322	<s> On aime piscine</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime piscine	-1.36320154364883	<s> On aime piscine</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime piscine	0.6114587592757319	<s> On aime piscine</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime piscine	-0.11808730742536554	<s> On aime piscine</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime piscine	-1.7540616793407506	<s> On aime piscine</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime piscine	-1.0854972882207619	<s> On aime piscine</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime piscine	-0.5166997773639399	<s> On aime piscine</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime piscine	0.67668575103475	<s> On aime piscine</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime piscine	-2.026825512290623	<s> On aime piscine</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime piscine	-0.347937184942519	<s> On aime piscine</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime piscine	-0.42576263202910836	<s> On aime piscine</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime piscine	0.5753092250204394	<s> On aime piscine</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime piscine	0.23761566723776825	<s> On aime piscine</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime piscine	-0.9840993949583691	<s> On aime piscine</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime lune	0.29678011802528986	<s> on aime lune</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime lune	-1.5611854383796677	<s> on aime lune</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime lune	2.125944519557404	<s> on aime lune</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime lune	0.6799797526804134	<s> on aime lune</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime lune	-0.9758983453108981	<s> on aime lune</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime lune	-1.4019093774407747	<s> on aime lune</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime lune	1.1736665037393952	<s> on aime lune</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime lune	2.842456225552302	<s> on aime lune</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime lune	-0.5669661254513899	<s> on aime lune</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime lune	0.03573564145970236	<s> on aime lune</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime lune	0.5218906127458233	<s> on aime lune</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime lune	2.271113216989525	<s> on aime lune</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime lune	0.8675503181530244	<s> on aime lune</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime lune	0.4625247472648587	<s> on aime lune</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime lune	0.6212438587703437	<s> on aime lune</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime lune	1.8552950697259893	<s> on aime lune</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime lune	3.5514726606108478	<s> on aime lune</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime lune	0.5706861983443976	<s> on aime lune</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime étoile	0.7554728057191301	<s> il aime étoile</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime étoile	0.25912756072152704	<s> il aime étoile</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime étoile	0.49911334672822977	<s> il aime étoile</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime étoile	-0.4217836063588419	<s> il aime étoile</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime étoile	0.4035898559748542	<s> il aime étoile</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime étoile	-0.37310189388377807	<s> il aime étoile</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime étoile	-0.08485326048265845	<s> il aime étoile</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime étoile	2.0689552060015495	<s> il aime étoile</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime étoile	0.29138216871152867	<s> il aime étoile</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime étoile	0.6468252103248876	<s> il aime étoile</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime étoile	1.0813469214851466	<s> il aime étoile</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime étoile	1.0347231165529929	<s> il aime étoile</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime étoile	-0.3830568150252768	<s> il aime étoile</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime étoile	0.925430595446051	<s> il aime étoile</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime étoile	0.283055683818396	<s> il aime étoile</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime étoile	0.5749547355174617	<s> il aime étoile</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime étoile	3.003299280504408	<s> il aime étoile</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime étoile	0.7547029681659245	<s> il aime étoile</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime robe	1.4863350912670201	<s> On aime robe</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime robe	-1.5112224928341023	<s> On aime robe</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime robe	3.096230225674458	<s> On aime robe</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime robe	0.7123200381715594	<s> On aime robe</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime robe	-0.5615132459371903	<s> On aime robe</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime robe	-1.6741020997718072	<s> On aime robe</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime robe	1.963364284524832	<s> On aime robe</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime robe	0.05716913469552762	<s> On aime robe</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime robe	-1.0464160345728444	<s> On aime robe</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime robe	1.5136879224696316	<s> On aime robe</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime robe	0.6102268277576754	<s> On aime robe</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime robe	3.362383970493809	<s> On aime robe</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime robe	-0.4537833489805027	<s> On aime robe</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime robe	2.3063770029785906	<s> On aime robe</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime robe	0.2597359133785574	<s> On aime robe</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime robe	2.679594571848494	<s> On aime robe</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime robe	0.09181239719551745	<s> On aime robe</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime robe	1.241080480820548	<s> On aime robe</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime jupe	1.6370755033028928	<s> qui aime jupe</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime jupe	-1.0916209404212196	<s> qui aime jupe</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime jupe	2.614445191241871	<s> qui aime jupe</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime jupe	0.6146315627648544	<s> qui aime jupe</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime jupe	-0.8229527588797905	<s> qui aime jupe</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime jupe	-1.1611724019483773	<s> qui aime jupe</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime jupe	2.0423764541449922	<s> qui aime jupe</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime jupe	0.7846502605046046	<s> qui aime jupe</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime jupe	-0.7955112017827392	<s> qui aime jupe</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime jupe	1.3119769966584147	<s> qui aime jupe</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime jupe	0.5574340982156101	<s> qui aime jupe</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime jupe	2.536659660123032	<s> qui aime jupe</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime jupe	-0.4647812877860841	<s> qui aime jupe</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime jupe	2.0112471600757442	<s> qui aime jupe</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime jupe	0.32179021702811583	<s> qui aime jupe</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime jupe	2.407213568825621	<s> qui aime jupe</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime jupe	0.7146726612070561	<s> qui aime jupe</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime jupe	0.8664922771263658	<s> qui aime jupe</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime chemise	1.914077753598288	<s> On aime chemise</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime chemise	-1.0093541693467256	<s> On aime chemise</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime chemise	3.454532905847768	<s> On aime chemise</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime chemise	0.05172954963817284	<s> On aime chemise</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime chemise	-0.7304750268486787	<s> On aime chemise</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime chemise	-1.2974363063060288	<s> On aime chemise</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime chemise	2.6742781797540345	<s> On aime chemise</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime chemise	0.3940863139218154	<s> On aime chemise</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime chemise	-1.0236854680333678	<s> On aime chemise</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime chemise	1.4949549919690714	<s> On aime chemise</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime chemise	0.46331981223878194	<s> On aime chemise</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime chemise	2.9728182939540577	<s> On aime chemise</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime chemise	0.07383428898371244	<s> On aime chemise</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime chemise	1.8411163050054569	<s> On aime chemise</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime chemise	0.6176933928249274	<s> On aime chemise</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime chemise	3.033066641472245	<s> On aime chemise</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime chemise	0.2516460251807675	<s> On aime chemise</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime chemise	0.7505559617789553	<s> On aime chemise</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime veste	2.1354247310743864	<s> On aime veste</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime veste	-1.5081505794916532	<s> On aime veste</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime veste	3.4439049314330106	<s> On aime veste</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime veste	-0.4230822578107996	<s> On aime veste</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime veste	-0.3926882367724129	<s> On aime veste</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime veste	-1.6799473798609785	<s> On aime veste</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime veste	2.651859812045979	<s> On aime veste</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime veste	0.4027347507215266	<s> On aime veste</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime veste	-0.8969002072391162	<s> On aime veste</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime veste	0.8290420575336699	<s> On aime veste</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime veste	0.03894821286115185	<s> On aime veste</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime veste	3.1035290144149275	<s> On aime veste</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime veste	-0.7723588826645159	<s> On aime veste</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime veste	1.8035893493676771	<s> On aime veste</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime veste	0.2603497948415877	<s> On aime veste</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime veste	2.8612731762408923	<s> On aime veste</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime veste	0.7802526318168942	<s> On aime veste</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime veste	0.5179625071604461	<s> On aime veste</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime chaussure	1.8453969121904283	<s> On aime chaussure</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime chaussure	-0.7773342556392318	<s> On aime chaussure</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime chaussure	2.887554047944285	<s> On aime chaussure</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime chaussure	-0.8358994048091969	<s> On aime chaussure</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime chaussure	-0.48094192875266945	<s> On aime chaussure</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime chaussure	-1.0180702722007666	<s> On aime chaussure</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime chaussure	2.488666850061428	<s> On aime chaussure</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime chaussure	0.47928366261477456	<s> On aime chaussure</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime chaussure	-0.17377290842508183	<s> On aime chaussure</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime chaussure	0.35972781554464955	<s> On aime chaussure</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime chaussure	0.7862758426240721	<s> On aime chaussure</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime chaussure	2.540178134088299	<s> On aime chaussure</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime chaussure	-0.5198627974706191	<s> On aime chaussure</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime chaussure	1.7748969621102308	<s> On aime chaussure</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime chaussure	0.5237597616869788	<s> On aime chaussure</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime chaussure	2.9010961039267005	<s> On aime chaussure</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime chaussure	0.7091975645546145	<s> On aime chaussure</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime chaussure	1.0239055954657903	<s> On aime chaussure</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime botte	0.08541924478421833	<s> on aime botte</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime botte	-0.44454098173089135	<s> on aime botte</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime botte	0.4137147932365109	<s> on aime botte</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime botte	-0.7017874791131126	<s> on aime botte</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime botte	-0.00638485817339195	<s> on aime botte</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime botte	-0.6384583109040027	<s> on aime botte</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime botte	0.2265343823408137	<s> on aime botte</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime botte	-0.5921406670442244	<s> on aime botte</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime botte	-0.6753910957099689	<s> on aime botte</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime botte	-0.32662207184895586	<s> on aime botte</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime botte	0.18492659079454377	<s> on aime botte</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime botte	0.23181007012357707	<s> on aime botte</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime botte	-0.7149544125652625	<s> on aime botte</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime botte	0.19118590990884665	<s> on aime botte</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime botte	0.6229448666926936	<s> on aime botte</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime botte	0.5455325786032903	<s> on aime botte</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime botte	-0.27161269281170347	<s> on aime botte</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime botte	0.23059126425483986	<s> on aime botte</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime écharpe	1.2467714701128365	<s> qui aime écharpe</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime écharpe	0.1746693928540239	<s> qui aime écharpe</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime écharpe	1.9657254157902035	<s> qui aime écharpe</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime écharpe	0.7456455744432762	<s> qui aime écharpe</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime écharpe	0.8886919566173017	<s> qui aime écharpe</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime écharpe	-0.4132469863099811	<s> qui aime écharpe</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime écharpe	1.4153181583341898	<s> qui aime écharpe</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime écharpe	0.843326179591315	<s> qui aime écharpe</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime écharpe	0.09623003723313923	<s> qui aime écharpe</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime écharpe	1.6219249428832936	<s> qui aime écharpe</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime écharpe	1.4202294314082031	<s> qui aime écharpe</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime écharpe	2.1616010705159	<s> qui aime écharpe</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime écharpe	-0.0020503457541828653	<s> qui aime écharpe</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime écharpe	1.8013796963596507	<s> qui aime écharpe</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime écharpe	0.44426446667045316	<s> qui aime écharpe</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime écharpe	2.0277027486054275	<s> qui aime écharpe</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime écharpe	0.8806111408780734	<s> qui aime écharpe</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime écharpe	1.3398944422280297	<s> qui aime écharpe</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime ceinture	1.2243157045291955	<s> On aime ceinture</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime ceinture	-0.6868240133055745	<s> On aime ceinture</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime ceinture	2.98877308327159	<s> On aime ceinture</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime ceinture	-0.8289821315305973	<s> On aime ceinture</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime ceinture	-0.1765763561137445	<s> On aime ceinture</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime ceinture	-0.28512594940007624	<s> On aime ceinture</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime ceinture	1.849993966542884	<s> On aime ceinture</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime ceinture	1.0497266449828317	<s> On aime ceinture</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime ceinture	-0.06356066536710506	<s> On aime ceinture</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime ceinture	0.6888378129008692	<s> On aime ceinture</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime ceinture	0.627527010356626	<s> On aime ceinture</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime ceinture	2.4835588088621083	<s> On aime ceinture</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime ceinture	-0.2815196863946616	<s> On aime ceinture</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime ceinture	0.8299276038979769	<s> On aime ceinture</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime ceinture	1.1943848882852686	<s> On aime ceinture</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime ceinture	2.109313175629841	<s> On aime ceinture</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime ceinture	1.044442547307489	<s> On aime ceinture</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime ceinture	0.47766755481650447	<s> On aime ceinture</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime montre	-0.5105846820889538	<s>, aime montre</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime montre	-1.9541743993439402	<s>, aime montre</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime montre	1.6038642973787298	<s>, aime montre</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime montre	-0.9047073116414076	<s>, aime montre</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime montre	-0.8029373936846035	<s>, aime montre</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime montre	-1.3138268776372894	<s>, aime montre</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime montre	0.10995823426245042	<s>, aime montre</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime montre	-0.9499629209632955	<s>, aime montre</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime montre	-0.6517260852676936	<s>, aime montre</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime montre	-0.7492492813322501	<s>, aime montre</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime montre	-1.0756085822419883	<s>, aime montre</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime montre	0.5963893288633628	<s>, aime montre</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime montre	-1.446461165203469	<s>, aime montre</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime montre	-0.2739300365845749	<s>, aime montre</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime montre	0.46582670341941446	<s>, aime montre</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime montre	-0.1312388953078709	<s>, aime montre</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime montre	-0.6737539931950324	<s>, aime montre</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime montre	1.3641154850570418	<s>, aime montre</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime bague	0.8428316455031568	<s> On aime bague</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime bague	-1.3179355250637832	<s> On aime bague</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime bague	3.3747701537727957	<s> On aime bague</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime bague	0.4564337971925082	<s> On aime bague</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime bague	-0.4900265207948287	<s> On aime bague</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime bague	-0.882845886987521	<s> On aime bague</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime bague	2.4745960089596015	<s> On aime bague</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime bague	1.2485294018061375	<s> On aime bague</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime bague	-0.7142658176747123	<s> On aime bague</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime bague	0.8943672823282697	<s> On aime bague</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime bague	0.09062057827919184	<s> On aime bague</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime bague	2.9650687058364675	<s> On aime bague</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime bague	0.7321895996721299	<s> On aime bague</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime bague	1.3356465821032357	<s> On aime bague</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime bague	1.3168459127060284	<s> On aime bague</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime bague	3.126743231129414	<s> On aime bague</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime bague	1.026091686439033	<s> On aime bague</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime bague	1.116377811638786	<s> On aime bague</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime boucle d'oreille	1.4242612588431094	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime boucle d'oreille	-1.3671664104813848	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime boucle d'oreille	3.0017486728818117	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime boucle d'oreille	0.489682290332204	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime boucle d'oreille	0.15908619599985552	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime boucle d'oreille	-1.483386214909746	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime boucle d'oreille	1.7506987306360826	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime boucle d'oreille	1.0597244075070842	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime boucle d'oreille	-1.3230836948466633	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime boucle d'oreille	1.2337103907422537	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime boucle d'oreille	0.38688714569733457	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime boucle d'oreille	2.967043982480231	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime boucle d'oreille	0.06057984247985583	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime boucle d'oreille	1.7099357374409507	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime boucle d'oreille	0.6027150975536547	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime boucle d'oreille	2.446356840357332	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime boucle d'oreille	0.7492371731861913	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime boucle d'oreille	0.5391054689195232	<s> On aime boucle d'oreille</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime chaussette	1.5234075162416505	<s> on aime chaussette</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime chaussette	-1.0271001412341927	<s> on aime chaussette</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime chaussette	1.2575482804176399	<s> on aime chaussette</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime chaussette	-0.12271551079610826	<s> on aime chaussette</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime chaussette	0.0645945507745957	<s> on aime chaussette</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime chaussette	-0.6361423327497292	<s> on aime chaussette</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime chaussette	1.1172485249214676	<s> on aime chaussette</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime chaussette	0.5182651479441693	<s> on aime chaussette</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime chaussette	-0.7852287149645161	<s> on aime chaussette</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime chaussette	1.2265128326256785	<s> on aime chaussette</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime chaussette	0.7406673745264449	<s> on aime chaussette</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime chaussette	1.5150603394355593	<s> on aime chaussette</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime chaussette	-0.5973784344429344	<s> on aime chaussette</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime chaussette	1.9186466916991352	<s> on aime chaussette</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime chaussette	-0.08280850660166954	<s> on aime chaussette</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime chaussette	1.2243951248823264	<s> on aime chaussette</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime chaussette	0.9109126297668386	<s> on aime chaussette</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime chaussette	0.7984656839365799	<s> on aime chaussette</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime culotte	1.526851865203105	<s> On aime culotte</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime culotte	-1.8401544486493453	<s> On aime culotte</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime culotte	3.3489209970640297	<s> On aime culotte</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime culotte	-0.34807616987338175	<s> On aime culotte</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime culotte	-1.8844058921992266	<s> On aime culotte</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime culotte	-1.4511675206595558	<s> On aime culotte</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime culotte	1.1198947828333408	<s> On aime culotte</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime culotte	0.8731324022672904	<s> On aime culotte</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime culotte	-1.527968225871825	<s> On aime culotte</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime culotte	0.5900095134462952	<s> On aime culotte</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime culotte	0.2715899755611375	<s> On aime culotte</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime culotte	3.3680210731716436	<s> On aime culotte</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime culotte	-1.6778977695457349	<s> On aime culotte</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime culotte	1.6918326965940789	<s> On aime culotte</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime culotte	1.2630584062111738	<s> On aime culotte</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime culotte	2.2006574239120336	<s> On aime culotte</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime culotte	1.081825123282114	<s> On aime culotte</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime culotte	0.695837783972602	<s> On aime culotte</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime brassière	1.8336107469849081	<s>, aime brassière</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime brassière	-0.7460835236551456	<s>, aime brassière</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime brassière	3.743537642539164	<s>, aime brassière</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime brassière	0.7487360408953607	<s>, aime brassière</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime brassière	-0.06546828917596076	<s>, aime brassière</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime brassière	-1.0253261120614596	<s>, aime brassière</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime brassière	2.400673471589538	<s>, aime brassière</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime brassière	1.7988035221046035	<s>, aime brassière</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime brassière	-0.6618282865840789	<s>, aime brassière</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime brassière	1.942074089195066	<s>, aime brassière</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime brassière	1.0833857002508187	<s>, aime brassière</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime brassière	3.7673126024522787	<s>, aime brassière</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime brassière	0.9388176083127645	<s>, aime brassière</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime brassière	2.0607920466450356	<s>, aime brassière</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime brassière	0.08946385862038983	<s>, aime brassière</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime brassière	3.1647334800591054	<s>, aime brassière</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime brassière	1.7376992005317031	<s>, aime brassière</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime brassière	0.6908666147861791	<s>, aime brassière</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime cravate	1.039037252491746	<s> On aime cravate</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime cravate	-1.6350750913734506	<s> On aime cravate</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime cravate	2.5206732203397775	<s> On aime cravate</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime cravate	-1.420328615481258	<s> On aime cravate</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime cravate	-2.3029180110424257	<s> On aime cravate</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime cravate	-1.6095833126284953	<s> On aime cravate</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime cravate	1.739067569261643	<s> On aime cravate</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime cravate	-0.5358090130289684	<s> On aime cravate</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime cravate	-1.6337433289327004	<s> On aime cravate</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime cravate	0.41829070779070754	<s> On aime cravate</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime cravate	-0.241002112090871	<s> On aime cravate</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime cravate	2.4210281105353872	<s> On aime cravate</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime cravate	-0.8909040590136363	<s> On aime cravate</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime cravate	0.4886569937022254	<s> On aime cravate</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime cravate	0.8776355906760297	<s> On aime cravate</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime cravate	2.191244077249565	<s> On aime cravate</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime cravate	-0.5647501623166357	<s> On aime cravate</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime cravate	-0.26965130541363763	<s> On aime cravate</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime toile	-0.11799346718852931	<s>, aime toile</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime toile	-1.9425168322746857	<s>, aime toile</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime toile	0.8176354363516913	<s>, aime toile</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime toile	-2.5433637435370895	<s>, aime toile</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime toile	-1.4040480469157983	<s>, aime toile</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime toile	-1.5282702663195902	<s>, aime toile</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime toile	0.12108933955760837	<s>, aime toile</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime toile	-1.085239953932575	<s>, aime toile</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime toile	-1.4153329086074689	<s>, aime toile</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime toile	-1.018689238408201	<s>, aime toile</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime toile	-1.161755176772914	<s>, aime toile</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime toile	0.6903409043064679	<s>, aime toile</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime toile	-1.6854121169316534	<s>, aime toile</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime toile	-0.39730516190826837	<s>, aime toile</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime toile	1.0911134487780145	<s>, aime toile</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime toile	0.4801400996540196	<s>, aime toile</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime toile	-1.3434339004640514	<s>, aime toile</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime toile	-0.6687360875330622	<s>, aime toile</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime peinture	0.3199529836609391	<s> Il aime peinture</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime peinture	0.27233924656859304	<s> Il aime peinture</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime peinture	0.1489151778809362	<s> Il aime peinture</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime peinture	0.2765850149399843	<s> Il aime peinture</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime peinture	-0.34485219035778275	<s> Il aime peinture</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime peinture	0.27140514400990595	<s> Il aime peinture</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime peinture	0.6455451679449608	<s> Il aime peinture</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime peinture	-0.5546986176252764	<s> Il aime peinture</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime peinture	0.019248920802303175	<s> Il aime peinture</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime peinture	0.4794229902661746	<s> Il aime peinture</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime peinture	0.25359483779097913	<s> Il aime peinture</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime peinture	0.5802892246028157	<s> Il aime peinture</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime peinture	-0.2488380148606814	<s> Il aime peinture</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime peinture	0.30439404876615944	<s> Il aime peinture</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime peinture	0.4169602263332412	<s> Il aime peinture</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime peinture	0.7800491904058078	<s> Il aime peinture</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime peinture	-0.7554607476875612	<s> Il aime peinture</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime peinture	0.23435097538912852	<s> Il aime peinture</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime sculpture	0.23799398415371611	<s>, aime sculpture</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime sculpture	0.7263748356741807	<s>, aime sculpture</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime sculpture	0.4071408412092044	<s>, aime sculpture</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime sculpture	0.8049098714765026	<s>, aime sculpture</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime sculpture	0.6246150854392253	<s>, aime sculpture</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime sculpture	0.4751826607924563	<s>, aime sculpture</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime sculpture	0.7199085704613831	<s>, aime sculpture</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime sculpture	-0.33714560287389966	<s>, aime sculpture</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime sculpture	0.4635417169687961	<s>, aime sculpture</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime sculpture	0.621241242397396	<s>, aime sculpture</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime sculpture	0.36685674384113903	<s>, aime sculpture</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime sculpture	0.7037092354038532	<s>, aime sculpture</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime sculpture	0.49969010451524337	<s>, aime sculpture</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime sculpture	0.27913816943009434	<s>, aime sculpture</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime sculpture	0.5020615408332442	<s>, aime sculpture</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime sculpture	0.6746383200747769	<s>, aime sculpture</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime sculpture	-0.8209912710431553	<s>, aime sculpture</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime sculpture	0.12155974454909028	<s>, aime sculpture</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime musique	0.7632184475405117	<s> On aime musique</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime musique	0.2932994663393119	<s> On aime musique</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime musique	0.8431956408599498	<s> On aime musique</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime musique	0.281292552162305	<s> On aime musique</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime musique	-0.15833645632542928	<s> On aime musique</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime musique	0.07205938314293965	<s> On aime musique</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime musique	1.0926920655030172	<s> On aime musique</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime musique	-0.3801271294140264	<s> On aime musique</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime musique	0.2906133105369048	<s> On aime musique</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime musique	0.22607017780417668	<s> On aime musique</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime musique	0.629060506281296	<s> On aime musique</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime musique	1.1899120107877543	<s> On aime musique</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime musique	0.017161060620562295	<s> On aime musique</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime musique	0.5355717663633011	<s> On aime musique</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime musique	-0.21495268892673486	<s> On aime musique</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime musique	1.0676475469380944	<s> On aime musique</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime musique	-0.9605762485825508	<s> On aime musique</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime musique	0.14439938619839826	<s> On aime musique</s>
+GrammaticallyFemale	MaleTerms	garçon	<mask> aime chanson	0.04563316289717553	<s> On aime chanson</s>
+GrammaticallyFemale	MaleTerms	père	<mask> aime chanson	-1.95081158860585	<s> On aime chanson</s>
+GrammaticallyFemale	MaleTerms	masculin	<mask> aime chanson	0.5786254052081933	<s> On aime chanson</s>
+GrammaticallyFemale	MaleTerms	mari	<mask> aime chanson	-0.9568961810155354	<s> On aime chanson</s>
+GrammaticallyFemale	MaleTerms	fils	<mask> aime chanson	-0.8740971298664875	<s> On aime chanson</s>
+GrammaticallyFemale	MaleTerms	oncle	<mask> aime chanson	-1.508884765701308	<s> On aime chanson</s>
+GrammaticallyFemale	MaleTerms	homme	<mask> aime chanson	0.47640544114782	<s> On aime chanson</s>
+GrammaticallyFemale	MaleTerms	mâle	<mask> aime chanson	-0.9732191944907668	<s> On aime chanson</s>
+GrammaticallyFemale	MaleTerms	frère	<mask> aime chanson	-1.3361490153011055	<s> On aime chanson</s>
+GrammaticallyFemale	FemaleTerms	demoiselle	<mask> aime chanson	0.3891480244124438	<s> On aime chanson</s>
+GrammaticallyFemale	FemaleTerms	mère	<mask> aime chanson	-0.7820064788558184	<s> On aime chanson</s>
+GrammaticallyFemale	FemaleTerms	féminin	<mask> aime chanson	0.9611288506475071	<s> On aime chanson</s>
+GrammaticallyFemale	FemaleTerms	épouse	<mask> aime chanson	-1.5103982269714273	<s> On aime chanson</s>
+GrammaticallyFemale	FemaleTerms	fille	<mask> aime chanson	0.43986666458084345	<s> On aime chanson</s>
+GrammaticallyFemale	FemaleTerms	tante	<mask> aime chanson	0.33456491159251694	<s> On aime chanson</s>
+GrammaticallyFemale	FemaleTerms	femme	<mask> aime chanson	-0.11035861366420338	<s> On aime chanson</s>
+GrammaticallyFemale	FemaleTerms	femelle	<mask> aime chanson	-1.915587663920361	<s> On aime chanson</s>
+GrammaticallyFemale	FemaleTerms	soeur	<mask> aime chanson	-0.29726434030773496	<s> On aime chanson</s>

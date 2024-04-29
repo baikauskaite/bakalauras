@@ -1,0 +1,12 @@
+**** GrammaticallyFemale ****
+FemaleTerms mean,	 0.39042793028841005
+MaleTerms mean,	 -0.11319365118241592
+Test statistic,	 14903.0
+p-value,	 5.548801264537522e-19
+
+**** GrammmaticalyMale ****
+FemaleTerms mean,	 -0.08581362665122108
+MaleTerms mean,	 -0.34529119371700195
+Test statistic,	 20685.0
+p-value,	 2.308443960909098e-09
+

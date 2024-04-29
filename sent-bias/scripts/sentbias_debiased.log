@@ -1,0 +1,242 @@
+04/23 03:49:32 PM: Seeding random number generators with 42
+04/23 03:49:32 PM: Parsed args: 
+Namespace(tests='sent-weat0,sent-weat1,sent-weat2,sent-weat3,sent-weat3b,sent-weat4,sent-weat4b,sent-weat5,sent-weat5b,sent-weat6', models='camembert', seed=42, log_file='/home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/log.log', results_path=None, ignore_cached_encs=True, dont_cache_encs=False, data_dir='/home/viktorija/bakalaurinis/sent-bias/tests/french', exp_dir='/home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased', n_samples=100000, parametric=False, use_cpu=False, glove_path=None, time_combine_method='mean', layer_combine_method='add', infersent_dir=None, glove_h5_path=None, gensen_dir=None, gensen_version='nli_large_bothskip_parse,nli_large_bothskip', cove_encs=None, openai_encs=None, bert_version='bert-large-cased', camembert_version='/home/viktorija/bakalaurinis/models/camembert-debiased')
+04/23 03:49:32 PM: Tests selected:
+04/23 03:49:32 PM: 	sent-weat0
+04/23 03:49:32 PM: 	sent-weat1
+04/23 03:49:32 PM: 	sent-weat2
+04/23 03:49:32 PM: 	sent-weat3
+04/23 03:49:32 PM: 	sent-weat3b
+04/23 03:49:32 PM: 	sent-weat4
+04/23 03:49:32 PM: 	sent-weat4b
+04/23 03:49:32 PM: 	sent-weat5
+04/23 03:49:32 PM: 	sent-weat5b
+04/23 03:49:32 PM: 	sent-weat6
+04/23 03:49:32 PM: Models selected:
+04/23 03:49:32 PM: 	camembert
+04/23 03:49:32 PM: Running tests for model camembert
+04/23 03:49:32 PM: Running test sent-weat0 for model camembert
+04/23 03:49:32 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat0.jsonl...
+04/23 03:49:32 PM: Computing sentence encodings
+Some weights of CamembertModel were not initialized from the model checkpoint at /home/viktorija/bakalaurinis/models/camembert-debiased and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:49:39 PM: 	Done!
+04/23 03:49:39 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat0.h5
+04/23 03:49:40 PM: Running SEAT...
+04/23 03:49:40 PM: Representation dimension: 768
+04/23 03:49:40 PM: Computing cosine similarities...
+04/23 03:49:40 PM: Null hypothesis: no difference between GrammaticallyMale and GrammaticallyFemale in association to attributes MaleTerms and FemaleTerms
+04/23 03:49:40 PM: Computing pval...
+04/23 03:49:40 PM: Using non-parametric test
+04/23 03:49:40 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:49:40 PM: pval: 0.73721
+04/23 03:49:40 PM: computing effect size...
+04/23 03:49:40 PM: esize: -0.0901913
+04/23 03:49:40 PM: Running test sent-weat1 for model camembert
+04/23 03:49:40 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat1.jsonl...
+04/23 03:49:40 PM: Computing sentence encodings
+Some weights of CamembertModel were not initialized from the model checkpoint at /home/viktorija/bakalaurinis/models/camembert-debiased and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:49:51 PM: Removed 5 examples from targ1
+04/23 03:49:51 PM: 	Done!
+04/23 03:49:51 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat1.h5
+04/23 03:49:51 PM: Running SEAT...
+04/23 03:49:51 PM: Representation dimension: 768
+04/23 03:49:51 PM: Computing cosine similarities...
+04/23 03:49:51 PM: Null hypothesis: no difference between Flowers and Insects in association to attributes Pleasant and Unpleasant
+04/23 03:49:51 PM: Computing pval...
+04/23 03:49:51 PM: Using non-parametric test
+04/23 03:49:51 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:49:51 PM: pval: 0.02343
+04/23 03:49:51 PM: computing effect size...
+04/23 03:49:51 PM: esize: 0.216831
+04/23 03:49:51 PM: Running test sent-weat2 for model camembert
+04/23 03:49:51 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat2.jsonl...
+04/23 03:49:51 PM: Computing sentence encodings
+Some weights of CamembertModel were not initialized from the model checkpoint at /home/viktorija/bakalaurinis/models/camembert-debiased and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:50:02 PM: Removed 4 examples from targ2
+04/23 03:50:02 PM: 	Done!
+04/23 03:50:02 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat2.h5
+04/23 03:50:02 PM: Running SEAT...
+04/23 03:50:02 PM: Representation dimension: 768
+04/23 03:50:02 PM: Computing cosine similarities...
+04/23 03:50:02 PM: Null hypothesis: no difference between Instruments and Weapons in association to attributes Pleasant and Unpleasant
+04/23 03:50:02 PM: Computing pval...
+04/23 03:50:02 PM: Using non-parametric test
+04/23 03:50:02 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:50:03 PM: pval: 0.81733
+04/23 03:50:03 PM: computing effect size...
+04/23 03:50:03 PM: esize: -0.102407
+04/23 03:50:03 PM: Running test sent-weat3 for model camembert
+04/23 03:50:03 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat3.jsonl...
+04/23 03:50:03 PM: Computing sentence encodings
+Some weights of CamembertModel were not initialized from the model checkpoint at /home/viktorija/bakalaurinis/models/camembert-debiased and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:50:06 PM: Removed 10 examples from targ1
+04/23 03:50:06 PM: 	Done!
+04/23 03:50:06 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat3.h5
+04/23 03:50:06 PM: Running SEAT...
+04/23 03:50:06 PM: Representation dimension: 768
+04/23 03:50:06 PM: Computing cosine similarities...
+04/23 03:50:06 PM: Null hypothesis: no difference between MaleTerms and FemaleTerms in association to attributes Career and Family
+04/23 03:50:06 PM: Computing pval...
+04/23 03:50:06 PM: Using non-parametric test
+04/23 03:50:06 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:50:06 PM: pval: 0.47306
+04/23 03:50:06 PM: computing effect size...
+04/23 03:50:06 PM: esize: 0.0176694
+04/23 03:50:06 PM: Running test sent-weat3b for model camembert
+04/23 03:50:06 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat3b.jsonl...
+04/23 03:50:06 PM: Computing sentence encodings
+Some weights of CamembertModel were not initialized from the model checkpoint at /home/viktorija/bakalaurinis/models/camembert-debiased and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:50:10 PM: 	Done!
+04/23 03:50:10 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat3b.h5
+04/23 03:50:10 PM: Running SEAT...
+04/23 03:50:10 PM: Representation dimension: 768
+04/23 03:50:10 PM: Computing cosine similarities...
+04/23 03:50:10 PM: Null hypothesis: no difference between MaleNames and FemaleNames in association to attributes Career and Family
+04/23 03:50:10 PM: Computing pval...
+04/23 03:50:10 PM: Using non-parametric test
+04/23 03:50:10 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:50:10 PM: pval: 0.02206
+04/23 03:50:10 PM: computing effect size...
+04/23 03:50:10 PM: esize: 0.427116
+04/23 03:50:10 PM: Running test sent-weat4 for model camembert
+04/23 03:50:10 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat4.jsonl...
+04/23 03:50:10 PM: Computing sentence encodings
+Some weights of CamembertModel were not initialized from the model checkpoint at /home/viktorija/bakalaurinis/models/camembert-debiased and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:50:13 PM: 	Done!
+04/23 03:50:13 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat4.h5
+04/23 03:50:13 PM: Running SEAT...
+04/23 03:50:13 PM: Representation dimension: 768
+04/23 03:50:13 PM: Computing cosine similarities...
+04/23 03:50:13 PM: Null hypothesis: no difference between Math and Arts in association to attributes MaleTerms and FemaleTerms
+04/23 03:50:13 PM: Computing pval...
+04/23 03:50:13 PM: Using non-parametric test
+04/23 03:50:13 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:50:14 PM: pval: 0.04428
+04/23 03:50:14 PM: computing effect size...
+04/23 03:50:14 PM: esize: 0.429793
+04/23 03:50:14 PM: Running test sent-weat4b for model camembert
+04/23 03:50:14 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat4b.jsonl...
+04/23 03:50:14 PM: Computing sentence encodings
+Some weights of CamembertModel were not initialized from the model checkpoint at /home/viktorija/bakalaurinis/models/camembert-debiased and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:50:17 PM: 	Done!
+04/23 03:50:17 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat4b.h5
+04/23 03:50:17 PM: Running SEAT...
+04/23 03:50:17 PM: Representation dimension: 768
+04/23 03:50:17 PM: Computing cosine similarities...
+04/23 03:50:17 PM: Null hypothesis: no difference between Math and Arts in association to attributes MaleNames and FemaleNames
+04/23 03:50:17 PM: Computing pval...
+04/23 03:50:17 PM: Using non-parametric test
+04/23 03:50:17 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:50:17 PM: pval: 0.04681
+04/23 03:50:17 PM: computing effect size...
+04/23 03:50:17 PM: esize: 0.417855
+04/23 03:50:17 PM: Running test sent-weat5 for model camembert
+04/23 03:50:17 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat5.jsonl...
+04/23 03:50:17 PM: Computing sentence encodings
+Some weights of CamembertModel were not initialized from the model checkpoint at /home/viktorija/bakalaurinis/models/camembert-debiased and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:50:19 PM: 	Done!
+04/23 03:50:19 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat5.h5
+04/23 03:50:19 PM: Running SEAT...
+04/23 03:50:19 PM: Representation dimension: 768
+04/23 03:50:19 PM: Computing cosine similarities...
+04/23 03:50:19 PM: Null hypothesis: no difference between Science and Arts in association to attributes MaleTerms and FemaleTerms
+04/23 03:50:19 PM: Computing pval...
+04/23 03:50:19 PM: Using non-parametric test
+04/23 03:50:19 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:50:20 PM: pval: 0.45405
+04/23 03:50:20 PM: computing effect size...
+04/23 03:50:20 PM: esize: 0.0355112
+04/23 03:50:20 PM: Running test sent-weat5b for model camembert
+04/23 03:50:20 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat5b.jsonl...
+04/23 03:50:20 PM: Computing sentence encodings
+Some weights of CamembertModel were not initialized from the model checkpoint at /home/viktorija/bakalaurinis/models/camembert-debiased and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:50:22 PM: 	Done!
+04/23 03:50:22 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat5b.h5
+04/23 03:50:22 PM: Running SEAT...
+04/23 03:50:22 PM: Representation dimension: 768
+04/23 03:50:22 PM: Computing cosine similarities...
+04/23 03:50:22 PM: Null hypothesis: no difference between Science and Arts in association to attributes MaleNames and FemaleNames
+04/23 03:50:22 PM: Computing pval...
+04/23 03:50:22 PM: Using non-parametric test
+04/23 03:50:22 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:50:23 PM: pval: 0.2008
+04/23 03:50:23 PM: computing effect size...
+04/23 03:50:23 PM: esize: 0.241827
+04/23 03:50:23 PM: Running test sent-weat6 for model camembert
+04/23 03:50:23 PM: Loading /home/viktorija/bakalaurinis/sent-bias/tests/french/sent-weat6.jsonl...
+04/23 03:50:23 PM: Computing sentence encodings
+Some weights of CamembertModel were not initialized from the model checkpoint at /home/viktorija/bakalaurinis/models/camembert-debiased and are newly initialized: ['roberta.pooler.dense.bias', 'roberta.pooler.dense.weight']
+You should probably TRAIN this model on a down-stream task to be able to use it for predictions and inference.
+Special tokens have been added in the vocabulary, make sure the associated word embeddings are fine-tuned or trained.
+04/23 03:50:24 PM: 	Done!
+04/23 03:50:24 PM: Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/camembert-debiased/camembert.sent-weat6.h5
+04/23 03:50:24 PM: Running SEAT...
+04/23 03:50:24 PM: Representation dimension: 768
+04/23 03:50:24 PM: Computing cosine similarities...
+04/23 03:50:24 PM: Null hypothesis: no difference between MentalDisease and PhysicalDisease in association to attributes Temporary and Permanent
+04/23 03:50:24 PM: Computing pval...
+04/23 03:50:24 PM: Using non-parametric test
+04/23 03:50:24 PM: Drawing 99999 samples (and biasing by 1)
+04/23 03:50:24 PM: pval: 0.68026
+04/23 03:50:24 PM: computing effect size...
+04/23 03:50:24 PM: esize: -0.193732
+04/23 03:50:24 PM: Model: camembert
+04/23 03:50:24 PM: Options: version=/home/viktorija/bakalaurinis/models/camembert-debiased
+04/23 03:50:24 PM: 	Test sent-weat0:	p-val: 0.737210000	esize: -0.09
+04/23 03:50:24 PM: 	Test sent-weat1:	p-val: 0.023430000	esize: 0.22
+04/23 03:50:24 PM: 	Test sent-weat2:	p-val: 0.817330000	esize: -0.10
+04/23 03:50:24 PM: 	Test sent-weat3:	p-val: 0.473060000	esize: 0.02
+04/23 03:50:24 PM: 	Test sent-weat3b:	p-val: 0.022060000	esize: 0.43
+04/23 03:50:24 PM: 	Test sent-weat4:	p-val: 0.044280000	esize: 0.43
+04/23 03:50:24 PM: 	Test sent-weat4b:	p-val: 0.046810000	esize: 0.42
+04/23 03:50:24 PM: 	Test sent-weat5:	p-val: 0.454050000	esize: 0.04
+04/23 03:50:24 PM: 	Test sent-weat5b:	p-val: 0.200800000	esize: 0.24
+04/23 03:50:24 PM: 	Test sent-weat6:	p-val: 0.680260000	esize: -0.19
+98 98
+76 80
+98 98
+167 167
+100 109
+167 167
+156 156
+100 109
+156 156
+32 32
+49 45
+32 32
+45 45
+49 45
+45 45
+32 32
+42 32
+32 32
+32 32
+45 45
+32 32
+24 24
+42 41
+24 24
+24 24
+45 45
+24 24
+12 12
+12 12
+12 12
