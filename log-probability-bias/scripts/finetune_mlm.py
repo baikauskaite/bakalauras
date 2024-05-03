@@ -13,16 +13,16 @@ import torch.nn.functional as F
 
 # ##############################################################################
 
-# Select model_checkpoint, source_model_dir, and language
 BASE_DIR = "/home/viktorija/bakalaurinis/log-probability-bias"
-MODEL_CHECKPOINT = "camembert-base"
-# MODEL_CHECKPOINT = "uklfr/gottbert-base"
-SOURCE_MODEL_DIR = os.path.join(BASE_DIR, "../models/camembert-debiased")
-# SOURCE_MODEL_DIR = os.path.join(BASE_DIR, "../models/gottbert-debiased")
-LANGUAGE = "fr"
-# LANGUAGE = "de"
-
 SAVE_MODEL_DIR = os.path.join(BASE_DIR, "../models")
+
+MODEL_CHECKPOINT = "camembert-base"
+SOURCE_MODEL_DIR = os.path.join(BASE_DIR, "../models/camembert-debiased")
+LANGUAGE = "fr"
+
+# MODEL_CHECKPOINT = "uklfr/gottbert-base"
+# SOURCE_MODEL_DIR = os.path.join(BASE_DIR, "../models/gottbert-debiased")
+# LANGUAGE = "de"
 
 # Select to use the original model or the debiased model
 MODEL_SELECTION = MODEL_CHECKPOINT

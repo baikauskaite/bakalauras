@@ -37,7 +37,6 @@ gars
 roi
 mecs
 papas
-sperme
 empereur
 papa
 masculinisme
@@ -47,7 +46,6 @@ paternité
 androgène
 caméramans
 parrain
-homme_fort
 Dieu
 patriarche
 oncle
@@ -65,7 +63,6 @@ neveux
 taureau
 beau
 conseillers
-petit_fils
 fiancés
 beaux-pères
 cavaliers
@@ -78,7 +75,6 @@ maître
 garçon
 acteurs
 vendeurs
-petit_ami
 conseiller
 gars
 paternel
@@ -107,9 +103,7 @@ serviteurs
 M.
 directeurs
 aviateur
-homme_au_foyer
 prêtre
-barmen
 barons
 abbés
 fraternités
@@ -133,8 +127,6 @@ gays
 mâle
 serveurs
 sperme
-beau-fils
-prostate_utricule
 héritier
 serveur
 directeur
@@ -149,7 +141,7 @@ garçon
 grand-père
 paternité
 coqs
-prostate_utricule
+prostate
 prêtres
 serviteurs
 tailleur

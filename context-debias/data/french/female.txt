@@ -37,7 +37,6 @@ dames
 reine
 filles
 mamans
-éjaculation_femelle
 impératrice
 maman
 féminisme
@@ -47,7 +46,6 @@ maternité
 œstrogène
 caméramanes
 marraine
-femme_forte
 déesse
 matrone
 tante
@@ -65,7 +63,6 @@ nièces
 vache
 belles
 conseillères
-petite_fille
 fiancées
 belles-mères
 cavalières
@@ -78,7 +75,6 @@ maîtresse
 fille
 actrices
 vendeuses
-petite_amie
 conseillère
 dame
 maternel
@@ -107,9 +103,7 @@ servantes
 Mme.
 directrices
 aviatrice
-femme_au_foyer
 prêtresse
-femmes_de_bar
 barnoesses
 abbesses
 sororités
@@ -133,8 +127,6 @@ lesbiennes
 femelle
 serveuses
 ovule
-belle_fille
-utérus
 héritière
 serveuse
 directrice
