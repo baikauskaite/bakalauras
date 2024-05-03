@@ -1,14 +1,18 @@
 import argparse
 import random
 
-FILE1 = "de-fem-v2.txt"
-FILE2 = "de-masc-v2.txt"
-OUTPUT_FILE = "../stereotype.txt"
+LANGUAGE = "fr"
+FILE1 = f"{LANGUAGE}-fem-v2.txt"
+FILE2 = f"{LANGUAGE}-masc-v2.txt"
+OUTPUT_FILE = "../stereotypes.txt"
 
 
-def read_and_randomize_words(file_path, word_limit=500):
+def read_and_randomize_words(file_path, word_limit=5000):
     with open(file_path, 'r', encoding='utf-8') as file:
         words = file.read().split()
+        words = [word for word in words if "-" not in word 
+                 and not any(char.isdigit() for char in word) 
+                 and len(word) > 2 and len(word) < 15]
         random.shuffle(words)
         return words[:word_limit]
 

@@ -28,7 +28,7 @@ SAVE_MODEL_DIR = os.path.join(BASE_DIR, "../models")
 MODEL_SELECTION = MODEL_CHECKPOINT
 # MODEL_SELECTION = SOURCE_MODEL_DIR
 
-dataset_path = os.path.join(BASE_DIR, LANGUAGE, "tokenized")
+dataset_path = os.path.join(BASE_DIR, "tokenized", LANGUAGE)
 model_name = MODEL_SELECTION.split("/")[-1]
 
 num_epochs = 4
