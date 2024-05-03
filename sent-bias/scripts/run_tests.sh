@@ -4,7 +4,7 @@ set -e
 
 MODEL_VERSION=$1
 LANGUAGE=$2
-TESTS=sent-weat0,sent-weat1,sent-weat2,sent-weat3,sent-weat3b,sent-weat4,sent-weat4b,sent-weat5,sent-weat5b,sent-weat6
+TESTS=sent-weat0,sent-weat0b,sent-weat1,sent-weat2,sent-weat3,sent-weat3b,sent-weat4,sent-weat4b,sent-weat5,sent-weat5b,sent-weat6
 
 if [ -z "$MODEL_VERSION" ]; then
     echo "Provide model version ('camembert-base' or 'uklfr/gottbert-base') or path to model"
@@ -24,17 +24,6 @@ else
     else
         MODEL_TYPE=$MODEL_VERSION
     fi
-fi
-
-if [ -z "$MODEL_VERSION" ]; then
-    echo "Provide model version (for ex. camembert-base) or path to model"
-    exit 1
-fi
-
-if [[ $MODEL_VERSION == *"/"* ]]; then
-    MODEL_TYPE=$(basename $MODEL_VERSION)
-else
-    MODEL_TYPE=$MODEL_VERSION
 fi
 
 SEED=42

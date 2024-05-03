@@ -4,7 +4,7 @@ set -e
 
 MODEL_VERSION=$1
 LANGUAGE=$2
-TESTS=weat0,weat1,weat2,weat3,weat3b,weat4,weat4b,weat5,weat5b,weat6
+TESTS=weat0,weat0b,weat1,weat2,weat3,weat3b,weat4,weat4b,weat5,weat5b,weat6
 
 if [ -z "$MODEL_VERSION" ]; then
     echo "Provide model version ('camembert-base' or 'uklfr/gottbert-base') or path to model"
