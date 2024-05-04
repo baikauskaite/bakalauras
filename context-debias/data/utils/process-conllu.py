@@ -1,37 +1,51 @@
 import string
 from conllu import parse_incr
 import os
+import spacy
 
-LANGUAGE = "german"
+LANGUAGE = "french"
 
 LANGUAGE_SHORT = "fr" if LANGUAGE == "french" else "de"
 BASE_DIR = os.path.join("/home/viktorija/bakalaurinis/context-debias/data", LANGUAGE)
-CONLLU_FILE = os.path.join(BASE_DIR, "grammatical-gender", f"{LANGUAGE_SHORT}_gsd-ud-train.conllu")
-FEM_FILE = os.path.join(BASE_DIR, "grammatical-gender", f"{LANGUAGE_SHORT}-fem-v3.txt")
-MASC_FILE = os.path.join(BASE_DIR, "grammatical-gender", f"{LANGUAGE_SHORT}-masc-v3.txt")
+IN_FILE = os.path.join(BASE_DIR, "grammatical-gender", f"{LANGUAGE_SHORT}_news_2023_1M-words.txt")
+FEM_OUTPUT_FILE = os.path.join(BASE_DIR, "grammatical-gender", f"{LANGUAGE_SHORT}-fem-v3.txt")
+MASC_OUTPUT_FILE = os.path.join(BASE_DIR, "grammatical-gender", f"{LANGUAGE_SHORT}-masc-v3.txt")
 STEREOTYPES_FILE = os.path.join(BASE_DIR, "stereotypes.txt")
-FEM_OUTPUT_FILE = os.path.join(BASE_DIR, "grammatical-gender", "weat0-fem.txt")
-MASC_OUTPUT_FILE = os.path.join(BASE_DIR, "grammatical-gender", "weat0-masc.txt")
 
 punctuation = set(string.punctuation)
+nlp = spacy.load(f"{LANGUAGE_SHORT}_core_news_sm")
 
 def read_words(file_path):
+    words = set()
+
+    with open(file_path, 'r', encoding='utf-8') as file:
+        for line in file:
+            parts = line.strip().split("\t")
+            word = parts[1]
+            frequency = int(parts[2])
+            
+            if frequency < 80:
+                break
+            elif is_valid(word):
+                words.add(word)
+
+    return words
+
+def separate_by_gender(words):
     fem_words = set()
     masc_words = set()
 
-    with open(file_path, 'r', encoding='utf-8') as file:
-        for sentences in parse_incr(file):
-            nouns = sentences.filter(upos='NOUN')
-            fem_nouns = nouns.filter(feats__Gender='Fem')
-            masc_nouns = nouns.filter(feats__Gender='Masc')
-
-            for noun in fem_nouns:
-                if is_valid(noun['lemma']):
-                    fem_words.add(noun['lemma'].lower())
-            for noun in masc_nouns:
-                if is_valid(noun['lemma']):
-                    masc_words.add(noun['lemma'].lower())
-
+    for word in words:
+        tokens = nlp(word)
+        word = tokens[0]
+        if word.pos_ != "NOUN":
+            continue
+        gender = word.morph.get("Gender")
+        if gender == ["Fem"]:
+            fem_words.add(word.lemma_.lower())
+        elif gender == ["Masc"]:
+            masc_words.add(word.lemma_.lower())
+            
     return fem_words, masc_words
 
 def is_valid(word):
@@ -45,10 +59,13 @@ def write_words_to_file(words, output_file):
             file.write(f"{word}\n")
 
 
-fem_words, masc_words = read_words(CONLLU_FILE)
+words = read_words(IN_FILE)
+print(f"Read {len(words)} words from {IN_FILE}")
+fem_words, masc_words = separate_by_gender(words)
+print(f"Found {len(fem_words)} fem words and {len(masc_words)} masc words")
 
 write_words_to_file(fem_words, FEM_OUTPUT_FILE)
 write_words_to_file(masc_words, MASC_OUTPUT_FILE)
 
-print(f"Randomized words from {CONLLU_FILE} have been written to {FEM_OUTPUT_FILE} and {MASC_OUTPUT_FILE}")
+print(f"Randomized words from {IN_FILE} have been written to {FEM_OUTPUT_FILE} and {MASC_OUTPUT_FILE}")
 

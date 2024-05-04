@@ -3671,7 +3671,7 @@ défection
 sévérité
 réclamations
 irrégularités
-soeurs
+sœurs
 invite
 autocomplétions
 saisie
@@ -4999,7 +4999,7 @@ immatriculation
 boulangerie
 ms.
 triangulation
-soeur
+sœur
 possession
 pollakiurie
 constipation

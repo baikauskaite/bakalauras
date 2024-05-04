@@ -3,7 +3,7 @@ import random
 import string
 import os
 
-LANGUAGE = "german"
+LANGUAGE = "french"
 
 LANGUAGE_SHORT = "fr" if LANGUAGE == "french" else "de"
 BASE_DIR = os.path.join("/home/viktorija/bakalaurinis/context-debias/data", LANGUAGE)
@@ -14,7 +14,7 @@ FEM_OUTPUT_FILE = os.path.join(BASE_DIR, "grammatical-gender", "weat0-fem.txt")
 MASC_OUTPUT_FILE = os.path.join(BASE_DIR, "grammatical-gender", "weat0-masc.txt")
 
 
-def read_and_randomize_words(file_path, stereotypes_path, word_limit=500):
+def read_and_randomize_words(file_path, stereotypes_path, word_limit=300):
     punctuation = set(string.punctuation)
 
     with open(file_path, 'r', encoding='utf-8') as file:

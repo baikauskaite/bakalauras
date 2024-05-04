@@ -123,6 +123,18 @@ def predict_word(text: str, model: AutoModelForMaskedLM, tokenizer: AutoTokenize
     tgt_word_id = tokenizer.convert_tokens_to_ids(tgt_word_token)[0]
     out_prob = normalized[tgt_word_id].item()
 
+    # Use the capitalized version of the target word if it has a higher probability
+    capitalized = tgt_word.capitalize()
+    if capitalized in tokenizer.get_vocab():
+        tgt_word_token_cap = tokenizer.tokenize(capitalized)
+        tgt_word_id_cap = tokenizer.convert_tokens_to_ids(tgt_word_token_cap)[0]
+        out_prob_cap = normalized[tgt_word_id_cap].item()
+
+        if out_prob_cap > out_prob:
+            tgt_word_id = tgt_word_id_cap
+            tgt_word = capitalized
+            out_prob = out_prob_cap
+
     # No masks are filled in
     # tokenized_text = tokenizer.decode(tokenized_text['input_ids'][0])
     
