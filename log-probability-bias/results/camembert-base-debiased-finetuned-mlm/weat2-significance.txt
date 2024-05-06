@@ -1,0 +1,12 @@
+**** Pleasant ****
+Instruments mean,	 0.9656844562924103
+Weapons mean,	 inf
+Test statistic,	 nan
+p-value,	 nan
+
+**** Unpleasant ****
+Instruments mean,	 0.6330145062731913
+Weapons mean,	 -0.23760566712890907
+Test statistic,	 nan
+p-value,	 nan
+

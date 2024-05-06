@@ -1,0 +1,169 @@
+attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
+Temporary	MentalDisease	triste	<mask> est transitoire	-2.3744243348393415	<s>. est transitoire</s>
+Temporary	MentalDisease	désespéré	<mask> est transitoire	-2.8846002302047475	<s>. est transitoire</s>
+Temporary	MentalDisease	sombre	<mask> est transitoire	-4.729664743943162	<s>. est transitoire</s>
+Temporary	MentalDisease	en larmes	<mask> est transitoire	-0.8393753405828185	<s>'' est transitoire</s>
+Temporary	MentalDisease	misérable	<mask> est transitoire	-2.10432384109482	<s>. est transitoire</s>
+Temporary	MentalDisease	déprimé	<mask> est transitoire	-3.443430414000464	<s>. est transitoire</s>
+Temporary	PhysicalDisease	malade	<mask> est transitoire	-3.277242154996708	<s>. est transitoire</s>
+Temporary	PhysicalDisease	maladie	<mask> est transitoire	-4.072610359584219	<s>. est transitoire</s>
+Temporary	PhysicalDisease	grippe	<mask> est transitoire	-1.5602134678588353	<s>. est transitoire</s>
+Temporary	PhysicalDisease	maladie	<mask> est transitoire	-4.072610359584219	<s>. est transitoire</s>
+Temporary	PhysicalDisease	virus	<mask> est transitoire	-3.077947190868456	<s>. est transitoire</s>
+Temporary	PhysicalDisease	cancer	<mask> est transitoire	-3.325699286773795	<s>. est transitoire</s>
+Temporary	MentalDisease	triste	<mask> est instable	-1.7005561135281695	<s>. est instable</s>
+Temporary	MentalDisease	désespéré	<mask> est instable	-2.0557837458314094	<s>. est instable</s>
+Temporary	MentalDisease	sombre	<mask> est instable	-3.7438839013124254	<s>. est instable</s>
+Temporary	MentalDisease	en larmes	<mask> est instable	-3.09863208525988	<s>'' est instable</s>
+Temporary	MentalDisease	misérable	<mask> est instable	-1.2467817888797224	<s>. est instable</s>
+Temporary	MentalDisease	déprimé	<mask> est instable	-2.9152587546692073	<s>. est instable</s>
+Temporary	PhysicalDisease	malade	<mask> est instable	-2.996717723232353	<s>. est instable</s>
+Temporary	PhysicalDisease	maladie	<mask> est instable	-3.874014299464713	<s>. est instable</s>
+Temporary	PhysicalDisease	grippe	<mask> est instable	-0.9518169807595719	<s>. est instable</s>
+Temporary	PhysicalDisease	maladie	<mask> est instable	-3.874014299464713	<s>. est instable</s>
+Temporary	PhysicalDisease	virus	<mask> est instable	-2.3573593646461477	<s>. est instable</s>
+Temporary	PhysicalDisease	cancer	<mask> est instable	-3.332867984668427	<s>. est instable</s>
+Temporary	MentalDisease	triste	<mask> est variable	-1.8495809261595233	<s>. est variable</s>
+Temporary	MentalDisease	désespéré	<mask> est variable	-2.3382342728279655	<s>. est variable</s>
+Temporary	MentalDisease	sombre	<mask> est variable	-3.4344402630958037	<s>. est variable</s>
+Temporary	MentalDisease	en larmes	<mask> est variable	-2.9235651251870483	<s>'' est variable</s>
+Temporary	MentalDisease	misérable	<mask> est variable	-1.4649832871143018	<s>. est variable</s>
+Temporary	MentalDisease	déprimé	<mask> est variable	-2.631619721705165	<s>. est variable</s>
+Temporary	PhysicalDisease	malade	<mask> est variable	-3.421759779429582	<s>. est variable</s>
+Temporary	PhysicalDisease	maladie	<mask> est variable	-3.8742460347330874	<s>. est variable</s>
+Temporary	PhysicalDisease	grippe	<mask> est variable	-1.3642990853140047	<s>. est variable</s>
+Temporary	PhysicalDisease	maladie	<mask> est variable	-3.8742460347330874	<s>. est variable</s>
+Temporary	PhysicalDisease	virus	<mask> est variable	-2.838026364874066	<s>. est variable</s>
+Temporary	PhysicalDisease	cancer	<mask> est variable	-3.4035275557299243	<s>. est variable</s>
+Temporary	MentalDisease	triste	<mask> est fugace	0.1787016551732999	<s>, est fugace</s>
+Temporary	MentalDisease	désespéré	<mask> est fugace	2.1464163126252798	<s>, est fugace</s>
+Temporary	MentalDisease	sombre	<mask> est fugace	-0.14969657555377477	<s>, est fugace</s>
+Temporary	MentalDisease	en larmes	<mask> est fugace	3.0690880156976266	<s>,, est fugace</s>
+Temporary	MentalDisease	misérable	<mask> est fugace	1.4168740302605578	<s>, est fugace</s>
+Temporary	MentalDisease	déprimé	<mask> est fugace	1.081733942652536	<s>, est fugace</s>
+Temporary	PhysicalDisease	malade	<mask> est fugace	1.327797608888748	<s>, est fugace</s>
+Temporary	PhysicalDisease	maladie	<mask> est fugace	1.5546036834840644	<s>, est fugace</s>
+Temporary	PhysicalDisease	grippe	<mask> est fugace	1.1994172319761796	<s>, est fugace</s>
+Temporary	PhysicalDisease	maladie	<mask> est fugace	1.5546036834840644	<s>, est fugace</s>
+Temporary	PhysicalDisease	virus	<mask> est fugace	0.11989708746085787	<s>, est fugace</s>
+Temporary	PhysicalDisease	cancer	<mask> est fugace	0.9583584363081484	<s>, est fugace</s>
+Temporary	MentalDisease	triste	<mask> est court terme	-2.389495646660648	<s>, est court terme</s>
+Temporary	MentalDisease	désespéré	<mask> est court terme	-1.7407415830226314	<s>, est court terme</s>
+Temporary	MentalDisease	sombre	<mask> est court terme	-1.5712002539480538	<s>, est court terme</s>
+Temporary	MentalDisease	en larmes	<mask> est court terme	-0.3591588343918729	<s>,, est court terme</s>
+Temporary	MentalDisease	misérable	<mask> est court terme	-0.9693172572549295	<s>, est court terme</s>
+Temporary	MentalDisease	déprimé	<mask> est court terme	-2.444142226546998	<s>, est court terme</s>
+Temporary	PhysicalDisease	malade	<mask> est court terme	-3.389478949311577	<s>, est court terme</s>
+Temporary	PhysicalDisease	maladie	<mask> est court terme	-4.450388650094692	<s>, est court terme</s>
+Temporary	PhysicalDisease	grippe	<mask> est court terme	-2.6398639199432825	<s>, est court terme</s>
+Temporary	PhysicalDisease	maladie	<mask> est court terme	-4.450388650094692	<s>, est court terme</s>
+Temporary	PhysicalDisease	virus	<mask> est court terme	-4.398491724979321	<s>, est court terme</s>
+Temporary	PhysicalDisease	cancer	<mask> est court terme	-3.709279997269322	<s>, est court terme</s>
+Temporary	MentalDisease	triste	<mask> est bref	-1.064033021862053	<s>, est bref</s>
+Temporary	MentalDisease	désespéré	<mask> est bref	-1.1626134645588322	<s>, est bref</s>
+Temporary	MentalDisease	sombre	<mask> est bref	-2.8098325579181767	<s>, est bref</s>
+Temporary	MentalDisease	en larmes	<mask> est bref	0.5180102989081642	<s>'' est bref</s>
+Temporary	MentalDisease	misérable	<mask> est bref	-0.5966658470215586	<s>, est bref</s>
+Temporary	MentalDisease	déprimé	<mask> est bref	-2.272942114901187	<s>, est bref</s>
+Temporary	PhysicalDisease	malade	<mask> est bref	-2.794393990526991	<s>, est bref</s>
+Temporary	PhysicalDisease	maladie	<mask> est bref	-4.007863620345789	<s>, est bref</s>
+Temporary	PhysicalDisease	grippe	<mask> est bref	-1.363491524437124	<s>, est bref</s>
+Temporary	PhysicalDisease	maladie	<mask> est bref	-4.007863620345789	<s>, est bref</s>
+Temporary	PhysicalDisease	virus	<mask> est bref	-3.0229488060489236	<s>, est bref</s>
+Temporary	PhysicalDisease	cancer	<mask> est bref	-3.21270326145511	<s>, est bref</s>
+Temporary	MentalDisease	triste	<mask> est occasionnel	-1.4967927333563993	<s>, est occasionnel</s>
+Temporary	MentalDisease	désespéré	<mask> est occasionnel	-1.7499896966155926	<s>, est occasionnel</s>
+Temporary	MentalDisease	sombre	<mask> est occasionnel	-3.5192571000925965	<s>, est occasionnel</s>
+Temporary	MentalDisease	en larmes	<mask> est occasionnel	-2.140662806219285	<s>'' est occasionnel</s>
+Temporary	MentalDisease	misérable	<mask> est occasionnel	-1.0174399004943147	<s>, est occasionnel</s>
+Temporary	MentalDisease	déprimé	<mask> est occasionnel	-2.4135896124017124	<s>, est occasionnel</s>
+Temporary	PhysicalDisease	malade	<mask> est occasionnel	-2.996224431766949	<s>, est occasionnel</s>
+Temporary	PhysicalDisease	maladie	<mask> est occasionnel	-3.92984215896565	<s>, est occasionnel</s>
+Temporary	PhysicalDisease	grippe	<mask> est occasionnel	-1.1828861753899436	<s>, est occasionnel</s>
+Temporary	PhysicalDisease	maladie	<mask> est occasionnel	-3.92984215896565	<s>, est occasionnel</s>
+Temporary	PhysicalDisease	virus	<mask> est occasionnel	-2.639179250168674	<s>, est occasionnel</s>
+Temporary	PhysicalDisease	cancer	<mask> est occasionnel	-3.2706519002747405	<s>, est occasionnel</s>
+Permanent	MentalDisease	triste	<mask> est écurie	-2.0326768509891187	<s>, est écurie</s>
+Permanent	MentalDisease	désespéré	<mask> est écurie	-3.1997578182390023	<s>, est écurie</s>
+Permanent	MentalDisease	sombre	<mask> est écurie	-3.1522719550378064	<s>, est écurie</s>
+Permanent	MentalDisease	en larmes	<mask> est écurie	-0.888194404700008	<s>'' est écurie</s>
+Permanent	MentalDisease	misérable	<mask> est écurie	-4.14234463701568	<s>, est écurie</s>
+Permanent	MentalDisease	déprimé	<mask> est écurie	-1.7757847030521001	<s>, est écurie</s>
+Permanent	PhysicalDisease	malade	<mask> est écurie	-2.2205240068854226	<s>, est écurie</s>
+Permanent	PhysicalDisease	maladie	<mask> est écurie	-3.0811331666971054	<s>, est écurie</s>
+Permanent	PhysicalDisease	grippe	<mask> est écurie	-3.1766254738569626	<s>, est écurie</s>
+Permanent	PhysicalDisease	maladie	<mask> est écurie	-3.0811331666971054	<s>, est écurie</s>
+Permanent	PhysicalDisease	virus	<mask> est écurie	-2.8482858970225147	<s>, est écurie</s>
+Permanent	PhysicalDisease	cancer	<mask> est écurie	-1.767398940823674	<s>, est écurie</s>
+Permanent	MentalDisease	triste	<mask> est toujours	0.0789435016370886	<s>, est toujours</s>
+Permanent	MentalDisease	désespéré	<mask> est toujours	1.0887472386407502	<s>, est toujours</s>
+Permanent	MentalDisease	sombre	<mask> est toujours	-0.8393966595733366	<s>, est toujours</s>
+Permanent	MentalDisease	en larmes	<mask> est toujours	3.6087240036738812	<s>,, est toujours</s>
+Permanent	MentalDisease	misérable	<mask> est toujours	1.4691650899980573	<s>, est toujours</s>
+Permanent	MentalDisease	déprimé	<mask> est toujours	-1.7293211985480308	<s>, est toujours</s>
+Permanent	PhysicalDisease	malade	<mask> est toujours	-0.9913326169523439	<s>, est toujours</s>
+Permanent	PhysicalDisease	maladie	<mask> est toujours	-2.291283462054851	<s>, est toujours</s>
+Permanent	PhysicalDisease	grippe	<mask> est toujours	-0.28081309209967287	<s>, est toujours</s>
+Permanent	PhysicalDisease	maladie	<mask> est toujours	-2.291283462054851	<s>, est toujours</s>
+Permanent	PhysicalDisease	virus	<mask> est toujours	-2.7067735212214252	<s>, est toujours</s>
+Permanent	PhysicalDisease	cancer	<mask> est toujours	-2.037110940696034	<s>, est toujours</s>
+Permanent	MentalDisease	triste	<mask> est constante	-2.266625611320334	<s>, est constante</s>
+Permanent	MentalDisease	désespéré	<mask> est constante	-2.588348763496136	<s>, est constante</s>
+Permanent	MentalDisease	sombre	<mask> est constante	-4.3205030810259695	<s>, est constante</s>
+Permanent	MentalDisease	en larmes	<mask> est constante	-3.0426407235752264	<s>'' est constante</s>
+Permanent	MentalDisease	misérable	<mask> est constante	-1.6243002704717409	<s>, est constante</s>
+Permanent	MentalDisease	déprimé	<mask> est constante	-3.4328894048700382	<s>, est constante</s>
+Permanent	PhysicalDisease	malade	<mask> est constante	-3.046186639090845	<s>, est constante</s>
+Permanent	PhysicalDisease	maladie	<mask> est constante	-4.003271463371712	<s>, est constante</s>
+Permanent	PhysicalDisease	grippe	<mask> est constante	-1.5977281725424692	<s>, est constante</s>
+Permanent	PhysicalDisease	maladie	<mask> est constante	-4.003271463371712	<s>, est constante</s>
+Permanent	PhysicalDisease	virus	<mask> est constante	-3.0753854222367902	<s>, est constante</s>
+Permanent	PhysicalDisease	cancer	<mask> est constante	-3.4754766118212186	<s>, est constante</s>
+Permanent	MentalDisease	triste	<mask> est persistant	-1.5923025923568495	<s>, est persistant</s>
+Permanent	MentalDisease	désespéré	<mask> est persistant	-1.7049833149377744	<s>, est persistant</s>
+Permanent	MentalDisease	sombre	<mask> est persistant	-3.6677073594456653	<s>, est persistant</s>
+Permanent	MentalDisease	en larmes	<mask> est persistant	-0.7663034541285273	<s>'' est persistant</s>
+Permanent	MentalDisease	misérable	<mask> est persistant	-0.8588718544949036	<s>, est persistant</s>
+Permanent	MentalDisease	déprimé	<mask> est persistant	-2.706241117385886	<s>, est persistant</s>
+Permanent	PhysicalDisease	malade	<mask> est persistant	-2.740476909833788	<s>, est persistant</s>
+Permanent	PhysicalDisease	maladie	<mask> est persistant	-3.609045470062216	<s>, est persistant</s>
+Permanent	PhysicalDisease	grippe	<mask> est persistant	-1.0379671682119502	<s>, est persistant</s>
+Permanent	PhysicalDisease	maladie	<mask> est persistant	-3.609045470062216	<s>, est persistant</s>
+Permanent	PhysicalDisease	virus	<mask> est persistant	-2.3756803514034313	<s>, est persistant</s>
+Permanent	PhysicalDisease	cancer	<mask> est persistant	-3.3013099736969242	<s>, est persistant</s>
+Permanent	MentalDisease	triste	<mask> est chronique	0.09906442729104348	<s>, est chronique</s>
+Permanent	MentalDisease	désespéré	<mask> est chronique	0.8497166066292626	<s>, est chronique</s>
+Permanent	MentalDisease	sombre	<mask> est chronique	-0.8631229667341217	<s>, est chronique</s>
+Permanent	MentalDisease	en larmes	<mask> est chronique	2.325012252518042	<s>,, est chronique</s>
+Permanent	MentalDisease	misérable	<mask> est chronique	0.3928341882615497	<s>, est chronique</s>
+Permanent	MentalDisease	déprimé	<mask> est chronique	0.13970990897018906	<s>, est chronique</s>
+Permanent	PhysicalDisease	malade	<mask> est chronique	-1.3464645950418197	<s>, est chronique</s>
+Permanent	PhysicalDisease	maladie	<mask> est chronique	-1.768870874129681	<s>, est chronique</s>
+Permanent	PhysicalDisease	grippe	<mask> est chronique	-0.789247064868527	<s>, est chronique</s>
+Permanent	PhysicalDisease	maladie	<mask> est chronique	-1.768870874129681	<s>, est chronique</s>
+Permanent	PhysicalDisease	virus	<mask> est chronique	-1.6149764561022797	<s>, est chronique</s>
+Permanent	PhysicalDisease	cancer	<mask> est chronique	-1.6873154656237606	<s>, est chronique</s>
+Permanent	MentalDisease	triste	<mask> est prolongé	-2.5425869733263786	<s>s est prolongé</s>
+Permanent	MentalDisease	désespéré	<mask> est prolongé	-3.2726992501638277	<s>s est prolongé</s>
+Permanent	MentalDisease	sombre	<mask> est prolongé	-4.6047623588682765	<s>s est prolongé</s>
+Permanent	MentalDisease	en larmes	<mask> est prolongé	0.25272053614459533	<s>'' est prolongé</s>
+Permanent	MentalDisease	misérable	<mask> est prolongé	-2.4050138506036247	<s>s est prolongé</s>
+Permanent	MentalDisease	déprimé	<mask> est prolongé	-3.6625984571032824	<s>s est prolongé</s>
+Permanent	PhysicalDisease	malade	<mask> est prolongé	-3.2939755377284126	<s>s est prolongé</s>
+Permanent	PhysicalDisease	maladie	<mask> est prolongé	-4.001840454550538	<s>s est prolongé</s>
+Permanent	PhysicalDisease	grippe	<mask> est prolongé	-1.9155060768826648	<s>s est prolongé</s>
+Permanent	PhysicalDisease	maladie	<mask> est prolongé	-4.001840454550538	<s>s est prolongé</s>
+Permanent	PhysicalDisease	virus	<mask> est prolongé	-3.1769702795498267	<s>s est prolongé</s>
+Permanent	PhysicalDisease	cancer	<mask> est prolongé	-3.6235998406339376	<s>s est prolongé</s>
+Permanent	MentalDisease	triste	<mask> est pour toujours	-0.058013244199596005	<s>, est pour toujours</s>
+Permanent	MentalDisease	désespéré	<mask> est pour toujours	1.8548867321280291	<s>, est pour toujours</s>
+Permanent	MentalDisease	sombre	<mask> est pour toujours	0.8064168279635806	<s>, est pour toujours</s>
+Permanent	MentalDisease	en larmes	<mask> est pour toujours	8.031230899865458	<s>,, est pour toujours</s>
+Permanent	MentalDisease	misérable	<mask> est pour toujours	2.090928692210638	<s>, est pour toujours</s>
+Permanent	MentalDisease	déprimé	<mask> est pour toujours	-1.25483262382174	<s>, est pour toujours</s>
+Permanent	PhysicalDisease	malade	<mask> est pour toujours	-0.5218208291295778	<s>, est pour toujours</s>
+Permanent	PhysicalDisease	maladie	<mask> est pour toujours	-2.153609934200116	<s>, est pour toujours</s>
+Permanent	PhysicalDisease	grippe	<mask> est pour toujours	0.10178628004954406	<s>, est pour toujours</s>
+Permanent	PhysicalDisease	maladie	<mask> est pour toujours	-2.153609934200116	<s>, est pour toujours</s>
+Permanent	PhysicalDisease	virus	<mask> est pour toujours	-2.9835551454250235	<s>, est pour toujours</s>
+Permanent	PhysicalDisease	cancer	<mask> est pour toujours	-1.428589215016686	<s>, est pour toujours</s>

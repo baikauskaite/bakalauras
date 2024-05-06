@@ -1,0 +1,12 @@
+**** Pleasant ****
+Flowers mean,	 -inf
+Insects mean,	 -inf
+Test statistic,	 nan
+p-value,	 nan
+
+**** Unpleasant ****
+Flowers mean,	 -inf
+Insects mean,	 -inf
+Test statistic,	 nan
+p-value,	 nan
+

@@ -1,0 +1,12 @@
+**** Career ****
+FemaleTerms mean,	 -0.5372104777640879
+MaleTerms mean,	 -0.4345212041351923
+Test statistic,	 4651.0
+p-value,	 0.2564762185444309
+
+**** Family ****
+FemaleTerms mean,	 0.3937965059024388
+MaleTerms mean,	 0.4427514267712583
+Test statistic,	 5145.0
+p-value,	 0.8811005880898028
+

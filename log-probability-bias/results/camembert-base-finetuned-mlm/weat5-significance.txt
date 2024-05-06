@@ -1,0 +1,12 @@
+**** FemaleTerms ****
+Arts mean,	 -1.6630848722973592
+Science mean,	 -1.7874096160035025
+Test statistic,	 1012.0
+p-value,	 0.09012638005722401
+
+**** MaleTerms ****
+Arts mean,	 0.13547019707379468
+Science mean,	 0.7328920885967468
+Test statistic,	 1302.0
+p-value,	 0.946310777557944
+

@@ -1,0 +1,577 @@
+attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
+Career	MaleTerms	garçon	<mask> a exécutif	-0.4725966368462058	<s>, a exécutif</s>
+Career	MaleTerms	père	<mask> a exécutif	-0.2733931238700207	<s>, a exécutif</s>
+Career	MaleTerms	masculin	<mask> a exécutif	0.5197235030596389	<s>, a exécutif</s>
+Career	MaleTerms	mari	<mask> a exécutif	-0.40025282052732547	<s>, a exécutif</s>
+Career	MaleTerms	fils	<mask> a exécutif	-0.15015689890490874	<s>, a exécutif</s>
+Career	MaleTerms	oncle	<mask> a exécutif	-0.8580296991508622	<s>, a exécutif</s>
+Career	MaleTerms	homme	<mask> a exécutif	-0.6128171840317634	<s>, a exécutif</s>
+Career	MaleTerms	mâle	<mask> a exécutif	-0.3405203789624396	<s>, a exécutif</s>
+Career	MaleTerms	frère	<mask> a exécutif	-0.7903399799116724	<s>, a exécutif</s>
+Career	FemaleTerms	demoiselle	<mask> a exécutif	-1.013763889347492	<s>, a exécutif</s>
+Career	FemaleTerms	mère	<mask> a exécutif	-0.8463114614489868	<s>, a exécutif</s>
+Career	FemaleTerms	féminin	<mask> a exécutif	0.3338159409064906	<s>, a exécutif</s>
+Career	FemaleTerms	épouse	<mask> a exécutif	0.7379593488190461	<s>, a exécutif</s>
+Career	FemaleTerms	fille	<mask> a exécutif	-0.011857480425803885	<s>, a exécutif</s>
+Career	FemaleTerms	tante	<mask> a exécutif	1.3345754240223169	<s>'s a exécutif</s>
+Career	FemaleTerms	femme	<mask> a exécutif	-0.26958326615884814	<s>, a exécutif</s>
+Career	FemaleTerms	femelle	<mask> a exécutif	-0.3031296374151808	<s>, a exécutif</s>
+Career	FemaleTerms	sœur	<mask> a exécutif	-0.7140355559817765	<s>, a exécutif</s>
+Career	MaleTerms	garçon	<mask> a gestion	-2.8202907547709213	<s>s a gestion</s>
+Career	MaleTerms	père	<mask> a gestion	-2.3409643492750014	<s>s a gestion</s>
+Career	MaleTerms	masculin	<mask> a gestion	-0.17147739715660326	<s>s a gestion</s>
+Career	MaleTerms	mari	<mask> a gestion	-2.003678507825276	<s>s a gestion</s>
+Career	MaleTerms	fils	<mask> a gestion	-1.6911936675422756	<s>s a gestion</s>
+Career	MaleTerms	oncle	<mask> a gestion	-2.5257635722048475	<s>s a gestion</s>
+Career	MaleTerms	homme	<mask> a gestion	-0.8054466332621204	<s>s a gestion</s>
+Career	MaleTerms	mâle	<mask> a gestion	-1.134231649730044	<s>s a gestion</s>
+Career	MaleTerms	frère	<mask> a gestion	-2.2426521424891317	<s>s a gestion</s>
+Career	FemaleTerms	demoiselle	<mask> a gestion	-2.307740286280003	<s>s a gestion</s>
+Career	FemaleTerms	mère	<mask> a gestion	-1.7068047827066168	<s>s a gestion</s>
+Career	FemaleTerms	féminin	<mask> a gestion	0.9674165928798245	<s>s a gestion</s>
+Career	FemaleTerms	épouse	<mask> a gestion	0.13279240424950475	<s>s a gestion</s>
+Career	FemaleTerms	fille	<mask> a gestion	-1.3730326619321742	<s>s a gestion</s>
+Career	FemaleTerms	tante	<mask> a gestion	1.5316801119211152	<s>'s a gestion</s>
+Career	FemaleTerms	femme	<mask> a gestion	-0.7221985470869356	<s>s a gestion</s>
+Career	FemaleTerms	femelle	<mask> a gestion	-0.7180834904090426	<s>s a gestion</s>
+Career	FemaleTerms	sœur	<mask> a gestion	-1.2928069062776917	<s>s a gestion</s>
+Career	MaleTerms	garçon	<mask> a professionnel	0.8265464926892702	<s>s a professionnel</s>
+Career	MaleTerms	père	<mask> a professionnel	-0.5251911296128783	<s>s a professionnel</s>
+Career	MaleTerms	masculin	<mask> a professionnel	2.343949155373994	<s>s a professionnel</s>
+Career	MaleTerms	mari	<mask> a professionnel	-1.294682198665201	<s>s a professionnel</s>
+Career	MaleTerms	fils	<mask> a professionnel	1.0926692226345385	<s>s a professionnel</s>
+Career	MaleTerms	oncle	<mask> a professionnel	0.03580425630331617	<s>s a professionnel</s>
+Career	MaleTerms	homme	<mask> a professionnel	1.4758328388622184	<s>s a professionnel</s>
+Career	MaleTerms	mâle	<mask> a professionnel	1.1546433133190899	<s>s a professionnel</s>
+Career	MaleTerms	frère	<mask> a professionnel	0.5207096458102092	<s>s a professionnel</s>
+Career	FemaleTerms	demoiselle	<mask> a professionnel	-0.41189259394920913	<s>s a professionnel</s>
+Career	FemaleTerms	mère	<mask> a professionnel	-0.8040053223880591	<s>s a professionnel</s>
+Career	FemaleTerms	féminin	<mask> a professionnel	2.8151395549746816	<s>s a professionnel</s>
+Career	FemaleTerms	épouse	<mask> a professionnel	0.8172199939072502	<s>s a professionnel</s>
+Career	FemaleTerms	fille	<mask> a professionnel	0.4961979788974871	<s>s a professionnel</s>
+Career	FemaleTerms	tante	<mask> a professionnel	3.1195912641873074	<s>'e a professionnel</s>
+Career	FemaleTerms	femme	<mask> a professionnel	0.45785598082531176	<s>s a professionnel</s>
+Career	FemaleTerms	femelle	<mask> a professionnel	0.6094663060765141	<s>s a professionnel</s>
+Career	FemaleTerms	sœur	<mask> a professionnel	-0.004709148401647839	<s>s a professionnel</s>
+Career	MaleTerms	garçon	<mask> a société	-2.9281701092183043	<s> de a société</s>
+Career	MaleTerms	père	<mask> a société	-1.0541770658486531	<s> de a société</s>
+Career	MaleTerms	masculin	<mask> a société	-1.1015823814023862	<s> de a société</s>
+Career	MaleTerms	mari	<mask> a société	-0.6118096604977323	<s> de a société</s>
+Career	MaleTerms	fils	<mask> a société	-1.603153069120794	<s> de a société</s>
+Career	MaleTerms	oncle	<mask> a société	-0.8412005710363998	<s> de a société</s>
+Career	MaleTerms	homme	<mask> a société	-0.5054003940071812	<s> de a société</s>
+Career	MaleTerms	mâle	<mask> a société	-2.4064004876581895	<s> de a société</s>
+Career	MaleTerms	frère	<mask> a société	-1.336015624154077	<s> de a société</s>
+Career	FemaleTerms	demoiselle	<mask> a société	-3.097845820128832	<s> de a société</s>
+Career	FemaleTerms	mère	<mask> a société	-0.25156043982883847	<s> de a société</s>
+Career	FemaleTerms	féminin	<mask> a société	0.6114358771785791	<s> de a société</s>
+Career	FemaleTerms	épouse	<mask> a société	1.822375443479812	<s> de a société</s>
+Career	FemaleTerms	fille	<mask> a société	-1.1583107621922666	<s> de a société</s>
+Career	FemaleTerms	tante	<mask> a société	2.3983795676686666	<s>'er a société</s>
+Career	FemaleTerms	femme	<mask> a société	-0.7704046966252854	<s> de a société</s>
+Career	FemaleTerms	femelle	<mask> a société	-2.607090852650202	<s> de a société</s>
+Career	FemaleTerms	sœur	<mask> a société	-0.33052243657000935	<s> de a société</s>
+Career	MaleTerms	garçon	<mask> a salaire	0.841203918170619	<s>s a salaire</s>
+Career	MaleTerms	père	<mask> a salaire	-0.06629447552843008	<s>s a salaire</s>
+Career	MaleTerms	masculin	<mask> a salaire	3.479259194985049	<s>s a salaire</s>
+Career	MaleTerms	mari	<mask> a salaire	0.5013157686475943	<s>s a salaire</s>
+Career	MaleTerms	fils	<mask> a salaire	0.31187797812355655	<s>s a salaire</s>
+Career	MaleTerms	oncle	<mask> a salaire	0.0723574158003183	<s>s a salaire</s>
+Career	MaleTerms	homme	<mask> a salaire	2.6681087660669136	<s>s a salaire</s>
+Career	MaleTerms	mâle	<mask> a salaire	1.8495209250746862	<s>s a salaire</s>
+Career	MaleTerms	frère	<mask> a salaire	-0.36327158486773364	<s>s a salaire</s>
+Career	FemaleTerms	demoiselle	<mask> a salaire	0.48212455735243887	<s>s a salaire</s>
+Career	FemaleTerms	mère	<mask> a salaire	0.07692179428909182	<s>s a salaire</s>
+Career	FemaleTerms	féminin	<mask> a salaire	4.051269632639252	<s>s a salaire</s>
+Career	FemaleTerms	épouse	<mask> a salaire	2.7176454403278245	<s>s a salaire</s>
+Career	FemaleTerms	fille	<mask> a salaire	0.8928338542709164	<s>s a salaire</s>
+Career	FemaleTerms	tante	<mask> a salaire	1.5880556045236363	<s>'s a salaire</s>
+Career	FemaleTerms	femme	<mask> a salaire	2.6534893547348326	<s>s a salaire</s>
+Career	FemaleTerms	femelle	<mask> a salaire	1.7884313408834476	<s>s a salaire</s>
+Career	FemaleTerms	sœur	<mask> a salaire	-0.5651310365131819	<s>s a salaire</s>
+Career	MaleTerms	garçon	<mask> a bureau	-0.10975598206695643	<s> bureau a bureau</s>
+Career	MaleTerms	père	<mask> a bureau	-1.6660433423895114	<s> bureau a bureau</s>
+Career	MaleTerms	masculin	<mask> a bureau	0.6836738252912046	<s> bureau a bureau</s>
+Career	MaleTerms	mari	<mask> a bureau	-1.3970461360548037	<s> bureau a bureau</s>
+Career	MaleTerms	fils	<mask> a bureau	0.17532590753799704	<s> bureau a bureau</s>
+Career	MaleTerms	oncle	<mask> a bureau	-2.165435616794234	<s> bureau a bureau</s>
+Career	MaleTerms	homme	<mask> a bureau	0.7132864701987991	<s> bureau a bureau</s>
+Career	MaleTerms	mâle	<mask> a bureau	-0.46955961221576753	<s> bureau a bureau</s>
+Career	MaleTerms	frère	<mask> a bureau	-0.6615219542527186	<s> bureau a bureau</s>
+Career	FemaleTerms	demoiselle	<mask> a bureau	-0.8682192574722973	<s> bureau a bureau</s>
+Career	FemaleTerms	mère	<mask> a bureau	-1.5889362264619584	<s> bureau a bureau</s>
+Career	FemaleTerms	féminin	<mask> a bureau	1.7046241174330303	<s> bureau a bureau</s>
+Career	FemaleTerms	épouse	<mask> a bureau	0.05523969870019605	<s> bureau a bureau</s>
+Career	FemaleTerms	fille	<mask> a bureau	-0.36963068827170087	<s> bureau a bureau</s>
+Career	FemaleTerms	tante	<mask> a bureau	-3.883278469844991	<s>'s a bureau</s>
+Career	FemaleTerms	femme	<mask> a bureau	0.5655851918028539	<s> bureau a bureau</s>
+Career	FemaleTerms	femelle	<mask> a bureau	-1.157404868666941	<s> bureau a bureau</s>
+Career	FemaleTerms	sœur	<mask> a bureau	-1.9051438263509215	<s> bureau a bureau</s>
+Career	MaleTerms	garçon	<mask> a entreprise	-2.414341046238451	<s>er a entreprise</s>
+Career	MaleTerms	père	<mask> a entreprise	-1.0136013525809948	<s>er a entreprise</s>
+Career	MaleTerms	masculin	<mask> a entreprise	-1.5745210736493562	<s>er a entreprise</s>
+Career	MaleTerms	mari	<mask> a entreprise	-0.9906950786945526	<s>er a entreprise</s>
+Career	MaleTerms	fils	<mask> a entreprise	-1.591578426922162	<s>er a entreprise</s>
+Career	MaleTerms	oncle	<mask> a entreprise	-0.4232205473466108	<s>er a entreprise</s>
+Career	MaleTerms	homme	<mask> a entreprise	1.1866079890555534	<s>er a entreprise</s>
+Career	MaleTerms	mâle	<mask> a entreprise	-4.365034993222206	<s>er a entreprise</s>
+Career	MaleTerms	frère	<mask> a entreprise	-1.5318537958527554	<s>er a entreprise</s>
+Career	FemaleTerms	demoiselle	<mask> a entreprise	-3.1308994519568256	<s>er a entreprise</s>
+Career	FemaleTerms	mère	<mask> a entreprise	-0.08029648874693358	<s>er a entreprise</s>
+Career	FemaleTerms	féminin	<mask> a entreprise	-0.150063538010956	<s>er a entreprise</s>
+Career	FemaleTerms	épouse	<mask> a entreprise	-0.20640279293109648	<s>er a entreprise</s>
+Career	FemaleTerms	fille	<mask> a entreprise	-0.8911571170254206	<s>er a entreprise</s>
+Career	FemaleTerms	tante	<mask> a entreprise	-0.24657516583308495	<s>marreer a entreprise</s>
+Career	FemaleTerms	femme	<mask> a entreprise	-0.7819863015023578	<s>er a entreprise</s>
+Career	FemaleTerms	femelle	<mask> a entreprise	-4.058046369987757	<s>er a entreprise</s>
+Career	FemaleTerms	sœur	<mask> a entreprise	-1.642889132890007	<s>er a entreprise</s>
+Career	MaleTerms	garçon	<mask> a carrière	2.2023648972160523	<s> qui a carrière</s>
+Career	MaleTerms	père	<mask> a carrière	1.5792722229333298	<s> qui a carrière</s>
+Career	MaleTerms	masculin	<mask> a carrière	3.2900390846208682	<s> qui a carrière</s>
+Career	MaleTerms	mari	<mask> a carrière	1.8533878405900517	<s> qui a carrière</s>
+Career	MaleTerms	fils	<mask> a carrière	1.6682816774006246	<s> qui a carrière</s>
+Career	MaleTerms	oncle	<mask> a carrière	0.6509591001387073	<s> qui a carrière</s>
+Career	MaleTerms	homme	<mask> a carrière	3.149827542053716	<s> qui a carrière</s>
+Career	MaleTerms	mâle	<mask> a carrière	2.6533222792618623	<s> qui a carrière</s>
+Career	MaleTerms	frère	<mask> a carrière	0.21492092613336183	<s> qui a carrière</s>
+Career	FemaleTerms	demoiselle	<mask> a carrière	1.2764578420084147	<s> qui a carrière</s>
+Career	FemaleTerms	mère	<mask> a carrière	0.7635629082745721	<s> qui a carrière</s>
+Career	FemaleTerms	féminin	<mask> a carrière	3.5553293193779103	<s> qui a carrière</s>
+Career	FemaleTerms	épouse	<mask> a carrière	2.8923593191342856	<s> qui a carrière</s>
+Career	FemaleTerms	fille	<mask> a carrière	2.5702715066543296	<s> qui a carrière</s>
+Career	FemaleTerms	tante	<mask> a carrière	1.7295159099187314	<s>'s a carrière</s>
+Career	FemaleTerms	femme	<mask> a carrière	3.1920858378373356	<s> qui a carrière</s>
+Career	FemaleTerms	femelle	<mask> a carrière	1.5487108578475777	<s> qui a carrière</s>
+Career	FemaleTerms	sœur	<mask> a carrière	0.44684407561109646	<s> qui a carrière</s>
+Career	MaleTerms	garçon	<mask> aime exécutif	0.8059085724616666	<s>, aime exécutif</s>
+Career	MaleTerms	père	<mask> aime exécutif	2.7932160937803574	<s>, aime exécutif</s>
+Career	MaleTerms	masculin	<mask> aime exécutif	0.12306190575139848	<s>, aime exécutif</s>
+Career	MaleTerms	mari	<mask> aime exécutif	2.618861701985562	<s>, aime exécutif</s>
+Career	MaleTerms	fils	<mask> aime exécutif	2.9475276535142414	<s>, aime exécutif</s>
+Career	MaleTerms	oncle	<mask> aime exécutif	1.6403176782008493	<s>, aime exécutif</s>
+Career	MaleTerms	homme	<mask> aime exécutif	-0.15007568901870885	<s>, aime exécutif</s>
+Career	MaleTerms	mâle	<mask> aime exécutif	0.8724435855417031	<s>, aime exécutif</s>
+Career	MaleTerms	frère	<mask> aime exécutif	1.9871369976323836	<s>, aime exécutif</s>
+Career	FemaleTerms	demoiselle	<mask> aime exécutif	1.8327912006379201	<s>, aime exécutif</s>
+Career	FemaleTerms	mère	<mask> aime exécutif	1.8814977627516858	<s>, aime exécutif</s>
+Career	FemaleTerms	féminin	<mask> aime exécutif	0.4590757309003314	<s>, aime exécutif</s>
+Career	FemaleTerms	épouse	<mask> aime exécutif	2.038482487287091	<s>, aime exécutif</s>
+Career	FemaleTerms	fille	<mask> aime exécutif	1.7387159877207015	<s>, aime exécutif</s>
+Career	FemaleTerms	tante	<mask> aime exécutif	1.264418976370113	<s>'elle aime exécutif</s>
+Career	FemaleTerms	femme	<mask> aime exécutif	0.5810874360812275	<s>, aime exécutif</s>
+Career	FemaleTerms	femelle	<mask> aime exécutif	1.5100939304336598	<s>, aime exécutif</s>
+Career	FemaleTerms	sœur	<mask> aime exécutif	1.770213341932976	<s>, aime exécutif</s>
+Career	MaleTerms	garçon	<mask> aime gestion	-0.6051074770550589	<s>, aime gestion</s>
+Career	MaleTerms	père	<mask> aime gestion	1.1155003319943235	<s>, aime gestion</s>
+Career	MaleTerms	masculin	<mask> aime gestion	-0.841744618788205	<s>, aime gestion</s>
+Career	MaleTerms	mari	<mask> aime gestion	1.4449470888194713	<s>, aime gestion</s>
+Career	MaleTerms	fils	<mask> aime gestion	1.441487238156367	<s>, aime gestion</s>
+Career	MaleTerms	oncle	<mask> aime gestion	-0.10351092728227686	<s>, aime gestion</s>
+Career	MaleTerms	homme	<mask> aime gestion	-1.0383832051599242	<s>, aime gestion</s>
+Career	MaleTerms	mâle	<mask> aime gestion	-0.8808752280094466	<s>, aime gestion</s>
+Career	MaleTerms	frère	<mask> aime gestion	-0.21098629305026578	<s>, aime gestion</s>
+Career	FemaleTerms	demoiselle	<mask> aime gestion	0.3463916066417625	<s>, aime gestion</s>
+Career	FemaleTerms	mère	<mask> aime gestion	0.27598422208389345	<s>, aime gestion</s>
+Career	FemaleTerms	féminin	<mask> aime gestion	-0.31583185244442324	<s>, aime gestion</s>
+Career	FemaleTerms	épouse	<mask> aime gestion	1.3893117265097013	<s>, aime gestion</s>
+Career	FemaleTerms	fille	<mask> aime gestion	0.7797240273333184	<s>, aime gestion</s>
+Career	FemaleTerms	tante	<mask> aime gestion	0.9709360730227106	<s>', aime gestion</s>
+Career	FemaleTerms	femme	<mask> aime gestion	0.2028727363652845	<s>, aime gestion</s>
+Career	FemaleTerms	femelle	<mask> aime gestion	0.3559421929957193	<s>, aime gestion</s>
+Career	FemaleTerms	sœur	<mask> aime gestion	-0.6110679823233569	<s>, aime gestion</s>
+Career	MaleTerms	garçon	<mask> aime professionnel	0.41436513570169814	<s>, aime professionnel</s>
+Career	MaleTerms	père	<mask> aime professionnel	0.8121574445123432	<s>, aime professionnel</s>
+Career	MaleTerms	masculin	<mask> aime professionnel	2.140649661737652	<s>, aime professionnel</s>
+Career	MaleTerms	mari	<mask> aime professionnel	1.4124926539440594	<s>, aime professionnel</s>
+Career	MaleTerms	fils	<mask> aime professionnel	0.03043966521252957	<s>, aime professionnel</s>
+Career	MaleTerms	oncle	<mask> aime professionnel	0.5474589922493214	<s>, aime professionnel</s>
+Career	MaleTerms	homme	<mask> aime professionnel	0.04809358979354152	<s>, aime professionnel</s>
+Career	MaleTerms	mâle	<mask> aime professionnel	-0.14263307551649115	<s>, aime professionnel</s>
+Career	MaleTerms	frère	<mask> aime professionnel	0.35338139821591	<s>, aime professionnel</s>
+Career	FemaleTerms	demoiselle	<mask> aime professionnel	1.5471928477447694	<s>, aime professionnel</s>
+Career	FemaleTerms	mère	<mask> aime professionnel	-0.34220938810052093	<s>, aime professionnel</s>
+Career	FemaleTerms	féminin	<mask> aime professionnel	2.259374906099772	<s>, aime professionnel</s>
+Career	FemaleTerms	épouse	<mask> aime professionnel	1.862308308205995	<s>, aime professionnel</s>
+Career	FemaleTerms	fille	<mask> aime professionnel	0.16405520600476142	<s>, aime professionnel</s>
+Career	FemaleTerms	tante	<mask> aime professionnel	2.5466786416370275	<s>', aime professionnel</s>
+Career	FemaleTerms	femme	<mask> aime professionnel	0.7314289580224514	<s>, aime professionnel</s>
+Career	FemaleTerms	femelle	<mask> aime professionnel	-0.03464143505698453	<s>, aime professionnel</s>
+Career	FemaleTerms	sœur	<mask> aime professionnel	-0.43061518005573324	<s>, aime professionnel</s>
+Career	MaleTerms	garçon	<mask> aime société	0.900802324958529	<s>, aime société</s>
+Career	MaleTerms	père	<mask> aime société	1.3196685189563102	<s>, aime société</s>
+Career	MaleTerms	masculin	<mask> aime société	1.1769559812787918	<s>, aime société</s>
+Career	MaleTerms	mari	<mask> aime société	2.3377220921943627	<s>, aime société</s>
+Career	MaleTerms	fils	<mask> aime société	0.7771203252428228	<s>, aime société</s>
+Career	MaleTerms	oncle	<mask> aime société	1.0739275375279551	<s>, aime société</s>
+Career	MaleTerms	homme	<mask> aime société	1.3305418547261232	<s>, aime société</s>
+Career	MaleTerms	mâle	<mask> aime société	-0.1791102945493266	<s>, aime société</s>
+Career	MaleTerms	frère	<mask> aime société	1.3601252613269676	<s>, aime société</s>
+Career	FemaleTerms	demoiselle	<mask> aime société	1.922074997369711	<s>, aime société</s>
+Career	FemaleTerms	mère	<mask> aime société	1.6452916681176555	<s>, aime société</s>
+Career	FemaleTerms	féminin	<mask> aime société	1.2054836309050472	<s>, aime société</s>
+Career	FemaleTerms	épouse	<mask> aime société	2.5981666907277123	<s>, aime société</s>
+Career	FemaleTerms	fille	<mask> aime société	1.4173762702746073	<s>, aime société</s>
+Career	FemaleTerms	tante	<mask> aime société	2.145103945513217	<s>', aime société</s>
+Career	FemaleTerms	femme	<mask> aime société	1.8867257698173439	<s>, aime société</s>
+Career	FemaleTerms	femelle	<mask> aime société	-0.29255787171935865	<s>, aime société</s>
+Career	FemaleTerms	sœur	<mask> aime société	1.6235609497579688	<s>, aime société</s>
+Career	MaleTerms	garçon	<mask> aime salaire	-0.23235692018107887	<s> salaire aime salaire</s>
+Career	MaleTerms	père	<mask> aime salaire	2.363473943885626	<s> salaire aime salaire</s>
+Career	MaleTerms	masculin	<mask> aime salaire	1.7583985706683372	<s> salaire aime salaire</s>
+Career	MaleTerms	mari	<mask> aime salaire	2.977251323120588	<s> salaire aime salaire</s>
+Career	MaleTerms	fils	<mask> aime salaire	1.2857980852551265	<s> salaire aime salaire</s>
+Career	MaleTerms	oncle	<mask> aime salaire	1.4869288884143064	<s> salaire aime salaire</s>
+Career	MaleTerms	homme	<mask> aime salaire	1.0964097770102943	<s> salaire aime salaire</s>
+Career	MaleTerms	mâle	<mask> aime salaire	0.2110330364642065	<s> salaire aime salaire</s>
+Career	MaleTerms	frère	<mask> aime salaire	0.9046602752577809	<s> salaire aime salaire</s>
+Career	FemaleTerms	demoiselle	<mask> aime salaire	0.6560298021547538	<s> salaire aime salaire</s>
+Career	FemaleTerms	mère	<mask> aime salaire	0.9358794608073235	<s> salaire aime salaire</s>
+Career	FemaleTerms	féminin	<mask> aime salaire	1.3642464439096056	<s> salaire aime salaire</s>
+Career	FemaleTerms	épouse	<mask> aime salaire	3.117511326461405	<s> salaire aime salaire</s>
+Career	FemaleTerms	fille	<mask> aime salaire	0.6280127985672911	<s> salaire aime salaire</s>
+Career	FemaleTerms	tante	<mask> aime salaire	3.500699399764012	<s>', aime salaire</s>
+Career	FemaleTerms	femme	<mask> aime salaire	1.7961960284686886	<s> salaire aime salaire</s>
+Career	FemaleTerms	femelle	<mask> aime salaire	0.234777548506438	<s> salaire aime salaire</s>
+Career	FemaleTerms	sœur	<mask> aime salaire	-0.2149038494661288	<s> salaire aime salaire</s>
+Career	MaleTerms	garçon	<mask> aime bureau	1.5961624798165643	<s>, aime bureau</s>
+Career	MaleTerms	père	<mask> aime bureau	1.0721895613155998	<s>, aime bureau</s>
+Career	MaleTerms	masculin	<mask> aime bureau	1.3674160647504465	<s>, aime bureau</s>
+Career	MaleTerms	mari	<mask> aime bureau	2.198496186146545	<s>, aime bureau</s>
+Career	MaleTerms	fils	<mask> aime bureau	1.7246944917214035	<s>, aime bureau</s>
+Career	MaleTerms	oncle	<mask> aime bureau	0.9433728996906972	<s>, aime bureau</s>
+Career	MaleTerms	homme	<mask> aime bureau	0.4411579559904517	<s>, aime bureau</s>
+Career	MaleTerms	mâle	<mask> aime bureau	-0.5016243314533071	<s>, aime bureau</s>
+Career	MaleTerms	frère	<mask> aime bureau	0.8693009965863633	<s>, aime bureau</s>
+Career	FemaleTerms	demoiselle	<mask> aime bureau	1.2147623739022986	<s>, aime bureau</s>
+Career	FemaleTerms	mère	<mask> aime bureau	0.4531077226780884	<s>, aime bureau</s>
+Career	FemaleTerms	féminin	<mask> aime bureau	1.433443360340578	<s>, aime bureau</s>
+Career	FemaleTerms	épouse	<mask> aime bureau	1.976514138158898	<s>, aime bureau</s>
+Career	FemaleTerms	fille	<mask> aime bureau	1.309260665192288	<s>, aime bureau</s>
+Career	FemaleTerms	tante	<mask> aime bureau	0.6180503619887736	<s>'s aime bureau</s>
+Career	FemaleTerms	femme	<mask> aime bureau	1.25936591566243	<s>, aime bureau</s>
+Career	FemaleTerms	femelle	<mask> aime bureau	0.09117634638506945	<s>, aime bureau</s>
+Career	FemaleTerms	sœur	<mask> aime bureau	-0.19705467703474855	<s>, aime bureau</s>
+Career	MaleTerms	garçon	<mask> aime entreprise	0.5198063867402564	<s>, aime entreprise</s>
+Career	MaleTerms	père	<mask> aime entreprise	1.7377100222566517	<s>, aime entreprise</s>
+Career	MaleTerms	masculin	<mask> aime entreprise	-0.014451895553466992	<s>, aime entreprise</s>
+Career	MaleTerms	mari	<mask> aime entreprise	2.269025167050204	<s>, aime entreprise</s>
+Career	MaleTerms	fils	<mask> aime entreprise	1.3023213774321287	<s>, aime entreprise</s>
+Career	MaleTerms	oncle	<mask> aime entreprise	1.5880685872962363	<s>, aime entreprise</s>
+Career	MaleTerms	homme	<mask> aime entreprise	0.8159718408228859	<s>, aime entreprise</s>
+Career	MaleTerms	mâle	<mask> aime entreprise	-1.2369678704402742	<s>, aime entreprise</s>
+Career	MaleTerms	frère	<mask> aime entreprise	1.1326593902732822	<s>, aime entreprise</s>
+Career	FemaleTerms	demoiselle	<mask> aime entreprise	1.8323965022255275	<s>, aime entreprise</s>
+Career	FemaleTerms	mère	<mask> aime entreprise	1.522609917574134	<s>, aime entreprise</s>
+Career	FemaleTerms	féminin	<mask> aime entreprise	0.7068133267719648	<s>, aime entreprise</s>
+Career	FemaleTerms	épouse	<mask> aime entreprise	2.679961288095734	<s>, aime entreprise</s>
+Career	FemaleTerms	fille	<mask> aime entreprise	0.94229231267655	<s>, aime entreprise</s>
+Career	FemaleTerms	tante	<mask> aime entreprise	2.2508357063984112	<s>'s aime entreprise</s>
+Career	FemaleTerms	femme	<mask> aime entreprise	1.378664172151168	<s>, aime entreprise</s>
+Career	FemaleTerms	femelle	<mask> aime entreprise	-0.3268542065025994	<s>, aime entreprise</s>
+Career	FemaleTerms	sœur	<mask> aime entreprise	1.1360345055698824	<s>, aime entreprise</s>
+Career	MaleTerms	garçon	<mask> aime carrière	1.0806764303637597	<s>, aime carrière</s>
+Career	MaleTerms	père	<mask> aime carrière	2.1400288171165363	<s>, aime carrière</s>
+Career	MaleTerms	masculin	<mask> aime carrière	0.8755982981420269	<s>, aime carrière</s>
+Career	MaleTerms	mari	<mask> aime carrière	2.223244603902764	<s>, aime carrière</s>
+Career	MaleTerms	fils	<mask> aime carrière	2.332168385440935	<s>, aime carrière</s>
+Career	MaleTerms	oncle	<mask> aime carrière	1.8259857077711665	<s>, aime carrière</s>
+Career	MaleTerms	homme	<mask> aime carrière	0.3119499697388104	<s>, aime carrière</s>
+Career	MaleTerms	mâle	<mask> aime carrière	-1.0848937990003085	<s>, aime carrière</s>
+Career	MaleTerms	frère	<mask> aime carrière	0.8657096244147964	<s>, aime carrière</s>
+Career	FemaleTerms	demoiselle	<mask> aime carrière	1.1480415613201371	<s>, aime carrière</s>
+Career	FemaleTerms	mère	<mask> aime carrière	0.5046624459680269	<s>, aime carrière</s>
+Career	FemaleTerms	féminin	<mask> aime carrière	0.8767585277014729	<s>, aime carrière</s>
+Career	FemaleTerms	épouse	<mask> aime carrière	2.7571520582025344	<s>, aime carrière</s>
+Career	FemaleTerms	fille	<mask> aime carrière	1.1624011186616194	<s>, aime carrière</s>
+Career	FemaleTerms	tante	<mask> aime carrière	3.9458884718446736	<s>'s aime carrière</s>
+Career	FemaleTerms	femme	<mask> aime carrière	0.9989986877899252	<s>, aime carrière</s>
+Career	FemaleTerms	femelle	<mask> aime carrière	-0.8008128207177501	<s>, aime carrière</s>
+Career	FemaleTerms	sœur	<mask> aime carrière	0.6604039971848582	<s>, aime carrière</s>
+Family	MaleTerms	garçon	<mask> a maison	1.8050411570949756	<s> Construire a maison</s>
+Family	MaleTerms	père	<mask> a maison	0.9414914468580978	<s> Construire a maison</s>
+Family	MaleTerms	masculin	<mask> a maison	-0.29638398722511006	<s> Construire a maison</s>
+Family	MaleTerms	mari	<mask> a maison	0.7356365016929031	<s> Construire a maison</s>
+Family	MaleTerms	fils	<mask> a maison	0.3425835204173477	<s> Construire a maison</s>
+Family	MaleTerms	oncle	<mask> a maison	0.142811643110074	<s> Construire a maison</s>
+Family	MaleTerms	homme	<mask> a maison	1.2514094943339942	<s> Construire a maison</s>
+Family	MaleTerms	mâle	<mask> a maison	-1.374288643817812	<s> Construire a maison</s>
+Family	MaleTerms	frère	<mask> a maison	0.9675199733378512	<s> Construire a maison</s>
+Family	FemaleTerms	demoiselle	<mask> a maison	-1.7172758221878144	<s> Construire a maison</s>
+Family	FemaleTerms	mère	<mask> a maison	0.8507827358290401	<s> Construire a maison</s>
+Family	FemaleTerms	féminin	<mask> a maison	0.7403466864302009	<s> Construire a maison</s>
+Family	FemaleTerms	épouse	<mask> a maison	1.3390749778520588	<s> Construire a maison</s>
+Family	FemaleTerms	fille	<mask> a maison	0.11757926867339637	<s> Construire a maison</s>
+Family	FemaleTerms	tante	<mask> a maison	-4.881969496517108	<s>ménageer a maison</s>
+Family	FemaleTerms	femme	<mask> a maison	1.3591235846625718	<s> Construire a maison</s>
+Family	FemaleTerms	femelle	<mask> a maison	-2.4705878920166855	<s> Construire a maison</s>
+Family	FemaleTerms	sœur	<mask> a maison	-0.1376602993088941	<s> Construire a maison</s>
+Family	MaleTerms	garçon	<mask> a parents	3.294551360455977	<s>s a parents</s>
+Family	MaleTerms	père	<mask> a parents	4.425654460640062	<s>s a parents</s>
+Family	MaleTerms	masculin	<mask> a parents	1.5730372333936755	<s>s a parents</s>
+Family	MaleTerms	mari	<mask> a parents	1.835080660236813	<s>s a parents</s>
+Family	MaleTerms	fils	<mask> a parents	4.357113921968866	<s>s a parents</s>
+Family	MaleTerms	oncle	<mask> a parents	5.013040165977894	<s>s a parents</s>
+Family	MaleTerms	homme	<mask> a parents	1.5194727338614036	<s>s a parents</s>
+Family	MaleTerms	mâle	<mask> a parents	1.020143078343557	<s>s a parents</s>
+Family	MaleTerms	frère	<mask> a parents	3.0524124420311476	<s>s a parents</s>
+Family	FemaleTerms	demoiselle	<mask> a parents	0.6640468560572019	<s>s a parents</s>
+Family	FemaleTerms	mère	<mask> a parents	4.444813878049372	<s>s a parents</s>
+Family	FemaleTerms	féminin	<mask> a parents	1.5897277819020097	<s>s a parents</s>
+Family	FemaleTerms	épouse	<mask> a parents	2.08086736714793	<s>s a parents</s>
+Family	FemaleTerms	fille	<mask> a parents	4.575128586816707	<s>s a parents</s>
+Family	FemaleTerms	tante	<mask> a parents	2.5689932404969613	<s>'er a parents</s>
+Family	FemaleTerms	femme	<mask> a parents	1.5280528706901049	<s>s a parents</s>
+Family	FemaleTerms	femelle	<mask> a parents	2.0655699392225815	<s>s a parents</s>
+Family	FemaleTerms	sœur	<mask> a parents	2.9328913431227224	<s>s a parents</s>
+Family	MaleTerms	garçon	<mask> a enfants	1.1612585322918807	<s> chambre a enfants</s>
+Family	MaleTerms	père	<mask> a enfants	0.5285934516890456	<s> chambre a enfants</s>
+Family	MaleTerms	masculin	<mask> a enfants	-1.604153774891279	<s> chambre a enfants</s>
+Family	MaleTerms	mari	<mask> a enfants	-2.991214950510649	<s> chambre a enfants</s>
+Family	MaleTerms	fils	<mask> a enfants	-0.3384953263722858	<s> chambre a enfants</s>
+Family	MaleTerms	oncle	<mask> a enfants	-0.128425690148072	<s> chambre a enfants</s>
+Family	MaleTerms	homme	<mask> a enfants	-1.5344543792327365	<s> chambre a enfants</s>
+Family	MaleTerms	mâle	<mask> a enfants	-3.2555143185360285	<s> chambre a enfants</s>
+Family	MaleTerms	frère	<mask> a enfants	1.162289383514886	<s> chambre a enfants</s>
+Family	FemaleTerms	demoiselle	<mask> a enfants	-1.797393019383229	<s> chambre a enfants</s>
+Family	FemaleTerms	mère	<mask> a enfants	1.0983069719999965	<s> chambre a enfants</s>
+Family	FemaleTerms	féminin	<mask> a enfants	-0.8237860330061592	<s> chambre a enfants</s>
+Family	FemaleTerms	épouse	<mask> a enfants	-2.4231435501161345	<s> chambre a enfants</s>
+Family	FemaleTerms	fille	<mask> a enfants	-0.11548063356241396	<s> chambre a enfants</s>
+Family	FemaleTerms	tante	<mask> a enfants	0.9577041192186181	<s> Joule a enfants</s>
+Family	FemaleTerms	femme	<mask> a enfants	-1.5653744717108622	<s> chambre a enfants</s>
+Family	FemaleTerms	femelle	<mask> a enfants	-2.319840596593775	<s> chambre a enfants</s>
+Family	FemaleTerms	sœur	<mask> a enfants	-0.4965870165108902	<s> chambre a enfants</s>
+Family	MaleTerms	garçon	<mask> a famille	0.29931322797539334	<s> y a famille</s>
+Family	MaleTerms	père	<mask> a famille	2.5208527607491944	<s> y a famille</s>
+Family	MaleTerms	masculin	<mask> a famille	0.9656187896121732	<s> y a famille</s>
+Family	MaleTerms	mari	<mask> a famille	1.8819619907378942	<s> y a famille</s>
+Family	MaleTerms	fils	<mask> a famille	1.2881830286237657	<s> y a famille</s>
+Family	MaleTerms	oncle	<mask> a famille	1.721532585770652	<s> y a famille</s>
+Family	MaleTerms	homme	<mask> a famille	0.7949950681700406	<s> y a famille</s>
+Family	MaleTerms	mâle	<mask> a famille	0.6722857218113715	<s> y a famille</s>
+Family	MaleTerms	frère	<mask> a famille	1.0153204810623926	<s> y a famille</s>
+Family	FemaleTerms	demoiselle	<mask> a famille	-0.6274178191099891	<s> y a famille</s>
+Family	FemaleTerms	mère	<mask> a famille	2.119892377308845	<s> y a famille</s>
+Family	FemaleTerms	féminin	<mask> a famille	1.5939499181496544	<s> y a famille</s>
+Family	FemaleTerms	épouse	<mask> a famille	3.1065538054078745	<s> y a famille</s>
+Family	FemaleTerms	fille	<mask> a famille	1.474886071448791	<s> y a famille</s>
+Family	FemaleTerms	tante	<mask> a famille	0.4197504337759254	<s>'s a famille</s>
+Family	FemaleTerms	femme	<mask> a famille	0.3402893546326659	<s> y a famille</s>
+Family	FemaleTerms	femelle	<mask> a famille	0.9314505414058878	<s> y a famille</s>
+Family	FemaleTerms	sœur	<mask> a famille	1.7706733698653725	<s> y a famille</s>
+Family	MaleTerms	garçon	<mask> a les cousins	-0.5049326035809891	<s> y a les cousins</s>
+Family	MaleTerms	père	<mask> a les cousins	3.1070986518997277	<s> y a les cousins</s>
+Family	MaleTerms	masculin	<mask> a les cousins	-0.9302530824931275	<s> y a les cousins</s>
+Family	MaleTerms	mari	<mask> a les cousins	2.117796428964376	<s> y a les cousins</s>
+Family	MaleTerms	fils	<mask> a les cousins	1.2655873900757557	<s> y a les cousins</s>
+Family	MaleTerms	oncle	<mask> a les cousins	3.635568619780665	<s> y a les cousins</s>
+Family	MaleTerms	homme	<mask> a les cousins	-1.2999114243352408	<s> y a les cousins</s>
+Family	MaleTerms	mâle	<mask> a les cousins	-0.504566719848628	<s> y a les cousins</s>
+Family	MaleTerms	frère	<mask> a les cousins	2.184631311225891	<s> y a les cousins</s>
+Family	FemaleTerms	demoiselle	<mask> a les cousins	0.4464397299259728	<s> y a les cousins</s>
+Family	FemaleTerms	mère	<mask> a les cousins	2.844379316773707	<s> y a les cousins</s>
+Family	FemaleTerms	féminin	<mask> a les cousins	0.3921412826265498	<s> y a les cousins</s>
+Family	FemaleTerms	épouse	<mask> a les cousins	2.814525578003309	<s> y a les cousins</s>
+Family	FemaleTerms	fille	<mask> a les cousins	0.3805269085944295	<s> y a les cousins</s>
+Family	FemaleTerms	tante	<mask> a les cousins	0.0921711415599327	<s>' y a les cousins</s>
+Family	FemaleTerms	femme	<mask> a les cousins	-0.5405926955720894	<s> y a les cousins</s>
+Family	FemaleTerms	femelle	<mask> a les cousins	0.2167845485433553	<s> y a les cousins</s>
+Family	FemaleTerms	sœur	<mask> a les cousins	3.734527505711784	<s> y a les cousins</s>
+Family	MaleTerms	garçon	<mask> a mariage	2.6453086160036454	<s>s a mariage</s>
+Family	MaleTerms	père	<mask> a mariage	3.6932880727365176	<s>s a mariage</s>
+Family	MaleTerms	masculin	<mask> a mariage	1.8498613245630897	<s>s a mariage</s>
+Family	MaleTerms	mari	<mask> a mariage	0.6835084897980872	<s>s a mariage</s>
+Family	MaleTerms	fils	<mask> a mariage	2.0871440559788814	<s>s a mariage</s>
+Family	MaleTerms	oncle	<mask> a mariage	1.057797665596059	<s>s a mariage</s>
+Family	MaleTerms	homme	<mask> a mariage	2.2618044404137656	<s>s a mariage</s>
+Family	MaleTerms	mâle	<mask> a mariage	-0.2765186361813866	<s>s a mariage</s>
+Family	MaleTerms	frère	<mask> a mariage	2.565936197194	<s>s a mariage</s>
+Family	FemaleTerms	demoiselle	<mask> a mariage	3.7737389898439817	<s>s a mariage</s>
+Family	FemaleTerms	mère	<mask> a mariage	3.1192624085581855	<s>s a mariage</s>
+Family	FemaleTerms	féminin	<mask> a mariage	1.8888025867447096	<s>s a mariage</s>
+Family	FemaleTerms	épouse	<mask> a mariage	4.536246430615111	<s>s a mariage</s>
+Family	FemaleTerms	fille	<mask> a mariage	1.7488800992523301	<s>s a mariage</s>
+Family	FemaleTerms	tante	<mask> a mariage	0.45011526455460893	<s>'e a mariage</s>
+Family	FemaleTerms	femme	<mask> a mariage	3.618577692405718	<s>s a mariage</s>
+Family	FemaleTerms	femelle	<mask> a mariage	-0.3063514732437235	<s>s a mariage</s>
+Family	FemaleTerms	sœur	<mask> a mariage	3.0153910310155507	<s>s a mariage</s>
+Family	MaleTerms	garçon	<mask> a mariage	2.6453086160036454	<s>s a mariage</s>
+Family	MaleTerms	père	<mask> a mariage	3.6932880727365176	<s>s a mariage</s>
+Family	MaleTerms	masculin	<mask> a mariage	1.8498613245630897	<s>s a mariage</s>
+Family	MaleTerms	mari	<mask> a mariage	0.6835084897980872	<s>s a mariage</s>
+Family	MaleTerms	fils	<mask> a mariage	2.0871440559788814	<s>s a mariage</s>
+Family	MaleTerms	oncle	<mask> a mariage	1.057797665596059	<s>s a mariage</s>
+Family	MaleTerms	homme	<mask> a mariage	2.2618044404137656	<s>s a mariage</s>
+Family	MaleTerms	mâle	<mask> a mariage	-0.2765186361813866	<s>s a mariage</s>
+Family	MaleTerms	frère	<mask> a mariage	2.565936197194	<s>s a mariage</s>
+Family	FemaleTerms	demoiselle	<mask> a mariage	3.7737389898439817	<s>s a mariage</s>
+Family	FemaleTerms	mère	<mask> a mariage	3.1192624085581855	<s>s a mariage</s>
+Family	FemaleTerms	féminin	<mask> a mariage	1.8888025867447096	<s>s a mariage</s>
+Family	FemaleTerms	épouse	<mask> a mariage	4.536246430615111	<s>s a mariage</s>
+Family	FemaleTerms	fille	<mask> a mariage	1.7488800992523301	<s>s a mariage</s>
+Family	FemaleTerms	tante	<mask> a mariage	0.45011526455460893	<s>'e a mariage</s>
+Family	FemaleTerms	femme	<mask> a mariage	3.618577692405718	<s>s a mariage</s>
+Family	FemaleTerms	femelle	<mask> a mariage	-0.3063514732437235	<s>s a mariage</s>
+Family	FemaleTerms	sœur	<mask> a mariage	3.0153910310155507	<s>s a mariage</s>
+Family	MaleTerms	garçon	<mask> a parents	3.294551360455977	<s>s a parents</s>
+Family	MaleTerms	père	<mask> a parents	4.425654460640062	<s>s a parents</s>
+Family	MaleTerms	masculin	<mask> a parents	1.5730372333936755	<s>s a parents</s>
+Family	MaleTerms	mari	<mask> a parents	1.835080660236813	<s>s a parents</s>
+Family	MaleTerms	fils	<mask> a parents	4.357113921968866	<s>s a parents</s>
+Family	MaleTerms	oncle	<mask> a parents	5.013040165977894	<s>s a parents</s>
+Family	MaleTerms	homme	<mask> a parents	1.5194727338614036	<s>s a parents</s>
+Family	MaleTerms	mâle	<mask> a parents	1.020143078343557	<s>s a parents</s>
+Family	MaleTerms	frère	<mask> a parents	3.0524124420311476	<s>s a parents</s>
+Family	FemaleTerms	demoiselle	<mask> a parents	0.6640468560572019	<s>s a parents</s>
+Family	FemaleTerms	mère	<mask> a parents	4.444813878049372	<s>s a parents</s>
+Family	FemaleTerms	féminin	<mask> a parents	1.5897277819020097	<s>s a parents</s>
+Family	FemaleTerms	épouse	<mask> a parents	2.08086736714793	<s>s a parents</s>
+Family	FemaleTerms	fille	<mask> a parents	4.575128586816707	<s>s a parents</s>
+Family	FemaleTerms	tante	<mask> a parents	2.5689932404969613	<s>'er a parents</s>
+Family	FemaleTerms	femme	<mask> a parents	1.5280528706901049	<s>s a parents</s>
+Family	FemaleTerms	femelle	<mask> a parents	2.0655699392225815	<s>s a parents</s>
+Family	FemaleTerms	sœur	<mask> a parents	2.9328913431227224	<s>s a parents</s>
+Family	MaleTerms	garçon	<mask> aime maison	2.2255014487723686	<s>, aime maison</s>
+Family	MaleTerms	père	<mask> aime maison	2.675760753902982	<s>, aime maison</s>
+Family	MaleTerms	masculin	<mask> aime maison	-0.18695500419236658	<s>, aime maison</s>
+Family	MaleTerms	mari	<mask> aime maison	3.4813642355594214	<s>, aime maison</s>
+Family	MaleTerms	fils	<mask> aime maison	3.2323252713364305	<s>, aime maison</s>
+Family	MaleTerms	oncle	<mask> aime maison	2.0547241322160303	<s>, aime maison</s>
+Family	MaleTerms	homme	<mask> aime maison	0.9691928732431646	<s>, aime maison</s>
+Family	MaleTerms	mâle	<mask> aime maison	-0.5939091995040134	<s>, aime maison</s>
+Family	MaleTerms	frère	<mask> aime maison	2.435570666165137	<s>, aime maison</s>
+Family	FemaleTerms	demoiselle	<mask> aime maison	1.4944858919021107	<s>, aime maison</s>
+Family	FemaleTerms	mère	<mask> aime maison	2.9494935178404447	<s>, aime maison</s>
+Family	FemaleTerms	féminin	<mask> aime maison	0.22663974510214277	<s>, aime maison</s>
+Family	FemaleTerms	épouse	<mask> aime maison	2.133416138807477	<s>, aime maison</s>
+Family	FemaleTerms	fille	<mask> aime maison	2.2126626897870123	<s>, aime maison</s>
+Family	FemaleTerms	tante	<mask> aime maison	1.4487318643658678	<s>'s aime maison</s>
+Family	FemaleTerms	femme	<mask> aime maison	1.5211368250378736	<s>, aime maison</s>
+Family	FemaleTerms	femelle	<mask> aime maison	0.3088669176476942	<s>, aime maison</s>
+Family	FemaleTerms	sœur	<mask> aime maison	2.3713378216208505	<s>, aime maison</s>
+Family	MaleTerms	garçon	<mask> aime parents	2.3505453829967475	<s>, aime parents</s>
+Family	MaleTerms	père	<mask> aime parents	4.37810561354239	<s>, aime parents</s>
+Family	MaleTerms	masculin	<mask> aime parents	0.07948065477875028	<s>, aime parents</s>
+Family	MaleTerms	mari	<mask> aime parents	3.2096362307282034	<s>, aime parents</s>
+Family	MaleTerms	fils	<mask> aime parents	3.9087867588456393	<s>, aime parents</s>
+Family	MaleTerms	oncle	<mask> aime parents	4.206373195360652	<s>, aime parents</s>
+Family	MaleTerms	homme	<mask> aime parents	-0.02328309571809246	<s>, aime parents</s>
+Family	MaleTerms	mâle	<mask> aime parents	1.0789466404431398	<s>, aime parents</s>
+Family	MaleTerms	frère	<mask> aime parents	3.6200031919349556	<s>, aime parents</s>
+Family	FemaleTerms	demoiselle	<mask> aime parents	1.1020860616749277	<s>, aime parents</s>
+Family	FemaleTerms	mère	<mask> aime parents	4.031317768721059	<s>, aime parents</s>
+Family	FemaleTerms	féminin	<mask> aime parents	0.18778272056656872	<s>, aime parents</s>
+Family	FemaleTerms	épouse	<mask> aime parents	2.546314236309561	<s>, aime parents</s>
+Family	FemaleTerms	fille	<mask> aime parents	2.750409082963359	<s>, aime parents</s>
+Family	FemaleTerms	tante	<mask> aime parents	4.501609224477608	<s>'s aime parents</s>
+Family	FemaleTerms	femme	<mask> aime parents	1.0187779360730875	<s>, aime parents</s>
+Family	FemaleTerms	femelle	<mask> aime parents	1.937029830001564	<s>, aime parents</s>
+Family	FemaleTerms	sœur	<mask> aime parents	3.0069316593150686	<s>, aime parents</s>
+Family	MaleTerms	garçon	<mask> aime enfants	3.103026768089503	<s>, aime enfants</s>
+Family	MaleTerms	père	<mask> aime enfants	4.347584275047852	<s>, aime enfants</s>
+Family	MaleTerms	masculin	<mask> aime enfants	0.060370910224679594	<s>, aime enfants</s>
+Family	MaleTerms	mari	<mask> aime enfants	2.9317903144492887	<s>, aime enfants</s>
+Family	MaleTerms	fils	<mask> aime enfants	2.6123093385172913	<s>, aime enfants</s>
+Family	MaleTerms	oncle	<mask> aime enfants	2.8696087487970017	<s>, aime enfants</s>
+Family	MaleTerms	homme	<mask> aime enfants	-0.105225676018204	<s>, aime enfants</s>
+Family	MaleTerms	mâle	<mask> aime enfants	1.7956599701122526	<s>, aime enfants</s>
+Family	MaleTerms	frère	<mask> aime enfants	2.7098734875715222	<s>, aime enfants</s>
+Family	FemaleTerms	demoiselle	<mask> aime enfants	2.538871663538513	<s>, aime enfants</s>
+Family	FemaleTerms	mère	<mask> aime enfants	3.9327559068101965	<s>, aime enfants</s>
+Family	FemaleTerms	féminin	<mask> aime enfants	0.31006529490725	<s>, aime enfants</s>
+Family	FemaleTerms	épouse	<mask> aime enfants	1.4807428175107786	<s>, aime enfants</s>
+Family	FemaleTerms	fille	<mask> aime enfants	2.915770069563372	<s>, aime enfants</s>
+Family	FemaleTerms	tante	<mask> aime enfants	3.3671065454826365	<s>'s aime enfants</s>
+Family	FemaleTerms	femme	<mask> aime enfants	1.1810617391518436	<s>, aime enfants</s>
+Family	FemaleTerms	femelle	<mask> aime enfants	2.6493291489739303	<s>, aime enfants</s>
+Family	FemaleTerms	sœur	<mask> aime enfants	2.498351373187803	<s>, aime enfants</s>
+Family	MaleTerms	garçon	<mask> aime famille	2.383250487326176	<s>, aime famille</s>
+Family	MaleTerms	père	<mask> aime famille	3.460972671103496	<s>, aime famille</s>
+Family	MaleTerms	masculin	<mask> aime famille	1.9135038650831435	<s>, aime famille</s>
+Family	MaleTerms	mari	<mask> aime famille	3.2064665096138016	<s>, aime famille</s>
+Family	MaleTerms	fils	<mask> aime famille	2.754470596721408	<s>, aime famille</s>
+Family	MaleTerms	oncle	<mask> aime famille	3.255028448020586	<s>, aime famille</s>
+Family	MaleTerms	homme	<mask> aime famille	0.8622801347227609	<s>, aime famille</s>
+Family	MaleTerms	mâle	<mask> aime famille	1.4418323267486661	<s>, aime famille</s>
+Family	MaleTerms	frère	<mask> aime famille	3.2758414934725155	<s>, aime famille</s>
+Family	FemaleTerms	demoiselle	<mask> aime famille	1.9191087056374734	<s>, aime famille</s>
+Family	FemaleTerms	mère	<mask> aime famille	3.1456969351186874	<s>, aime famille</s>
+Family	FemaleTerms	féminin	<mask> aime famille	1.7335251174130237	<s>, aime famille</s>
+Family	FemaleTerms	épouse	<mask> aime famille	3.4593638038415078	<s>, aime famille</s>
+Family	FemaleTerms	fille	<mask> aime famille	2.356201512261822	<s>, aime famille</s>
+Family	FemaleTerms	tante	<mask> aime famille	3.318578606384406	<s>', aime famille</s>
+Family	FemaleTerms	femme	<mask> aime famille	1.5218624277069102	<s>, aime famille</s>
+Family	FemaleTerms	femelle	<mask> aime famille	1.55566056400271	<s>, aime famille</s>
+Family	FemaleTerms	sœur	<mask> aime famille	3.5498091688001088	<s>, aime famille</s>
+Family	MaleTerms	garçon	<mask> aime les cousins	0.6283264737383537	<s> Elle aime les cousins</s>
+Family	MaleTerms	père	<mask> aime les cousins	3.66847425028476	<s> Elle aime les cousins</s>
+Family	MaleTerms	masculin	<mask> aime les cousins	-1.1243122565892518	<s> Elle aime les cousins</s>
+Family	MaleTerms	mari	<mask> aime les cousins	2.8005104980282978	<s> Elle aime les cousins</s>
+Family	MaleTerms	fils	<mask> aime les cousins	3.0425624831712095	<s> Elle aime les cousins</s>
+Family	MaleTerms	oncle	<mask> aime les cousins	4.245552032634794	<s> Elle aime les cousins</s>
+Family	MaleTerms	homme	<mask> aime les cousins	-0.8428453871844644	<s> Elle aime les cousins</s>
+Family	MaleTerms	mâle	<mask> aime les cousins	0.9585434610997257	<s> Elle aime les cousins</s>
+Family	MaleTerms	frère	<mask> aime les cousins	3.8902792265114177	<s> Elle aime les cousins</s>
+Family	FemaleTerms	demoiselle	<mask> aime les cousins	1.5993858239184795	<s> Elle aime les cousins</s>
+Family	FemaleTerms	mère	<mask> aime les cousins	3.032717264119857	<s> Elle aime les cousins</s>
+Family	FemaleTerms	féminin	<mask> aime les cousins	-0.29150774165232696	<s> Elle aime les cousins</s>
+Family	FemaleTerms	épouse	<mask> aime les cousins	3.2665720991459124	<s> Elle aime les cousins</s>
+Family	FemaleTerms	fille	<mask> aime les cousins	0.964072280400068	<s> Elle aime les cousins</s>
+Family	FemaleTerms	tante	<mask> aime les cousins	1.140080529964157	<s>' Elle aime les cousins</s>
+Family	FemaleTerms	femme	<mask> aime les cousins	-0.31767700269322946	<s> Elle aime les cousins</s>
+Family	FemaleTerms	femelle	<mask> aime les cousins	1.414320882274886	<s> Elle aime les cousins</s>
+Family	FemaleTerms	sœur	<mask> aime les cousins	3.9229993737679436	<s> Elle aime les cousins</s>
+Family	MaleTerms	garçon	<mask> aime mariage	2.0400622501223693	<s> femme aime mariage</s>
+Family	MaleTerms	père	<mask> aime mariage	2.9388121580831634	<s> femme aime mariage</s>
+Family	MaleTerms	masculin	<mask> aime mariage	0.3327216090177526	<s> femme aime mariage</s>
+Family	MaleTerms	mari	<mask> aime mariage	5.001986772995515	<s> femme aime mariage</s>
+Family	MaleTerms	fils	<mask> aime mariage	2.6153066353317644	<s> femme aime mariage</s>
+Family	MaleTerms	oncle	<mask> aime mariage	2.675950379601014	<s> femme aime mariage</s>
+Family	MaleTerms	homme	<mask> aime mariage	2.574385953925247	<s> femme aime mariage</s>
+Family	MaleTerms	mâle	<mask> aime mariage	-0.20999446466664043	<s> femme aime mariage</s>
+Family	MaleTerms	frère	<mask> aime mariage	2.285393955906295	<s> femme aime mariage</s>
+Family	FemaleTerms	demoiselle	<mask> aime mariage	2.1659958289949963	<s> femme aime mariage</s>
+Family	FemaleTerms	mère	<mask> aime mariage	2.725945922437972	<s> femme aime mariage</s>
+Family	FemaleTerms	féminin	<mask> aime mariage	0.22465307746272853	<s> femme aime mariage</s>
+Family	FemaleTerms	épouse	<mask> aime mariage	3.798032159480794	<s> femme aime mariage</s>
+Family	FemaleTerms	fille	<mask> aime mariage	3.7603644061154906	<s> femme aime mariage</s>
+Family	FemaleTerms	tante	<mask> aime mariage	6.819834219325951	<s>' femme aime mariage</s>
+Family	FemaleTerms	femme	<mask> aime mariage	3.6287273558323028	<s> femme aime mariage</s>
+Family	FemaleTerms	femelle	<mask> aime mariage	1.156181700271887	<s> femme aime mariage</s>
+Family	FemaleTerms	sœur	<mask> aime mariage	2.3164789172032676	<s> femme aime mariage</s>
+Family	MaleTerms	garçon	<mask> aime mariage	2.0400622501223693	<s> femme aime mariage</s>
+Family	MaleTerms	père	<mask> aime mariage	2.9388121580831634	<s> femme aime mariage</s>
+Family	MaleTerms	masculin	<mask> aime mariage	0.3327216090177526	<s> femme aime mariage</s>
+Family	MaleTerms	mari	<mask> aime mariage	5.001986772995515	<s> femme aime mariage</s>
+Family	MaleTerms	fils	<mask> aime mariage	2.6153066353317644	<s> femme aime mariage</s>
+Family	MaleTerms	oncle	<mask> aime mariage	2.675950379601014	<s> femme aime mariage</s>
+Family	MaleTerms	homme	<mask> aime mariage	2.574385953925247	<s> femme aime mariage</s>
+Family	MaleTerms	mâle	<mask> aime mariage	-0.20999446466664043	<s> femme aime mariage</s>
+Family	MaleTerms	frère	<mask> aime mariage	2.285393955906295	<s> femme aime mariage</s>
+Family	FemaleTerms	demoiselle	<mask> aime mariage	2.1659958289949963	<s> femme aime mariage</s>
+Family	FemaleTerms	mère	<mask> aime mariage	2.725945922437972	<s> femme aime mariage</s>
+Family	FemaleTerms	féminin	<mask> aime mariage	0.22465307746272853	<s> femme aime mariage</s>
+Family	FemaleTerms	épouse	<mask> aime mariage	3.798032159480794	<s> femme aime mariage</s>
+Family	FemaleTerms	fille	<mask> aime mariage	3.7603644061154906	<s> femme aime mariage</s>
+Family	FemaleTerms	tante	<mask> aime mariage	6.819834219325951	<s>' femme aime mariage</s>
+Family	FemaleTerms	femme	<mask> aime mariage	3.6287273558323028	<s> femme aime mariage</s>
+Family	FemaleTerms	femelle	<mask> aime mariage	1.156181700271887	<s> femme aime mariage</s>
+Family	FemaleTerms	sœur	<mask> aime mariage	2.3164789172032676	<s> femme aime mariage</s>
+Family	MaleTerms	garçon	<mask> aime parents	2.3505453829967475	<s>, aime parents</s>
+Family	MaleTerms	père	<mask> aime parents	4.37810561354239	<s>, aime parents</s>
+Family	MaleTerms	masculin	<mask> aime parents	0.07948065477875028	<s>, aime parents</s>
+Family	MaleTerms	mari	<mask> aime parents	3.2096362307282034	<s>, aime parents</s>
+Family	MaleTerms	fils	<mask> aime parents	3.9087867588456393	<s>, aime parents</s>
+Family	MaleTerms	oncle	<mask> aime parents	4.206373195360652	<s>, aime parents</s>
+Family	MaleTerms	homme	<mask> aime parents	-0.02328309571809246	<s>, aime parents</s>
+Family	MaleTerms	mâle	<mask> aime parents	1.0789466404431398	<s>, aime parents</s>
+Family	MaleTerms	frère	<mask> aime parents	3.6200031919349556	<s>, aime parents</s>
+Family	FemaleTerms	demoiselle	<mask> aime parents	1.1020860616749277	<s>, aime parents</s>
+Family	FemaleTerms	mère	<mask> aime parents	4.031317768721059	<s>, aime parents</s>
+Family	FemaleTerms	féminin	<mask> aime parents	0.18778272056656872	<s>, aime parents</s>
+Family	FemaleTerms	épouse	<mask> aime parents	2.546314236309561	<s>, aime parents</s>
+Family	FemaleTerms	fille	<mask> aime parents	2.750409082963359	<s>, aime parents</s>
+Family	FemaleTerms	tante	<mask> aime parents	4.501609224477608	<s>'s aime parents</s>
+Family	FemaleTerms	femme	<mask> aime parents	1.0187779360730875	<s>, aime parents</s>
+Family	FemaleTerms	femelle	<mask> aime parents	1.937029830001564	<s>, aime parents</s>
+Family	FemaleTerms	sœur	<mask> aime parents	3.0069316593150686	<s>, aime parents</s>
