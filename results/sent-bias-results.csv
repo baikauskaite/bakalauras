@@ -19,3 +19,61 @@ date,model,is_debiased,test_name,effect_size,p_value
 2024-04-23,camembert,true,sent-weat5,0.04,0.454050000
 2024-04-23,camembert,true,sent-weat5b,0.24,0.200800000
 2024-04-23,camembert,true,sent-weat6,-0.19,0.680260000
+
+2024-05-05,camembert,false,sent-weat0 ,1.72 ,0.000010000
+2024-05-05,camembert,false,sent-weat0b,1.16 ,0.000010000
+2024-05-05,camembert,false,sent-weat1 ,0.98 ,0.000010000
+2024-05-05,camembert,false,sent-weat2 ,0.69 ,0.000010000
+2024-05-05,camembert,false,sent-weat3 ,-0.23,0.818250000
+2024-05-05,camembert,false,sent-weat3b,-0.19,0.811280000
+2024-05-05,camembert,false,sent-weat4 ,0.77 ,0.000890000
+2024-05-05,camembert,false,sent-weat4b,0.37 ,0.073900000
+2024-05-05,camembert,false,sent-weat5 ,0.14 ,0.321020000
+2024-05-05,camembert,false,sent-weat5b,-0.47,0.946320000
+2024-05-05,camembert,false,sent-weat6 ,1.14 ,0.001590000
+2024-05-05,camembert,true,sent-weat0 ,0.04 ,0.399490000
+2024-05-05,camembert,true,sent-weat0b,0.17 ,0.183590000
+2024-05-05,camembert,true,sent-weat1 ,0.04 ,0.356730000
+2024-05-05,camembert,true,sent-weat2 ,0.04 ,0.355550000
+2024-05-05,camembert,true,sent-weat3 ,0.11 ,0.306700000
+2024-05-05,camembert,true,sent-weat3b,-0.12,0.699270000
+2024-05-05,camembert,true,sent-weat4 ,-0.12,0.677180000
+2024-05-05,camembert,true,sent-weat4b,-0.20,0.790380000
+2024-05-05,camembert,true,sent-weat5 ,0.40 ,0.060150000
+2024-05-05,camembert,true,sent-weat5b,-0.32,0.851850000
+2024-05-05,camembert,true,sent-weat6 ,-0.87,0.966300000
+
+2024-05-06,camembertv2,true,sent-weat0 ,-0.08,0.674780000
+2024-05-06,camembertv2,true,sent-weat0b,-0.15,0.758370000
+2024-05-06,camembertv2,true,sent-weat1 ,-0.18,0.947740000
+2024-05-06,camembertv2,true,sent-weat2 ,0.18 ,0.055330000
+2024-05-06,camembertv2,true,sent-weat3 ,0.36 ,0.074540000
+2024-05-06,camembertv2,true,sent-weat3b,0.15 ,0.235140000
+2024-05-06,camembertv2,true,sent-weat4 ,-0.21,0.796690000
+2024-05-06,camembertv2,true,sent-weat4b,0.18 ,0.236690000
+2024-05-06,camembertv2,true,sent-weat5 ,-0.01,0.516090000
+2024-05-06,camembertv2,true,sent-weat5b,0.13 ,0.320000000
+2024-05-06,camembertv2,true,sent-weat6 ,0.34 ,0.201620000
+
+2024-05-05,gottbert,false,sent-weat0 ,0.14 ,0.270330000
+2024-05-05,gottbert,false,sent-weat0b,-0.24,0.871400000
+2024-05-05,gottbert,false,sent-weat1 ,0.24 ,0.016460000
+2024-05-05,gottbert,false,sent-weat2 ,0.39 ,0.000200000
+2024-05-05,gottbert,false,sent-weat3 ,-0.16,0.753470000
+2024-05-05,gottbert,false,sent-weat3b,0.18 ,0.194020000
+2024-05-05,gottbert,false,sent-weat4 ,-0.63,0.994830000
+2024-05-05,gottbert,false,sent-weat4b,0.67 ,0.002980000
+2024-05-05,gottbert,false,sent-weat5 ,-0.06,0.585970000
+2024-05-05,gottbert,false,sent-weat5b,0.09 ,0.382150000
+2024-05-05,gottbert,false,sent-weat6 ,0.86 ,0.020730000
+2024-05-05,gottbert,true,sent-weat0 ,0.44 ,0.024170000
+2024-05-05,gottbert,true,sent-weat0b,-0.13,0.720660000
+2024-05-05,gottbert,true,sent-weat1 ,0.04 ,0.353550000
+2024-05-05,gottbert,true,sent-weat2 ,0.09 ,0.213340000
+2024-05-05,gottbert,true,sent-weat3 ,-0.66,0.999150000
+2024-05-05,gottbert,true,sent-weat3b,0.21 ,0.162700000
+2024-05-05,gottbert,true,sent-weat4 ,0.48 ,0.025590000
+2024-05-05,gottbert,true,sent-weat4b,-0.15,0.726440000
+2024-05-05,gottbert,true,sent-weat5 ,0.32 ,0.136580000
+2024-05-05,gottbert,true,sent-weat5b,-0.02,0.528260000
+2024-05-05,gottbert,true,sent-weat6 ,-1.12,0.997620000

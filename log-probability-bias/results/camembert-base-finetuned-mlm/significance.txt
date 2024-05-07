@@ -1,0 +1,209 @@
+==> weat0-gram-significance.txt <==
+**** FemaleTerms ****
+GrammaticallyFemale mean,	 -1.0895865401618645
+GrammmaticalyMale mean,	 -1.2659064707776153
+Test statistic,	 904717.0
+p-value,	 8.184700541377072e-10
+
+**** MaleTerms ****
+GrammaticallyFemale mean,	 1.0772653999412145
+GrammmaticalyMale mean,	 0.8039147408784457
+Test statistic,	 887275.0
+p-value,	 1.180137291252033e-11
+
+
+==> weat0-sem-significance.txt <==
+**** GrammaticallyFemale ****
+FemaleTerms mean,	 0.8529762747096983
+MaleTerms mean,	 0.6733151795897298
+Test statistic,	 846379.0
+p-value,	 1.1681259347462956e-16
+
+**** GrammmaticalyMale ****
+FemaleTerms mean,	 0.6591743206208616
+MaleTerms mean,	 0.7862566231958527
+Test statistic,	 927212.0
+p-value,	 1.0713127557855879e-07
+
+
+==> weat0-significance.txt <==
+**** GrammaticallyFemale ****
+FemaleTerms mean,	 0.7097762359028223
+MaleTerms mean,	 0.6216160165771794
+Test statistic,	 2022403.0
+p-value,	 3.4216981602458915e-10
+
+**** GrammmaticalyMale ****
+FemaleTerms mean,	 0.590874308409048
+MaleTerms mean,	 0.7226233468025166
+Test statistic,	 2007427.0
+p-value,	 2.414756529638316e-10
+
+
+==> weat0b-gram-significance.txt <==
+**** FemaleNames ****
+GrammaticallyFemale mean,	 -0.35614811966431814
+GrammmaticalyMale mean,	 -0.40714671958360243
+Test statistic,	 1013917.0
+p-value,	 0.033489435478452845
+
+**** MaleNames ****
+GrammaticallyFemale mean,	 -0.2952156120615682
+GrammmaticalyMale mean,	 -0.25864259853402133
+Test statistic,	 1065879.0
+p-value,	 0.8293049905860834
+
+
+==> weat0b-sem-significance.txt <==
+**** GrammaticallyFemale ****
+FemaleNames mean,	 0.20437779246145135
+MaleNames mean,	 0.04537599783183447
+Test statistic,	 920113.0
+p-value,	 2.47226777935655e-08
+
+**** GrammmaticalyMale ****
+FemaleNames mean,	 -0.17621589803090665
+MaleNames mean,	 -0.14056968280072832
+Test statistic,	 1037893.0
+p-value,	 0.21327856241040632
+
+
+==> weat0b-significance.txt <==
+**** GrammaticallyFemale ****
+FemaleNames mean,	 0.15684047358372172
+MaleNames mean,	 -0.002766128384850922
+Test statistic,	 1995727.0
+p-value,	 8.697510798851095e-12
+
+**** GrammmaticalyMale ****
+FemaleNames mean,	 -0.07849500997891481
+MaleNames mean,	 -0.11536605156734915
+Test statistic,	 2231867.0
+p-value,	 0.08922101265282152
+
+
+==> weat1-significance.txt <==
+**** Pleasant ****
+Flowers mean,	 -inf
+Insects mean,	 -inf
+Test statistic,	 nan
+p-value,	 nan
+
+**** Unpleasant ****
+Flowers mean,	 -inf
+Insects mean,	 -inf
+Test statistic,	 nan
+p-value,	 nan
+
+
+==> weat2-significance.txt <==
+**** Pleasant ****
+Instruments mean,	 -inf
+Weapons mean,	 nan
+Test statistic,	 nan
+p-value,	 nan
+
+**** Unpleasant ****
+Instruments mean,	 -inf
+Weapons mean,	 nan
+Test statistic,	 nan
+p-value,	 nan
+
+
+==> weat3-significance.txt <==
+**** Career ****
+FemaleTerms mean,	 0.6456546558463434
+MaleTerms mean,	 0.3679908878903372
+Test statistic,	 3740.0
+p-value,	 0.0031616231643241542
+
+**** Family ****
+FemaleTerms mean,	 1.8472416750376013
+MaleTerms mean,	 1.8446514520908888
+Test statistic,	 4830.0
+p-value,	 0.43669536838529954
+
+
+==> weat3b-significance.txt <==
+**** Career ****
+FemaleNames mean,	 -1.282146292839529
+MaleNames mean,	 -1.2597756579597492
+Test statistic,	 5197.0
+p-value,	 0.9634146612086885
+
+**** Family ****
+FemaleNames mean,	 -1.1493065137559628
+MaleNames mean,	 -1.352258692297963
+Test statistic,	 4133.0
+p-value,	 0.03017175226151642
+
+
+==> weat4-significance.txt <==
+**** FemaleTerms ****
+Arts mean,	 -1.5420008359802908
+Math mean,	 -2.1167243846477413
+Test statistic,	 1273.0
+p-value,	 0.8180300464051908
+
+**** MaleTerms ****
+Arts mean,	 0.2918888305713948
+Math mean,	 0.5991484690784737
+Test statistic,	 1203.0
+p-value,	 0.533351567671847
+
+
+==> weat4b-significance.txt <==
+**** FemaleNames ****
+Arts mean,	 -0.22725227388350488
+Math mean,	 -0.4501152801175944
+Test statistic,	 1307.0
+p-value,	 0.9686656735478321
+
+**** MaleNames ****
+Arts mean,	 -0.11745136210712559
+Math mean,	 0.11012202048580526
+Test statistic,	 1124.0
+p-value,	 0.2863234069128857
+
+
+==> weat5-significance.txt <==
+**** FemaleTerms ****
+Arts mean,	 -1.6630848722973592
+Science mean,	 -1.7874096160035025
+Test statistic,	 1012.0
+p-value,	 0.09012638005722401
+
+**** MaleTerms ****
+Arts mean,	 0.13547019707379468
+Science mean,	 0.7328920885967468
+Test statistic,	 1302.0
+p-value,	 0.946310777557944
+
+
+==> weat5b-significance.txt <==
+**** FemaleNames ****
+Arts mean,	 -0.09453431157452191
+Science mean,	 -0.3157615551947497
+Test statistic,	 1116.0
+p-value,	 0.2665187187064757
+
+**** MaleNames ****
+Arts mean,	 0.0965482547215806
+Science mean,	 -0.1537052896320935
+Test statistic,	 1150.0
+p-value,	 0.35740674574781395
+
+
+==> weat6-significance.txt <==
+**** Permanent ****
+MentalDisease mean,	 -0.44830342978266674
+PhysicalDisease mean,	 -0.04245394872148954
+Test statistic,	 354.0
+p-value,	 0.2277620672807643
+
+**** Temporary ****
+MentalDisease mean,	 -0.5072669228244463
+PhysicalDisease mean,	 -0.5247698773949374
+Test statistic,	 410.0
+p-value,	 0.6116942574235509
+

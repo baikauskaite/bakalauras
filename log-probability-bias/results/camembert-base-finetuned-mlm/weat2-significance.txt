@@ -1,0 +1,12 @@
+**** Pleasant ****
+Instruments mean,	 -inf
+Weapons mean,	 nan
+Test statistic,	 nan
+p-value,	 nan
+
+**** Unpleasant ****
+Instruments mean,	 -inf
+Weapons mean,	 nan
+Test statistic,	 nan
+p-value,	 nan
+
