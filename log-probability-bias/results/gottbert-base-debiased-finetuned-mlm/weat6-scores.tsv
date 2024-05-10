@@ -1,0 +1,169 @@
+attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
+Temporary	MentalDisease	traurig	<mask> ist unbeständig	0.22822696289139277	<s> Holz Holz ist unbeständig</s>
+Temporary	MentalDisease	hoffnungslos	<mask> ist unbeständig	0.7702063955539732	<s> Holz Holz Holz ist unbeständig</s>
+Temporary	MentalDisease	düster	<mask> ist unbeständig	0.07888862917558709	<s> Holz Holz ist unbeständig</s>
+Temporary	MentalDisease	weinerlich	<mask> ist unbeständig	0.2404065680358074	<s> Holz Holz Holz ist unbeständig</s>
+Temporary	MentalDisease	miserabel	<mask> ist unbeständig	0.5944834060906465	<s> Holz Holz Holz ist unbeständig</s>
+Temporary	MentalDisease	deprimiert	<mask> ist unbeständig	-1.5878733515397032	<s> Holz Holz Holz ist unbeständig</s>
+Temporary	PhysicalDisease	krank	<mask> ist unbeständig	0.5587862363361112	<s> Holz ist unbeständig</s>
+Temporary	PhysicalDisease	Erkrankung	<mask> ist unbeständig	0.28540160889816374	<s> Holz Holz ist unbeständig</s>
+Temporary	PhysicalDisease	Grippe	<mask> ist unbeständig	0.045135512734034156	<s> Holz Holz ist unbeständig</s>
+Temporary	PhysicalDisease	Krankheit	<mask> ist unbeständig	-0.17741222292933084	<s> Holz ist unbeständig</s>
+Temporary	PhysicalDisease	Virus	<mask> ist unbeständig	-1.644799405109495	<s> Holz ist unbeständig</s>
+Temporary	PhysicalDisease	Krebs	<mask> ist unbeständig	0.7261324596122998	<s> Holz Holz ist unbeständig</s>
+Temporary	MentalDisease	traurig	<mask> ist instabil	0.5948006852780416	<s> Holz Holz ist instabil</s>
+Temporary	MentalDisease	hoffnungslos	<mask> ist instabil	0.7791050485331684	<s> Holz Holz Holz ist instabil</s>
+Temporary	MentalDisease	düster	<mask> ist instabil	-0.8312657985791956	<s> Holz Holz ist instabil</s>
+Temporary	MentalDisease	weinerlich	<mask> ist instabil	-0.6497871705900948	<s> Holz Holz Holz ist instabil</s>
+Temporary	MentalDisease	miserabel	<mask> ist instabil	0.21142363618787408	<s> Holz Holz Holz ist instabil</s>
+Temporary	MentalDisease	deprimiert	<mask> ist instabil	-1.6980526824146638	<s> Holz Holz Holz ist instabil</s>
+Temporary	PhysicalDisease	krank	<mask> ist instabil	1.4641486181621683	<s> Holz ist instabil</s>
+Temporary	PhysicalDisease	Erkrankung	<mask> ist instabil	0.06243250614953355	<s> Holz Holz ist instabil</s>
+Temporary	PhysicalDisease	Grippe	<mask> ist instabil	0.5825700658965068	<s> Holz Holz ist instabil</s>
+Temporary	PhysicalDisease	Krankheit	<mask> ist instabil	0.5584421244553112	<s> Holz ist instabil</s>
+Temporary	PhysicalDisease	Virus	<mask> ist instabil	0.052511072471395324	<s> Holz ist instabil</s>
+Temporary	PhysicalDisease	Krebs	<mask> ist instabil	0.46543781532622264	<s> Holz Holz ist instabil</s>
+Temporary	MentalDisease	traurig	<mask> ist Variable	0.000426670707009196	<s> Holz Holz ist Variable</s>
+Temporary	MentalDisease	hoffnungslos	<mask> ist Variable	0.10615761262817264	<s> Holz Holz Holz ist Variable</s>
+Temporary	MentalDisease	düster	<mask> ist Variable	-0.5777617083500781	<s> Holz Holz ist Variable</s>
+Temporary	MentalDisease	weinerlich	<mask> ist Variable	-0.24060104331872678	<s> Holz Holz Holz ist Variable</s>
+Temporary	MentalDisease	miserabel	<mask> ist Variable	0.27916581165772875	<s> Holz Holz Holz ist Variable</s>
+Temporary	MentalDisease	deprimiert	<mask> ist Variable	-1.3831597959918704	<s> Holz Holz Holz ist Variable</s>
+Temporary	PhysicalDisease	krank	<mask> ist Variable	0.8157430994096477	<s>Das ist Variable</s>
+Temporary	PhysicalDisease	Erkrankung	<mask> ist Variable	-0.044618929198241904	<s> Holz Holz ist Variable</s>
+Temporary	PhysicalDisease	Grippe	<mask> ist Variable	0.8591437825429185	<s> Holz Holz ist Variable</s>
+Temporary	PhysicalDisease	Krankheit	<mask> ist Variable	0.46115831315940103	<s>Das ist Variable</s>
+Temporary	PhysicalDisease	Virus	<mask> ist Variable	0.15091651940687037	<s>Das ist Variable</s>
+Temporary	PhysicalDisease	Krebs	<mask> ist Variable	0.16741019042981578	<s> Holz Holz ist Variable</s>
+Temporary	MentalDisease	traurig	<mask> ist flüchtig	0.3929726694980078	<s> Musik Holz ist flüchtig</s>
+Temporary	MentalDisease	hoffnungslos	<mask> ist flüchtig	0.8137944532121731	<s> Holz Holz Holz ist flüchtig</s>
+Temporary	MentalDisease	düster	<mask> ist flüchtig	0.046359165718435597	<s> Musik Holz ist flüchtig</s>
+Temporary	MentalDisease	weinerlich	<mask> ist flüchtig	0.22454871162693316	<s> Holz Holz Holz ist flüchtig</s>
+Temporary	MentalDisease	miserabel	<mask> ist flüchtig	-0.10471482764991386	<s> Holz Holz Holz ist flüchtig</s>
+Temporary	MentalDisease	deprimiert	<mask> ist flüchtig	-1.6410249363574634	<s> Holz Holz Holz ist flüchtig</s>
+Temporary	PhysicalDisease	krank	<mask> ist flüchtig	-0.07046041138017252	<s> Holz ist flüchtig</s>
+Temporary	PhysicalDisease	Erkrankung	<mask> ist flüchtig	-0.02933399521687384	<s> Musik Holz ist flüchtig</s>
+Temporary	PhysicalDisease	Grippe	<mask> ist flüchtig	-0.24884678093730203	<s> Musik Holz ist flüchtig</s>
+Temporary	PhysicalDisease	Krankheit	<mask> ist flüchtig	-0.9849816354117605	<s> Holz ist flüchtig</s>
+Temporary	PhysicalDisease	Virus	<mask> ist flüchtig	-1.6231014768512455	<s> Holz ist flüchtig</s>
+Temporary	PhysicalDisease	Krebs	<mask> ist flüchtig	0.376750189725939	<s> Musik Holz ist flüchtig</s>
+Temporary	MentalDisease	traurig	<mask> ist kurzfristig	0.44380787926297416	<s> Holz Holz ist kurzfristig</s>
+Temporary	MentalDisease	hoffnungslos	<mask> ist kurzfristig	0.33565775424031996	<s> Holz Holz kurzfristig ist kurzfristig</s>
+Temporary	MentalDisease	düster	<mask> ist kurzfristig	0.0471189142493887	<s> Holz Holz ist kurzfristig</s>
+Temporary	MentalDisease	weinerlich	<mask> ist kurzfristig	-0.18975305218772737	<s> Holz Holz kurzfristig ist kurzfristig</s>
+Temporary	MentalDisease	miserabel	<mask> ist kurzfristig	-0.06369203546037756	<s> Holz Holz kurzfristig ist kurzfristig</s>
+Temporary	MentalDisease	deprimiert	<mask> ist kurzfristig	-1.5203450622852117	<s> Holz Holz kurzfristig ist kurzfristig</s>
+Temporary	PhysicalDisease	krank	<mask> ist kurzfristig	0.33615543289073185	<s> Holz ist kurzfristig</s>
+Temporary	PhysicalDisease	Erkrankung	<mask> ist kurzfristig	-0.2836093879987231	<s> Holz Holz ist kurzfristig</s>
+Temporary	PhysicalDisease	Grippe	<mask> ist kurzfristig	-0.43097936821555727	<s> Holz Holz ist kurzfristig</s>
+Temporary	PhysicalDisease	Krankheit	<mask> ist kurzfristig	-1.1329607896836795	<s> Holz ist kurzfristig</s>
+Temporary	PhysicalDisease	Virus	<mask> ist kurzfristig	-0.47742328606047346	<s> Holz ist kurzfristig</s>
+Temporary	PhysicalDisease	Krebs	<mask> ist kurzfristig	-0.491375142656521	<s> Holz Holz ist kurzfristig</s>
+Temporary	MentalDisease	traurig	<mask> ist knapp	1.6725159113400772	<s> HolzDas ist knapp</s>
+Temporary	MentalDisease	hoffnungslos	<mask> ist knapp	0.7432016654822939	<s> Holz Holz knapp ist knapp</s>
+Temporary	MentalDisease	düster	<mask> ist knapp	0.5295120072666396	<s> HolzDas ist knapp</s>
+Temporary	MentalDisease	weinerlich	<mask> ist knapp	0.8188193220829337	<s> Holz Holz knapp ist knapp</s>
+Temporary	MentalDisease	miserabel	<mask> ist knapp	0.2391603342748937	<s> Holz Holz knapp ist knapp</s>
+Temporary	MentalDisease	deprimiert	<mask> ist knapp	-0.7469415580617517	<s> Holz Holz knapp ist knapp</s>
+Temporary	PhysicalDisease	krank	<mask> ist knapp	-0.43737249476443435	<s>Das ist knapp</s>
+Temporary	PhysicalDisease	Erkrankung	<mask> ist knapp	-0.7881787059453738	<s> HolzDas ist knapp</s>
+Temporary	PhysicalDisease	Grippe	<mask> ist knapp	0.7277421603099149	<s> HolzDas ist knapp</s>
+Temporary	PhysicalDisease	Krankheit	<mask> ist knapp	-1.398888812236071	<s>Das ist knapp</s>
+Temporary	PhysicalDisease	Virus	<mask> ist knapp	-1.699822838101023	<s>Das ist knapp</s>
+Temporary	PhysicalDisease	Krebs	<mask> ist knapp	0.10785233944336263	<s> HolzDas ist knapp</s>
+Temporary	MentalDisease	traurig	<mask> ist gelegentlich	-0.22883922660881476	<s> Holz gelegentlich ist gelegentlich</s>
+Temporary	MentalDisease	hoffnungslos	<mask> ist gelegentlich	0.9344563341827571	<s> Holz Holz gelegentlich ist gelegentlich</s>
+Temporary	MentalDisease	düster	<mask> ist gelegentlich	-0.5610013757318152	<s> Holz gelegentlich ist gelegentlich</s>
+Temporary	MentalDisease	weinerlich	<mask> ist gelegentlich	0.24854611972262944	<s> Holz Holz gelegentlich ist gelegentlich</s>
+Temporary	MentalDisease	miserabel	<mask> ist gelegentlich	0.359768317402956	<s> Holz Holz gelegentlich ist gelegentlich</s>
+Temporary	MentalDisease	deprimiert	<mask> ist gelegentlich	-0.7410273161815358	<s> Holz Holz gelegentlich ist gelegentlich</s>
+Temporary	PhysicalDisease	krank	<mask> ist gelegentlich	-0.6145819639127001	<s> Holz ist gelegentlich</s>
+Temporary	PhysicalDisease	Erkrankung	<mask> ist gelegentlich	0.09707849040992	<s> Holz gelegentlich ist gelegentlich</s>
+Temporary	PhysicalDisease	Grippe	<mask> ist gelegentlich	0.27017894473750087	<s> Holz gelegentlich ist gelegentlich</s>
+Temporary	PhysicalDisease	Krankheit	<mask> ist gelegentlich	-0.5787038095693745	<s> Holz ist gelegentlich</s>
+Temporary	PhysicalDisease	Virus	<mask> ist gelegentlich	-2.035834345046124	<s> Holz ist gelegentlich</s>
+Temporary	PhysicalDisease	Krebs	<mask> ist gelegentlich	0.2655770364163161	<s> Holz gelegentlich ist gelegentlich</s>
+Permanent	MentalDisease	traurig	<mask> ist stabil	0.7648584470434782	<s> Holz Holz ist stabil</s>
+Permanent	MentalDisease	hoffnungslos	<mask> ist stabil	0.7198185189476197	<s> Holz Holz Holz ist stabil</s>
+Permanent	MentalDisease	düster	<mask> ist stabil	-0.28025480262599634	<s> Holz Holz ist stabil</s>
+Permanent	MentalDisease	weinerlich	<mask> ist stabil	-0.7118930919156358	<s> Holz Holz Holz ist stabil</s>
+Permanent	MentalDisease	miserabel	<mask> ist stabil	0.3887457860737252	<s> Holz Holz Holz ist stabil</s>
+Permanent	MentalDisease	deprimiert	<mask> ist stabil	-1.6527532010265504	<s> Holz Holz Holz ist stabil</s>
+Permanent	PhysicalDisease	krank	<mask> ist stabil	1.2404293677812792	<s> Holz ist stabil</s>
+Permanent	PhysicalDisease	Erkrankung	<mask> ist stabil	-0.12915581380139177	<s> Holz Holz ist stabil</s>
+Permanent	PhysicalDisease	Grippe	<mask> ist stabil	0.41801671957227554	<s> Holz Holz ist stabil</s>
+Permanent	PhysicalDisease	Krankheit	<mask> ist stabil	-0.5290437238609248	<s> Holz ist stabil</s>
+Permanent	PhysicalDisease	Virus	<mask> ist stabil	-1.0212370938720632	<s> Holz ist stabil</s>
+Permanent	PhysicalDisease	Krebs	<mask> ist stabil	0.4077562617094666	<s> Holz Holz ist stabil</s>
+Permanent	MentalDisease	traurig	<mask> ist stets	-0.4644582698376012	<s> Holz Holz ist stets</s>
+Permanent	MentalDisease	hoffnungslos	<mask> ist stets	1.1027970818359676	<s> Holz Holzfeld ist stets</s>
+Permanent	MentalDisease	düster	<mask> ist stets	1.5166961200078628	<s> Holz Holz ist stets</s>
+Permanent	MentalDisease	weinerlich	<mask> ist stets	0.06768410664485205	<s> Holz Holzfeld ist stets</s>
+Permanent	MentalDisease	miserabel	<mask> ist stets	0.29250299722103495	<s> Holz Holzfeld ist stets</s>
+Permanent	MentalDisease	deprimiert	<mask> ist stets	-1.7441154294636054	<s> Holz Holzfeld ist stets</s>
+Permanent	PhysicalDisease	krank	<mask> ist stets	0.1760004421618998	<s> Holz ist stets</s>
+Permanent	PhysicalDisease	Erkrankung	<mask> ist stets	0.10116393544367537	<s> Holz Holz ist stets</s>
+Permanent	PhysicalDisease	Grippe	<mask> ist stets	-0.2595925859964418	<s> Holz Holz ist stets</s>
+Permanent	PhysicalDisease	Krankheit	<mask> ist stets	-0.9463417108096831	<s> Holz ist stets</s>
+Permanent	PhysicalDisease	Virus	<mask> ist stets	-1.8758500800052198	<s> Holz ist stets</s>
+Permanent	PhysicalDisease	Krebs	<mask> ist stets	0.3890935103601882	<s> Holz Holz ist stets</s>
+Permanent	MentalDisease	traurig	<mask> ist Konstante	0.2773887197474208	<s> MusikDas ist Konstante</s>
+Permanent	MentalDisease	hoffnungslos	<mask> ist Konstante	-0.021553146987886577	<s> Holz /ante ist Konstante</s>
+Permanent	MentalDisease	düster	<mask> ist Konstante	0.2751404998621013	<s> MusikDas ist Konstante</s>
+Permanent	MentalDisease	weinerlich	<mask> ist Konstante	-0.3926894491881621	<s> Holz /ante ist Konstante</s>
+Permanent	MentalDisease	miserabel	<mask> ist Konstante	0.16819341774803911	<s> Holz /ante ist Konstante</s>
+Permanent	MentalDisease	deprimiert	<mask> ist Konstante	-0.49799159429050216	<s> Holz /ante ist Konstante</s>
+Permanent	PhysicalDisease	krank	<mask> ist Konstante	0.4149750837320626	<s>Das ist Konstante</s>
+Permanent	PhysicalDisease	Erkrankung	<mask> ist Konstante	0.5738252386737565	<s> MusikDas ist Konstante</s>
+Permanent	PhysicalDisease	Grippe	<mask> ist Konstante	0.12439006177120693	<s> MusikDas ist Konstante</s>
+Permanent	PhysicalDisease	Krankheit	<mask> ist Konstante	-0.27660752167018515	<s>Das ist Konstante</s>
+Permanent	PhysicalDisease	Virus	<mask> ist Konstante	-1.2882548928850774	<s>Das ist Konstante</s>
+Permanent	PhysicalDisease	Krebs	<mask> ist Konstante	1.3976482843790987	<s> MusikDas ist Konstante</s>
+Permanent	MentalDisease	traurig	<mask> ist hartnäckig	1.1877833799191364	<s> Holz Holz ist hartnäckig</s>
+Permanent	MentalDisease	hoffnungslos	<mask> ist hartnäckig	1.1883774528181217	<s> Holz Holz Holz ist hartnäckig</s>
+Permanent	MentalDisease	düster	<mask> ist hartnäckig	-0.7153520531482649	<s> Holz Holz ist hartnäckig</s>
+Permanent	MentalDisease	weinerlich	<mask> ist hartnäckig	-0.5048831919474808	<s> Holz Holz Holz ist hartnäckig</s>
+Permanent	MentalDisease	miserabel	<mask> ist hartnäckig	0.35400199806291843	<s> Holz Holz Holz ist hartnäckig</s>
+Permanent	MentalDisease	deprimiert	<mask> ist hartnäckig	-2.1964058118395466	<s> Holz Holz Holz ist hartnäckig</s>
+Permanent	PhysicalDisease	krank	<mask> ist hartnäckig	0.8466883810614327	<s> Holz ist hartnäckig</s>
+Permanent	PhysicalDisease	Erkrankung	<mask> ist hartnäckig	0.17499808916894333	<s> Holz Holz ist hartnäckig</s>
+Permanent	PhysicalDisease	Grippe	<mask> ist hartnäckig	0.2194320612609949	<s> Holz Holz ist hartnäckig</s>
+Permanent	PhysicalDisease	Krankheit	<mask> ist hartnäckig	0.2915270561163348	<s> Holz ist hartnäckig</s>
+Permanent	PhysicalDisease	Virus	<mask> ist hartnäckig	-0.5199298392189052	<s> Holz ist hartnäckig</s>
+Permanent	PhysicalDisease	Krebs	<mask> ist hartnäckig	0.5945794505719068	<s> Holz Holz ist hartnäckig</s>
+Permanent	MentalDisease	traurig	<mask> ist chronisch	0.3624495380972965	<s> Holz Holz ist chronisch</s>
+Permanent	MentalDisease	hoffnungslos	<mask> ist chronisch	1.5356166443833446	<s> Holz Holz Holz ist chronisch</s>
+Permanent	MentalDisease	düster	<mask> ist chronisch	-0.23371261615485836	<s> Holz Holz ist chronisch</s>
+Permanent	MentalDisease	weinerlich	<mask> ist chronisch	-0.1576902562320988	<s> Holz Holz Holz ist chronisch</s>
+Permanent	MentalDisease	miserabel	<mask> ist chronisch	0.15672226167835443	<s> Holz Holz Holz ist chronisch</s>
+Permanent	MentalDisease	deprimiert	<mask> ist chronisch	-1.072718858682103	<s> Holz Holz Holz ist chronisch</s>
+Permanent	PhysicalDisease	krank	<mask> ist chronisch	1.8244007440444057	<s> Holz ist chronisch</s>
+Permanent	PhysicalDisease	Erkrankung	<mask> ist chronisch	0.9317628591404716	<s> Holz Holz ist chronisch</s>
+Permanent	PhysicalDisease	Grippe	<mask> ist chronisch	0.1466675314322796	<s> Holz Holz ist chronisch</s>
+Permanent	PhysicalDisease	Krankheit	<mask> ist chronisch	1.4592341163292128	<s> Holz ist chronisch</s>
+Permanent	PhysicalDisease	Virus	<mask> ist chronisch	0.020795596331331188	<s> Holz ist chronisch</s>
+Permanent	PhysicalDisease	Krebs	<mask> ist chronisch	0.6918360338061773	<s> Holz Holz ist chronisch</s>
+Permanent	MentalDisease	traurig	<mask> ist verlängert	0.28595963646486605	<s> Holz Holz ist verlängert</s>
+Permanent	MentalDisease	hoffnungslos	<mask> ist verlängert	-0.1914171655066097	<s> Holz Holz Holz ist verlängert</s>
+Permanent	MentalDisease	düster	<mask> ist verlängert	0.2105144113956813	<s> Holz Holz ist verlängert</s>
+Permanent	MentalDisease	weinerlich	<mask> ist verlängert	-0.7200129587496422	<s> Holz Holz Holz ist verlängert</s>
+Permanent	MentalDisease	miserabel	<mask> ist verlängert	0.06810454329958579	<s> Holz Holz Holz ist verlängert</s>
+Permanent	MentalDisease	deprimiert	<mask> ist verlängert	-0.5494138827725149	<s> Holz Holz Holz ist verlängert</s>
+Permanent	PhysicalDisease	krank	<mask> ist verlängert	0.6925269139438747	<s> Holz ist verlängert</s>
+Permanent	PhysicalDisease	Erkrankung	<mask> ist verlängert	-0.5829776950793764	<s> Holz Holz ist verlängert</s>
+Permanent	PhysicalDisease	Grippe	<mask> ist verlängert	-0.2674043822950074	<s> Holz Holz ist verlängert</s>
+Permanent	PhysicalDisease	Krankheit	<mask> ist verlängert	-0.4768905159841177	<s> Holz ist verlängert</s>
+Permanent	PhysicalDisease	Virus	<mask> ist verlängert	-1.1745948650811917	<s> Holz ist verlängert</s>
+Permanent	PhysicalDisease	Krebs	<mask> ist verlängert	0.031326154749223824	<s> Holz Holz ist verlängert</s>
+Permanent	MentalDisease	traurig	<mask> ist für immer	0.26644776455183616	<s> Musik Holz ist für immer</s>
+Permanent	MentalDisease	hoffnungslos	<mask> ist für immer	0.18074643442146007	<s> Holz Musik Holz ist für immer</s>
+Permanent	MentalDisease	düster	<mask> ist für immer	-0.32652573031812354	<s> Musik Holz ist für immer</s>
+Permanent	MentalDisease	weinerlich	<mask> ist für immer	-0.30540378979223387	<s> Holz Musik Holz ist für immer</s>
+Permanent	MentalDisease	miserabel	<mask> ist für immer	0.0488878194187307	<s> Holz Musik Holz ist für immer</s>
+Permanent	MentalDisease	deprimiert	<mask> ist für immer	-1.8729051495117686	<s> Holz Musik Holz ist für immer</s>
+Permanent	PhysicalDisease	krank	<mask> ist für immer	0.30422910933401043	<s> Holz ist für immer</s>
+Permanent	PhysicalDisease	Erkrankung	<mask> ist für immer	-0.42961217027695026	<s> Musik Holz ist für immer</s>
+Permanent	PhysicalDisease	Grippe	<mask> ist für immer	0.28563868624988237	<s> Musik Holz ist für immer</s>
+Permanent	PhysicalDisease	Krankheit	<mask> ist für immer	-0.18305176220732253	<s> Holz ist für immer</s>
+Permanent	PhysicalDisease	Virus	<mask> ist für immer	-0.02084981080914872	<s> Holz ist für immer</s>
+Permanent	PhysicalDisease	Krebs	<mask> ist für immer	0.6675173626695767	<s> Musik Holz ist für immer</s>

@@ -10,3 +10,5 @@ MaleNames mean,	 -0.14056968280072832
 Test statistic,	 1037893.0
 p-value,	 0.21327856241040632
 
+Effect size,	 0.23591592976186399
+Permutation test p-value,	 0.0
