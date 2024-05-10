@@ -1,289 +1,289 @@
 attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
-MaleTerms	Math	mathématiques	garçon aime <mask>	-5.55513243936979e-07	<s> garçon aime,</s>
-MaleTerms	Math	algèbre	garçon aime <mask>	-6.820220023037123e-07	<s> garçon aime,</s>
-MaleTerms	Math	géométrie	garçon aime <mask>	-1.5762282088623321e-06	<s> garçon aime,</s>
-MaleTerms	Math	calcul	garçon aime <mask>	3.9399524963634465e-07	<s> garçon aime,</s>
-MaleTerms	Math	équations	garçon aime <mask>	-3.500273940445779e-07	<s> garçon aime,</s>
-MaleTerms	Math	calcul	garçon aime <mask>	3.9399524963634465e-07	<s> garçon aime,</s>
-MaleTerms	Math	Nombres	garçon aime <mask>	1.3025402884213723e-06	<s> garçon aime,</s>
-MaleTerms	Math	ajout	garçon aime <mask>	-5.740917996879659e-07	<s> garçon aime,</s>
-MaleTerms	Arts	poésie	garçon aime <mask>	-5.922214232934193e-07	<s> garçon aime,</s>
-MaleTerms	Arts	art	garçon aime <mask>	-1.081363872365296e-06	<s> garçon aime,</s>
-MaleTerms	Arts	danse	garçon aime <mask>	1.2934051765099618e-06	<s> garçon aime,</s>
-MaleTerms	Arts	littérature	garçon aime <mask>	-5.806045564516556e-07	<s> garçon aime,</s>
-MaleTerms	Arts	roman	garçon aime <mask>	-6.622827020531657e-07	<s> garçon aime,</s>
-MaleTerms	Arts	symphonie	garçon aime <mask>	-1.6883709091849808e-06	<s> garçon aime,</s>
-MaleTerms	Arts	drame	garçon aime <mask>	-7.322258758907982e-07	<s> garçon aime,</s>
-MaleTerms	Arts	sculpture	garçon aime <mask>	8.630666630853358e-08	<s> garçon aime,</s>
-MaleTerms	Math	mathématiques	père aime <mask>	-1.2221295440735766e-06	<s> père aime,</s>
-MaleTerms	Math	algèbre	père aime <mask>	-4.871585256093806e-07	<s> père aime,</s>
-MaleTerms	Math	géométrie	père aime <mask>	-1.3240315284240382e-06	<s> père aime,</s>
-MaleTerms	Math	calcul	père aime <mask>	-2.6266358607174706e-07	<s> père aime,</s>
-MaleTerms	Math	équations	père aime <mask>	-1.0500825495804554e-06	<s> père aime,</s>
-MaleTerms	Math	calcul	père aime <mask>	-2.6266358607174706e-07	<s> père aime,</s>
-MaleTerms	Math	Nombres	père aime <mask>	1.1164632083621817e-06	<s> père aime,</s>
-MaleTerms	Math	ajout	père aime <mask>	-1.3778208729038545e-06	<s> père aime,</s>
-MaleTerms	Arts	poésie	père aime <mask>	-8.883322665180224e-07	<s> père aime,</s>
-MaleTerms	Arts	art	père aime <mask>	-1.2976367871823696e-06	<s> père aime,</s>
-MaleTerms	Arts	danse	père aime <mask>	6.467027973670997e-07	<s> père aime,</s>
-MaleTerms	Arts	littérature	père aime <mask>	-8.709069610906513e-07	<s> père aime,</s>
-MaleTerms	Arts	roman	père aime <mask>	-8.515064118689623e-07	<s> père aime,</s>
-MaleTerms	Arts	symphonie	père aime <mask>	-1.829068613650987e-06	<s> père aime,</s>
-MaleTerms	Arts	drame	père aime <mask>	-8.054484929794993e-07	<s> père aime,</s>
-MaleTerms	Arts	sculpture	père aime <mask>	-3.452267397225601e-07	<s> père aime,</s>
-MaleTerms	Math	mathématiques	masculin aime <mask>	-1.7776434669203064e-06	<s> masculin aime,</s>
-MaleTerms	Math	algèbre	masculin aime <mask>	-5.845902592100747e-07	<s> masculin aime,</s>
-MaleTerms	Math	géométrie	masculin aime <mask>	-2.837212564769101e-06	<s> masculin aime,</s>
-MaleTerms	Math	calcul	masculin aime <mask>	-4.596613208461607e-07	<s> masculin aime,</s>
-MaleTerms	Math	équations	masculin aime <mask>	-7.875618088096959e-07	<s> masculin aime,</s>
-MaleTerms	Math	calcul	masculin aime <mask>	-4.596613208461607e-07	<s> masculin aime,</s>
-MaleTerms	Math	Nombres	masculin aime <mask>	2.8841940722868722e-06	<s> masculin aime,</s>
-MaleTerms	Math	ajout	masculin aime <mask>	-1.4926393647629719e-06	<s> masculin aime,</s>
-MaleTerms	Arts	poésie	masculin aime <mask>	-8.883322665180224e-07	<s> masculin aime,</s>
-MaleTerms	Arts	art	masculin aime <mask>	-1.838319278750254e-06	<s> masculin aime,</s>
-MaleTerms	Arts	danse	masculin aime <mask>	1.847721168554174e-06	<s> masculin aime,</s>
-MaleTerms	Arts	littérature	masculin aime <mask>	-1.3547444894345809e-06	<s> masculin aime,</s>
-MaleTerms	Arts	roman	masculin aime <mask>	-1.324565842836022e-06	<s> masculin aime,</s>
-MaleTerms	Arts	symphonie	masculin aime <mask>	-2.4622085286106764e-06	<s> masculin aime,</s>
-MaleTerms	Arts	drame	masculin aime <mask>	-6.590032641636485e-07	<s> masculin aime,</s>
-MaleTerms	Arts	sculpture	masculin aime <mask>	-1.726133549635923e-07	<s> masculin aime,</s>
-MaleTerms	Math	mathématiques	mari aime <mask>	-5.55513243936979e-07	<s> mari aime,</s>
-MaleTerms	Math	algèbre	mari aime <mask>	-5.845902592100747e-07	<s> mari aime,</s>
-MaleTerms	Math	géométrie	mari aime <mask>	-2.585015566314578e-06	<s> mari aime,</s>
-MaleTerms	Math	calcul	mari aime <mask>	-1.3133178441185358e-07	<s> mari aime,</s>
-MaleTerms	Math	équations	mari aime <mask>	-1.1375894785226383e-06	<s> mari aime,</s>
-MaleTerms	Math	calcul	mari aime <mask>	-1.3133178441185358e-07	<s> mari aime,</s>
-MaleTerms	Math	Nombres	mari aime <mask>	2.69811728631495e-06	<s> mari aime,</s>
-MaleTerms	Math	ajout	mari aime <mask>	-1.1481839289575155e-06	<s> mari aime,</s>
-MaleTerms	Arts	poésie	mari aime <mask>	-1.1844431973132605e-06	<s> mari aime,</s>
-MaleTerms	Arts	art	mari aime <mask>	-2.162728914079681e-06	<s> mari aime,</s>
-MaleTerms	Arts	danse	mari aime <mask>	1.2010191478887996e-06	<s> mari aime,</s>
-MaleTerms	Arts	littérature	mari aime <mask>	-6.773720153007115e-07	<s> mari aime,</s>
-MaleTerms	Arts	roman	mari aime <mask>	-6.622827020531657e-07	<s> mari aime,</s>
-MaleTerms	Arts	symphonie	mari aime <mask>	-1.6883709091849808e-06	<s> mari aime,</s>
-MaleTerms	Arts	drame	mari aime <mask>	-8.054484929794993e-07	<s> mari aime,</s>
-MaleTerms	Arts	sculpture	mari aime <mask>	-1.726133549635923e-07	<s> mari aime,</s>
-MaleTerms	Math	mathématiques	fils aime <mask>	-1.5554378607279224e-06	<s> fils aime,</s>
-MaleTerms	Math	algèbre	fils aime <mask>	-5.845902592100747e-07	<s> fils aime,</s>
-MaleTerms	Math	géométrie	fils aime <mask>	-2.2067201880000122e-06	<s> fils aime,</s>
-MaleTerms	Math	calcul	fils aime <mask>	-3.28329493314199e-07	<s> fils aime,</s>
-MaleTerms	Math	équations	fils aime <mask>	-1.0500825495804554e-06	<s> fils aime,</s>
-MaleTerms	Math	calcul	fils aime <mask>	-3.28329493314199e-07	<s> fils aime,</s>
-MaleTerms	Math	Nombres	fils aime <mask>	2.6050788804557955e-06	<s> fils aime,</s>
-MaleTerms	Math	ajout	fils aime <mask>	-8.037286118015655e-07	<s> fils aime,</s>
-MaleTerms	Arts	poésie	fils aime <mask>	-1.2584709437400906e-06	<s> fils aime,</s>
-MaleTerms	Arts	art	fils aime <mask>	-1.7301827570274657e-06	<s> fils aime,</s>
-MaleTerms	Arts	danse	fils aime <mask>	8.314749482743888e-07	<s> fils aime,</s>
-MaleTerms	Arts	littérature	fils aime <mask>	-1.7418146805498757e-06	<s> fils aime,</s>
-MaleTerms	Arts	roman	fils aime <mask>	-7.568945524853624e-07	<s> fils aime,</s>
-MaleTerms	Arts	symphonie	fils aime <mask>	-2.251161845713086e-06	<s> fils aime,</s>
-MaleTerms	Arts	drame	fils aime <mask>	-5.857806577980491e-07	<s> fils aime,</s>
-MaleTerms	Arts	sculpture	fils aime <mask>	-3.452267397225601e-07	<s> fils aime,</s>
-MaleTerms	Math	mathématiques	oncle aime <mask>	-7.777186279405939e-07	<s> oncle aime,</s>
-MaleTerms	Math	algèbre	oncle aime <mask>	-6.820220023037123e-07	<s> oncle aime,</s>
-MaleTerms	Math	géométrie	oncle aime <mask>	-2.395867859268871e-06	<s> oncle aime,</s>
-MaleTerms	Math	calcul	oncle aime <mask>	6.566588568240212e-08	<s> oncle aime,</s>
-MaleTerms	Math	équations	oncle aime <mask>	-2.625205340195044e-07	<s> oncle aime,</s>
-MaleTerms	Math	calcul	oncle aime <mask>	6.566588568240212e-08	<s> oncle aime,</s>
-MaleTerms	Math	Nombres	oncle aime <mask>	1.0234246551262856e-06	<s> oncle aime,</s>
-MaleTerms	Math	ajout	oncle aime <mask>	-1.951913463588257e-06	<s> oncle aime,</s>
-MaleTerms	Arts	poésie	oncle aime <mask>	-4.4416603456172303e-07	<s> oncle aime,</s>
-MaleTerms	Arts	art	oncle aime <mask>	-1.838319278750254e-06	<s> oncle aime,</s>
-MaleTerms	Arts	danse	oncle aime <mask>	9.238610110362767e-07	<s> oncle aime,</s>
-MaleTerms	Arts	littérature	oncle aime <mask>	-4.838371069665397e-07	<s> oncle aime,</s>
-MaleTerms	Arts	roman	oncle aime <mask>	-8.515064118689623e-07	<s> oncle aime,</s>
-MaleTerms	Arts	symphonie	oncle aime <mask>	-1.9697663379128397e-06	<s> oncle aime,</s>
-MaleTerms	Arts	drame	oncle aime <mask>	-1.0251163763038954e-06	<s> oncle aime,</s>
-MaleTerms	Arts	sculpture	oncle aime <mask>	-8.630667375737487e-08	<s> oncle aime,</s>
-MaleTerms	Math	mathématiques	homme aime <mask>	1.3332305265158746e-06	<s> homme aime,</s>
-MaleTerms	Math	algèbre	homme aime <mask>	3.897266496147077e-07	<s> homme aime,</s>
-MaleTerms	Math	géométrie	homme aime <mask>	2.521962829191355e-07	<s> homme aime,</s>
-MaleTerms	Math	calcul	homme aime <mask>	3.9399524963634465e-07	<s> homme aime,</s>
-MaleTerms	Math	équations	homme aime <mask>	1.0500814469082524e-06	<s> homme aime,</s>
-MaleTerms	Math	calcul	homme aime <mask>	3.9399524963634465e-07	<s> homme aime,</s>
-MaleTerms	Math	Nombres	homme aime <mask>	-6.512707804404397e-07	<s> homme aime,</s>
-MaleTerms	Math	ajout	homme aime <mask>	2.2963662754801878e-07	<s> homme aime,</s>
-MaleTerms	Arts	poésie	homme aime <mask>	8.1430388428934e-07	<s> homme aime,</s>
-MaleTerms	Arts	art	homme aime <mask>	-1.0813633462699491e-07	<s> homme aime,</s>
-MaleTerms	Arts	danse	homme aime <mask>	-9.238614800279031e-08	<s> homme aime,</s>
-MaleTerms	Arts	littérature	homme aime <mask>	1.257975382422817e-06	<s> homme aime,</s>
-MaleTerms	Arts	roman	homme aime <mask>	3.7844706135376716e-07	<s> homme aime,</s>
-MaleTerms	Arts	symphonie	homme aime <mask>	1.125579022460774e-06	<s> homme aime,</s>
-MaleTerms	Arts	drame	homme aime <mask>	4.393352682469585e-07	<s> homme aime,</s>
-MaleTerms	Arts	sculpture	homme aime <mask>	0.0	<s> homme aime,</s>
-MaleTerms	Math	mathématiques	mâle aime <mask>	-7.777186279405939e-07	<s> mâle aime,</s>
-MaleTerms	Math	algèbre	mâle aime <mask>	-4.871585256093806e-07	<s> mâle aime,</s>
-MaleTerms	Math	géométrie	mâle aime <mask>	-1.9545233486647266e-06	<s> mâle aime,</s>
-MaleTerms	Math	calcul	mâle aime <mask>	0.0	<s> mâle aime,</s>
-MaleTerms	Math	équations	mâle aime <mask>	-6.125480199534889e-07	<s> mâle aime,</s>
-MaleTerms	Math	calcul	mâle aime <mask>	0.0	<s> mâle aime,</s>
-MaleTerms	Math	Nombres	mâle aime <mask>	1.4886173340779338e-06	<s> mâle aime,</s>
-MaleTerms	Math	ajout	mâle aime <mask>	-4.592734134060626e-07	<s> mâle aime,</s>
-MaleTerms	Arts	poésie	mâle aime <mask>	-4.4416603456172303e-07	<s> mâle aime,</s>
-MaleTerms	Arts	art	mâle aime <mask>	-1.4057732620201265e-06	<s> mâle aime,</s>
-MaleTerms	Arts	danse	mâle aime <mask>	9.238610110362767e-07	<s> mâle aime,</s>
-MaleTerms	Arts	littérature	mâle aime <mask>	9.676739319049046e-08	<s> mâle aime,</s>
-MaleTerms	Arts	roman	mâle aime <mask>	-8.515064118689623e-07	<s> mâle aime,</s>
-MaleTerms	Arts	symphonie	mâle aime <mask>	-1.125580289390336e-06	<s> mâle aime,</s>
-MaleTerms	Arts	drame	mâle aime <mask>	-5.125580567939995e-07	<s> mâle aime,</s>
-MaleTerms	Arts	sculpture	mâle aime <mask>	2.5891997657908197e-07	<s> mâle aime,</s>
-MaleTerms	Math	mathématiques	frère aime <mask>	-6.666159298223936e-07	<s> frère aime,</s>
-MaleTerms	Math	algèbre	frère aime <mask>	-2.922950868868159e-07	<s> frère aime,</s>
-MaleTerms	Math	géométrie	frère aime <mask>	-2.2067201880000122e-06	<s> frère aime,</s>
-MaleTerms	Math	calcul	frère aime <mask>	-3.28329493314199e-07	<s> frère aime,</s>
-MaleTerms	Math	équations	frère aime <mask>	-4.375342616160803e-07	<s> frère aime,</s>
-MaleTerms	Math	calcul	frère aime <mask>	-3.28329493314199e-07	<s> frère aime,</s>
-MaleTerms	Math	Nombres	frère aime <mask>	7.443089439256405e-07	<s> frère aime,</s>
-MaleTerms	Math	ajout	frère aime <mask>	-8.037286118015655e-07	<s> frère aime,</s>
-MaleTerms	Arts	poésie	frère aime <mask>	-1.2584709437400906e-06	<s> frère aime,</s>
-MaleTerms	Arts	art	frère aime <mask>	-1.189500323927086e-06	<s> frère aime,</s>
-MaleTerms	Arts	danse	frère aime <mask>	6.467027973670997e-07	<s> frère aime,</s>
-MaleTerms	Arts	littérature	frère aime <mask>	-7.741394835137095e-07	<s> frère aime,</s>
-MaleTerms	Arts	roman	frère aime <mask>	1.8922354869067813e-07	<s> frère aime,</s>
-MaleTerms	Arts	symphonie	frère aime <mask>	-1.4069755597515094e-06	<s> frère aime,</s>
-MaleTerms	Arts	drame	frère aime <mask>	-1.0983390148388093e-06	<s> frère aime,</s>
-MaleTerms	Arts	sculpture	frère aime <mask>	-6.90453598626663e-07	<s> frère aime,</s>
-FemaleTerms	Math	mathématiques	demoiselle aime <mask>	-1.7776434669203064e-06	<s> demoiselle aime,</s>
-FemaleTerms	Math	algèbre	demoiselle aime <mask>	-8.768855169698261e-07	<s> demoiselle aime,</s>
-FemaleTerms	Math	géométrie	demoiselle aime <mask>	-3.2785574649435436e-06	<s> demoiselle aime,</s>
-FemaleTerms	Math	calcul	demoiselle aime <mask>	-8.536569069303712e-07	<s> demoiselle aime,</s>
-FemaleTerms	Math	équations	demoiselle aime <mask>	-1.1375894785226383e-06	<s> demoiselle aime,</s>
-FemaleTerms	Math	calcul	demoiselle aime <mask>	-8.536569069303712e-07	<s> demoiselle aime,</s>
-FemaleTerms	Math	Nombres	demoiselle aime <mask>	3.442424222233263e-06	<s> demoiselle aime,</s>
-FemaleTerms	Math	ajout	demoiselle aime <mask>	-1.3778208729038545e-06	<s> demoiselle aime,</s>
-FemaleTerms	Arts	poésie	demoiselle aime <mask>	-9.623599909134077e-07	<s> demoiselle aime,</s>
-FemaleTerms	Arts	art	demoiselle aime <mask>	-1.946455812166551e-06	<s> demoiselle aime,</s>
-FemaleTerms	Arts	danse	demoiselle aime <mask>	2.0324930975468693e-06	<s> demoiselle aime,</s>
-FemaleTerms	Arts	littérature	demoiselle aime <mask>	-1.3547444894345809e-06	<s> demoiselle aime,</s>
-FemaleTerms	Arts	roman	demoiselle aime <mask>	-1.324565842836022e-06	<s> demoiselle aime,</s>
-FemaleTerms	Arts	symphonie	demoiselle aime <mask>	-2.3918596293625126e-06	<s> demoiselle aime,</s>
-FemaleTerms	Arts	drame	demoiselle aime <mask>	-6.590032641636485e-07	<s> demoiselle aime,</s>
-FemaleTerms	Arts	sculpture	demoiselle aime <mask>	3.452266205410994e-07	<s> demoiselle aime,</s>
-FemaleTerms	Math	mathématiques	mère aime <mask>	-1.1110262405539249e-07	<s> mère aime,</s>
-FemaleTerms	Math	algèbre	mère aime <mask>	-6.820220023037123e-07	<s> mère aime,</s>
-FemaleTerms	Math	géométrie	mère aime <mask>	-2.143670972231142e-06	<s> mère aime,</s>
-FemaleTerms	Math	calcul	mère aime <mask>	-1.9699768303028388e-07	<s> mère aime,</s>
-FemaleTerms	Math	équations	mère aime <mask>	-7.875618088096959e-07	<s> mère aime,</s>
-FemaleTerms	Math	calcul	mère aime <mask>	-1.9699768303028388e-07	<s> mère aime,</s>
-FemaleTerms	Math	Nombres	mère aime <mask>	7.443089439256405e-07	<s> mère aime,</s>
-FemaleTerms	Math	ajout	mère aime <mask>	-1.2630023943390442e-06	<s> mère aime,</s>
-FemaleTerms	Arts	poésie	mère aime <mask>	-6.662491258794175e-07	<s> mère aime,</s>
-FemaleTerms	Arts	art	mère aime <mask>	-1.6220462469981832e-06	<s> mère aime,</s>
-FemaleTerms	Arts	danse	mère aime <mask>	9.238610110362767e-07	<s> mère aime,</s>
-FemaleTerms	Arts	littérature	mère aime <mask>	-1.9353481469481526e-07	<s> mère aime,</s>
-FemaleTerms	Arts	roman	mère aime <mask>	-2.8383539006042065e-07	<s> mère aime,</s>
-FemaleTerms	Arts	symphonie	mère aime <mask>	-1.829068613650987e-06	<s> mère aime,</s>
-FemaleTerms	Arts	drame	mère aime <mask>	-7.322258758907982e-07	<s> mère aime,</s>
-FemaleTerms	Arts	sculpture	mère aime <mask>	-2.589200436186536e-07	<s> mère aime,</s>
-FemaleTerms	Math	mathématiques	féminin aime <mask>	-1.1110267964690937e-06	<s> féminin aime,</s>
-FemaleTerms	Math	algèbre	féminin aime <mask>	-3.897268015016283e-07	<s> féminin aime,</s>
-FemaleTerms	Math	géométrie	féminin aime <mask>	-2.2067201880000122e-06	<s> féminin aime,</s>
-FemaleTerms	Math	calcul	féminin aime <mask>	-2.6266358607174706e-07	<s> féminin aime,</s>
-FemaleTerms	Math	équations	féminin aime <mask>	-4.375342616160803e-07	<s> féminin aime,</s>
-FemaleTerms	Math	calcul	féminin aime <mask>	-2.6266358607174706e-07	<s> féminin aime,</s>
-FemaleTerms	Math	Nombres	féminin aime <mask>	1.1164632083621817e-06	<s> féminin aime,</s>
-FemaleTerms	Math	ajout	féminin aime <mask>	-3.444550403074196e-07	<s> féminin aime,</s>
-FemaleTerms	Arts	poésie	féminin aime <mask>	-7.402768339455169e-07	<s> féminin aime,</s>
-FemaleTerms	Arts	art	féminin aime <mask>	-1.7301827570274657e-06	<s> féminin aime,</s>
-FemaleTerms	Arts	danse	féminin aime <mask>	1.2010191478887996e-06	<s> féminin aime,</s>
-FemaleTerms	Arts	littérature	féminin aime <mask>	-7.741394835137095e-07	<s> féminin aime,</s>
-FemaleTerms	Arts	roman	féminin aime <mask>	-6.622827020531657e-07	<s> féminin aime,</s>
-FemaleTerms	Arts	symphonie	féminin aime <mask>	-1.4069755597515094e-06	<s> féminin aime,</s>
-FemaleTerms	Arts	drame	féminin aime <mask>	-2.928902860621634e-07	<s> féminin aime,</s>
-FemaleTerms	Arts	sculpture	féminin aime <mask>	1.7261332516822712e-07	<s> féminin aime,</s>
-FemaleTerms	Math	mathématiques	épouse aime <mask>	-7.777186279405939e-07	<s> épouse aime,</s>
-FemaleTerms	Math	algèbre	épouse aime <mask>	-5.845902592100747e-07	<s> épouse aime,</s>
-FemaleTerms	Math	géométrie	épouse aime <mask>	-2.3328186315743873e-06	<s> épouse aime,</s>
-FemaleTerms	Math	calcul	épouse aime <mask>	-4.596613208461607e-07	<s> épouse aime,</s>
-FemaleTerms	Math	équations	épouse aime <mask>	-6.125480199534889e-07	<s> épouse aime,</s>
-FemaleTerms	Math	calcul	épouse aime <mask>	-4.596613208461607e-07	<s> épouse aime,</s>
-FemaleTerms	Math	Nombres	épouse aime <mask>	1.953809796625454e-06	<s> épouse aime,</s>
-FemaleTerms	Math	ajout	épouse aime <mask>	-2.4111877734573596e-06	<s> épouse aime,</s>
-FemaleTerms	Arts	poésie	épouse aime <mask>	-4.4416603456172303e-07	<s> épouse aime,</s>
-FemaleTerms	Arts	art	épouse aime <mask>	-1.838319278750254e-06	<s> épouse aime,</s>
-FemaleTerms	Arts	danse	épouse aime <mask>	9.238610110362767e-07	<s> épouse aime,</s>
-FemaleTerms	Arts	littérature	épouse aime <mask>	-4.838371069665397e-07	<s> épouse aime,</s>
-FemaleTerms	Arts	roman	épouse aime <mask>	-8.515064118689623e-07	<s> épouse aime,</s>
-FemaleTerms	Arts	symphonie	épouse aime <mask>	-1.9697663379128397e-06	<s> épouse aime,</s>
-FemaleTerms	Arts	drame	épouse aime <mask>	-1.0983390148388093e-06	<s> épouse aime,</s>
-FemaleTerms	Arts	sculpture	épouse aime <mask>	-3.452267397225601e-07	<s> épouse aime,</s>
-FemaleTerms	Math	mathématiques	fille aime <mask>	-1.6665406577077092e-06	<s> fille aime,</s>
-FemaleTerms	Math	algèbre	fille aime <mask>	-8.768855169698261e-07	<s> fille aime,</s>
-FemaleTerms	Math	géométrie	fille aime <mask>	-3.0894096267159436e-06	<s> fille aime,</s>
-FemaleTerms	Math	calcul	fille aime <mask>	-1.9699768303028388e-07	<s> fille aime,</s>
-FemaleTerms	Math	équations	fille aime <mask>	-1.0500825495804554e-06	<s> fille aime,</s>
-FemaleTerms	Math	calcul	fille aime <mask>	-1.9699768303028388e-07	<s> fille aime,</s>
-FemaleTerms	Math	Nombres	fille aime <mask>	3.6285008694849634e-06	<s> fille aime,</s>
-FemaleTerms	Math	ajout	fille aime <mask>	-1.2630023943390442e-06	<s> fille aime,</s>
-FemaleTerms	Arts	poésie	fille aime <mask>	-8.143045474917183e-07	<s> fille aime,</s>
-FemaleTerms	Arts	art	fille aime <mask>	-1.7301827570274657e-06	<s> fille aime,</s>
-FemaleTerms	Arts	danse	fille aime <mask>	1.4781772079247108e-06	<s> fille aime,</s>
-FemaleTerms	Arts	littérature	fille aime <mask>	-1.257976965037893e-06	<s> fille aime,</s>
-FemaleTerms	Arts	roman	fille aime <mask>	-1.2299539386953813e-06	<s> fille aime,</s>
-FemaleTerms	Arts	symphonie	fille aime <mask>	-2.251161845713086e-06	<s> fille aime,</s>
-FemaleTerms	Arts	drame	fille aime <mask>	-8.786711154297523e-07	<s> fille aime,</s>
-FemaleTerms	Arts	sculpture	fille aime <mask>	5.178398861186271e-07	<s> fille aime,</s>
-FemaleTerms	Math	mathématiques	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Math	algèbre	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Math	géométrie	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Math	calcul	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Math	équations	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Math	calcul	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Math	Nombres	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Math	ajout	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Arts	poésie	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Arts	art	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Arts	danse	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Arts	littérature	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Arts	roman	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Arts	symphonie	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Arts	drame	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Arts	sculpture	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Math	mathématiques	femme aime <mask>	-1.4443350762029881e-06	<s> femme aime,</s>
-FemaleTerms	Math	algèbre	femme aime <mask>	-9.743172885423058e-07	<s> femme aime,</s>
-FemaleTerms	Math	géométrie	femme aime <mask>	-3.846001194398889e-06	<s> femme aime,</s>
-FemaleTerms	Math	calcul	femme aime <mask>	-9.193228530919708e-07	<s> femme aime,</s>
-FemaleTerms	Math	équations	femme aime <mask>	-1.1375894785226383e-06	<s> femme aime,</s>
-FemaleTerms	Math	calcul	femme aime <mask>	-9.193228530919708e-07	<s> femme aime,</s>
-FemaleTerms	Math	Nombres	femme aime <mask>	2.8841940722868722e-06	<s> femme aime,</s>
-FemaleTerms	Math	ajout	femme aime <mask>	-1.951913463588257e-06	<s> femme aime,</s>
-FemaleTerms	Arts	poésie	femme aime <mask>	-1.554581984248496e-06	<s> femme aime,</s>
-FemaleTerms	Arts	art	femme aime <mask>	-1.4057732620201265e-06	<s> femme aime,</s>
-FemaleTerms	Arts	danse	femme aime <mask>	1.847721168554174e-06	<s> femme aime,</s>
-FemaleTerms	Arts	littérature	femme aime <mask>	-1.4515120231952236e-06	<s> femme aime,</s>
-FemaleTerms	Arts	roman	femme aime <mask>	-9.461182800929445e-07	<s> femme aime,</s>
-FemaleTerms	Arts	symphonie	femme aime <mask>	-2.5325574328078084e-06	<s> femme aime,</s>
-FemaleTerms	Arts	drame	femme aime <mask>	-8.054484929794993e-07	<s> femme aime,</s>
-FemaleTerms	Arts	sculpture	femme aime <mask>	2.5891997657908197e-07	<s> femme aime,</s>
-FemaleTerms	Math	mathématiques	femelle aime <mask>	-6.666159298223936e-07	<s> femelle aime,</s>
-FemaleTerms	Math	algèbre	femelle aime <mask>	-4.871585256093806e-07	<s> femelle aime,</s>
-FemaleTerms	Math	géométrie	femelle aime <mask>	-1.8284249527927854e-06	<s> femelle aime,</s>
-FemaleTerms	Math	calcul	femelle aime <mask>	-7.8799096519181e-07	<s> femelle aime,</s>
-FemaleTerms	Math	équations	femelle aime <mask>	-6.125480199534889e-07	<s> femelle aime,</s>
-FemaleTerms	Math	calcul	femelle aime <mask>	-7.8799096519181e-07	<s> femelle aime,</s>
-FemaleTerms	Math	Nombres	femelle aime <mask>	1.1164632083621817e-06	<s> femelle aime,</s>
-FemaleTerms	Math	ajout	femelle aime <mask>	-9.185470377442903e-07	<s> femelle aime,</s>
-FemaleTerms	Arts	poésie	femelle aime <mask>	-1.3324986956470285e-06	<s> femelle aime,</s>
-FemaleTerms	Arts	art	femelle aime <mask>	-2.270865482576519e-06	<s> femelle aime,</s>
-FemaleTerms	Arts	danse	femelle aime <mask>	1.0162470652629807e-06	<s> femelle aime,</s>
-FemaleTerms	Arts	littérature	femelle aime <mask>	-8.709069610906513e-07	<s> femelle aime,</s>
-FemaleTerms	Arts	roman	femelle aime <mask>	-2.8383539006042065e-07	<s> femelle aime,</s>
-FemaleTerms	Arts	symphonie	femelle aime <mask>	-2.3918596293625126e-06	<s> femelle aime,</s>
-FemaleTerms	Arts	drame	femelle aime <mask>	-5.125580567939995e-07	<s> femelle aime,</s>
-FemaleTerms	Arts	sculpture	femelle aime <mask>	-1.726133549635923e-07	<s> femelle aime,</s>
-FemaleTerms	Math	mathématiques	sœur aime <mask>	-1.999849122488033e-06	<s> sœur aime,</s>
-FemaleTerms	Math	algèbre	sœur aime <mask>	-1.1691808601661203e-06	<s> sœur aime,</s>
-FemaleTerms	Math	géométrie	sœur aime <mask>	-3.404656043675012e-06	<s> sœur aime,</s>
-FemaleTerms	Math	calcul	sœur aime <mask>	-5.253272411356717e-07	<s> sœur aime,</s>
-FemaleTerms	Math	équations	sœur aime <mask>	-1.4001103111829491e-06	<s> sœur aime,</s>
-FemaleTerms	Math	calcul	sœur aime <mask>	-5.253272411356717e-07	<s> sœur aime,</s>
-FemaleTerms	Math	Nombres	sœur aime <mask>	3.256347540134994e-06	<s> sœur aime,</s>
-FemaleTerms	Math	ajout	sœur aime <mask>	-2.6408250075472807e-06	<s> sœur aime,</s>
-FemaleTerms	Arts	poésie	sœur aime <mask>	-1.62860975796485e-06	<s> sœur aime,</s>
-FemaleTerms	Arts	art	sœur aime <mask>	-2.0545923572763592e-06	<s> sœur aime,</s>
-FemaleTerms	Arts	danse	sœur aime <mask>	1.847721168554174e-06	<s> sœur aime,</s>
-FemaleTerms	Arts	littérature	sœur aime <mask>	-1.5482795662088005e-06	<s> sœur aime,</s>
-FemaleTerms	Arts	roman	sœur aime <mask>	-1.513789677860522e-06	<s> sœur aime,</s>
-FemaleTerms	Arts	symphonie	sœur aime <mask>	-2.602906341953909e-06	<s> sœur aime,</s>
-FemaleTerms	Arts	drame	sœur aime <mask>	-8.786711154297523e-07	<s> sœur aime,</s>
-FemaleTerms	Arts	sculpture	sœur aime <mask>	1.7261332516822712e-07	<s> sœur aime,</s>
+MaleTerms	Math	mathématiques	garçon aime <mask>	-0.21291364337219884	<s> garçon aime le</s>
+MaleTerms	Math	algèbre	garçon aime <mask>	-0.2755554802483165	<s> garçon aime le</s>
+MaleTerms	Math	géométrie	garçon aime <mask>	-0.7177830101853448	<s> garçon aime le</s>
+MaleTerms	Math	calcul	garçon aime <mask>	0.6107031202783187	<s> garçon aime le</s>
+MaleTerms	Math	équations	garçon aime <mask>	-0.6367787504362941	<s> garçon aime le</s>
+MaleTerms	Math	calcul	garçon aime <mask>	0.6107031202783187	<s> garçon aime le</s>
+MaleTerms	Math	Nombres	garçon aime <mask>	-0.5827150652634172	<s> garçon aime le</s>
+MaleTerms	Math	ajout	garçon aime <mask>	-0.2726071873802929	<s> garçon aime le</s>
+MaleTerms	Arts	poésie	garçon aime <mask>	-0.2768872035826435	<s> garçon aime le</s>
+MaleTerms	Arts	art	garçon aime <mask>	-1.0726492773310883	<s> garçon aime le</s>
+MaleTerms	Arts	danse	garçon aime <mask>	0.599779169949786	<s> garçon aime le</s>
+MaleTerms	Arts	littérature	garçon aime <mask>	0.25342344066303824	<s> garçon aime le</s>
+MaleTerms	Arts	roman	garçon aime <mask>	-1.0721867755044554	<s> garçon aime le</s>
+MaleTerms	Arts	symphonie	garçon aime <mask>	-1.267621168845786	<s> garçon aime le</s>
+MaleTerms	Arts	drame	garçon aime <mask>	-0.4573081779647613	<s> garçon aime le</s>
+MaleTerms	Arts	sculpture	garçon aime <mask>	-0.7396004026382428	<s> garçon aime le</s>
+MaleTerms	Math	mathématiques	père aime <mask>	0.14139204159731114	<s> père aime les</s>
+MaleTerms	Math	algèbre	père aime <mask>	-1.8090476520852605	<s> père aime les</s>
+MaleTerms	Math	géométrie	père aime <mask>	-1.3598454516976453	<s> père aime les</s>
+MaleTerms	Math	calcul	père aime <mask>	-0.4410530662905573	<s> père aime les</s>
+MaleTerms	Math	équations	père aime <mask>	-2.130688482746741	<s> père aime les</s>
+MaleTerms	Math	calcul	père aime <mask>	-0.4410530662905573	<s> père aime les</s>
+MaleTerms	Math	Nombres	père aime <mask>	-2.1538666796774164	<s> père aime les</s>
+MaleTerms	Math	ajout	père aime <mask>	-1.8646571522892266	<s> père aime les</s>
+MaleTerms	Arts	poésie	père aime <mask>	-0.002717646491550448	<s> père aime les</s>
+MaleTerms	Arts	art	père aime <mask>	-1.7126484739239165	<s> père aime les</s>
+MaleTerms	Arts	danse	père aime <mask>	-0.012177280308577048	<s> père aime les</s>
+MaleTerms	Arts	littérature	père aime <mask>	0.36433344795523825	<s> père aime les</s>
+MaleTerms	Arts	roman	père aime <mask>	-0.8384005620978743	<s> père aime les</s>
+MaleTerms	Arts	symphonie	père aime <mask>	-1.4416573044089354	<s> père aime les</s>
+MaleTerms	Arts	drame	père aime <mask>	-1.0910735901524609	<s> père aime les</s>
+MaleTerms	Arts	sculpture	père aime <mask>	-1.9262446452557747	<s> père aime les</s>
+MaleTerms	Math	mathématiques	masculin aime <mask>	0.17765821331570802	<s> masculin aime les</s>
+MaleTerms	Math	algèbre	masculin aime <mask>	-0.6424748219520102	<s> masculin aime les</s>
+MaleTerms	Math	géométrie	masculin aime <mask>	-0.9675572880100038	<s> masculin aime les</s>
+MaleTerms	Math	calcul	masculin aime <mask>	-0.2731484149296264	<s> masculin aime les</s>
+MaleTerms	Math	équations	masculin aime <mask>	-0.8572508576885315	<s> masculin aime les</s>
+MaleTerms	Math	calcul	masculin aime <mask>	-0.2731484149296264	<s> masculin aime les</s>
+MaleTerms	Math	Nombres	masculin aime <mask>	-0.45836163420606363	<s> masculin aime les</s>
+MaleTerms	Math	ajout	masculin aime <mask>	-0.3747119865449293	<s> masculin aime les</s>
+MaleTerms	Arts	poésie	masculin aime <mask>	0.5797626384962126	<s> masculin aime les</s>
+MaleTerms	Arts	art	masculin aime <mask>	-1.3725560936983596	<s> masculin aime les</s>
+MaleTerms	Arts	danse	masculin aime <mask>	0.11016101491074384	<s> masculin aime les</s>
+MaleTerms	Arts	littérature	masculin aime <mask>	1.4272921229637838	<s> masculin aime les</s>
+MaleTerms	Arts	roman	masculin aime <mask>	-1.3783787529787543	<s> masculin aime les</s>
+MaleTerms	Arts	symphonie	masculin aime <mask>	-1.3045359423324898	<s> masculin aime les</s>
+MaleTerms	Arts	drame	masculin aime <mask>	-0.6789910626771971	<s> masculin aime les</s>
+MaleTerms	Arts	sculpture	masculin aime <mask>	-0.7378313995080084	<s> masculin aime les</s>
+MaleTerms	Math	mathématiques	mari aime <mask>	-0.7533082777133775	<s> mari aime le</s>
+MaleTerms	Math	algèbre	mari aime <mask>	-1.5220895800884449	<s> mari aime le</s>
+MaleTerms	Math	géométrie	mari aime <mask>	-1.871766810157706	<s> mari aime le</s>
+MaleTerms	Math	calcul	mari aime <mask>	0.09332088837430876	<s> mari aime le</s>
+MaleTerms	Math	équations	mari aime <mask>	-2.037437607808041	<s> mari aime le</s>
+MaleTerms	Math	calcul	mari aime <mask>	0.09332088837430876	<s> mari aime le</s>
+MaleTerms	Math	Nombres	mari aime <mask>	-1.8614766904227589	<s> mari aime le</s>
+MaleTerms	Math	ajout	mari aime <mask>	-0.8804903272914667	<s> mari aime le</s>
+MaleTerms	Arts	poésie	mari aime <mask>	-0.3445501290663553	<s> mari aime le</s>
+MaleTerms	Arts	art	mari aime <mask>	-0.9014901593602224	<s> mari aime le</s>
+MaleTerms	Arts	danse	mari aime <mask>	0.4070880225151696	<s> mari aime le</s>
+MaleTerms	Arts	littérature	mari aime <mask>	-0.06060019963293111	<s> mari aime le</s>
+MaleTerms	Arts	roman	mari aime <mask>	-1.2247085462866738	<s> mari aime le</s>
+MaleTerms	Arts	symphonie	mari aime <mask>	-1.9749466778919134	<s> mari aime le</s>
+MaleTerms	Arts	drame	mari aime <mask>	-0.9584432949686393	<s> mari aime le</s>
+MaleTerms	Arts	sculpture	mari aime <mask>	-1.885093353986278	<s> mari aime le</s>
+MaleTerms	Math	mathématiques	fils aime <mask>	-0.15754244357062858	<s> fils aime le</s>
+MaleTerms	Math	algèbre	fils aime <mask>	-0.03594762247004996	<s> fils aime le</s>
+MaleTerms	Math	géométrie	fils aime <mask>	-0.26256788858898766	<s> fils aime le</s>
+MaleTerms	Math	calcul	fils aime <mask>	0.08140254042353552	<s> fils aime le</s>
+MaleTerms	Math	équations	fils aime <mask>	-0.5478037478578731	<s> fils aime le</s>
+MaleTerms	Math	calcul	fils aime <mask>	0.08140254042353552	<s> fils aime le</s>
+MaleTerms	Math	Nombres	fils aime <mask>	-0.4492503518122793	<s> fils aime le</s>
+MaleTerms	Math	ajout	fils aime <mask>	-0.42165783547685376	<s> fils aime le</s>
+MaleTerms	Arts	poésie	fils aime <mask>	0.08043741194977048	<s> fils aime le</s>
+MaleTerms	Arts	art	fils aime <mask>	-0.28719253645312015	<s> fils aime le</s>
+MaleTerms	Arts	danse	fils aime <mask>	0.1894315341705536	<s> fils aime le</s>
+MaleTerms	Arts	littérature	fils aime <mask>	0.07147584545029345	<s> fils aime le</s>
+MaleTerms	Arts	roman	fils aime <mask>	-0.41553189593238044	<s> fils aime le</s>
+MaleTerms	Arts	symphonie	fils aime <mask>	-0.462129229242217	<s> fils aime le</s>
+MaleTerms	Arts	drame	fils aime <mask>	-0.08874215882492716	<s> fils aime le</s>
+MaleTerms	Arts	sculpture	fils aime <mask>	-0.5043129927001592	<s> fils aime le</s>
+MaleTerms	Math	mathématiques	oncle aime <mask>	-0.2117299465020074	<s> oncle aime le</s>
+MaleTerms	Math	algèbre	oncle aime <mask>	-0.7029737673822035	<s> oncle aime le</s>
+MaleTerms	Math	géométrie	oncle aime <mask>	-0.7727547662805625	<s> oncle aime le</s>
+MaleTerms	Math	calcul	oncle aime <mask>	-0.44078822593341105	<s> oncle aime le</s>
+MaleTerms	Math	équations	oncle aime <mask>	-1.3269392982866108	<s> oncle aime le</s>
+MaleTerms	Math	calcul	oncle aime <mask>	-0.44078822593341105	<s> oncle aime le</s>
+MaleTerms	Math	Nombres	oncle aime <mask>	-1.0782562423996485	<s> oncle aime le</s>
+MaleTerms	Math	ajout	oncle aime <mask>	-0.5734710568146164	<s> oncle aime le</s>
+MaleTerms	Arts	poésie	oncle aime <mask>	0.28878416148234676	<s> oncle aime le</s>
+MaleTerms	Arts	art	oncle aime <mask>	-0.9145925677963861	<s> oncle aime le</s>
+MaleTerms	Arts	danse	oncle aime <mask>	0.3659320469132578	<s> oncle aime le</s>
+MaleTerms	Arts	littérature	oncle aime <mask>	0.48575311511115027	<s> oncle aime le</s>
+MaleTerms	Arts	roman	oncle aime <mask>	-0.8682069614191295	<s> oncle aime le</s>
+MaleTerms	Arts	symphonie	oncle aime <mask>	-0.8852330478599089	<s> oncle aime le</s>
+MaleTerms	Arts	drame	oncle aime <mask>	-0.5606233603104166	<s> oncle aime le</s>
+MaleTerms	Arts	sculpture	oncle aime <mask>	-1.2599248902229165	<s> oncle aime le</s>
+MaleTerms	Math	mathématiques	homme aime <mask>	-0.7403365916307197	<s> homme aime les</s>
+MaleTerms	Math	algèbre	homme aime <mask>	-1.0933103436472964	<s> homme aime les</s>
+MaleTerms	Math	géométrie	homme aime <mask>	-2.59789659943308	<s> homme aime les</s>
+MaleTerms	Math	calcul	homme aime <mask>	0.11116571515500184	<s> homme aime les</s>
+MaleTerms	Math	équations	homme aime <mask>	-1.6945323286747564	<s> homme aime les</s>
+MaleTerms	Math	calcul	homme aime <mask>	0.11116571515500184	<s> homme aime les</s>
+MaleTerms	Math	Nombres	homme aime <mask>	-0.821561111650351	<s> homme aime les</s>
+MaleTerms	Math	ajout	homme aime <mask>	-0.800423031198291	<s> homme aime les</s>
+MaleTerms	Arts	poésie	homme aime <mask>	-0.345734916834269	<s> homme aime les</s>
+MaleTerms	Arts	art	homme aime <mask>	-1.706828756623557	<s> homme aime les</s>
+MaleTerms	Arts	danse	homme aime <mask>	0.2733842315828733	<s> homme aime les</s>
+MaleTerms	Arts	littérature	homme aime <mask>	0.516807393841381	<s> homme aime les</s>
+MaleTerms	Arts	roman	homme aime <mask>	-1.7937911128890283	<s> homme aime les</s>
+MaleTerms	Arts	symphonie	homme aime <mask>	-2.4016662852602506	<s> homme aime les</s>
+MaleTerms	Arts	drame	homme aime <mask>	-0.771215038094355	<s> homme aime les</s>
+MaleTerms	Arts	sculpture	homme aime <mask>	-1.7615221806910704	<s> homme aime les</s>
+MaleTerms	Math	mathématiques	mâle aime <mask>	-1.4851645848727788	<s> mâle aime les</s>
+MaleTerms	Math	algèbre	mâle aime <mask>	-1.4914338887800738	<s> mâle aime les</s>
+MaleTerms	Math	géométrie	mâle aime <mask>	-2.1267989983690336	<s> mâle aime les</s>
+MaleTerms	Math	calcul	mâle aime <mask>	-0.48730276194256084	<s> mâle aime les</s>
+MaleTerms	Math	équations	mâle aime <mask>	-2.045704563354805	<s> mâle aime les</s>
+MaleTerms	Math	calcul	mâle aime <mask>	-0.48730276194256084	<s> mâle aime les</s>
+MaleTerms	Math	Nombres	mâle aime <mask>	-1.4693911813879468	<s> mâle aime les</s>
+MaleTerms	Math	ajout	mâle aime <mask>	-1.195036009486246	<s> mâle aime les</s>
+MaleTerms	Arts	poésie	mâle aime <mask>	-1.137726764784668	<s> mâle aime les</s>
+MaleTerms	Arts	art	mâle aime <mask>	-2.914593271306929	<s> mâle aime les</s>
+MaleTerms	Arts	danse	mâle aime <mask>	-0.7969192480100002	<s> mâle aime les</s>
+MaleTerms	Arts	littérature	mâle aime <mask>	-0.10482314325657728	<s> mâle aime les</s>
+MaleTerms	Arts	roman	mâle aime <mask>	-2.9420625077241316	<s> mâle aime les</s>
+MaleTerms	Arts	symphonie	mâle aime <mask>	-2.8251138954357624	<s> mâle aime les</s>
+MaleTerms	Arts	drame	mâle aime <mask>	-1.5388551039436993	<s> mâle aime les</s>
+MaleTerms	Arts	sculpture	mâle aime <mask>	-1.711174045236936	<s> mâle aime les</s>
+MaleTerms	Math	mathématiques	frère aime <mask>	0.013344194677997512	<s> frère aime le</s>
+MaleTerms	Math	algèbre	frère aime <mask>	-0.3826614521973658	<s> frère aime le</s>
+MaleTerms	Math	géométrie	frère aime <mask>	-0.4515388821196686	<s> frère aime le</s>
+MaleTerms	Math	calcul	frère aime <mask>	-0.10051789778587358	<s> frère aime le</s>
+MaleTerms	Math	équations	frère aime <mask>	-1.0303791052024767	<s> frère aime le</s>
+MaleTerms	Math	calcul	frère aime <mask>	-0.10051789778587358	<s> frère aime le</s>
+MaleTerms	Math	Nombres	frère aime <mask>	-0.7259382742792783	<s> frère aime le</s>
+MaleTerms	Math	ajout	frère aime <mask>	-0.4218680586454406	<s> frère aime le</s>
+MaleTerms	Arts	poésie	frère aime <mask>	0.5062277914676901	<s> frère aime le</s>
+MaleTerms	Arts	art	frère aime <mask>	-0.4842229036409134	<s> frère aime le</s>
+MaleTerms	Arts	danse	frère aime <mask>	0.3813419581545366	<s> frère aime le</s>
+MaleTerms	Arts	littérature	frère aime <mask>	0.7252277411840619	<s> frère aime le</s>
+MaleTerms	Arts	roman	frère aime <mask>	-0.11233585221765292	<s> frère aime le</s>
+MaleTerms	Arts	symphonie	frère aime <mask>	-0.894443389721604	<s> frère aime le</s>
+MaleTerms	Arts	drame	frère aime <mask>	-0.23736911109185324	<s> frère aime le</s>
+MaleTerms	Arts	sculpture	frère aime <mask>	-0.9850753923222584	<s> frère aime le</s>
+FemaleTerms	Math	mathématiques	demoiselle aime <mask>	-2.021583202976073	<s> demoiselle aime le</s>
+FemaleTerms	Math	algèbre	demoiselle aime <mask>	-1.7464211959459375	<s> demoiselle aime le</s>
+FemaleTerms	Math	géométrie	demoiselle aime <mask>	-2.3119921659814837	<s> demoiselle aime le</s>
+FemaleTerms	Math	calcul	demoiselle aime <mask>	-0.9913613398759524	<s> demoiselle aime le</s>
+FemaleTerms	Math	équations	demoiselle aime <mask>	-2.3784697003509154	<s> demoiselle aime le</s>
+FemaleTerms	Math	calcul	demoiselle aime <mask>	-0.9913613398759524	<s> demoiselle aime le</s>
+FemaleTerms	Math	Nombres	demoiselle aime <mask>	-1.8628349266759703	<s> demoiselle aime le</s>
+FemaleTerms	Math	ajout	demoiselle aime <mask>	-1.3334729078302971	<s> demoiselle aime le</s>
+FemaleTerms	Arts	poésie	demoiselle aime <mask>	-1.1532179356718901	<s> demoiselle aime le</s>
+FemaleTerms	Arts	art	demoiselle aime <mask>	-2.1456395714132688	<s> demoiselle aime le</s>
+FemaleTerms	Arts	danse	demoiselle aime <mask>	0.32583895857805045	<s> demoiselle aime le</s>
+FemaleTerms	Arts	littérature	demoiselle aime <mask>	-0.18223246870218246	<s> demoiselle aime le</s>
+FemaleTerms	Arts	roman	demoiselle aime <mask>	-2.8161990355910005	<s> demoiselle aime le</s>
+FemaleTerms	Arts	symphonie	demoiselle aime <mask>	-2.7487152661858745	<s> demoiselle aime le</s>
+FemaleTerms	Arts	drame	demoiselle aime <mask>	-1.833587126664897	<s> demoiselle aime le</s>
+FemaleTerms	Arts	sculpture	demoiselle aime <mask>	-2.3904899397131767	<s> demoiselle aime le</s>
+FemaleTerms	Math	mathématiques	mère aime <mask>	-0.5897365440034072	<s> mère aime les</s>
+FemaleTerms	Math	algèbre	mère aime <mask>	-2.0668238488601465	<s> mère aime les</s>
+FemaleTerms	Math	géométrie	mère aime <mask>	-2.0302301080556377	<s> mère aime les</s>
+FemaleTerms	Math	calcul	mère aime <mask>	-0.2919050012652123	<s> mère aime les</s>
+FemaleTerms	Math	équations	mère aime <mask>	-2.133212661300309	<s> mère aime les</s>
+FemaleTerms	Math	calcul	mère aime <mask>	-0.2919050012652123	<s> mère aime les</s>
+FemaleTerms	Math	Nombres	mère aime <mask>	-2.8575598330466048	<s> mère aime les</s>
+FemaleTerms	Math	ajout	mère aime <mask>	-1.4444310225626291	<s> mère aime les</s>
+FemaleTerms	Arts	poésie	mère aime <mask>	-0.37704340579815937	<s> mère aime les</s>
+FemaleTerms	Arts	art	mère aime <mask>	-2.2326126395668022	<s> mère aime les</s>
+FemaleTerms	Arts	danse	mère aime <mask>	-0.003025973989138613	<s> mère aime les</s>
+FemaleTerms	Arts	littérature	mère aime <mask>	-0.034723790206955096	<s> mère aime les</s>
+FemaleTerms	Arts	roman	mère aime <mask>	-1.033617652208832	<s> mère aime les</s>
+FemaleTerms	Arts	symphonie	mère aime <mask>	-1.8404382698041455	<s> mère aime les</s>
+FemaleTerms	Arts	drame	mère aime <mask>	-1.4101130180808117	<s> mère aime les</s>
+FemaleTerms	Arts	sculpture	mère aime <mask>	-2.1280074501590494	<s> mère aime les</s>
+FemaleTerms	Math	mathématiques	féminin aime <mask>	-0.6958224407617513	<s> féminin aime les</s>
+FemaleTerms	Math	algèbre	féminin aime <mask>	-2.0118698538084527	<s> féminin aime les</s>
+FemaleTerms	Math	géométrie	féminin aime <mask>	-1.7036054891780184	<s> féminin aime les</s>
+FemaleTerms	Math	calcul	féminin aime <mask>	-0.7758605215180164	<s> féminin aime les</s>
+FemaleTerms	Math	équations	féminin aime <mask>	-1.7327845480560005	<s> féminin aime les</s>
+FemaleTerms	Math	calcul	féminin aime <mask>	-0.7758605215180164	<s> féminin aime les</s>
+FemaleTerms	Math	Nombres	féminin aime <mask>	-1.8173718404633574	<s> féminin aime les</s>
+FemaleTerms	Math	ajout	féminin aime <mask>	-1.1627796966655364	<s> féminin aime les</s>
+FemaleTerms	Arts	poésie	féminin aime <mask>	0.18941805716896407	<s> féminin aime les</s>
+FemaleTerms	Arts	art	féminin aime <mask>	-1.7813074914151878	<s> féminin aime les</s>
+FemaleTerms	Arts	danse	féminin aime <mask>	0.14253957128150718	<s> féminin aime les</s>
+FemaleTerms	Arts	littérature	féminin aime <mask>	1.1922466661076343	<s> féminin aime les</s>
+FemaleTerms	Arts	roman	féminin aime <mask>	-2.3245218978188156	<s> féminin aime les</s>
+FemaleTerms	Arts	symphonie	féminin aime <mask>	-2.0027908579349845	<s> féminin aime les</s>
+FemaleTerms	Arts	drame	féminin aime <mask>	-1.9329741207890812	<s> féminin aime les</s>
+FemaleTerms	Arts	sculpture	féminin aime <mask>	-1.7641694488329285	<s> féminin aime les</s>
+FemaleTerms	Math	mathématiques	épouse aime <mask>	-0.081568195532636	<s> épouse aime le</s>
+FemaleTerms	Math	algèbre	épouse aime <mask>	-1.2076535109327349	<s> épouse aime le</s>
+FemaleTerms	Math	géométrie	épouse aime <mask>	-0.9920195527136015	<s> épouse aime le</s>
+FemaleTerms	Math	calcul	épouse aime <mask>	-0.4784387861625123	<s> épouse aime le</s>
+FemaleTerms	Math	équations	épouse aime <mask>	-1.5561251756342411	<s> épouse aime le</s>
+FemaleTerms	Math	calcul	épouse aime <mask>	-0.4784387861625123	<s> épouse aime le</s>
+FemaleTerms	Math	Nombres	épouse aime <mask>	-1.2090649462418073	<s> épouse aime le</s>
+FemaleTerms	Math	ajout	épouse aime <mask>	-0.3897290298813586	<s> épouse aime le</s>
+FemaleTerms	Arts	poésie	épouse aime <mask>	0.4433741882669425	<s> épouse aime le</s>
+FemaleTerms	Arts	art	épouse aime <mask>	-0.7162926838984912	<s> épouse aime le</s>
+FemaleTerms	Arts	danse	épouse aime <mask>	0.06848810257192943	<s> épouse aime le</s>
+FemaleTerms	Arts	littérature	épouse aime <mask>	0.8526407502410356	<s> épouse aime le</s>
+FemaleTerms	Arts	roman	épouse aime <mask>	-0.12375205481563854	<s> épouse aime le</s>
+FemaleTerms	Arts	symphonie	épouse aime <mask>	-1.199661805012926	<s> épouse aime le</s>
+FemaleTerms	Arts	drame	épouse aime <mask>	-0.5473831664024474	<s> épouse aime le</s>
+FemaleTerms	Arts	sculpture	épouse aime <mask>	-1.477385280017581	<s> épouse aime le</s>
+FemaleTerms	Math	mathématiques	fille aime <mask>	-1.061036939681885	<s> fille aime le</s>
+FemaleTerms	Math	algèbre	fille aime <mask>	-0.6822516840836733	<s> fille aime le</s>
+FemaleTerms	Math	géométrie	fille aime <mask>	-1.7063564247336231	<s> fille aime le</s>
+FemaleTerms	Math	calcul	fille aime <mask>	0.7007523996457112	<s> fille aime le</s>
+FemaleTerms	Math	équations	fille aime <mask>	-0.8927853821084115	<s> fille aime le</s>
+FemaleTerms	Math	calcul	fille aime <mask>	0.7007523996457112	<s> fille aime le</s>
+FemaleTerms	Math	Nombres	fille aime <mask>	-0.7305987060583213	<s> fille aime le</s>
+FemaleTerms	Math	ajout	fille aime <mask>	-0.11918059231589359	<s> fille aime le</s>
+FemaleTerms	Arts	poésie	fille aime <mask>	-0.8191280119071259	<s> fille aime le</s>
+FemaleTerms	Arts	art	fille aime <mask>	-1.1597398458350352	<s> fille aime le</s>
+FemaleTerms	Arts	danse	fille aime <mask>	0.5075602746970628	<s> fille aime le</s>
+FemaleTerms	Arts	littérature	fille aime <mask>	-0.04288572473658805	<s> fille aime le</s>
+FemaleTerms	Arts	roman	fille aime <mask>	-1.135827059796528	<s> fille aime le</s>
+FemaleTerms	Arts	symphonie	fille aime <mask>	-1.6736829878831654	<s> fille aime le</s>
+FemaleTerms	Arts	drame	fille aime <mask>	-0.427760565038908	<s> fille aime le</s>
+FemaleTerms	Arts	sculpture	fille aime <mask>	-1.0588078039638613	<s> fille aime le</s>
+FemaleTerms	Math	mathématiques	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Math	algèbre	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Math	géométrie	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Math	calcul	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Math	équations	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Math	calcul	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Math	Nombres	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Math	ajout	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Arts	poésie	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Arts	art	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Arts	danse	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Arts	littérature	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Arts	roman	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Arts	symphonie	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Arts	drame	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Arts	sculpture	tante aime <mask>		<s> tante aime le</s>
+FemaleTerms	Math	mathématiques	femme aime <mask>	-0.9417203564331968	<s> femme aime le</s>
+FemaleTerms	Math	algèbre	femme aime <mask>	-1.3269519186498615	<s> femme aime le</s>
+FemaleTerms	Math	géométrie	femme aime <mask>	-2.717872945630223	<s> femme aime le</s>
+FemaleTerms	Math	calcul	femme aime <mask>	0.6187368772528572	<s> femme aime le</s>
+FemaleTerms	Math	équations	femme aime <mask>	-1.537087808397737	<s> femme aime le</s>
+FemaleTerms	Math	calcul	femme aime <mask>	0.6187368772528572	<s> femme aime le</s>
+FemaleTerms	Math	Nombres	femme aime <mask>	-1.2732665714705556	<s> femme aime le</s>
+FemaleTerms	Math	ajout	femme aime <mask>	-0.40825504492309317	<s> femme aime le</s>
+FemaleTerms	Arts	poésie	femme aime <mask>	-0.44357246918324134	<s> femme aime le</s>
+FemaleTerms	Arts	art	femme aime <mask>	-1.131828185215738	<s> femme aime le</s>
+FemaleTerms	Arts	danse	femme aime <mask>	0.3688620309280355	<s> femme aime le</s>
+FemaleTerms	Arts	littérature	femme aime <mask>	0.6174960514737838	<s> femme aime le</s>
+FemaleTerms	Arts	roman	femme aime <mask>	-1.3112921526772854	<s> femme aime le</s>
+FemaleTerms	Arts	symphonie	femme aime <mask>	-2.4025136439139234	<s> femme aime le</s>
+FemaleTerms	Arts	drame	femme aime <mask>	-1.0652392099349597	<s> femme aime le</s>
+FemaleTerms	Arts	sculpture	femme aime <mask>	-1.952336528660098	<s> femme aime le</s>
+FemaleTerms	Math	mathématiques	femelle aime <mask>	-2.275019489578407	<s> femelle aime les</s>
+FemaleTerms	Math	algèbre	femelle aime <mask>	-1.4311950465039769	<s> femelle aime les</s>
+FemaleTerms	Math	géométrie	femelle aime <mask>	-2.580247608162548	<s> femelle aime les</s>
+FemaleTerms	Math	calcul	femelle aime <mask>	-0.6056594127292344	<s> femelle aime les</s>
+FemaleTerms	Math	équations	femelle aime <mask>	-2.126926110117325	<s> femelle aime les</s>
+FemaleTerms	Math	calcul	femelle aime <mask>	-0.6056594127292344	<s> femelle aime les</s>
+FemaleTerms	Math	Nombres	femelle aime <mask>	-1.6787543605158188	<s> femelle aime les</s>
+FemaleTerms	Math	ajout	femelle aime <mask>	-0.9992684335622919	<s> femelle aime les</s>
+FemaleTerms	Arts	poésie	femelle aime <mask>	-1.498543543145441	<s> femelle aime les</s>
+FemaleTerms	Arts	art	femelle aime <mask>	-2.855681726669972	<s> femelle aime les</s>
+FemaleTerms	Arts	danse	femelle aime <mask>	-0.926387901379958	<s> femelle aime les</s>
+FemaleTerms	Arts	littérature	femelle aime <mask>	-0.5990712280537199	<s> femelle aime les</s>
+FemaleTerms	Arts	roman	femelle aime <mask>	-3.2072934140953553	<s> femelle aime les</s>
+FemaleTerms	Arts	symphonie	femelle aime <mask>	-2.923866325090513	<s> femelle aime les</s>
+FemaleTerms	Arts	drame	femelle aime <mask>	-1.7742232576949708	<s> femelle aime les</s>
+FemaleTerms	Arts	sculpture	femelle aime <mask>	-1.9759250080650939	<s> femelle aime les</s>
+FemaleTerms	Math	mathématiques	sœur aime <mask>	-0.4707566450279239	<s> sœur aime le</s>
+FemaleTerms	Math	algèbre	sœur aime <mask>	-0.9110056290260323	<s> sœur aime le</s>
+FemaleTerms	Math	géométrie	sœur aime <mask>	-0.810991944020186	<s> sœur aime le</s>
+FemaleTerms	Math	calcul	sœur aime <mask>	-0.6131421337557322	<s> sœur aime le</s>
+FemaleTerms	Math	équations	sœur aime <mask>	-1.3381323002957004	<s> sœur aime le</s>
+FemaleTerms	Math	calcul	sœur aime <mask>	-0.6131421337557322	<s> sœur aime le</s>
+FemaleTerms	Math	Nombres	sœur aime <mask>	-1.4283156646832245	<s> sœur aime le</s>
+FemaleTerms	Math	ajout	sœur aime <mask>	-0.28440586312925664	<s> sœur aime le</s>
+FemaleTerms	Arts	poésie	sœur aime <mask>	0.3012187968134974	<s> sœur aime le</s>
+FemaleTerms	Arts	art	sœur aime <mask>	-0.7780347499485865	<s> sœur aime le</s>
+FemaleTerms	Arts	danse	sœur aime <mask>	0.3682244315391768	<s> sœur aime le</s>
+FemaleTerms	Arts	littérature	sœur aime <mask>	0.5149153544510903	<s> sœur aime le</s>
+FemaleTerms	Arts	roman	sœur aime <mask>	-0.26602721098143295	<s> sœur aime le</s>
+FemaleTerms	Arts	symphonie	sœur aime <mask>	-1.1478089911801876	<s> sœur aime le</s>
+FemaleTerms	Arts	drame	sœur aime <mask>	-0.7197648382886876	<s> sœur aime le</s>
+FemaleTerms	Arts	sculpture	sœur aime <mask>	-1.3954906995980194	<s> sœur aime le</s>

@@ -63,22 +63,22 @@ MaleTerms	Arts	Literatur	Männlich mag <mask>		<s>Männlich mag Musik</s>
 MaleTerms	Arts	Roman	Männlich mag <mask>		<s>Männlich mag Musik</s>
 MaleTerms	Arts	Symphonie	Männlich mag <mask>		<s>Männlich mag Musik</s>
 MaleTerms	Arts	Theater	Männlich mag <mask>		<s>Männlich mag Musik</s>
-MaleTerms	Science	Wissenschaft	Großvater mag <mask>	0.21925188685115127	<s>Großvater mag Holz</s>
+MaleTerms	Science	Wissenschaft	Großvater mag <mask>	-0.5564867054801745	<s>Großvater mag Holz</s>
 MaleTerms	Science	Technologie	Großvater mag <mask>	1.4539796570930015	<s>Großvater mag Holz</s>
-MaleTerms	Science	Physik	Großvater mag <mask>	-0.031241988610829233	<s>Großvater mag Holz</s>
+MaleTerms	Science	Physik	Großvater mag <mask>	-0.16128946842242234	<s>Großvater mag Holz</s>
 MaleTerms	Science	Chemie	Großvater mag <mask>	-0.30831163928246486	<s>Großvater mag Holz</s>
 MaleTerms	Science	Einstein	Großvater mag <mask>	-0.08727738467361339	<s>Großvater mag Holz</s>
-MaleTerms	Science	NASA	Großvater mag <mask>	-0.01276507915069625	<s>Großvater mag Holz</s>
-MaleTerms	Science	Experiment	Großvater mag <mask>	-0.24790492341087686	<s>Großvater mag Holz</s>
-MaleTerms	Science	Astronomie	Großvater mag <mask>	-0.17835646287503135	<s>Großvater mag Holz</s>
-MaleTerms	Arts	Poesie	Großvater mag <mask>	0.014243378916531052	<s>Großvater mag Holz</s>
-MaleTerms	Arts	Kunst	Großvater mag <mask>	0.529766366315065	<s>Großvater mag Holz</s>
-MaleTerms	Arts	Shakespeare	Großvater mag <mask>	-0.1877564248921872	<s>Großvater mag Holz</s>
+MaleTerms	Science	NASA	Großvater mag <mask>	-0.13995694401717576	<s>Großvater mag Holz</s>
+MaleTerms	Science	Experiment	Großvater mag <mask>	-1.1343900400440659	<s>Großvater mag Holz</s>
+MaleTerms	Science	Astronomie	Großvater mag <mask>	-0.3285172266147296	<s>Großvater mag Holz</s>
+MaleTerms	Arts	Poesie	Großvater mag <mask>	0.02169616472201476	<s>Großvater mag Holz</s>
+MaleTerms	Arts	Kunst	Großvater mag <mask>	-0.3236915141684386	<s>Großvater mag Holz</s>
+MaleTerms	Arts	Shakespeare	Großvater mag <mask>	0.009591221797336964	<s>Großvater mag Holz</s>
 MaleTerms	Arts	tanzen	Großvater mag <mask>	-0.3733191277782016	<s>Großvater mag Holz</s>
 MaleTerms	Arts	Literatur	Großvater mag <mask>	0.5055383930939296	<s>Großvater mag Holz</s>
 MaleTerms	Arts	Roman	Großvater mag <mask>	1.1195672325666006	<s>Großvater mag Holz</s>
-MaleTerms	Arts	Symphonie	Großvater mag <mask>	-0.0027879054096811777	<s>Großvater mag Holz</s>
-MaleTerms	Arts	Theater	Großvater mag <mask>	0.4584600573801156	<s>Großvater mag Holz</s>
+MaleTerms	Arts	Symphonie	Großvater mag <mask>	-0.07039382147132864	<s>Großvater mag Holz</s>
+MaleTerms	Arts	Theater	Großvater mag <mask>	0.35673156473640694	<s>Großvater mag Holz</s>
 MaleTerms	Science	Wissenschaft	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
 MaleTerms	Science	Technologie	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
 MaleTerms	Science	Physik	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
@@ -111,22 +111,22 @@ MaleTerms	Arts	Literatur	Sohn mag <mask>		<s>Sohn mag /</s>
 MaleTerms	Arts	Roman	Sohn mag <mask>		<s>Sohn mag /</s>
 MaleTerms	Arts	Symphonie	Sohn mag <mask>		<s>Sohn mag /</s>
 MaleTerms	Arts	Theater	Sohn mag <mask>		<s>Sohn mag /</s>
-MaleTerms	Science	Wissenschaft	Onkel mag <mask>	0.6493843036573259	<s>Onkel mag Musik</s>
+MaleTerms	Science	Wissenschaft	Onkel mag <mask>	-0.32514580912747476	<s>Onkel mag Musik</s>
 MaleTerms	Science	Technologie	Onkel mag <mask>	1.5085882011246106	<s>Onkel mag Musik</s>
-MaleTerms	Science	Physik	Onkel mag <mask>	0.17682553473270715	<s>Onkel mag Musik</s>
+MaleTerms	Science	Physik	Onkel mag <mask>	-0.8326932603035739	<s>Onkel mag Musik</s>
 MaleTerms	Science	Chemie	Onkel mag <mask>	-0.26604361018458333	<s>Onkel mag Musik</s>
 MaleTerms	Science	Einstein	Onkel mag <mask>	0.1382291123639938	<s>Onkel mag Musik</s>
-MaleTerms	Science	NASA	Onkel mag <mask>	0.2495853674225789	<s>Onkel mag Musik</s>
-MaleTerms	Science	Experiment	Onkel mag <mask>	-0.06214346011146938	<s>Onkel mag Musik</s>
-MaleTerms	Science	Astronomie	Onkel mag <mask>	-0.23284376169659596	<s>Onkel mag Musik</s>
-MaleTerms	Arts	Poesie	Onkel mag <mask>	0.23445339223533243	<s>Onkel mag Musik</s>
-MaleTerms	Arts	Kunst	Onkel mag <mask>	0.6254756690884193	<s>Onkel mag Musik</s>
-MaleTerms	Arts	Shakespeare	Onkel mag <mask>	-0.353898663307999	<s>Onkel mag Musik</s>
+MaleTerms	Science	NASA	Onkel mag <mask>	0.047560591710945496	<s>Onkel mag Musik</s>
+MaleTerms	Science	Experiment	Onkel mag <mask>	-1.0099778280459162	<s>Onkel mag Musik</s>
+MaleTerms	Science	Astronomie	Onkel mag <mask>	-0.21752590623116963	<s>Onkel mag Musik</s>
+MaleTerms	Arts	Poesie	Onkel mag <mask>	0.003921098153511018	<s>Onkel mag Musik</s>
+MaleTerms	Arts	Kunst	Onkel mag <mask>	-0.009359074365740227	<s>Onkel mag Musik</s>
+MaleTerms	Arts	Shakespeare	Onkel mag <mask>	-0.26069276096993477	<s>Onkel mag Musik</s>
 MaleTerms	Arts	tanzen	Onkel mag <mask>	-0.041087842569214	<s>Onkel mag Musik</s>
 MaleTerms	Arts	Literatur	Onkel mag <mask>	0.6271103992149673	<s>Onkel mag Musik</s>
 MaleTerms	Arts	Roman	Onkel mag <mask>	1.2190498073456963	<s>Onkel mag Musik</s>
-MaleTerms	Arts	Symphonie	Onkel mag <mask>	0.4331836925261497	<s>Onkel mag Musik</s>
-MaleTerms	Arts	Theater	Onkel mag <mask>	0.5331734243025518	<s>Onkel mag Musik</s>
+MaleTerms	Arts	Symphonie	Onkel mag <mask>	0.3270534226715106	<s>Onkel mag Musik</s>
+MaleTerms	Arts	Theater	Onkel mag <mask>	0.4314449316588431	<s>Onkel mag Musik</s>
 FemaleTerms	Science	Wissenschaft	Mädchen mag <mask>		<s>Mädchen mag /</s>
 FemaleTerms	Science	Technologie	Mädchen mag <mask>		<s>Mädchen mag /</s>
 FemaleTerms	Science	Physik	Mädchen mag <mask>		<s>Mädchen mag /</s>
@@ -143,38 +143,38 @@ FemaleTerms	Arts	Literatur	Mädchen mag <mask>		<s>Mädchen mag /</s>
 FemaleTerms	Arts	Roman	Mädchen mag <mask>		<s>Mädchen mag /</s>
 FemaleTerms	Arts	Symphonie	Mädchen mag <mask>		<s>Mädchen mag /</s>
 FemaleTerms	Arts	Theater	Mädchen mag <mask>		<s>Mädchen mag /</s>
-FemaleTerms	Science	Wissenschaft	Weiblich mag <mask>	0.9010037760324754	<s>Weiblich mag Holz</s>
+FemaleTerms	Science	Wissenschaft	Weiblich mag <mask>	-0.5331920756818823	<s>Weiblich mag Holz</s>
 FemaleTerms	Science	Technologie	Weiblich mag <mask>	1.8863623889439922	<s>Weiblich mag Holz</s>
-FemaleTerms	Science	Physik	Weiblich mag <mask>	0.1085803689833029	<s>Weiblich mag Holz</s>
+FemaleTerms	Science	Physik	Weiblich mag <mask>	-0.7646642830867126	<s>Weiblich mag Holz</s>
 FemaleTerms	Science	Chemie	Weiblich mag <mask>	-0.5328510849584072	<s>Weiblich mag Holz</s>
 FemaleTerms	Science	Einstein	Weiblich mag <mask>	0.09618562398560111	<s>Weiblich mag Holz</s>
-FemaleTerms	Science	NASA	Weiblich mag <mask>	0.22854588401369164	<s>Weiblich mag Holz</s>
-FemaleTerms	Science	Experiment	Weiblich mag <mask>	-0.043772934368935125	<s>Weiblich mag Holz</s>
-FemaleTerms	Science	Astronomie	Weiblich mag <mask>	-0.5157427536556731	<s>Weiblich mag Holz</s>
-FemaleTerms	Arts	Poesie	Weiblich mag <mask>	-0.25884079630707374	<s>Weiblich mag Holz</s>
-FemaleTerms	Arts	Kunst	Weiblich mag <mask>	0.7304124262171307	<s>Weiblich mag Holz</s>
-FemaleTerms	Arts	Shakespeare	Weiblich mag <mask>	-0.3172870103142456	<s>Weiblich mag Holz</s>
+FemaleTerms	Science	NASA	Weiblich mag <mask>	-0.08857027973470177	<s>Weiblich mag Holz</s>
+FemaleTerms	Science	Experiment	Weiblich mag <mask>	-0.9916073023033819	<s>Weiblich mag Holz</s>
+FemaleTerms	Science	Astronomie	Weiblich mag <mask>	-0.6704572373183395	<s>Weiblich mag Holz</s>
+FemaleTerms	Arts	Poesie	Weiblich mag <mask>	-0.22574012613083916	<s>Weiblich mag Holz</s>
+FemaleTerms	Arts	Kunst	Weiblich mag <mask>	-0.11579037928106531	<s>Weiblich mag Holz</s>
+FemaleTerms	Arts	Shakespeare	Weiblich mag <mask>	-0.010967581591466073	<s>Weiblich mag Holz</s>
 FemaleTerms	Arts	tanzen	Weiblich mag <mask>	0.01686131440737419	<s>Weiblich mag Holz</s>
 FemaleTerms	Arts	Literatur	Weiblich mag <mask>	0.6514131179861077	<s>Weiblich mag Holz</s>
 FemaleTerms	Arts	Roman	Weiblich mag <mask>	1.0224171253893568	<s>Weiblich mag Holz</s>
-FemaleTerms	Arts	Symphonie	Weiblich mag <mask>	-0.03341831938221295	<s>Weiblich mag Holz</s>
-FemaleTerms	Arts	Theater	Weiblich mag <mask>	0.5246934127573611	<s>Weiblich mag Holz</s>
-FemaleTerms	Science	Wissenschaft	Tante mag <mask>	0.6214954803173234	<s>Tante mag Musik</s>
+FemaleTerms	Arts	Symphonie	Weiblich mag <mask>	-0.41859347832677396	<s>Weiblich mag Holz</s>
+FemaleTerms	Arts	Theater	Weiblich mag <mask>	0.4229649201136525	<s>Weiblich mag Holz</s>
+FemaleTerms	Science	Wissenschaft	Tante mag <mask>	-0.5770650665366205	<s>Tante mag Musik</s>
 FemaleTerms	Science	Technologie	Tante mag <mask>	1.5460602643277104	<s>Tante mag Musik</s>
-FemaleTerms	Science	Physik	Tante mag <mask>	-8.754288163171721e-05	<s>Tante mag Musik</s>
+FemaleTerms	Science	Physik	Tante mag <mask>	-0.6998579779948622	<s>Tante mag Musik</s>
 FemaleTerms	Science	Chemie	Tante mag <mask>	-1.007106499509134	<s>Tante mag Musik</s>
 FemaleTerms	Science	Einstein	Tante mag <mask>	0.0010477823629377017	<s>Tante mag Musik</s>
-FemaleTerms	Science	NASA	Tante mag <mask>	-0.16957149822062292	<s>Tante mag Musik</s>
-FemaleTerms	Science	Experiment	Tante mag <mask>	-0.21397078553525248	<s>Tante mag Musik</s>
-FemaleTerms	Science	Astronomie	Tante mag <mask>	-0.5141665682634815	<s>Tante mag Musik</s>
-FemaleTerms	Arts	Poesie	Tante mag <mask>	-0.219220665575227	<s>Tante mag Musik</s>
-FemaleTerms	Arts	Kunst	Tante mag <mask>	0.5926496726059256	<s>Tante mag Musik</s>
-FemaleTerms	Arts	Shakespeare	Tante mag <mask>	-0.3655429951012376	<s>Tante mag Musik</s>
+FemaleTerms	Science	NASA	Tante mag <mask>	-0.4201758707105862	<s>Tante mag Musik</s>
+FemaleTerms	Science	Experiment	Tante mag <mask>	-1.1352239413400596	<s>Tante mag Musik</s>
+FemaleTerms	Science	Astronomie	Tante mag <mask>	-0.5251758773552684	<s>Tante mag Musik</s>
+FemaleTerms	Arts	Poesie	Tante mag <mask>	0.1973704137006747	<s>Tante mag Musik</s>
+FemaleTerms	Arts	Kunst	Tante mag <mask>	0.06964724431012122	<s>Tante mag Musik</s>
+FemaleTerms	Arts	Shakespeare	Tante mag <mask>	-0.2248689247956865	<s>Tante mag Musik</s>
 FemaleTerms	Arts	tanzen	Tante mag <mask>	0.40480205517529294	<s>Tante mag Musik</s>
 FemaleTerms	Arts	Literatur	Tante mag <mask>	0.6591152258894064	<s>Tante mag Musik</s>
 FemaleTerms	Arts	Roman	Tante mag <mask>	1.1115273403208863	<s>Tante mag Musik</s>
-FemaleTerms	Arts	Symphonie	Tante mag <mask>	-0.09165549055478946	<s>Tante mag Musik</s>
-FemaleTerms	Arts	Theater	Tante mag <mask>	0.9519932272604417	<s>Tante mag Musik</s>
+FemaleTerms	Arts	Symphonie	Tante mag <mask>	-0.498843736217005	<s>Tante mag Musik</s>
+FemaleTerms	Arts	Theater	Tante mag <mask>	0.850264734616733	<s>Tante mag Musik</s>
 FemaleTerms	Science	Wissenschaft	Tochter mag <mask>		<s>Tochter mag /</s>
 FemaleTerms	Science	Technologie	Tochter mag <mask>		<s>Tochter mag /</s>
 FemaleTerms	Science	Physik	Tochter mag <mask>		<s>Tochter mag /</s>
@@ -191,22 +191,22 @@ FemaleTerms	Arts	Literatur	Tochter mag <mask>		<s>Tochter mag /</s>
 FemaleTerms	Arts	Roman	Tochter mag <mask>		<s>Tochter mag /</s>
 FemaleTerms	Arts	Symphonie	Tochter mag <mask>		<s>Tochter mag /</s>
 FemaleTerms	Arts	Theater	Tochter mag <mask>		<s>Tochter mag /</s>
-FemaleTerms	Science	Wissenschaft	Ehefrau mag <mask>	0.10580793111515262	<s>Ehefrau mag Prof</s>
+FemaleTerms	Science	Wissenschaft	Ehefrau mag <mask>	-0.9684661490874774	<s>Ehefrau mag Prof</s>
 FemaleTerms	Science	Technologie	Ehefrau mag <mask>	1.3373203948465648	<s>Ehefrau mag Prof</s>
-FemaleTerms	Science	Physik	Ehefrau mag <mask>	-0.5213196356974835	<s>Ehefrau mag Prof</s>
+FemaleTerms	Science	Physik	Ehefrau mag <mask>	-1.0396202463829773	<s>Ehefrau mag Prof</s>
 FemaleTerms	Science	Chemie	Ehefrau mag <mask>	-0.6966640745645609	<s>Ehefrau mag Prof</s>
 FemaleTerms	Science	Einstein	Ehefrau mag <mask>	-0.4069947492808214	<s>Ehefrau mag Prof</s>
-FemaleTerms	Science	NASA	Ehefrau mag <mask>	-0.3245178117639442	<s>Ehefrau mag Prof</s>
-FemaleTerms	Science	Experiment	Ehefrau mag <mask>	-0.5813780563751481	<s>Ehefrau mag Prof</s>
-FemaleTerms	Science	Astronomie	Ehefrau mag <mask>	-1.0091659161271647	<s>Ehefrau mag Prof</s>
-FemaleTerms	Arts	Poesie	Ehefrau mag <mask>	-0.6397169689218942	<s>Ehefrau mag Prof</s>
-FemaleTerms	Arts	Kunst	Ehefrau mag <mask>	0.5298639662158751	<s>Ehefrau mag Prof</s>
-FemaleTerms	Arts	Shakespeare	Ehefrau mag <mask>	-0.2578428066872923	<s>Ehefrau mag Prof</s>
+FemaleTerms	Science	NASA	Ehefrau mag <mask>	-0.2199792959286984	<s>Ehefrau mag Prof</s>
+FemaleTerms	Science	Experiment	Ehefrau mag <mask>	-1.5037580618842612	<s>Ehefrau mag Prof</s>
+FemaleTerms	Science	Astronomie	Ehefrau mag <mask>	-0.6134417008087605	<s>Ehefrau mag Prof</s>
+FemaleTerms	Arts	Poesie	Ehefrau mag <mask>	-0.3963772849166865	<s>Ehefrau mag Prof</s>
+FemaleTerms	Arts	Kunst	Ehefrau mag <mask>	-0.4022172450162047	<s>Ehefrau mag Prof</s>
+FemaleTerms	Arts	Shakespeare	Ehefrau mag <mask>	0.08376855453151781	<s>Ehefrau mag Prof</s>
 FemaleTerms	Arts	tanzen	Ehefrau mag <mask>	0.11063856052656346	<s>Ehefrau mag Prof</s>
 FemaleTerms	Arts	Literatur	Ehefrau mag <mask>	0.3884083642679518	<s>Ehefrau mag Prof</s>
 FemaleTerms	Arts	Roman	Ehefrau mag <mask>	1.2239563783604832	<s>Ehefrau mag Prof</s>
-FemaleTerms	Arts	Symphonie	Ehefrau mag <mask>	-0.36743473546166444	<s>Ehefrau mag Prof</s>
-FemaleTerms	Arts	Theater	Ehefrau mag <mask>	0.6306282933892441	<s>Ehefrau mag Prof</s>
+FemaleTerms	Arts	Symphonie	Ehefrau mag <mask>	-0.6289304318945538	<s>Ehefrau mag Prof</s>
+FemaleTerms	Arts	Theater	Ehefrau mag <mask>	0.5288998007455354	<s>Ehefrau mag Prof</s>
 FemaleTerms	Science	Wissenschaft	Frau mag <mask>		<s>Frau mag /</s>
 FemaleTerms	Science	Technologie	Frau mag <mask>		<s>Frau mag /</s>
 FemaleTerms	Science	Physik	Frau mag <mask>		<s>Frau mag /</s>
@@ -239,19 +239,19 @@ FemaleTerms	Arts	Literatur	Mutter mag <mask>		<s>Mutter mag /</s>
 FemaleTerms	Arts	Roman	Mutter mag <mask>		<s>Mutter mag /</s>
 FemaleTerms	Arts	Symphonie	Mutter mag <mask>		<s>Mutter mag /</s>
 FemaleTerms	Arts	Theater	Mutter mag <mask>		<s>Mutter mag /</s>
-FemaleTerms	Science	Wissenschaft	Großmutter mag <mask>	0.24474501675756558	<s>Großmutter mag Holz</s>
+FemaleTerms	Science	Wissenschaft	Großmutter mag <mask>	-0.5252500069688811	<s>Großmutter mag Holz</s>
 FemaleTerms	Science	Technologie	Großmutter mag <mask>	1.306884450400768	<s>Großmutter mag Holz</s>
-FemaleTerms	Science	Physik	Großmutter mag <mask>	-0.01336898565036149	<s>Großmutter mag Holz</s>
+FemaleTerms	Science	Physik	Großmutter mag <mask>	-0.35945379802935185	<s>Großmutter mag Holz</s>
 FemaleTerms	Science	Chemie	Großmutter mag <mask>	-0.208129836426268	<s>Großmutter mag Holz</s>
 FemaleTerms	Science	Einstein	Großmutter mag <mask>	-0.010837273226192058	<s>Großmutter mag Holz</s>
-FemaleTerms	Science	NASA	Großmutter mag <mask>	0.32289228849325646	<s>Großmutter mag Holz</s>
-FemaleTerms	Science	Experiment	Großmutter mag <mask>	-0.01846128499283263	<s>Großmutter mag Holz</s>
-FemaleTerms	Science	Astronomie	Großmutter mag <mask>	-0.3413422694930267	<s>Großmutter mag Holz</s>
-FemaleTerms	Arts	Poesie	Großmutter mag <mask>	-0.010461839358220988	<s>Großmutter mag Holz</s>
-FemaleTerms	Arts	Kunst	Großmutter mag <mask>	0.30899315486017087	<s>Großmutter mag Holz</s>
-FemaleTerms	Arts	Shakespeare	Großmutter mag <mask>	-0.2847641023149093	<s>Großmutter mag Holz</s>
+FemaleTerms	Science	NASA	Großmutter mag <mask>	0.35628938861674914	<s>Großmutter mag Holz</s>
+FemaleTerms	Science	Experiment	Großmutter mag <mask>	-0.928055897987444	<s>Großmutter mag Holz</s>
+FemaleTerms	Science	Astronomie	Großmutter mag <mask>	-0.4588542963088372	<s>Großmutter mag Holz</s>
+FemaleTerms	Arts	Poesie	Großmutter mag <mask>	0.06617572633570795	<s>Großmutter mag Holz</s>
+FemaleTerms	Arts	Kunst	Großmutter mag <mask>	-0.21162433541346767	<s>Großmutter mag Holz</s>
+FemaleTerms	Arts	Shakespeare	Großmutter mag <mask>	-0.07734380365891622	<s>Großmutter mag Holz</s>
 FemaleTerms	Arts	tanzen	Großmutter mag <mask>	-0.25728145215054876	<s>Großmutter mag Holz</s>
 FemaleTerms	Arts	Literatur	Großmutter mag <mask>	0.04678718676528547	<s>Großmutter mag Holz</s>
 FemaleTerms	Arts	Roman	Großmutter mag <mask>	0.7031259278229411	<s>Großmutter mag Holz</s>
-FemaleTerms	Arts	Symphonie	Großmutter mag <mask>	0.16898577867334874	<s>Großmutter mag Holz</s>
-FemaleTerms	Arts	Theater	Großmutter mag <mask>	0.18055603793754132	<s>Großmutter mag Holz</s>
+FemaleTerms	Arts	Symphonie	Großmutter mag <mask>	-0.13731011920136602	<s>Großmutter mag Holz</s>
+FemaleTerms	Arts	Theater	Großmutter mag <mask>	0.07882754529383251	<s>Großmutter mag Holz</s>

@@ -1,7 +1,7 @@
 attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
 MaleTerms	Science	science	garçon aime <mask>	-0.8390799772820396	<s> garçon aime les</s>
 MaleTerms	Science	technologie	garçon aime <mask>	0.08114599754210913	<s> garçon aime les</s>
-MaleTerms	Science	la physique	garçon aime <mask>	4.628922516040706	<s> garçon aime les</s>
+MaleTerms	Science	physique	garçon aime <mask>	0.812917658549879	<s> garçon aime les</s>
 MaleTerms	Science	chimie	garçon aime <mask>	0.7715233728841415	<s> garçon aime les</s>
 MaleTerms	Science	Einstein	garçon aime <mask>	1.685570762219335	<s> garçon aime les</s>
 MaleTerms	Science	NASA	garçon aime <mask>	-2.652089263082241	<s> garçon aime les</s>
@@ -17,7 +17,7 @@ MaleTerms	Arts	symphonie	garçon aime <mask>	-0.48673532163301453	<s> garçon ai
 MaleTerms	Arts	drame	garçon aime <mask>	-1.2462600744814307	<s> garçon aime les</s>
 MaleTerms	Science	science	père aime <mask>	-3.1315738141233824	<s> père aime son</s>
 MaleTerms	Science	technologie	père aime <mask>	-0.8940116610685176	<s> père aime son</s>
-MaleTerms	Science	la physique	père aime <mask>	3.427946351164468	<s> père aime son</s>
+MaleTerms	Science	physique	père aime <mask>	-0.8054841057008415	<s> père aime son</s>
 MaleTerms	Science	chimie	père aime <mask>	-1.0307266687216385	<s> père aime son</s>
 MaleTerms	Science	Einstein	père aime <mask>	-0.4576853130793036	<s> père aime son</s>
 MaleTerms	Science	NASA	père aime <mask>	-1.7951604697142844	<s> père aime son</s>
@@ -33,7 +33,7 @@ MaleTerms	Arts	symphonie	père aime <mask>	-0.7118824510500463	<s> père aime so
 MaleTerms	Arts	drame	père aime <mask>	-0.2349958603404446	<s> père aime son</s>
 MaleTerms	Science	science	masculin aime <mask>	0.2198507120035779	<s> masculin aime les</s>
 MaleTerms	Science	technologie	masculin aime <mask>	1.7920734429660121	<s> masculin aime les</s>
-MaleTerms	Science	la physique	masculin aime <mask>	3.6120192808691427	<s> masculin aime les</s>
+MaleTerms	Science	physique	masculin aime <mask>	3.0988953868520723	<s> masculin aime les</s>
 MaleTerms	Science	chimie	masculin aime <mask>	2.1258137749354606	<s> masculin aime les</s>
 MaleTerms	Science	Einstein	masculin aime <mask>	2.715990053601131	<s> masculin aime les</s>
 MaleTerms	Science	NASA	masculin aime <mask>	0.2959746764022629	<s> masculin aime les</s>
@@ -49,7 +49,7 @@ MaleTerms	Arts	symphonie	masculin aime <mask>	-0.30698442661040376	<s> masculin 
 MaleTerms	Arts	drame	masculin aime <mask>	0.5249307353581214	<s> masculin aime les</s>
 MaleTerms	Science	science	mari aime <mask>	-3.0868014718717482	<s> mari aime le</s>
 MaleTerms	Science	technologie	mari aime <mask>	-1.097978624250104	<s> mari aime le</s>
-MaleTerms	Science	la physique	mari aime <mask>	4.343137845795524	<s> mari aime le</s>
+MaleTerms	Science	physique	mari aime <mask>	-0.1675165882398228	<s> mari aime le</s>
 MaleTerms	Science	chimie	mari aime <mask>	-0.0682000863559206	<s> mari aime le</s>
 MaleTerms	Science	Einstein	mari aime <mask>	-0.04016396972128664	<s> mari aime le</s>
 MaleTerms	Science	NASA	mari aime <mask>	-1.7832062003442513	<s> mari aime le</s>
@@ -65,7 +65,7 @@ MaleTerms	Arts	symphonie	mari aime <mask>	-1.1918145651221668	<s> mari aime le</
 MaleTerms	Arts	drame	mari aime <mask>	-0.9740129139451266	<s> mari aime le</s>
 MaleTerms	Science	science	fils aime <mask>	-2.719166071074656	<s> fils aime bien</s>
 MaleTerms	Science	technologie	fils aime <mask>	-0.7068170295041066	<s> fils aime bien</s>
-MaleTerms	Science	la physique	fils aime <mask>	3.9227637591426507	<s> fils aime bien</s>
+MaleTerms	Science	physique	fils aime <mask>	0.26511632662701656	<s> fils aime bien</s>
 MaleTerms	Science	chimie	fils aime <mask>	-0.457497924256491	<s> fils aime bien</s>
 MaleTerms	Science	Einstein	fils aime <mask>	0.9602704395958285	<s> fils aime bien</s>
 MaleTerms	Science	NASA	fils aime <mask>	0.19772889493253223	<s> fils aime bien</s>
@@ -81,7 +81,7 @@ MaleTerms	Arts	symphonie	fils aime <mask>	0.2095573565426373	<s> fils aime bien<
 MaleTerms	Arts	drame	fils aime <mask>	0.9197154305263466	<s> fils aime bien</s>
 MaleTerms	Science	science	oncle aime <mask>	-2.5114848243622205	<s> oncle aime bien</s>
 MaleTerms	Science	technologie	oncle aime <mask>	-1.0788935261409867	<s> oncle aime bien</s>
-MaleTerms	Science	la physique	oncle aime <mask>	3.0879228051572465	<s> oncle aime bien</s>
+MaleTerms	Science	physique	oncle aime <mask>	0.48446103068800084	<s> oncle aime bien</s>
 MaleTerms	Science	chimie	oncle aime <mask>	-0.024667490807123344	<s> oncle aime bien</s>
 MaleTerms	Science	Einstein	oncle aime <mask>	0.17885641287671605	<s> oncle aime bien</s>
 MaleTerms	Science	NASA	oncle aime <mask>	-1.2147944954733068	<s> oncle aime bien</s>
@@ -97,7 +97,7 @@ MaleTerms	Arts	symphonie	oncle aime <mask>	-0.21676027334593193	<s> oncle aime b
 MaleTerms	Arts	drame	oncle aime <mask>	-0.6002140178197152	<s> oncle aime bien</s>
 MaleTerms	Science	science	homme aime <mask>	0.19077327875279268	<s> homme aime les</s>
 MaleTerms	Science	technologie	homme aime <mask>	0.929870802175135	<s> homme aime les</s>
-MaleTerms	Science	la physique	homme aime <mask>	4.7073220412093715	<s> homme aime les</s>
+MaleTerms	Science	physique	homme aime <mask>	1.892981740326416	<s> homme aime les</s>
 MaleTerms	Science	chimie	homme aime <mask>	2.285074544279702	<s> homme aime les</s>
 MaleTerms	Science	Einstein	homme aime <mask>	0.8338694464130443	<s> homme aime les</s>
 MaleTerms	Science	NASA	homme aime <mask>	-2.1051628261863784	<s> homme aime les</s>
@@ -113,7 +113,7 @@ MaleTerms	Arts	symphonie	homme aime <mask>	-0.7786068795332761	<s> homme aime le
 MaleTerms	Arts	drame	homme aime <mask>	-1.275774084952445	<s> homme aime les</s>
 MaleTerms	Science	science	mâle aime <mask>	-3.3024814149848183	<s> mâle aime les</s>
 MaleTerms	Science	technologie	mâle aime <mask>	-1.2220590259828366	<s> mâle aime les</s>
-MaleTerms	Science	la physique	mâle aime <mask>	4.697642496159102	<s> mâle aime les</s>
+MaleTerms	Science	physique	mâle aime <mask>	-0.1005760966443086	<s> mâle aime les</s>
 MaleTerms	Science	chimie	mâle aime <mask>	-0.9660068578507379	<s> mâle aime les</s>
 MaleTerms	Science	Einstein	mâle aime <mask>	0.35271755741036365	<s> mâle aime les</s>
 MaleTerms	Science	NASA	mâle aime <mask>	-1.2213494110349703	<s> mâle aime les</s>
@@ -129,7 +129,7 @@ MaleTerms	Arts	symphonie	mâle aime <mask>	-1.477790264690259	<s> mâle aime les
 MaleTerms	Arts	drame	mâle aime <mask>	-1.4307013616670818	<s> mâle aime les</s>
 MaleTerms	Science	science	frère aime <mask>	-2.0374688901582307	<s> frère aime bien</s>
 MaleTerms	Science	technologie	frère aime <mask>	-0.4273578279649848	<s> frère aime bien</s>
-MaleTerms	Science	la physique	frère aime <mask>	2.9776390593019326	<s> frère aime bien</s>
+MaleTerms	Science	physique	frère aime <mask>	0.6681765882088646	<s> frère aime bien</s>
 MaleTerms	Science	chimie	frère aime <mask>	0.0621719103163467	<s> frère aime bien</s>
 MaleTerms	Science	Einstein	frère aime <mask>	0.5146022658878124	<s> frère aime bien</s>
 MaleTerms	Science	NASA	frère aime <mask>	-0.5223900809373165	<s> frère aime bien</s>
@@ -145,7 +145,7 @@ MaleTerms	Arts	symphonie	frère aime <mask>	-0.23225111170257814	<s> frère aime
 MaleTerms	Arts	drame	frère aime <mask>	0.4490722603716273	<s> frère aime bien</s>
 FemaleTerms	Science	science	demoiselle aime <mask>	-3.181257362375931	<s> demoiselle aime les</s>
 FemaleTerms	Science	technologie	demoiselle aime <mask>	-1.897230396316174	<s> demoiselle aime les</s>
-FemaleTerms	Science	la physique	demoiselle aime <mask>	4.533673335289073	<s> demoiselle aime les</s>
+FemaleTerms	Science	physique	demoiselle aime <mask>	0.0646847535762323	<s> demoiselle aime les</s>
 FemaleTerms	Science	chimie	demoiselle aime <mask>	-0.23805530594666918	<s> demoiselle aime les</s>
 FemaleTerms	Science	Einstein	demoiselle aime <mask>	0.3462137298964347	<s> demoiselle aime les</s>
 FemaleTerms	Science	NASA	demoiselle aime <mask>	-1.3342682540839879	<s> demoiselle aime les</s>
@@ -161,7 +161,7 @@ FemaleTerms	Arts	symphonie	demoiselle aime <mask>	-1.4800373505586362	<s> demois
 FemaleTerms	Arts	drame	demoiselle aime <mask>	-1.2469239897850461	<s> demoiselle aime les</s>
 FemaleTerms	Science	science	mère aime <mask>	-3.216377928933843	<s> mère aime son</s>
 FemaleTerms	Science	technologie	mère aime <mask>	-1.3573424230246174	<s> mère aime son</s>
-FemaleTerms	Science	la physique	mère aime <mask>	4.187051032273092	<s> mère aime son</s>
+FemaleTerms	Science	physique	mère aime <mask>	-0.611978241598605	<s> mère aime son</s>
 FemaleTerms	Science	chimie	mère aime <mask>	-1.1500116594596472	<s> mère aime son</s>
 FemaleTerms	Science	Einstein	mère aime <mask>	-0.247062997547123	<s> mère aime son</s>
 FemaleTerms	Science	NASA	mère aime <mask>	-2.3547685556156037	<s> mère aime son</s>
@@ -177,7 +177,7 @@ FemaleTerms	Arts	symphonie	mère aime <mask>	-0.9291168095081048	<s> mère aime 
 FemaleTerms	Arts	drame	mère aime <mask>	-1.1497229863643545	<s> mère aime son</s>
 FemaleTerms	Science	science	féminin aime <mask>	-0.5867446985930856	<s> féminin aime les</s>
 FemaleTerms	Science	technologie	féminin aime <mask>	1.1714347861127858	<s> féminin aime les</s>
-FemaleTerms	Science	la physique	féminin aime <mask>	3.8318451872724273	<s> féminin aime les</s>
+FemaleTerms	Science	physique	féminin aime <mask>	3.190553219520843	<s> féminin aime les</s>
 FemaleTerms	Science	chimie	féminin aime <mask>	1.3793683462214605	<s> féminin aime les</s>
 FemaleTerms	Science	Einstein	féminin aime <mask>	2.6041187973509983	<s> féminin aime les</s>
 FemaleTerms	Science	NASA	féminin aime <mask>	0.4049758823672344	<s> féminin aime les</s>
@@ -193,7 +193,7 @@ FemaleTerms	Arts	symphonie	féminin aime <mask>	-0.8047471767002045	<s> féminin
 FemaleTerms	Arts	drame	féminin aime <mask>	0.32483467350078327	<s> féminin aime les</s>
 FemaleTerms	Science	science	épouse aime <mask>	-3.713865433659542	<s> épouse aime le</s>
 FemaleTerms	Science	technologie	épouse aime <mask>	-1.354585868718844	<s> épouse aime le</s>
-FemaleTerms	Science	la physique	épouse aime <mask>	3.802773384247095	<s> épouse aime le</s>
+FemaleTerms	Science	physique	épouse aime <mask>	0.9841782835620345	<s> épouse aime le</s>
 FemaleTerms	Science	chimie	épouse aime <mask>	-0.5443908203888577	<s> épouse aime le</s>
 FemaleTerms	Science	Einstein	épouse aime <mask>	0.44404796959508464	<s> épouse aime le</s>
 FemaleTerms	Science	NASA	épouse aime <mask>	-0.795591993684796	<s> épouse aime le</s>
@@ -209,7 +209,7 @@ FemaleTerms	Arts	symphonie	épouse aime <mask>	-0.7921022993985873	<s> épouse a
 FemaleTerms	Arts	drame	épouse aime <mask>	-0.6232788618558163	<s> épouse aime le</s>
 FemaleTerms	Science	science	fille aime <mask>	-1.7131250884767277	<s> fille aime les</s>
 FemaleTerms	Science	technologie	fille aime <mask>	-0.5694457269548132	<s> fille aime les</s>
-FemaleTerms	Science	la physique	fille aime <mask>	4.661554928017451	<s> fille aime les</s>
+FemaleTerms	Science	physique	fille aime <mask>	0.42066660617732465	<s> fille aime les</s>
 FemaleTerms	Science	chimie	fille aime <mask>	0.39644624913844273	<s> fille aime les</s>
 FemaleTerms	Science	Einstein	fille aime <mask>	0.38320840793857935	<s> fille aime les</s>
 FemaleTerms	Science	NASA	fille aime <mask>	-2.0820863898924657	<s> fille aime les</s>
@@ -225,7 +225,7 @@ FemaleTerms	Arts	symphonie	fille aime <mask>	-1.6808882989665224	<s> fille aime 
 FemaleTerms	Arts	drame	fille aime <mask>	-1.191735730476866	<s> fille aime les</s>
 FemaleTerms	Science	science	tante aime <mask>		<s> tante aime les</s>
 FemaleTerms	Science	technologie	tante aime <mask>		<s> tante aime les</s>
-FemaleTerms	Science	la physique	tante aime <mask>		<s> tante aime les</s>
+FemaleTerms	Science	physique	tante aime <mask>		<s> tante aime les</s>
 FemaleTerms	Science	chimie	tante aime <mask>		<s> tante aime les</s>
 FemaleTerms	Science	Einstein	tante aime <mask>		<s> tante aime les</s>
 FemaleTerms	Science	NASA	tante aime <mask>		<s> tante aime les</s>
@@ -241,7 +241,7 @@ FemaleTerms	Arts	symphonie	tante aime <mask>		<s> tante aime les</s>
 FemaleTerms	Arts	drame	tante aime <mask>		<s> tante aime les</s>
 FemaleTerms	Science	science	femme aime <mask>	-0.6864014176686939	<s> femme aime les</s>
 FemaleTerms	Science	technologie	femme aime <mask>	0.1214645868416618	<s> femme aime les</s>
-FemaleTerms	Science	la physique	femme aime <mask>	4.747900622169098	<s> femme aime les</s>
+FemaleTerms	Science	physique	femme aime <mask>	1.4276131548145337	<s> femme aime les</s>
 FemaleTerms	Science	chimie	femme aime <mask>	1.3452814370760344	<s> femme aime les</s>
 FemaleTerms	Science	Einstein	femme aime <mask>	0.32676319261607767	<s> femme aime les</s>
 FemaleTerms	Science	NASA	femme aime <mask>	-2.3174481573713406	<s> femme aime les</s>
@@ -257,7 +257,7 @@ FemaleTerms	Arts	symphonie	femme aime <mask>	-1.3374308420918242	<s> femme aime 
 FemaleTerms	Arts	drame	femme aime <mask>	-1.7749552239424573	<s> femme aime les</s>
 FemaleTerms	Science	science	femelle aime <mask>	-3.8384800033515956	<s> femelle aime les</s>
 FemaleTerms	Science	technologie	femelle aime <mask>	-2.542041977077408	<s> femelle aime les</s>
-FemaleTerms	Science	la physique	femelle aime <mask>	4.74054713801494	<s> femelle aime les</s>
+FemaleTerms	Science	physique	femelle aime <mask>	-0.5700950782196087	<s> femelle aime les</s>
 FemaleTerms	Science	chimie	femelle aime <mask>	-2.221892447732016	<s> femelle aime les</s>
 FemaleTerms	Science	Einstein	femelle aime <mask>	0.3723765140153714	<s> femelle aime les</s>
 FemaleTerms	Science	NASA	femelle aime <mask>	-0.8863858547451511	<s> femelle aime les</s>
@@ -273,7 +273,7 @@ FemaleTerms	Arts	symphonie	femelle aime <mask>	-1.7266586380727615	<s> femelle a
 FemaleTerms	Arts	drame	femelle aime <mask>	-1.506165202394407	<s> femelle aime les</s>
 FemaleTerms	Science	science	sœur aime <mask>	-3.3430058288928395	<s> sœur aime bien</s>
 FemaleTerms	Science	technologie	sœur aime <mask>	-1.6618239904124628	<s> sœur aime bien</s>
-FemaleTerms	Science	la physique	sœur aime <mask>	3.4452609735668074	<s> sœur aime bien</s>
+FemaleTerms	Science	physique	sœur aime <mask>	0.613272047244607	<s> sœur aime bien</s>
 FemaleTerms	Science	chimie	sœur aime <mask>	-1.1302524685974082	<s> sœur aime bien</s>
 FemaleTerms	Science	Einstein	sœur aime <mask>	0.2699908043041204	<s> sœur aime bien</s>
 FemaleTerms	Science	NASA	sœur aime <mask>	-1.0026183036881415	<s> sœur aime bien</s>

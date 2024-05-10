@@ -1,7 +1,7 @@
 attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
 MaleNames	Science	science	Nicolas aime <mask>	-2.70802639234251	<s> Nicolas aime les</s>
 MaleNames	Science	technologie	Nicolas aime <mask>	-1.7110381766608143	<s> Nicolas aime les</s>
-MaleNames	Science	la physique	Nicolas aime <mask>	4.28843733935961	<s> Nicolas aime les</s>
+MaleNames	Science	physique	Nicolas aime <mask>	-0.47143888657953775	<s> Nicolas aime les</s>
 MaleNames	Science	chimie	Nicolas aime <mask>	-0.17322685603472612	<s> Nicolas aime les</s>
 MaleNames	Science	Einstein	Nicolas aime <mask>	0.9607951570947036	<s> Nicolas aime les</s>
 MaleNames	Science	NASA	Nicolas aime <mask>	-1.8202659592696198	<s> Nicolas aime les</s>
@@ -17,7 +17,7 @@ MaleNames	Arts	symphonie	Nicolas aime <mask>	0.5595191540239222	<s> Nicolas aime
 MaleNames	Arts	drame	Nicolas aime <mask>	-0.4082079339585791	<s> Nicolas aime les</s>
 MaleNames	Science	science	Alexandre aime <mask>	-2.8765432014695986	<s> Alexandre aime les</s>
 MaleNames	Science	technologie	Alexandre aime <mask>	-1.487764721123485	<s> Alexandre aime les</s>
-MaleNames	Science	la physique	Alexandre aime <mask>	4.199129235112885	<s> Alexandre aime les</s>
+MaleNames	Science	physique	Alexandre aime <mask>	-0.3939621615795548	<s> Alexandre aime les</s>
 MaleNames	Science	chimie	Alexandre aime <mask>	0.1596859204488602	<s> Alexandre aime les</s>
 MaleNames	Science	Einstein	Alexandre aime <mask>	1.2208043818678664	<s> Alexandre aime les</s>
 MaleNames	Science	NASA	Alexandre aime <mask>	-1.2045962839042044	<s> Alexandre aime les</s>
@@ -33,7 +33,7 @@ MaleNames	Arts	symphonie	Alexandre aime <mask>	0.9188627548952059	<s> Alexandre 
 MaleNames	Arts	drame	Alexandre aime <mask>	-0.09537465611714901	<s> Alexandre aime les</s>
 MaleNames	Science	science	Guillaume aime <mask>	-3.0992480613182485	<s> Guillaume aime les</s>
 MaleNames	Science	technologie	Guillaume aime <mask>	-1.7427113606084648	<s> Guillaume aime les</s>
-MaleNames	Science	la physique	Guillaume aime <mask>	4.583960220368491	<s> Guillaume aime les</s>
+MaleNames	Science	physique	Guillaume aime <mask>	-0.730839990246991	<s> Guillaume aime les</s>
 MaleNames	Science	chimie	Guillaume aime <mask>	-0.15664500720288868	<s> Guillaume aime les</s>
 MaleNames	Science	Einstein	Guillaume aime <mask>	0.891538777287709	<s> Guillaume aime les</s>
 MaleNames	Science	NASA	Guillaume aime <mask>	-1.9393871845976405	<s> Guillaume aime les</s>
@@ -49,7 +49,7 @@ MaleNames	Arts	symphonie	Guillaume aime <mask>	0.057294447746335485	<s> Guillaum
 MaleNames	Arts	drame	Guillaume aime <mask>	-0.5207470335441335	<s> Guillaume aime les</s>
 MaleNames	Science	science	Mathieu aime <mask>	-2.7722638006617233	<s> Mathieu aime les</s>
 MaleNames	Science	technologie	Mathieu aime <mask>	-1.4619506628345424	<s> Mathieu aime les</s>
-MaleNames	Science	la physique	Mathieu aime <mask>	4.498231571193278	<s> Mathieu aime les</s>
+MaleNames	Science	physique	Mathieu aime <mask>	-0.4150440193153852	<s> Mathieu aime les</s>
 MaleNames	Science	chimie	Mathieu aime <mask>	-0.007047928492730622	<s> Mathieu aime les</s>
 MaleNames	Science	Einstein	Mathieu aime <mask>	1.191612785108184	<s> Mathieu aime les</s>
 MaleNames	Science	NASA	Mathieu aime <mask>	-1.809917909358722	<s> Mathieu aime les</s>
@@ -65,7 +65,7 @@ MaleNames	Arts	symphonie	Mathieu aime <mask>	0.29988191501443706	<s> Mathieu aim
 MaleNames	Arts	drame	Mathieu aime <mask>	-1.0686677273259297	<s> Mathieu aime les</s>
 MaleNames	Science	science	Thomas aime <mask>	-2.143346059105032	<s> Thomas aime bien</s>
 MaleNames	Science	technologie	Thomas aime <mask>	-1.0270323199305682	<s> Thomas aime bien</s>
-MaleNames	Science	la physique	Thomas aime <mask>	4.19030186718751	<s> Thomas aime bien</s>
+MaleNames	Science	physique	Thomas aime <mask>	-0.801298476094998	<s> Thomas aime bien</s>
 MaleNames	Science	chimie	Thomas aime <mask>	-0.088734913052415	<s> Thomas aime bien</s>
 MaleNames	Science	Einstein	Thomas aime <mask>	0.8810195873069707	<s> Thomas aime bien</s>
 MaleNames	Science	NASA	Thomas aime <mask>	-1.25506843037775	<s> Thomas aime bien</s>
@@ -81,7 +81,7 @@ MaleNames	Arts	symphonie	Thomas aime <mask>	0.7544776848074659	<s> Thomas aime b
 MaleNames	Arts	drame	Thomas aime <mask>	-0.4938592525229079	<s> Thomas aime bien</s>
 MaleNames	Science	science	Pierre aime <mask>	-2.97004159894213	<s> Pierre aime les</s>
 MaleNames	Science	technologie	Pierre aime <mask>	-1.8433289139217206	<s> Pierre aime les</s>
-MaleNames	Science	la physique	Pierre aime <mask>	4.734916052175037	<s> Pierre aime les</s>
+MaleNames	Science	physique	Pierre aime <mask>	-0.5238890040445012	<s> Pierre aime les</s>
 MaleNames	Science	chimie	Pierre aime <mask>	0.3486352661009548	<s> Pierre aime les</s>
 MaleNames	Science	Einstein	Pierre aime <mask>	1.0766783661328567	<s> Pierre aime les</s>
 MaleNames	Science	NASA	Pierre aime <mask>	-1.944927292000954	<s> Pierre aime les</s>
@@ -97,7 +97,7 @@ MaleNames	Arts	symphonie	Pierre aime <mask>	0.3822105691558742	<s> Pierre aime l
 MaleNames	Arts	drame	Pierre aime <mask>	-0.6055580649597612	<s> Pierre aime les</s>
 MaleNames	Science	science	Emmanuelle aime <mask>	-3.8927499701917867	<s> Emmanuelle aime les</s>
 MaleNames	Science	technologie	Emmanuelle aime <mask>	-2.7407677929043848	<s> Emmanuelle aime les</s>
-MaleNames	Science	la physique	Emmanuelle aime <mask>	4.455490609946849	<s> Emmanuelle aime les</s>
+MaleNames	Science	physique	Emmanuelle aime <mask>	-0.8613120974564504	<s> Emmanuelle aime les</s>
 MaleNames	Science	chimie	Emmanuelle aime <mask>	-0.9659549636157561	<s> Emmanuelle aime les</s>
 MaleNames	Science	Einstein	Emmanuelle aime <mask>	-0.026594820579130405	<s> Emmanuelle aime les</s>
 MaleNames	Science	NASA	Emmanuelle aime <mask>	-2.9684753698123334	<s> Emmanuelle aime les</s>
@@ -113,7 +113,7 @@ MaleNames	Arts	symphonie	Emmanuelle aime <mask>	-0.7311330784294043	<s> Emmanuel
 MaleNames	Arts	drame	Emmanuelle aime <mask>	-2.0326992371195214	<s> Emmanuelle aime les</s>
 MaleNames	Science	science	Jean aime <mask>	-3.4491953544872493	<s> Jean aime les</s>
 MaleNames	Science	technologie	Jean aime <mask>	-2.8426910536619068	<s> Jean aime les</s>
-MaleNames	Science	la physique	Jean aime <mask>	4.80226487561897	<s> Jean aime les</s>
+MaleNames	Science	physique	Jean aime <mask>	-1.0009151871254012	<s> Jean aime les</s>
 MaleNames	Science	chimie	Jean aime <mask>	-0.6547971791660709	<s> Jean aime les</s>
 MaleNames	Science	Einstein	Jean aime <mask>	0.7638861096883628	<s> Jean aime les</s>
 MaleNames	Science	NASA	Jean aime <mask>	-1.4007958838580916	<s> Jean aime les</s>
@@ -129,7 +129,7 @@ MaleNames	Arts	symphonie	Jean aime <mask>	-0.14062042795971227	<s> Jean aime les
 MaleNames	Arts	drame	Jean aime <mask>	-1.029497434336547	<s> Jean aime les</s>
 MaleNames	Science	science	François aime <mask>	-3.608049589458162	<s> François aime bien</s>
 MaleNames	Science	technologie	François aime <mask>	-2.3088410808151973	<s> François aime bien</s>
-MaleNames	Science	la physique	François aime <mask>	3.9550465057231263	<s> François aime bien</s>
+MaleNames	Science	physique	François aime <mask>	-0.9143641313861053	<s> François aime bien</s>
 MaleNames	Science	chimie	François aime <mask>	-1.364351583533184	<s> François aime bien</s>
 MaleNames	Science	Einstein	François aime <mask>	0.4943457186801683	<s> François aime bien</s>
 MaleNames	Science	NASA	François aime <mask>	-1.1226773440862192	<s> François aime bien</s>
@@ -145,7 +145,7 @@ MaleNames	Arts	symphonie	François aime <mask>	0.3875304754426582	<s> François 
 MaleNames	Arts	drame	François aime <mask>	-0.7449089861561953	<s> François aime bien</s>
 FemaleNames	Science	science	Céline aime <mask>	-2.762777793995934	<s> Céline aime les</s>
 FemaleNames	Science	technologie	Céline aime <mask>	-1.8612524241553459	<s> Céline aime les</s>
-FemaleNames	Science	la physique	Céline aime <mask>	4.2818198166573715	<s> Céline aime les</s>
+FemaleNames	Science	physique	Céline aime <mask>	-0.626874580690958	<s> Céline aime les</s>
 FemaleNames	Science	chimie	Céline aime <mask>	0.3334840130774714	<s> Céline aime les</s>
 FemaleNames	Science	Einstein	Céline aime <mask>	0.9502984862320213	<s> Céline aime les</s>
 FemaleNames	Science	NASA	Céline aime <mask>	-2.81541172118562	<s> Céline aime les</s>
@@ -161,7 +161,7 @@ FemaleNames	Arts	symphonie	Céline aime <mask>	-0.2309984056140982	<s> Céline a
 FemaleNames	Arts	drame	Céline aime <mask>	-1.166818011566499	<s> Céline aime les</s>
 FemaleNames	Science	science	Marie aime <mask>	-3.745022936855921	<s> Marie aime le</s>
 FemaleNames	Science	technologie	Marie aime <mask>	-2.96009000555422	<s> Marie aime le</s>
-FemaleNames	Science	la physique	Marie aime <mask>	4.075771697564028	<s> Marie aime le</s>
+FemaleNames	Science	physique	Marie aime <mask>	-0.655576963504582	<s> Marie aime le</s>
 FemaleNames	Science	chimie	Marie aime <mask>	-0.6012136865590113	<s> Marie aime le</s>
 FemaleNames	Science	Einstein	Marie aime <mask>	0.9287287220650069	<s> Marie aime le</s>
 FemaleNames	Science	NASA	Marie aime <mask>	-1.3246557851965777	<s> Marie aime le</s>
@@ -177,7 +177,7 @@ FemaleNames	Arts	symphonie	Marie aime <mask>	-0.1869386654810279	<s> Marie aime 
 FemaleNames	Arts	drame	Marie aime <mask>	-1.1510872046686975	<s> Marie aime le</s>
 FemaleNames	Science	science	Sandrine aime <mask>	-3.174586562275766	<s> Sandrine aime les</s>
 FemaleNames	Science	technologie	Sandrine aime <mask>	-1.7650303316415434	<s> Sandrine aime les</s>
-FemaleNames	Science	la physique	Sandrine aime <mask>	4.113375145178185	<s> Sandrine aime les</s>
+FemaleNames	Science	physique	Sandrine aime <mask>	-1.2666075440915359	<s> Sandrine aime les</s>
 FemaleNames	Science	chimie	Sandrine aime <mask>	-0.4296811243825336	<s> Sandrine aime les</s>
 FemaleNames	Science	Einstein	Sandrine aime <mask>	0.6558007413446947	<s> Sandrine aime les</s>
 FemaleNames	Science	NASA	Sandrine aime <mask>	-2.3563054355180766	<s> Sandrine aime les</s>
@@ -193,7 +193,7 @@ FemaleNames	Arts	symphonie	Sandrine aime <mask>	-0.0415934437455154	<s> Sandrine
 FemaleNames	Arts	drame	Sandrine aime <mask>	-1.590997283555299	<s> Sandrine aime les</s>
 FemaleNames	Science	science	Sophie aime <mask>	-2.86606793927297	<s> Sophie aime les</s>
 FemaleNames	Science	technologie	Sophie aime <mask>	-2.097129119667783	<s> Sophie aime les</s>
-FemaleNames	Science	la physique	Sophie aime <mask>	4.307893688202766	<s> Sophie aime les</s>
+FemaleNames	Science	physique	Sophie aime <mask>	-0.6691532321868113	<s> Sophie aime les</s>
 FemaleNames	Science	chimie	Sophie aime <mask>	0.00751200358546691	<s> Sophie aime les</s>
 FemaleNames	Science	Einstein	Sophie aime <mask>	1.294395125266805	<s> Sophie aime les</s>
 FemaleNames	Science	NASA	Sophie aime <mask>	-2.155756530966913	<s> Sophie aime les</s>
@@ -209,7 +209,7 @@ FemaleNames	Arts	symphonie	Sophie aime <mask>	-0.024610020236191497	<s> Sophie a
 FemaleNames	Arts	drame	Sophie aime <mask>	-0.7352708529541929	<s> Sophie aime les</s>
 FemaleNames	Science	science	Caroline aime <mask>	-2.98655899782144	<s> Caroline aime les</s>
 FemaleNames	Science	technologie	Caroline aime <mask>	-1.7287179955944645	<s> Caroline aime les</s>
-FemaleNames	Science	la physique	Caroline aime <mask>	4.306794227934462	<s> Caroline aime les</s>
+FemaleNames	Science	physique	Caroline aime <mask>	-0.3671856654745402	<s> Caroline aime les</s>
 FemaleNames	Science	chimie	Caroline aime <mask>	0.4193639461068565	<s> Caroline aime les</s>
 FemaleNames	Science	Einstein	Caroline aime <mask>	1.6850732360668812	<s> Caroline aime les</s>
 FemaleNames	Science	NASA	Caroline aime <mask>	-1.9450412032581115	<s> Caroline aime les</s>
@@ -225,7 +225,7 @@ FemaleNames	Arts	symphonie	Caroline aime <mask>	0.5096186255080127	<s> Caroline 
 FemaleNames	Arts	drame	Caroline aime <mask>	-0.30700912476410136	<s> Caroline aime les</s>
 FemaleNames	Science	science	Julie aime <mask>	-2.5102975249158153	<s> Julie aime les</s>
 FemaleNames	Science	technologie	Julie aime <mask>	-1.6703671053696731	<s> Julie aime les</s>
-FemaleNames	Science	la physique	Julie aime <mask>	4.211864168119236	<s> Julie aime les</s>
+FemaleNames	Science	physique	Julie aime <mask>	-0.42645730390631514	<s> Julie aime les</s>
 FemaleNames	Science	chimie	Julie aime <mask>	0.5828010752969557	<s> Julie aime les</s>
 FemaleNames	Science	Einstein	Julie aime <mask>	1.3401024935010992	<s> Julie aime les</s>
 FemaleNames	Science	NASA	Julie aime <mask>	-2.3062397835297443	<s> Julie aime les</s>
@@ -241,7 +241,7 @@ FemaleNames	Arts	symphonie	Julie aime <mask>	0.10857338448730242	<s> Julie aime 
 FemaleNames	Arts	drame	Julie aime <mask>	-0.8754194020873889	<s> Julie aime les</s>
 FemaleNames	Science	science	Hélène aime <mask>	-4.048578371212864	<s> Hélène aime le</s>
 FemaleNames	Science	technologie	Hélène aime <mask>	-2.818290923674474	<s> Hélène aime le</s>
-FemaleNames	Science	la physique	Hélène aime <mask>	4.237940378727936	<s> Hélène aime le</s>
+FemaleNames	Science	physique	Hélène aime <mask>	-0.8847867437414676	<s> Hélène aime le</s>
 FemaleNames	Science	chimie	Hélène aime <mask>	-0.5707131710536288	<s> Hélène aime le</s>
 FemaleNames	Science	Einstein	Hélène aime <mask>	-0.349670731577665	<s> Hélène aime le</s>
 FemaleNames	Science	NASA	Hélène aime <mask>	-3.155208742873863	<s> Hélène aime le</s>
@@ -257,7 +257,7 @@ FemaleNames	Arts	symphonie	Hélène aime <mask>	-1.0069708559440942	<s> Hélène
 FemaleNames	Arts	drame	Hélène aime <mask>	-2.093560374828037	<s> Hélène aime le</s>
 FemaleNames	Science	science	Camille aime <mask>	-3.3397968322550207	<s> Camille aime le</s>
 FemaleNames	Science	technologie	Camille aime <mask>	-1.861370157893318	<s> Camille aime le</s>
-FemaleNames	Science	la physique	Camille aime <mask>	4.355931213063551	<s> Camille aime le</s>
+FemaleNames	Science	physique	Camille aime <mask>	-0.2919739682944755	<s> Camille aime le</s>
 FemaleNames	Science	chimie	Camille aime <mask>	0.05474197942395346	<s> Camille aime le</s>
 FemaleNames	Science	Einstein	Camille aime <mask>	0.9687972477451955	<s> Camille aime le</s>
 FemaleNames	Science	NASA	Camille aime <mask>	-1.9477026720140762	<s> Camille aime le</s>
@@ -273,7 +273,7 @@ FemaleNames	Arts	symphonie	Camille aime <mask>	0.03617804593350904	<s> Camille a
 FemaleNames	Arts	drame	Camille aime <mask>	-0.9670866456837811	<s> Camille aime le</s>
 FemaleNames	Science	science	Émilie aime <mask>	-2.9953717330134326	<s> Émilie aime les</s>
 FemaleNames	Science	technologie	Émilie aime <mask>	-1.678060572506886	<s> Émilie aime les</s>
-FemaleNames	Science	la physique	Émilie aime <mask>	4.163936434269156	<s> Émilie aime les</s>
+FemaleNames	Science	physique	Émilie aime <mask>	-0.6926507739171225	<s> Émilie aime les</s>
 FemaleNames	Science	chimie	Émilie aime <mask>	-0.28196710607640646	<s> Émilie aime les</s>
 FemaleNames	Science	Einstein	Émilie aime <mask>	0.8320798821724812	<s> Émilie aime les</s>
 FemaleNames	Science	NASA	Émilie aime <mask>	-3.055623093892251	<s> Émilie aime les</s>

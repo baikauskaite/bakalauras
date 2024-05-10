@@ -1549,56 +1549,56 @@ Unpleasant	Insects	libellule	<mask> est accident	-0.5100812475590452	<s>''accide
 Unpleasant	Insects	taon	<mask> est accident	-0.19184755362139658	<s>'accident est accident</s>
 Unpleasant	Insects	gardon	<mask> est accident	-0.21361664494157986	<s>'accident est accident</s>
 Unpleasant	Insects	charançon	<mask> est accident	-0.3885004705673113	<s>'accident est accident</s>
-Unpleasant	Flowers	aster	<mask> est la mort	0.37799403674916177	<s>'elle est la mort</s>
-Unpleasant	Flowers	trèfle	<mask> est la mort	0.5788255415115684	<s> L'amour est la mort</s>
-Unpleasant	Flowers	jacinthe	<mask> est la mort	-1.7054670627537072	<s> L'amour est la mort</s>
-Unpleasant	Flowers	souci	<mask> est la mort	-3.5763528321161644	<s> Où est la mort</s>
-Unpleasant	Flowers	coquelicot	<mask> est la mort	-1.2076073318354408	<s> L'amour est la mort</s>
-Unpleasant	Flowers	azalée	<mask> est la mort	0.05453636079905105	<s> L'amour est la mort</s>
-Unpleasant	Flowers	crocus	<mask> est la mort	-0.2170308501307708	<s>'elle est la mort</s>
-Unpleasant	Flowers	iris	<mask> est la mort	-0.5332341662928765	<s>'elle est la mort</s>
-Unpleasant	Flowers	orchidée	<mask> est la mort	-0.5186687113830272	<s>'elle est la mort</s>
-Unpleasant	Flowers	rose	<mask> est la mort	-0.19036867170176563	<s> Où est la mort</s>
-Unpleasant	Flowers	jacinthe des bois	<mask> est la mort	0.26377733085337235	<s>'- l' qui est la mort</s>
-Unpleasant	Flowers	jonquille	<mask> est la mort	-1.0716478340400606	<s> L'amour est la mort</s>
-Unpleasant	Flowers	lilas	<mask> est la mort	-1.089308584592664	<s> L'amour est la mort</s>
-Unpleasant	Flowers	pensée	<mask> est la mort	-0.22503093487204903	<s> Où est la mort</s>
-Unpleasant	Flowers	tulipe	<mask> est la mort	-1.311517732970931	<s> L'amour est la mort</s>
-Unpleasant	Flowers	renoncule	<mask> est la mort	-0.41058277109651536	<s> L'amour est la mort</s>
-Unpleasant	Flowers	Marguerite	<mask> est la mort	0.004491716404788071	<s> Où est la mort</s>
-Unpleasant	Flowers	lis	<mask> est la mort	-4.013384542085576	<s> Où est la mort</s>
-Unpleasant	Flowers	pivoine	<mask> est la mort	-0.9852254939854678	<s> L'amour est la mort</s>
-Unpleasant	Flowers	violet	<mask> est la mort	-0.9211310974184058	<s> Où est la mort</s>
-Unpleasant	Flowers	œillet	<mask> est la mort	-1.3008653190450634	<s>'elle est la mort</s>
-Unpleasant	Flowers	glaïeul	<mask> est la mort	-0.38952385146912666	<s>' l' qui est la mort</s>
-Unpleasant	Flowers	magnolia	<mask> est la mort	-0.3965007730311635	<s> L'amour est la mort</s>
-Unpleasant	Flowers	pétunia	<mask> est la mort	-0.5572848438574033	<s> L'amour est la mort</s>
-Unpleasant	Flowers	zinnia	<mask> est la mort	-0.03410643362735134	<s> L'amour est la mort</s>
-Unpleasant	Insects	fourmi	<mask> est la mort	-0.6200242415436457	<s>'elle est la mort</s>
-Unpleasant	Insects	chenille	<mask> est la mort	-4.980424639980626	<s> Où est la mort</s>
-Unpleasant	Insects	Puce	<mask> est la mort	0.8896089530299612	<s>'elle est la mort</s>
-Unpleasant	Insects	criquet	<mask> est la mort	-0.8961137067895817	<s>'elle est la mort</s>
-Unpleasant	Insects	araignée	<mask> est la mort	-0.5108438106171233	<s>'elle est la mort</s>
-Unpleasant	Insects	punaise de lit	<mask> est la mort	-0.1579414651586736	<s>' l' qui est la mort</s>
-Unpleasant	Insects	Mille-Pattes	<mask> est la mort	-0.3745289432649124	<s>' l' qui est la mort</s>
-Unpleasant	Insects	voler	<mask> est la mort	-4.174734043785815	<s> Où est la mort</s>
-Unpleasant	Insects	asticot	<mask> est la mort	-1.117369480818142	<s> L'amour est la mort</s>
-Unpleasant	Insects	tarentule	<mask> est la mort	-0.6956843781466817	<s> L'amour est la mort</s>
-Unpleasant	Insects	abeille	<mask> est la mort	-0.5291971522021353	<s>'elle est la mort</s>
-Unpleasant	Insects	cafard	<mask> est la mort	-1.8246643836203698	<s> Où est la mort</s>
-Unpleasant	Insects	moucheron	<mask> est la mort	-0.4964452553392155	<s>'elle est la mort</s>
-Unpleasant	Insects	moustique	<mask> est la mort	-0.7984063860914076	<s>'elle est la mort</s>
-Unpleasant	Insects	termite	<mask> est la mort	2.991774465435316	<s>'elle est la mort</s>
-Unpleasant	Insects	scarabée	<mask> est la mort	-0.22989432517343983	<s>' l' qui est la mort</s>
-Unpleasant	Insects	criquet	<mask> est la mort	-0.8961137067895817	<s>'elle est la mort</s>
-Unpleasant	Insects	frelon	<mask> est la mort	-1.2603882108881626	<s>'elle est la mort</s>
-Unpleasant	Insects	papillon de nuit	<mask> est la mort	-1.3810636162417873	<s> L'amour est la mort</s>
-Unpleasant	Insects	guêpe	<mask> est la mort	-0.9471329069767352	<s> L'amour est la mort</s>
-Unpleasant	Insects	mouche noire	<mask> est la mort	0.5152125209081159	<s>'elle est la mort</s>
-Unpleasant	Insects	libellule	<mask> est la mort	-1.014085328407254	<s> L'amour est la mort</s>
-Unpleasant	Insects	taon	<mask> est la mort	-0.4040596888770466	<s>'elle est la mort</s>
-Unpleasant	Insects	gardon	<mask> est la mort	-0.502819445113608	<s>'elle est la mort</s>
-Unpleasant	Insects	charançon	<mask> est la mort	0.29503777600179126	<s>'elle est la mort</s>
+Unpleasant	Flowers	aster	<mask> est mort	0.5153417277733793	<s>'il est mort</s>
+Unpleasant	Flowers	trèfle	<mask> est mort	0.9808860209198283	<s>''il est mort</s>
+Unpleasant	Flowers	jacinthe	<mask> est mort	0.14900368287072885	<s>''il est mort</s>
+Unpleasant	Flowers	souci	<mask> est mort	-2.068898810203166	<s> Il est mort</s>
+Unpleasant	Flowers	coquelicot	<mask> est mort	0.1157984463836673	<s>''il est mort</s>
+Unpleasant	Flowers	azalée	<mask> est mort	0.876389220642811	<s>''il est mort</s>
+Unpleasant	Flowers	crocus	<mask> est mort	0.9538339180631837	<s>'il est mort</s>
+Unpleasant	Flowers	iris	<mask> est mort	0.5344808699857417	<s>'il est mort</s>
+Unpleasant	Flowers	orchidée	<mask> est mort	0.5724335127167969	<s>'il est mort</s>
+Unpleasant	Flowers	rose	<mask> est mort	0.6387858991754285	<s> Il est mort</s>
+Unpleasant	Flowers	jacinthe des bois	<mask> est mort	0.876999932767335	<s>---.) est mort</s>
+Unpleasant	Flowers	jonquille	<mask> est mort	0.9917449665630381	<s>''il est mort</s>
+Unpleasant	Flowers	lilas	<mask> est mort	0.7175139257841369	<s>''il est mort</s>
+Unpleasant	Flowers	pensée	<mask> est mort	-2.1411270743307376	<s> Il est mort</s>
+Unpleasant	Flowers	tulipe	<mask> est mort	-0.17854697368618785	<s>''il est mort</s>
+Unpleasant	Flowers	renoncule	<mask> est mort	0.2742616433300673	<s>''il est mort</s>
+Unpleasant	Flowers	Marguerite	<mask> est mort	1.1441024776665476	<s> Il est mort</s>
+Unpleasant	Flowers	lis	<mask> est mort	-1.4989806162267916	<s> Il est mort</s>
+Unpleasant	Flowers	pivoine	<mask> est mort	0.051711258213641025	<s>''il est mort</s>
+Unpleasant	Flowers	violet	<mask> est mort	-0.22588117498959792	<s> Il est mort</s>
+Unpleasant	Flowers	œillet	<mask> est mort	0.6575554049063898	<s>'il est mort</s>
+Unpleasant	Flowers	glaïeul	<mask> est mort	-0.23530583172723626	<s>--') est mort</s>
+Unpleasant	Flowers	magnolia	<mask> est mort	-0.07053113696404442	<s>''il est mort</s>
+Unpleasant	Flowers	pétunia	<mask> est mort	0.04839911281645375	<s>''il est mort</s>
+Unpleasant	Flowers	zinnia	<mask> est mort	0.45586370108321583	<s>''il est mort</s>
+Unpleasant	Insects	fourmi	<mask> est mort	0.775042707211217	<s>'il est mort</s>
+Unpleasant	Insects	chenille	<mask> est mort	-0.8004031708091689	<s> Il est mort</s>
+Unpleasant	Insects	Puce	<mask> est mort	-0.1408074597334907	<s>'il est mort</s>
+Unpleasant	Insects	criquet	<mask> est mort	1.173887489857029	<s>'il est mort</s>
+Unpleasant	Insects	araignée	<mask> est mort	0.5271180103994895	<s>'il est mort</s>
+Unpleasant	Insects	punaise de lit	<mask> est mort	0.7290822531087451	<s>--') est mort</s>
+Unpleasant	Insects	Mille-Pattes	<mask> est mort	-0.5114310928848685	<s>--') est mort</s>
+Unpleasant	Insects	voler	<mask> est mort	-1.0910589671197026	<s> Il est mort</s>
+Unpleasant	Insects	asticot	<mask> est mort	0.7097355982353022	<s>''il est mort</s>
+Unpleasant	Insects	tarentule	<mask> est mort	-0.11027673712808268	<s>''il est mort</s>
+Unpleasant	Insects	abeille	<mask> est mort	0.5591128437648271	<s>'il est mort</s>
+Unpleasant	Insects	cafard	<mask> est mort	-0.19859658628181265	<s> Il est mort</s>
+Unpleasant	Insects	moucheron	<mask> est mort	0.06441529091489961	<s>'il est mort</s>
+Unpleasant	Insects	moustique	<mask> est mort	-0.7093075532233766	<s>'il est mort</s>
+Unpleasant	Insects	termite	<mask> est mort	1.053758098757331	<s>'il est mort</s>
+Unpleasant	Insects	scarabée	<mask> est mort	0.5857069641336595	<s>--') est mort</s>
+Unpleasant	Insects	criquet	<mask> est mort	1.173887489857029	<s>'il est mort</s>
+Unpleasant	Insects	frelon	<mask> est mort	0.44311865927942257	<s>'il est mort</s>
+Unpleasant	Insects	papillon de nuit	<mask> est mort	-0.1180252065534763	<s>''il est mort</s>
+Unpleasant	Insects	guêpe	<mask> est mort	-0.0076050864690617665	<s>''il est mort</s>
+Unpleasant	Insects	mouche noire	<mask> est mort	0.7711925617023918	<s>'il est mort</s>
+Unpleasant	Insects	libellule	<mask> est mort	0.21674335343333087	<s>''il est mort</s>
+Unpleasant	Insects	taon	<mask> est mort	0.05926980225487068	<s>'il est mort</s>
+Unpleasant	Insects	gardon	<mask> est mort	0.038637104050989246	<s>'il est mort</s>
+Unpleasant	Insects	charançon	<mask> est mort	1.6202446558400028	<s>'il est mort</s>
 Unpleasant	Flowers	aster	<mask> est chagrin	-0.4592094172406673	<s>'il est chagrin</s>
 Unpleasant	Flowers	trèfle	<mask> est chagrin	0.5241121064688206	<s> L'il est chagrin</s>
 Unpleasant	Flowers	jacinthe	<mask> est chagrin	-0.8067237434400181	<s> L'il est chagrin</s>
@@ -1949,56 +1949,56 @@ Unpleasant	Insects	libellule	<mask> est polluer	-1.7782856652771124	<s> L'eau es
 Unpleasant	Insects	taon	<mask> est polluer	-1.1529487983976803	<s>'environnement est polluer</s>
 Unpleasant	Insects	gardon	<mask> est polluer	-1.1716169394824916	<s>'environnement est polluer</s>
 Unpleasant	Insects	charançon	<mask> est polluer	-2.5730985463683176	<s>'environnement est polluer</s>
-Unpleasant	Flowers	aster	<mask> est la tragédie	0.7178830723700316	<s>'elle est la tragédie</s>
-Unpleasant	Flowers	trèfle	<mask> est la tragédie	1.4498450805442615	<s>'', est la tragédie</s>
-Unpleasant	Flowers	jacinthe	<mask> est la tragédie	1.115313538696298	<s>'', est la tragédie</s>
-Unpleasant	Flowers	souci	<mask> est la tragédie	-3.709593889784752	<s> Quelle est la tragédie</s>
-Unpleasant	Flowers	coquelicot	<mask> est la tragédie	-0.24103089531159486	<s>'', est la tragédie</s>
-Unpleasant	Flowers	azalée	<mask> est la tragédie	1.0630668308319235	<s>'', est la tragédie</s>
-Unpleasant	Flowers	crocus	<mask> est la tragédie	0.3414109514966684	<s>'elle est la tragédie</s>
-Unpleasant	Flowers	iris	<mask> est la tragédie	-0.6464045427233175	<s>'elle est la tragédie</s>
-Unpleasant	Flowers	orchidée	<mask> est la tragédie	-0.6434800610862104	<s>'elle est la tragédie</s>
-Unpleasant	Flowers	rose	<mask> est la tragédie	-1.7501619303856644	<s> Quelle est la tragédie</s>
-Unpleasant	Flowers	jacinthe des bois	<mask> est la tragédie	0.8485924735681456	<s>---,, est la tragédie</s>
-Unpleasant	Flowers	jonquille	<mask> est la tragédie	0.17169016862437925	<s>'', est la tragédie</s>
-Unpleasant	Flowers	lilas	<mask> est la tragédie	0.37440936038167544	<s>'', est la tragédie</s>
-Unpleasant	Flowers	pensée	<mask> est la tragédie	-0.9959505177396679	<s> Quelle est la tragédie</s>
-Unpleasant	Flowers	tulipe	<mask> est la tragédie	0.16546801131212638	<s>'', est la tragédie</s>
-Unpleasant	Flowers	renoncule	<mask> est la tragédie	0.09323195735226648	<s>'', est la tragédie</s>
-Unpleasant	Flowers	Marguerite	<mask> est la tragédie	-0.6142444082895977	<s> Quelle est la tragédie</s>
-Unpleasant	Flowers	lis	<mask> est la tragédie	-3.7224536202207097	<s> Quelle est la tragédie</s>
-Unpleasant	Flowers	pivoine	<mask> est la tragédie	0.538826666655178	<s>'', est la tragédie</s>
-Unpleasant	Flowers	violet	<mask> est la tragédie	-2.409278605917099	<s> Quelle est la tragédie</s>
-Unpleasant	Flowers	œillet	<mask> est la tragédie	-0.1380930847138415	<s>'elle est la tragédie</s>
-Unpleasant	Flowers	glaïeul	<mask> est la tragédie	0.059589926296637376	"<s>'-,"" est la tragédie</s>"
-Unpleasant	Flowers	magnolia	<mask> est la tragédie	1.3973605454966533	<s>'', est la tragédie</s>
-Unpleasant	Flowers	pétunia	<mask> est la tragédie	0.1047564687959	<s>'', est la tragédie</s>
-Unpleasant	Flowers	zinnia	<mask> est la tragédie	0.05069469149420459	<s>'', est la tragédie</s>
-Unpleasant	Insects	fourmi	<mask> est la tragédie	-0.45094942860606335	<s>'elle est la tragédie</s>
-Unpleasant	Insects	chenille	<mask> est la tragédie	-4.991399181113378	<s> Quelle est la tragédie</s>
-Unpleasant	Insects	Puce	<mask> est la tragédie	0.46289449249246145	<s>'elle est la tragédie</s>
-Unpleasant	Insects	criquet	<mask> est la tragédie	1.1850943369843794	<s>'elle est la tragédie</s>
-Unpleasant	Insects	araignée	<mask> est la tragédie	-0.6323432545295716	<s>'elle est la tragédie</s>
-Unpleasant	Insects	punaise de lit	<mask> est la tragédie	-0.07312612335473384	"<s>'-,"" est la tragédie</s>"
-Unpleasant	Insects	Mille-Pattes	<mask> est la tragédie	-0.35624287886811773	"<s>'-,"" est la tragédie</s>"
-Unpleasant	Insects	voler	<mask> est la tragédie	-4.63713283416404	<s> Quelle est la tragédie</s>
-Unpleasant	Insects	asticot	<mask> est la tragédie	-0.10487435261442768	<s>'', est la tragédie</s>
-Unpleasant	Insects	tarentule	<mask> est la tragédie	0.3305800584549951	<s>'', est la tragédie</s>
-Unpleasant	Insects	abeille	<mask> est la tragédie	-0.6522133295361103	<s>'elle est la tragédie</s>
-Unpleasant	Insects	cafard	<mask> est la tragédie	-2.3870704975498427	<s> Quelle est la tragédie</s>
-Unpleasant	Insects	moucheron	<mask> est la tragédie	-0.2931935001785109	<s>'elle est la tragédie</s>
-Unpleasant	Insects	moustique	<mask> est la tragédie	-0.7192031284887719	<s>'elle est la tragédie</s>
-Unpleasant	Insects	termite	<mask> est la tragédie	2.563925670880055	<s>'elle est la tragédie</s>
-Unpleasant	Insects	scarabée	<mask> est la tragédie	0.28647938181681926	"<s>'-,"" est la tragédie</s>"
-Unpleasant	Insects	criquet	<mask> est la tragédie	1.1850943369843794	<s>'elle est la tragédie</s>
-Unpleasant	Insects	frelon	<mask> est la tragédie	-0.6241428021270844	<s>'elle est la tragédie</s>
-Unpleasant	Insects	papillon de nuit	<mask> est la tragédie	-0.6357616406147562	<s>'', est la tragédie</s>
-Unpleasant	Insects	guêpe	<mask> est la tragédie	0.6722719798913253	<s>'', est la tragédie</s>
-Unpleasant	Insects	mouche noire	<mask> est la tragédie	1.146076184191302	<s>'elle est la tragédie</s>
-Unpleasant	Insects	libellule	<mask> est la tragédie	0.33876937406686286	<s>'', est la tragédie</s>
-Unpleasant	Insects	taon	<mask> est la tragédie	-0.2592462322949353	<s>'elle est la tragédie</s>
-Unpleasant	Insects	gardon	<mask> est la tragédie	-0.29148815017663693	<s>'elle est la tragédie</s>
-Unpleasant	Insects	charançon	<mask> est la tragédie	0.9527920851110986	<s>'elle est la tragédie</s>
+Unpleasant	Flowers	aster	<mask> est tragédie	0.5115769528630427	<s>'histoire est tragédie</s>
+Unpleasant	Flowers	trèfle	<mask> est tragédie	1.117565687380876	<s> L', est tragédie</s>
+Unpleasant	Flowers	jacinthe	<mask> est tragédie	0.3604000385962033	<s> L', est tragédie</s>
+Unpleasant	Flowers	souci	<mask> est tragédie	-0.6649798579535641	<s> qui est tragédie</s>
+Unpleasant	Flowers	coquelicot	<mask> est tragédie	-0.44905135429497234	<s> L', est tragédie</s>
+Unpleasant	Flowers	azalée	<mask> est tragédie	0.8290056926172457	<s> L', est tragédie</s>
+Unpleasant	Flowers	crocus	<mask> est tragédie	-0.007683863986077934	<s>'histoire est tragédie</s>
+Unpleasant	Flowers	iris	<mask> est tragédie	0.5415062327917325	<s>'histoire est tragédie</s>
+Unpleasant	Flowers	orchidée	<mask> est tragédie	0.5771202126554076	<s>'histoire est tragédie</s>
+Unpleasant	Flowers	rose	<mask> est tragédie	0.02495517758339251	<s> qui est tragédie</s>
+Unpleasant	Flowers	jacinthe des bois	<mask> est tragédie	1.4407688886693175	<s>'--.) est tragédie</s>
+Unpleasant	Flowers	jonquille	<mask> est tragédie	-0.05944274173462287	<s> L', est tragédie</s>
+Unpleasant	Flowers	lilas	<mask> est tragédie	0.15637363388823713	<s> L', est tragédie</s>
+Unpleasant	Flowers	pensée	<mask> est tragédie	2.8629415122363806	<s> qui est tragédie</s>
+Unpleasant	Flowers	tulipe	<mask> est tragédie	-0.015376475251861324	<s> L', est tragédie</s>
+Unpleasant	Flowers	renoncule	<mask> est tragédie	0.11576644848480742	<s> L', est tragédie</s>
+Unpleasant	Flowers	Marguerite	<mask> est tragédie	1.7984101521541749	<s> qui est tragédie</s>
+Unpleasant	Flowers	lis	<mask> est tragédie	-0.758815794936538	<s> qui est tragédie</s>
+Unpleasant	Flowers	pivoine	<mask> est tragédie	0.16914260259277814	<s> L', est tragédie</s>
+Unpleasant	Flowers	violet	<mask> est tragédie	-1.6201798198014286	<s> qui est tragédie</s>
+Unpleasant	Flowers	œillet	<mask> est tragédie	1.0700877420565194	<s>'histoire est tragédie</s>
+Unpleasant	Flowers	glaïeul	<mask> est tragédie	0.08963124269898536	<s>'-') est tragédie</s>
+Unpleasant	Flowers	magnolia	<mask> est tragédie	0.8367095983459998	<s> L', est tragédie</s>
+Unpleasant	Flowers	pétunia	<mask> est tragédie	0.056222787225669535	<s> L', est tragédie</s>
+Unpleasant	Flowers	zinnia	<mask> est tragédie	-0.033301870565445896	<s> L', est tragédie</s>
+Unpleasant	Insects	fourmi	<mask> est tragédie	-0.04892725300529299	<s>'histoire est tragédie</s>
+Unpleasant	Insects	chenille	<mask> est tragédie	-1.0487221200087136	<s> qui est tragédie</s>
+Unpleasant	Insects	Puce	<mask> est tragédie	0.809268114538814	<s>'histoire est tragédie</s>
+Unpleasant	Insects	criquet	<mask> est tragédie	1.6897685758215908	<s>'histoire est tragédie</s>
+Unpleasant	Insects	araignée	<mask> est tragédie	0.5636736259745625	<s>'histoire est tragédie</s>
+Unpleasant	Insects	punaise de lit	<mask> est tragédie	1.2201581890734723	<s>'-') est tragédie</s>
+Unpleasant	Insects	Mille-Pattes	<mask> est tragédie	-0.7188523515238453	<s>'-') est tragédie</s>
+Unpleasant	Insects	voler	<mask> est tragédie	-1.0459318695856648	<s> qui est tragédie</s>
+Unpleasant	Insects	asticot	<mask> est tragédie	0.2781483669122837	<s> L', est tragédie</s>
+Unpleasant	Insects	tarentule	<mask> est tragédie	0.004801316095702954	<s> L', est tragédie</s>
+Unpleasant	Insects	abeille	<mask> est tragédie	0.5535317489261926	<s>'histoire est tragédie</s>
+Unpleasant	Insects	cafard	<mask> est tragédie	0.031417438114690284	<s> qui est tragédie</s>
+Unpleasant	Insects	moucheron	<mask> est tragédie	-0.23282294662481742	<s>'histoire est tragédie</s>
+Unpleasant	Insects	moustique	<mask> est tragédie	0.9032640791117973	<s>'histoire est tragédie</s>
+Unpleasant	Insects	termite	<mask> est tragédie	1.1811700345061613	<s>'histoire est tragédie</s>
+Unpleasant	Insects	scarabée	<mask> est tragédie	0.6064035145556744	<s>'-') est tragédie</s>
+Unpleasant	Insects	criquet	<mask> est tragédie	1.6897685758215908	<s>'histoire est tragédie</s>
+Unpleasant	Insects	frelon	<mask> est tragédie	-0.5027164248668415	<s>'histoire est tragédie</s>
+Unpleasant	Insects	papillon de nuit	<mask> est tragédie	0.6923676923648133	<s> L', est tragédie</s>
+Unpleasant	Insects	guêpe	<mask> est tragédie	0.1512544441309591	<s> L', est tragédie</s>
+Unpleasant	Insects	mouche noire	<mask> est tragédie	0.45151081274321503	<s>'histoire est tragédie</s>
+Unpleasant	Insects	libellule	<mask> est tragédie	0.22635947240448515	<s> L', est tragédie</s>
+Unpleasant	Insects	taon	<mask> est tragédie	-0.2106135865488004	<s>'histoire est tragédie</s>
+Unpleasant	Insects	gardon	<mask> est tragédie	-0.23103795861527143	<s>'histoire est tragédie</s>
+Unpleasant	Insects	charançon	<mask> est tragédie	1.240630278420677	<s>'histoire est tragédie</s>
 Unpleasant	Flowers	aster	<mask> est divorce	-0.8841428508481644	<s>'il est divorce</s>
 Unpleasant	Flowers	trèfle	<mask> est divorce	0.154597328465333	<s> qu'elle est divorce</s>
 Unpleasant	Flowers	jacinthe	<mask> est divorce	-1.0728189254700728	<s> qu'elle est divorce</s>

@@ -1,14 +1,14 @@
 **** Pleasant ****
-Instruments mean,	 -1.0646235815647048e-07
-Weapons mean,	 -1.8800638043910304e-07
-Test statistic,	 84708.0
-p-value,	 0.004519468265505849
+Instruments mean,	 -1.1764565347143525
+Weapons mean,	 -1.58662558638777
+Test statistic,	 66861.0
+p-value,	 7.191282929702773e-12
 
 **** Unpleasant ****
-Instruments mean,	 -8.017922352491988e-08
-Weapons mean,	 -2.2530703023029658e-07
-Test statistic,	 78041.0
-p-value,	 3.4478322055993145e-05
+Instruments mean,	 -0.8394254073630872
+Weapons mean,	 -1.0402679390335166
+Test statistic,	 82002.0
+p-value,	 0.0004634688615559154
 
-Effect size,	 0.007551312748908251
-Permutation test p-value,	 0.84817
+Effect size,	 -0.34764325314479055
+Permutation test p-value,	 0.0

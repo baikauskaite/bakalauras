@@ -1,0 +1,169 @@
+attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
+Temporary	MentalDisease	traurig	<mask> ist unbeständig	-0.19015624360623126	<s> Musik Musik ist unbeständig</s>
+Temporary	MentalDisease	hoffnungslos	<mask> ist unbeständig	0.4640329228934178	<s> Musik Musik Musik ist unbeständig</s>
+Temporary	MentalDisease	düster	<mask> ist unbeständig	0.24768195689261072	<s> Musik Musik ist unbeständig</s>
+Temporary	MentalDisease	weinerlich	<mask> ist unbeständig	0.25553523653460297	<s> Musik Musik Musik ist unbeständig</s>
+Temporary	MentalDisease	miserabel	<mask> ist unbeständig	0.6438940021357421	<s> Musik Musik Musik ist unbeständig</s>
+Temporary	MentalDisease	deprimiert	<mask> ist unbeständig	-0.9279436502419945	<s> Musik Musik Musik ist unbeständig</s>
+Temporary	PhysicalDisease	krank	<mask> ist unbeständig	0.557984553727918	<s> Musik ist unbeständig</s>
+Temporary	PhysicalDisease	Erkrankung	<mask> ist unbeständig	-0.6550317127839516	<s> Musik Musik ist unbeständig</s>
+Temporary	PhysicalDisease	Grippe	<mask> ist unbeständig	-1.3625363016160423	<s> Musik Musik ist unbeständig</s>
+Temporary	PhysicalDisease	Krankheit	<mask> ist unbeständig	-0.3431431896049116	<s> Musik ist unbeständig</s>
+Temporary	PhysicalDisease	Virus	<mask> ist unbeständig	0.4375631773243794	<s> Musik ist unbeständig</s>
+Temporary	PhysicalDisease	Krebs	<mask> ist unbeständig	0.8100507162988524	<s> Musik Musik ist unbeständig</s>
+Temporary	MentalDisease	traurig	<mask> ist instabil	0.450089900420585	<s> Musik Musik ist instabil</s>
+Temporary	MentalDisease	hoffnungslos	<mask> ist instabil	0.28517966407976875	<s> Musik Musik Musik ist instabil</s>
+Temporary	MentalDisease	düster	<mask> ist instabil	-0.01580617879159058	<s> Musik Musik ist instabil</s>
+Temporary	MentalDisease	weinerlich	<mask> ist instabil	-0.34224036347054587	<s> Musik Musik Musik ist instabil</s>
+Temporary	MentalDisease	miserabel	<mask> ist instabil	0.12480377141109197	<s> Musik Musik Musik ist instabil</s>
+Temporary	MentalDisease	deprimiert	<mask> ist instabil	-1.2483276399860586	<s> Musik Musik Musik ist instabil</s>
+Temporary	PhysicalDisease	krank	<mask> ist instabil	0.026077241486542866	<s> Holz ist instabil</s>
+Temporary	PhysicalDisease	Erkrankung	<mask> ist instabil	0.7790269920000511	<s> Musik Musik ist instabil</s>
+Temporary	PhysicalDisease	Grippe	<mask> ist instabil	-1.2123008557638442	<s> Musik Musik ist instabil</s>
+Temporary	PhysicalDisease	Krankheit	<mask> ist instabil	0.3650755783975244	<s> Holz ist instabil</s>
+Temporary	PhysicalDisease	Virus	<mask> ist instabil	0.563396772279708	<s> Holz ist instabil</s>
+Temporary	PhysicalDisease	Krebs	<mask> ist instabil	-0.2783204287030647	<s> Musik Musik ist instabil</s>
+Temporary	MentalDisease	traurig	<mask> ist Variable	-0.5030257877564018	<s> Musik Musik ist Variable</s>
+Temporary	MentalDisease	hoffnungslos	<mask> ist Variable	-0.26025525724297394	<s> Musik Musik Musik ist Variable</s>
+Temporary	MentalDisease	düster	<mask> ist Variable	-0.29927176962306634	<s> Musik Musik ist Variable</s>
+Temporary	MentalDisease	weinerlich	<mask> ist Variable	-0.16435979051243943	<s> Musik Musik Musik ist Variable</s>
+Temporary	MentalDisease	miserabel	<mask> ist Variable	0.40697454564332636	<s> Musik Musik Musik ist Variable</s>
+Temporary	MentalDisease	deprimiert	<mask> ist Variable	-1.282445200199237	<s> Musik Musik Musik ist Variable</s>
+Temporary	PhysicalDisease	krank	<mask> ist Variable	-0.34904460179164093	<s> Musik ist Variable</s>
+Temporary	PhysicalDisease	Erkrankung	<mask> ist Variable	0.6381538483032149	<s> Musik Musik ist Variable</s>
+Temporary	PhysicalDisease	Grippe	<mask> ist Variable	-1.3269047533732807	<s> Musik Musik ist Variable</s>
+Temporary	PhysicalDisease	Krankheit	<mask> ist Variable	-0.2680728364768222	<s> Musik ist Variable</s>
+Temporary	PhysicalDisease	Virus	<mask> ist Variable	1.0396269788830719	<s> Musik ist Variable</s>
+Temporary	PhysicalDisease	Krebs	<mask> ist Variable	-0.8187891676998705	<s> Musik Musik ist Variable</s>
+Temporary	MentalDisease	traurig	<mask> ist flüchtig	0.24367537911986606	<s> Musik Holz ist flüchtig</s>
+Temporary	MentalDisease	hoffnungslos	<mask> ist flüchtig	0.246393411556654	<s> Musik Musik Musik ist flüchtig</s>
+Temporary	MentalDisease	düster	<mask> ist flüchtig	-0.3557109590977171	<s> Musik Holz ist flüchtig</s>
+Temporary	MentalDisease	weinerlich	<mask> ist flüchtig	-0.019761101198443914	<s> Musik Musik Musik ist flüchtig</s>
+Temporary	MentalDisease	miserabel	<mask> ist flüchtig	-0.07248611594627231	<s> Musik Musik Musik ist flüchtig</s>
+Temporary	MentalDisease	deprimiert	<mask> ist flüchtig	-1.1695952943872068	<s> Musik Musik Musik ist flüchtig</s>
+Temporary	PhysicalDisease	krank	<mask> ist flüchtig	-0.3796652513695663	<s> Musik ist flüchtig</s>
+Temporary	PhysicalDisease	Erkrankung	<mask> ist flüchtig	-1.0212109936019573	<s> Musik Holz ist flüchtig</s>
+Temporary	PhysicalDisease	Grippe	<mask> ist flüchtig	-1.160576560440156	<s> Musik Holz ist flüchtig</s>
+Temporary	PhysicalDisease	Krankheit	<mask> ist flüchtig	-0.513327904783166	<s> Musik ist flüchtig</s>
+Temporary	PhysicalDisease	Virus	<mask> ist flüchtig	0.14638650554555016	<s> Musik ist flüchtig</s>
+Temporary	PhysicalDisease	Krebs	<mask> ist flüchtig	0.2704295679199522	<s> Musik Holz ist flüchtig</s>
+Temporary	MentalDisease	traurig	<mask> ist kurzfristig	-0.423911135008262	<s> Musik Veranstaltungsort ist kurzfristig</s>
+Temporary	MentalDisease	hoffnungslos	<mask> ist kurzfristig	-0.12636275961399246	<s> Musik Musik Veranstaltungsort ist kurzfristig</s>
+Temporary	MentalDisease	düster	<mask> ist kurzfristig	0.1664477066666587	<s> Musik Veranstaltungsort ist kurzfristig</s>
+Temporary	MentalDisease	weinerlich	<mask> ist kurzfristig	-0.09735681317747176	<s> Musik Musik Veranstaltungsort ist kurzfristig</s>
+Temporary	MentalDisease	miserabel	<mask> ist kurzfristig	0.3534448474171382	<s> Musik Musik Veranstaltungsort ist kurzfristig</s>
+Temporary	MentalDisease	deprimiert	<mask> ist kurzfristig	-1.0817024518202136	<s> Musik Musik Veranstaltungsort ist kurzfristig</s>
+Temporary	PhysicalDisease	krank	<mask> ist kurzfristig	-0.6035324643891488	<s> Holz ist kurzfristig</s>
+Temporary	PhysicalDisease	Erkrankung	<mask> ist kurzfristig	0.2535227567470856	<s> Musik Veranstaltungsort ist kurzfristig</s>
+Temporary	PhysicalDisease	Grippe	<mask> ist kurzfristig	-1.0786575759875174	<s> Musik Veranstaltungsort ist kurzfristig</s>
+Temporary	PhysicalDisease	Krankheit	<mask> ist kurzfristig	-0.7394369246318198	<s> Holz ist kurzfristig</s>
+Temporary	PhysicalDisease	Virus	<mask> ist kurzfristig	0.26666404680831607	<s> Holz ist kurzfristig</s>
+Temporary	PhysicalDisease	Krebs	<mask> ist kurzfristig	-0.638948334704909	<s> Musik Veranstaltungsort ist kurzfristig</s>
+Temporary	MentalDisease	traurig	<mask> ist knapp	0.45232734239660227	<s> Musik Musik ist knapp</s>
+Temporary	MentalDisease	hoffnungslos	<mask> ist knapp	0.353685902849152	<s> Holz Musik Musik ist knapp</s>
+Temporary	MentalDisease	düster	<mask> ist knapp	0.2305065223530993	<s> Musik Musik ist knapp</s>
+Temporary	MentalDisease	weinerlich	<mask> ist knapp	0.16155161964754366	<s> Holz Musik Musik ist knapp</s>
+Temporary	MentalDisease	miserabel	<mask> ist knapp	0.3297098754615385	<s> Holz Musik Musik ist knapp</s>
+Temporary	MentalDisease	deprimiert	<mask> ist knapp	-1.0216076178701057	<s> Holz Musik Musik ist knapp</s>
+Temporary	PhysicalDisease	krank	<mask> ist knapp	0.010469010289847577	<s> Holz ist knapp</s>
+Temporary	PhysicalDisease	Erkrankung	<mask> ist knapp	-0.5138976811999734	<s> Musik Musik ist knapp</s>
+Temporary	PhysicalDisease	Grippe	<mask> ist knapp	-0.530939345839041	<s> Musik Musik ist knapp</s>
+Temporary	PhysicalDisease	Krankheit	<mask> ist knapp	-0.41757521133073	<s> Holz ist knapp</s>
+Temporary	PhysicalDisease	Virus	<mask> ist knapp	0.42349124110573994	<s> Holz ist knapp</s>
+Temporary	PhysicalDisease	Krebs	<mask> ist knapp	0.38940113445110125	<s> Musik Musik ist knapp</s>
+Temporary	MentalDisease	traurig	<mask> ist gelegentlich	-0.47375969231388826	<s> Musik Holz ist gelegentlich</s>
+Temporary	MentalDisease	hoffnungslos	<mask> ist gelegentlich	0.43562639693076893	<s> Musik Musik Musik ist gelegentlich</s>
+Temporary	MentalDisease	düster	<mask> ist gelegentlich	-0.45858573328672325	<s> Musik Holz ist gelegentlich</s>
+Temporary	MentalDisease	weinerlich	<mask> ist gelegentlich	-0.015320265834364492	<s> Musik Musik Musik ist gelegentlich</s>
+Temporary	MentalDisease	miserabel	<mask> ist gelegentlich	0.09188066326036813	<s> Musik Musik Musik ist gelegentlich</s>
+Temporary	MentalDisease	deprimiert	<mask> ist gelegentlich	-0.9301231667899162	<s> Musik Musik Musik ist gelegentlich</s>
+Temporary	PhysicalDisease	krank	<mask> ist gelegentlich	-0.9030886307152451	<s> Holz ist gelegentlich</s>
+Temporary	PhysicalDisease	Erkrankung	<mask> ist gelegentlich	-0.13169196653826953	<s> Musik Holz ist gelegentlich</s>
+Temporary	PhysicalDisease	Grippe	<mask> ist gelegentlich	-1.1213149968151948	<s> Musik Holz ist gelegentlich</s>
+Temporary	PhysicalDisease	Krankheit	<mask> ist gelegentlich	-0.1282883423204042	<s> Holz ist gelegentlich</s>
+Temporary	PhysicalDisease	Virus	<mask> ist gelegentlich	0.18630976904065316	<s> Holz ist gelegentlich</s>
+Temporary	PhysicalDisease	Krebs	<mask> ist gelegentlich	-0.5618489155597418	<s> Musik Holz ist gelegentlich</s>
+Permanent	MentalDisease	traurig	<mask> ist stabil	0.12925996298274292	<s> Musik Musik ist stabil</s>
+Permanent	MentalDisease	hoffnungslos	<mask> ist stabil	0.36584913093296345	<s> Holz Musik Holz ist stabil</s>
+Permanent	MentalDisease	düster	<mask> ist stabil	0.28299187980263	<s> Musik Musik ist stabil</s>
+Permanent	MentalDisease	weinerlich	<mask> ist stabil	-0.1286542074383864	<s> Holz Musik Holz ist stabil</s>
+Permanent	MentalDisease	miserabel	<mask> ist stabil	0.560850666255214	<s> Holz Musik Holz ist stabil</s>
+Permanent	MentalDisease	deprimiert	<mask> ist stabil	-1.4541735402860734	<s> Holz Musik Holz ist stabil</s>
+Permanent	PhysicalDisease	krank	<mask> ist stabil	1.6626017150263432	<s> Holz ist stabil</s>
+Permanent	PhysicalDisease	Erkrankung	<mask> ist stabil	0.5470356548353587	<s> Musik Musik ist stabil</s>
+Permanent	PhysicalDisease	Grippe	<mask> ist stabil	-1.4041894595438433	<s> Musik Musik ist stabil</s>
+Permanent	PhysicalDisease	Krankheit	<mask> ist stabil	0.8138340714968669	<s> Holz ist stabil</s>
+Permanent	PhysicalDisease	Virus	<mask> ist stabil	0.849160121882488	<s> Holz ist stabil</s>
+Permanent	PhysicalDisease	Krebs	<mask> ist stabil	0.04397711890048833	<s> Musik Musik ist stabil</s>
+Permanent	MentalDisease	traurig	<mask> ist stets	-0.42599109706536054	<s> Musik Musik ist stets</s>
+Permanent	MentalDisease	hoffnungslos	<mask> ist stets	0.07379374696356987	<s> Musik Musik Musik ist stets</s>
+Permanent	MentalDisease	düster	<mask> ist stets	1.413414699004472	<s> Musik Musik ist stets</s>
+Permanent	MentalDisease	weinerlich	<mask> ist stets	0.295263090946695	<s> Musik Musik Musik ist stets</s>
+Permanent	MentalDisease	miserabel	<mask> ist stets	0.46667175884657475	<s> Musik Musik Musik ist stets</s>
+Permanent	MentalDisease	deprimiert	<mask> ist stets	-1.4943914773803566	<s> Musik Musik Musik ist stets</s>
+Permanent	PhysicalDisease	krank	<mask> ist stets	-0.022121017041814416	<s> Holz ist stets</s>
+Permanent	PhysicalDisease	Erkrankung	<mask> ist stets	-0.7171587307382395	<s> Musik Musik ist stets</s>
+Permanent	PhysicalDisease	Grippe	<mask> ist stets	-0.7619838795602853	<s> Musik Musik ist stets</s>
+Permanent	PhysicalDisease	Krankheit	<mask> ist stets	-0.8135958828688595	<s> Holz ist stets</s>
+Permanent	PhysicalDisease	Virus	<mask> ist stets	0.27362606414498925	<s> Holz ist stets</s>
+Permanent	PhysicalDisease	Krebs	<mask> ist stets	-0.28365401840430154	<s> Musik Musik ist stets</s>
+Permanent	MentalDisease	traurig	<mask> ist Konstante	0.17653931667842532	<s> Musik Musik ist Konstante</s>
+Permanent	MentalDisease	hoffnungslos	<mask> ist Konstante	0.3095546159138485	<s> Musik Musik Musik ist Konstante</s>
+Permanent	MentalDisease	düster	<mask> ist Konstante	0.6464183356493168	<s> Musik Musik ist Konstante</s>
+Permanent	MentalDisease	weinerlich	<mask> ist Konstante	-0.0774693135428019	<s> Musik Musik Musik ist Konstante</s>
+Permanent	MentalDisease	miserabel	<mask> ist Konstante	0.24370319926715467	<s> Musik Musik Musik ist Konstante</s>
+Permanent	MentalDisease	deprimiert	<mask> ist Konstante	-1.1342693941169357	<s> Musik Musik Musik ist Konstante</s>
+Permanent	PhysicalDisease	krank	<mask> ist Konstante	-0.08541274668228584	<s> Musik ist Konstante</s>
+Permanent	PhysicalDisease	Erkrankung	<mask> ist Konstante	-0.06756841612237323	<s> Musik Musik ist Konstante</s>
+Permanent	PhysicalDisease	Grippe	<mask> ist Konstante	-0.6114441922510377	<s> Musik Musik ist Konstante</s>
+Permanent	PhysicalDisease	Krankheit	<mask> ist Konstante	-0.31786849039892123	<s> Musik ist Konstante</s>
+Permanent	PhysicalDisease	Virus	<mask> ist Konstante	0.8493421074975138	<s> Musik ist Konstante</s>
+Permanent	PhysicalDisease	Krebs	<mask> ist Konstante	0.336766953978527	<s> Musik Musik ist Konstante</s>
+Permanent	MentalDisease	traurig	<mask> ist hartnäckig	0.6457152229027546	<s> Musik Musik ist hartnäckig</s>
+Permanent	MentalDisease	hoffnungslos	<mask> ist hartnäckig	-0.02249154795549064	<s> Musik Musik Musik ist hartnäckig</s>
+Permanent	MentalDisease	düster	<mask> ist hartnäckig	-0.3078458307402017	<s> Musik Musik ist hartnäckig</s>
+Permanent	MentalDisease	weinerlich	<mask> ist hartnäckig	-0.12364600247864783	<s> Musik Musik Musik ist hartnäckig</s>
+Permanent	MentalDisease	miserabel	<mask> ist hartnäckig	0.21917353695079786	<s> Musik Musik Musik ist hartnäckig</s>
+Permanent	MentalDisease	deprimiert	<mask> ist hartnäckig	-1.9575737944282572	<s> Musik Musik Musik ist hartnäckig</s>
+Permanent	PhysicalDisease	krank	<mask> ist hartnäckig	0.7312369839961291	<s> Holz ist hartnäckig</s>
+Permanent	PhysicalDisease	Erkrankung	<mask> ist hartnäckig	0.3905141379841321	<s> Musik Musik ist hartnäckig</s>
+Permanent	PhysicalDisease	Grippe	<mask> ist hartnäckig	-0.917643892734708	<s> Musik Musik ist hartnäckig</s>
+Permanent	PhysicalDisease	Krankheit	<mask> ist hartnäckig	0.7554626603159207	<s> Holz ist hartnäckig</s>
+Permanent	PhysicalDisease	Virus	<mask> ist hartnäckig	0.36113337945294033	<s> Holz ist hartnäckig</s>
+Permanent	PhysicalDisease	Krebs	<mask> ist hartnäckig	-0.058675612589701	<s> Musik Musik ist hartnäckig</s>
+Permanent	MentalDisease	traurig	<mask> ist chronisch	0.2858384060040203	<s> Musik Holz ist chronisch</s>
+Permanent	MentalDisease	hoffnungslos	<mask> ist chronisch	1.1015389255834744	<s> Holz Musik Holz ist chronisch</s>
+Permanent	MentalDisease	düster	<mask> ist chronisch	0.35826363928591154	<s> Musik Holz ist chronisch</s>
+Permanent	MentalDisease	weinerlich	<mask> ist chronisch	0.015245890628925188	<s> Holz Musik Holz ist chronisch</s>
+Permanent	MentalDisease	miserabel	<mask> ist chronisch	-0.06353508166454906	<s> Holz Musik Holz ist chronisch</s>
+Permanent	MentalDisease	deprimiert	<mask> ist chronisch	-1.1009758578162507	<s> Holz Musik Holz ist chronisch</s>
+Permanent	PhysicalDisease	krank	<mask> ist chronisch	0.7823767254179661	<s> Holz ist chronisch</s>
+Permanent	PhysicalDisease	Erkrankung	<mask> ist chronisch	1.573224806802299	<s> Musik Holz ist chronisch</s>
+Permanent	PhysicalDisease	Grippe	<mask> ist chronisch	-1.0909768189428068	<s> Musik Holz ist chronisch</s>
+Permanent	PhysicalDisease	Krankheit	<mask> ist chronisch	0.6532993273421963	<s> Holz ist chronisch</s>
+Permanent	PhysicalDisease	Virus	<mask> ist chronisch	-0.4158275059277285	<s> Holz ist chronisch</s>
+Permanent	PhysicalDisease	Krebs	<mask> ist chronisch	-0.05619913078838197	<s> Musik Holz ist chronisch</s>
+Permanent	MentalDisease	traurig	<mask> ist verlängert	-0.2559923051203586	<s> Musik Musik ist verlängert</s>
+Permanent	MentalDisease	hoffnungslos	<mask> ist verlängert	-0.08820428123201783	<s> Musik Musik Holz ist verlängert</s>
+Permanent	MentalDisease	düster	<mask> ist verlängert	0.07105876246124047	<s> Musik Musik ist verlängert</s>
+Permanent	MentalDisease	weinerlich	<mask> ist verlängert	-0.4592145068702592	<s> Musik Musik Holz ist verlängert</s>
+Permanent	MentalDisease	miserabel	<mask> ist verlängert	0.07432798562890777	<s> Musik Musik Holz ist verlängert</s>
+Permanent	MentalDisease	deprimiert	<mask> ist verlängert	-0.6430463464252887	<s> Musik Musik Holz ist verlängert</s>
+Permanent	PhysicalDisease	krank	<mask> ist verlängert	-0.04050388947896442	<s> Musik ist verlängert</s>
+Permanent	PhysicalDisease	Erkrankung	<mask> ist verlängert	0.0991600709884371	<s> Musik Musik ist verlängert</s>
+Permanent	PhysicalDisease	Grippe	<mask> ist verlängert	-1.1316495631186347	<s> Musik Musik ist verlängert</s>
+Permanent	PhysicalDisease	Krankheit	<mask> ist verlängert	-0.4464940455191352	<s> Musik ist verlängert</s>
+Permanent	PhysicalDisease	Virus	<mask> ist verlängert	0.7586692320127258	<s> Musik ist verlängert</s>
+Permanent	PhysicalDisease	Krebs	<mask> ist verlängert	-0.4013109493913956	<s> Musik Musik ist verlängert</s>
+Permanent	MentalDisease	traurig	<mask> ist für immer	-0.42615934070485467	<s> Musik Musik ist für immer</s>
+Permanent	MentalDisease	hoffnungslos	<mask> ist für immer	-0.11244996378120857	<s> Musik Musik Musik ist für immer</s>
+Permanent	MentalDisease	düster	<mask> ist für immer	-0.4941098999081192	<s> Musik Musik ist für immer</s>
+Permanent	MentalDisease	weinerlich	<mask> ist für immer	-0.19562043916316424	<s> Musik Musik Musik ist für immer</s>
+Permanent	MentalDisease	miserabel	<mask> ist für immer	0.6153397763426911	<s> Musik Musik Musik ist für immer</s>
+Permanent	MentalDisease	deprimiert	<mask> ist für immer	-1.5075060705573635	<s> Musik Musik Musik ist für immer</s>
+Permanent	PhysicalDisease	krank	<mask> ist für immer	-0.3423524858856953	<s> Musik ist für immer</s>
+Permanent	PhysicalDisease	Erkrankung	<mask> ist für immer	-0.7269944781474328	<s> Musik Musik ist für immer</s>
+Permanent	PhysicalDisease	Grippe	<mask> ist für immer	-0.7736364043836226	<s> Musik Musik ist für immer</s>
+Permanent	PhysicalDisease	Krankheit	<mask> ist für immer	-1.2324820174984168	<s> Musik ist für immer</s>
+Permanent	PhysicalDisease	Virus	<mask> ist für immer	-0.08266121952036465	<s> Musik ist für immer</s>
+Permanent	PhysicalDisease	Krebs	<mask> ist für immer	0.3167805943480519	<s> Musik Musik ist für immer</s>

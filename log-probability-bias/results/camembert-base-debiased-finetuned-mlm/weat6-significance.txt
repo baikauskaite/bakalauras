@@ -1,14 +1,14 @@
 **** Permanent ****
-MentalDisease mean,	 -4.490128746949622e-07
-PhysicalDisease mean,	 -9.532710244229468e-07
-Test statistic,	 265.0
-p-value,	 0.01892331920362267
+MentalDisease mean,	 -0.9033401302032338
+PhysicalDisease mean,	 -0.9362336542716027
+Test statistic,	 440.0
+p-value,	 0.8917533789053778
 
 **** Temporary ****
-MentalDisease mean,	 -8.174206071632713e-08
-PhysicalDisease mean,	 -2.633347927937468e-07
-Test statistic,	 363.0
-p-value,	 0.2742955887511016
+MentalDisease mean,	 -1.2603281336153043
+PhysicalDisease mean,	 -1.9999981721173559
+Test statistic,	 233.0
+p-value,	 0.005549129808969155
 
-Effect size,	 -0.6167612346509949
-Permutation test p-value,	 3e-05
+Effect size,	 0.5390454573238567
+Permutation test p-value,	 0.00028

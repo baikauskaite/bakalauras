@@ -1,8 +1,8 @@
 **** FemaleTerms ****
-GrammaticallyFemale mean,	 0.12519538338319894
-GrammmaticalyMale mean,	 0.016916994507340848
-Test statistic,	 nan
-p-value,	 nan
+GrammaticallyFemale mean,	 0.12519538338319885
+GrammmaticalyMale mean,	 0.016916994507340858
+Test statistic,	 797008.0
+p-value,	 0.028734911442039303
 
 **** MaleTerms ****
 GrammaticallyFemale mean,	 0.41875540836203673

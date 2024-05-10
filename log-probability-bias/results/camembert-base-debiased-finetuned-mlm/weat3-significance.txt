@@ -1,14 +1,14 @@
 **** Career ****
-FemaleTerms mean,	 3.515996857546235e-07
-MaleTerms mean,	 3.801560344661215e-07
-Test statistic,	 5165.0
-p-value,	 0.9126577494679431
+FemaleTerms mean,	 -0.13717883571326414
+MaleTerms mean,	 -0.17476588031206805
+Test statistic,	 4952.0
+p-value,	 0.5930139200927114
 
 **** Family ****
-FemaleTerms mean,	 2.649740244993916e-07
-MaleTerms mean,	 3.012958302361376e-07
-Test statistic,	 5126.0
-p-value,	 0.8512950491990091
+FemaleTerms mean,	 0.2159894337131105
+MaleTerms mean,	 0.4795783958890538
+Test statistic,	 4219.0
+p-value,	 0.045899473202129636
 
-Effect size,	 0.07161288857727209
-Permutation test p-value,	 0.38596
+Effect size,	 -0.3879568471356421
+Permutation test p-value,	 1e-05
