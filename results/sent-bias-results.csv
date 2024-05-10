@@ -55,6 +55,18 @@ date,model,is_debiased,test_name,effect_size,p_value
 2024-05-06,camembertv2,true,sent-weat5b,0.13 ,0.320000000
 2024-05-06,camembertv2,true,sent-weat6 ,0.34 ,0.201620000
 
+2024-05-06,camembert_new_stereo,true,sent-weat0 ,0.02 ,0.451920000
+2024-05-06,camembert_new_stereo,true,sent-weat0b,0.04 ,0.432040000
+2024-05-06,camembert_new_stereo,true,sent-weat1 ,0.61 ,0.000010000
+2024-05-06,camembert_new_stereo,true,sent-weat2 ,-0.08,0.758490000
+2024-05-06,camembert_new_stereo,true,sent-weat3 ,0.12 ,0.320350000
+2024-05-06,camembert_new_stereo,true,sent-weat3b,0.16 ,0.223560000
+2024-05-06,camembert_new_stereo,true,sent-weat4 ,-0.32,0.900550000
+2024-05-06,camembert_new_stereo,true,sent-weat4b,-0.37,0.929810000
+2024-05-06,camembert_new_stereo,true,sent-weat5 ,0.18 ,0.272590000
+2024-05-06,camembert_new_stereo,true,sent-weat5b,0.19 ,0.261850000
+2024-05-06,camembert_new_stereo,true,sent-weat6 ,0.92 ,0.010450000
+
 2024-05-05,gottbert,false,sent-weat0 ,0.14 ,0.270330000
 2024-05-05,gottbert,false,sent-weat0b,-0.24,0.871400000
 2024-05-05,gottbert,false,sent-weat1 ,0.24 ,0.016460000

@@ -1,0 +1,14 @@
+**** Pleasant ****
+Flowers mean,	 -0.08996502138512248
+Insects mean,	 0.02189128161185696
+Test statistic,	 80896.0
+p-value,	 0.00017972271403416182
+
+**** Unpleasant ****
+Flowers mean,	 -0.02160437065483511
+Insects mean,	 0.0912219357641058
+Test statistic,	 82880.0
+p-value,	 0.0009443387588448463
+
+Effect size,	 -0.11361937482056209
+Permutation test p-value,	 0.0043
