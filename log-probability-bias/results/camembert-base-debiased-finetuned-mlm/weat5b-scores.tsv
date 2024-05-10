@@ -1,7 +1,7 @@
 attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
 MaleNames	Science	science	Nicolas aime <mask>	-7.843598363816349e-07	<s> Nicolas aime,</s>
 MaleNames	Science	technologie	Nicolas aime <mask>	-1.7416162764664292e-06	<s> Nicolas aime,</s>
-MaleNames	Science	la physique	Nicolas aime <mask>	1.4840147497217779e-06	<s> Nicolas aime,</s>
+MaleNames	Science	physique	Nicolas aime <mask>	-1.4235607159355688e-06	<s> Nicolas aime,</s>
 MaleNames	Science	chimie	Nicolas aime <mask>	-2.2702252726810798e-06	<s> Nicolas aime,</s>
 MaleNames	Science	Einstein	Nicolas aime <mask>	8.432403175461936e-08	<s> Nicolas aime,</s>
 MaleNames	Science	NASA	Nicolas aime <mask>	2.272341965645023e-06	<s> Nicolas aime,</s>
@@ -17,7 +17,7 @@ MaleNames	Arts	symphonie	Nicolas aime <mask>	-2.8139530989750073e-06	<s> Nicolas
 MaleNames	Arts	drame	Nicolas aime <mask>	-5.125580567939995e-07	<s> Nicolas aime,</s>
 MaleNames	Science	science	Alexandre aime <mask>	-9.269707817814565e-07	<s> Alexandre aime,</s>
 MaleNames	Science	technologie	Alexandre aime <mask>	-1.3787793021174622e-06	<s> Alexandre aime,</s>
-MaleNames	Science	la physique	Alexandre aime <mask>	2.040519713004258e-06	<s> Alexandre aime,</s>
+MaleNames	Science	physique	Alexandre aime <mask>	-1.3616667296249754e-06	<s> Alexandre aime,</s>
 MaleNames	Science	chimie	Alexandre aime <mask>	-2.3897109560931953e-06	<s> Alexandre aime,</s>
 MaleNames	Science	Einstein	Alexandre aime <mask>	0.0	<s> Alexandre aime,</s>
 MaleNames	Science	NASA	Alexandre aime <mask>	3.19356021033706e-06	<s> Alexandre aime,</s>
@@ -33,7 +33,7 @@ MaleNames	Arts	symphonie	Alexandre aime <mask>	-2.321510735063316e-06	<s> Alexan
 MaleNames	Arts	drame	Alexandre aime <mask>	-5.857806577980491e-07	<s> Alexandre aime,</s>
 MaleNames	Science	science	Guillaume aime <mask>	-4.278325617492656e-07	<s> Guillaume aime,</s>
 MaleNames	Science	technologie	Guillaume aime <mask>	-1.7416162764664292e-06	<s> Guillaume aime,</s>
-MaleNames	Science	la physique	Guillaume aime <mask>	1.4840147497217779e-06	<s> Guillaume aime,</s>
+MaleNames	Science	physique	Guillaume aime <mask>	-9.284089327150226e-07	<s> Guillaume aime,</s>
 MaleNames	Science	chimie	Guillaume aime <mask>	-1.911768307994657e-06	<s> Guillaume aime,</s>
 MaleNames	Science	Einstein	Guillaume aime <mask>	-3.372961982349411e-07	<s> Guillaume aime,</s>
 MaleNames	Science	NASA	Guillaume aime <mask>	1.351122872087106e-06	<s> Guillaume aime,</s>
@@ -49,7 +49,7 @@ MaleNames	Arts	symphonie	Guillaume aime <mask>	-2.3918596293625126e-06	<s> Guill
 MaleNames	Arts	drame	Guillaume aime <mask>	-9.518937431305358e-07	<s> Guillaume aime,</s>
 MaleNames	Science	science	Mathieu aime <mask>	-9.982762621080737e-07	<s> Mathieu aime,</s>
 MaleNames	Science	technologie	Mathieu aime <mask>	-1.4513466864329983e-06	<s> Mathieu aime,</s>
-MaleNames	Science	la physique	Mathieu aime <mask>	1.4840147497217779e-06	<s> Mathieu aime,</s>
+MaleNames	Science	physique	Mathieu aime <mask>	-9.284089327150226e-07	<s> Mathieu aime,</s>
 MaleNames	Science	chimie	Mathieu aime <mask>	-2.9273967081790514e-06	<s> Mathieu aime,</s>
 MaleNames	Science	Einstein	Mathieu aime <mask>	8.432403175461936e-08	<s> Mathieu aime,</s>
 MaleNames	Science	NASA	Mathieu aime <mask>	2.272341965645023e-06	<s> Mathieu aime,</s>
@@ -65,7 +65,7 @@ MaleNames	Arts	symphonie	Mathieu aime <mask>	-1.9697663379128397e-06	<s> Mathieu
 MaleNames	Arts	drame	Mathieu aime <mask>	-1.0983390148388093e-06	<s> Mathieu aime,</s>
 MaleNames	Science	science	Thomas aime <mask>	-9.269707817814565e-07	<s> Thomas aime,</s>
 MaleNames	Science	technologie	Thomas aime <mask>	-1.3062119230679511e-06	<s> Thomas aime,</s>
-MaleNames	Science	la physique	Thomas aime <mask>	1.576765598442317e-06	<s> Thomas aime,</s>
+MaleNames	Science	physique	Thomas aime <mask>	-1.4235607159355688e-06	<s> Thomas aime,</s>
 MaleNames	Science	chimie	Thomas aime <mask>	-2.3897109560931953e-06	<s> Thomas aime,</s>
 MaleNames	Science	Einstein	Thomas aime <mask>	-4.2162026565330947e-07	<s> Thomas aime,</s>
 MaleNames	Science	NASA	Thomas aime <mask>	1.5353667587790891e-06	<s> Thomas aime,</s>
@@ -81,7 +81,7 @@ MaleNames	Arts	symphonie	Thomas aime <mask>	-1.9697663379128397e-06	<s> Thomas a
 MaleNames	Arts	drame	Thomas aime <mask>	-5.125580567939995e-07	<s> Thomas aime,</s>
 MaleNames	Science	science	Pierre aime <mask>	7.13054092551092e-08	<s> Pierre aime,</s>
 MaleNames	Science	technologie	Pierre aime <mask>	-4.3540378477939034e-07	<s> Pierre aime,</s>
-MaleNames	Science	la physique	Pierre aime <mask>	1.0202603768561943e-06	<s> Pierre aime,</s>
+MaleNames	Science	physique	Pierre aime <mask>	-8.665149770513382e-07	<s> Pierre aime,</s>
 MaleNames	Science	chimie	Pierre aime <mask>	-8.363981849941406e-07	<s> Pierre aime,</s>
 MaleNames	Science	Einstein	Pierre aime <mask>	5.902680731830456e-07	<s> Pierre aime,</s>
 MaleNames	Science	NASA	Pierre aime <mask>	5.527323046030109e-07	<s> Pierre aime,</s>
@@ -97,7 +97,7 @@ MaleNames	Arts	symphonie	Pierre aime <mask>	-4.924412207025026e-07	<s> Pierre ai
 MaleNames	Arts	drame	Pierre aime <mask>	5.125577940783726e-07	<s> Pierre aime,</s>
 MaleNames	Science	science	Emmanuelle aime <mask>	-1.283498234370291e-06	<s> Emmanuelle aime,</s>
 MaleNames	Science	technologie	Emmanuelle aime <mask>	-8.70807759135319e-07	<s> Emmanuelle aime,</s>
-MaleNames	Science	la physique	Emmanuelle aime <mask>	1.4840147497217779e-06	<s> Emmanuelle aime,</s>
+MaleNames	Science	physique	Emmanuelle aime <mask>	-1.4235607159355688e-06	<s> Emmanuelle aime,</s>
 MaleNames	Science	chimie	Emmanuelle aime <mask>	-2.7481680921015606e-06	<s> Emmanuelle aime,</s>
 MaleNames	Science	Einstein	Emmanuelle aime <mask>	3.372960845772764e-07	<s> Emmanuelle aime,</s>
 MaleNames	Science	NASA	Emmanuelle aime <mask>	1.5353667587790891e-06	<s> Emmanuelle aime,</s>
@@ -113,7 +113,7 @@ MaleNames	Arts	symphonie	Emmanuelle aime <mask>	-2.3918596293625126e-06	<s> Emma
 MaleNames	Arts	drame	Emmanuelle aime <mask>	-1.0251163763038954e-06	<s> Emmanuelle aime,</s>
 MaleNames	Science	science	Jean aime <mask>	-2.4956925238142254e-06	<s> Jean aime,</s>
 MaleNames	Science	technologie	Jean aime <mask>	-2.902695479276258e-06	<s> Jean aime,</s>
-MaleNames	Science	la physique	Jean aime <mask>	3.710032744667467e-06	<s> Jean aime,</s>
+MaleNames	Science	physique	Jean aime <mask>	-2.970911618621995e-06	<s> Jean aime,</s>
 MaleNames	Science	chimie	Jean aime <mask>	-4.898913606144759e-06	<s> Jean aime,</s>
 MaleNames	Science	Einstein	Jean aime <mask>	-5.902684215996496e-07	<s> Jean aime,</s>
 MaleNames	Science	NASA	Jean aime <mask>	5.772966781013725e-06	<s> Jean aime,</s>
@@ -129,7 +129,7 @@ MaleNames	Arts	symphonie	Jean aime <mask>	-4.924423119707119e-06	<s> Jean aime,<
 MaleNames	Arts	drame	Jean aime <mask>	-2.0502338035834755e-06	<s> Jean aime,</s>
 MaleNames	Science	science	François aime <mask>	-4.278325617492656e-07	<s> François aime,</s>
 MaleNames	Science	technologie	François aime <mask>	-8.70807759135319e-07	<s> François aime,</s>
-MaleNames	Science	la physique	François aime <mask>	1.1130112685903531e-06	<s> François aime,</s>
+MaleNames	Science	physique	François aime <mask>	-9.284089327150226e-07	<s> François aime,</s>
 MaleNames	Science	chimie	François aime <mask>	-1.911768307994657e-06	<s> François aime,</s>
 MaleNames	Science	Einstein	François aime <mask>	8.432403175461936e-08	<s> François aime,</s>
 MaleNames	Science	NASA	François aime <mask>	1.7810252213417745e-06	<s> François aime,</s>
@@ -145,7 +145,7 @@ MaleNames	Arts	symphonie	François aime <mask>	-1.4069755597515094e-06	<s> Fran�
 MaleNames	Arts	drame	François aime <mask>	-9.518937431305358e-07	<s> François aime,</s>
 FemaleNames	Science	science	Céline aime <mask>	-7.843598363816349e-07	<s> Céline aime,</s>
 FemaleNames	Science	technologie	Céline aime <mask>	-3.628364741881331e-07	<s> Céline aime,</s>
-FemaleNames	Science	la physique	Céline aime <mask>	1.4840147497217779e-06	<s> Céline aime,</s>
+FemaleNames	Science	physique	Céline aime <mask>	-9.284089327150226e-07	<s> Céline aime,</s>
 FemaleNames	Science	chimie	Céline aime <mask>	-1.911768307994657e-06	<s> Céline aime,</s>
 FemaleNames	Science	Einstein	Céline aime <mask>	2.529720739322341e-07	<s> Céline aime,</s>
 FemaleNames	Science	NASA	Céline aime <mask>	1.2897082356462641e-06	<s> Céline aime,</s>
@@ -161,7 +161,7 @@ FemaleNames	Arts	symphonie	Céline aime <mask>	-2.8139530989750073e-06	<s> Céli
 FemaleNames	Arts	drame	Céline aime <mask>	-8.054484929794993e-07	<s> Céline aime,</s>
 FemaleNames	Science	science	Marie aime <mask>	-4.991380064846e-07	<s> Marie aime,</s>
 FemaleNames	Science	technologie	Marie aime <mask>	-1.9593185243125567e-06	<s> Marie aime,</s>
-FemaleNames	Science	la physique	Marie aime <mask>	2.040519713004258e-06	<s> Marie aime,</s>
+FemaleNames	Science	physique	Marie aime <mask>	-1.4854547060770281e-06	<s> Marie aime,</s>
 FemaleNames	Science	chimie	Marie aime <mask>	-2.4494538032085758e-06	<s> Marie aime,</s>
 FemaleNames	Science	Einstein	Marie aime <mask>	-8.43240388651623e-08	<s> Marie aime,</s>
 FemaleNames	Science	NASA	Marie aime <mask>	2.7636584683342032e-06	<s> Marie aime,</s>
@@ -177,7 +177,7 @@ FemaleNames	Arts	symphonie	Marie aime <mask>	-2.4622085286106764e-06	<s> Marie a
 FemaleNames	Arts	drame	Marie aime <mask>	-6.590032641636485e-07	<s> Marie aime,</s>
 FemaleNames	Science	science	Sandrine aime <mask>	-2.1391625793903404e-07	<s> Sandrine aime,</s>
 FemaleNames	Science	technologie	Sandrine aime <mask>	-5.805384217599504e-07	<s> Sandrine aime,</s>
-FemaleNames	Science	la physique	Sandrine aime <mask>	8.347585675796887e-07	<s> Sandrine aime,</s>
+FemaleNames	Science	physique	Sandrine aime <mask>	-6.189391927052111e-07	<s> Sandrine aime,</s>
 FemaleNames	Science	chimie	Sandrine aime <mask>	-1.6727970696618126e-06	<s> Sandrine aime,</s>
 FemaleNames	Science	Einstein	Sandrine aime <mask>	2.529720739322341e-07	<s> Sandrine aime,</s>
 FemaleNames	Science	NASA	Sandrine aime <mask>	7.983910087802991e-07	<s> Sandrine aime,</s>
@@ -193,7 +193,7 @@ FemaleNames	Arts	symphonie	Sandrine aime <mask>	-1.6883709091849808e-06	<s> Sand
 FemaleNames	Arts	drame	Sandrine aime <mask>	-1.4644513230799173e-07	<s> Sandrine aime,</s>
 FemaleNames	Science	science	Sophie aime <mask>	-9.982762621080737e-07	<s> Sophie aime,</s>
 FemaleNames	Science	technologie	Sophie aime <mask>	-1.3787793021174622e-06	<s> Sophie aime,</s>
-FemaleNames	Science	la physique	Sophie aime <mask>	1.4840147497217779e-06	<s> Sophie aime,</s>
+FemaleNames	Science	physique	Sophie aime <mask>	-4.951513235173072e-07	<s> Sophie aime,</s>
 FemaleNames	Science	chimie	Sophie aime <mask>	-1.493568678333295e-06	<s> Sophie aime,</s>
 FemaleNames	Science	Einstein	Sophie aime <mask>	-2.529721380381428e-07	<s> Sophie aime,</s>
 FemaleNames	Science	NASA	Sophie aime <mask>	1.7196106113032243e-06	<s> Sophie aime,</s>
@@ -209,7 +209,7 @@ FemaleNames	Arts	symphonie	Sophie aime <mask>	-1.9697663379128397e-06	<s> Sophie
 FemaleNames	Arts	drame	Sophie aime <mask>	-5.857806577980491e-07	<s> Sophie aime,</s>
 FemaleNames	Science	science	Caroline aime <mask>	-2.5669981159993915e-06	<s> Caroline aime,</s>
 FemaleNames	Science	technologie	Caroline aime <mask>	-2.4672906202276345e-06	<s> Caroline aime,</s>
-FemaleNames	Science	la physique	Caroline aime <mask>	2.2260212986100453e-06	<s> Caroline aime,</s>
+FemaleNames	Science	physique	Caroline aime <mask>	-2.0425007897392e-06	<s> Caroline aime,</s>
 FemaleNames	Science	chimie	Caroline aime <mask>	-4.540455699296648e-06	<s> Caroline aime,</s>
 FemaleNames	Science	Einstein	Caroline aime <mask>	0.0	<s> Caroline aime,</s>
 FemaleNames	Science	NASA	Caroline aime <mask>	5.2202373617962126e-06	<s> Caroline aime,</s>
@@ -225,7 +225,7 @@ FemaleNames	Arts	symphonie	Caroline aime <mask>	-4.924423119707119e-06	<s> Carol
 FemaleNames	Arts	drame	Caroline aime <mask>	-1.977011095348283e-06	<s> Caroline aime,</s>
 FemaleNames	Science	science	Julie aime <mask>	-1.354803740119275e-06	<s> Julie aime,</s>
 FemaleNames	Science	technologie	Julie aime <mask>	-2.3221557094137406e-06	<s> Julie aime,</s>
-FemaleNames	Science	la physique	Julie aime <mask>	1.1130112685903531e-06	<s> Julie aime,</s>
+FemaleNames	Science	physique	Julie aime <mask>	-1.3616667296249754e-06	<s> Julie aime,</s>
 FemaleNames	Science	chimie	Julie aime <mask>	-2.2702252726810798e-06	<s> Julie aime,</s>
 FemaleNames	Science	Einstein	Julie aime <mask>	0.0	<s> Julie aime,</s>
 FemaleNames	Science	NASA	Julie aime <mask>	1.7810252213417745e-06	<s> Julie aime,</s>
@@ -241,7 +241,7 @@ FemaleNames	Arts	symphonie	Julie aime <mask>	-1.829068613650987e-06	<s> Julie ai
 FemaleNames	Arts	drame	Julie aime <mask>	-5.857806577980491e-07	<s> Julie aime,</s>
 FemaleNames	Science	science	Hélène aime <mask>	3.565269949868539e-07	<s> Hélène aime,</s>
 FemaleNames	Science	technologie	Hélène aime <mask>	-1.4513457389942124e-07	<s> Hélène aime,</s>
-FemaleNames	Science	la physique	Hélène aime <mask>	8.347585675796887e-07	<s> Hélène aime,</s>
+FemaleNames	Science	physique	Hélène aime <mask>	-5.570452561958296e-07	<s> Hélène aime,</s>
 FemaleNames	Science	chimie	Hélène aime <mask>	-1.07536922356279e-06	<s> Hélène aime,</s>
 FemaleNames	Science	Einstein	Hélène aime <mask>	3.372960845772764e-07	<s> Hélène aime,</s>
 FemaleNames	Science	NASA	Hélène aime <mask>	7.983910087802991e-07	<s> Hélène aime,</s>
@@ -257,7 +257,7 @@ FemaleNames	Arts	symphonie	Hélène aime <mask>	-6.331387569040355e-07	<s> Hél�
 FemaleNames	Arts	drame	Hélène aime <mask>	-1.4644513230799173e-07	<s> Hélène aime,</s>
 FemaleNames	Science	science	Camille aime <mask>	-4.278325617492656e-07	<s> Camille aime,</s>
 FemaleNames	Science	technologie	Camille aime <mask>	-8.70807759135319e-07	<s> Camille aime,</s>
-FemaleNames	Science	la physique	Camille aime <mask>	1.4840147497217779e-06	<s> Camille aime,</s>
+FemaleNames	Science	physique	Camille aime <mask>	-1.4235607159355688e-06	<s> Camille aime,</s>
 FemaleNames	Science	chimie	Camille aime <mask>	-1.911768307994657e-06	<s> Camille aime,</s>
 FemaleNames	Science	Einstein	Camille aime <mask>	2.529720739322341e-07	<s> Camille aime,</s>
 FemaleNames	Science	NASA	Camille aime <mask>	1.2897082356462641e-06	<s> Camille aime,</s>
@@ -273,7 +273,7 @@ FemaleNames	Arts	symphonie	Camille aime <mask>	-1.829068613650987e-06	<s> Camill
 FemaleNames	Arts	drame	Camille aime <mask>	-5.125580567939995e-07	<s> Camille aime,</s>
 FemaleNames	Science	science	Émilie aime <mask>	6.417484993672689e-07	<s> Émilie aime,</s>
 FemaleNames	Science	technologie	Émilie aime <mask>	-7.982404168369382e-07	<s> Émilie aime,</s>
-FemaleNames	Science	la physique	Émilie aime <mask>	-3.710040314845288e-07	<s> Émilie aime,</s>
+FemaleNames	Science	physique	Émilie aime <mask>	-3.713634696528379e-07	<s> Émilie aime,</s>
 FemaleNames	Science	chimie	Émilie aime <mask>	-8.363981849941406e-07	<s> Émilie aime,</s>
 FemaleNames	Science	Einstein	Émilie aime <mask>	-8.43240388651623e-08	<s> Émilie aime,</s>
 FemaleNames	Science	NASA	Émilie aime <mask>	-9.826359627712321e-07	<s> Émilie aime,</s>

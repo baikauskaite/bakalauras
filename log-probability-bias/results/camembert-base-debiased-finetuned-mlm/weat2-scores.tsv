@@ -1549,56 +1549,56 @@ Unpleasant	Weapons	grenade	<mask> est accident	-7.745659306107179e-07	<s>, est a
 Unpleasant	Weapons	masse	<mask> est accident	-2.8915346323373687e-07	<s>, est accident</s>
 Unpleasant	Weapons	Lance-pierres	<mask> est accident	-1.8045593093782333e-07	<s>,,,, est accident</s>
 Unpleasant	Weapons	fouet	<mask> est accident	-3.2403939741296797e-07	<s>, est accident</s>
-Unpleasant	Instruments	cornemuse	<mask> est la mort	1.080857859509079e-06	<s>,,, est la mort</s>
-Unpleasant	Instruments	violoncelle	<mask> est la mort	-5.384670220602592e-07	<s>, est la mort</s>
-Unpleasant	Instruments	guitare	<mask> est la mort	3.565781265120666e-07	<s>, est la mort</s>
-Unpleasant	Instruments	luth	<mask> est la mort	1.0614608098920874e-06	<s>,, est la mort</s>
-Unpleasant	Instruments	trombone	<mask> est la mort	-1.9135359229423909e-07	<s>,,, est la mort</s>
-Unpleasant	Instruments	banjo	<mask> est la mort	-2.422430460209833e-06	<s>,, est la mort</s>
-Unpleasant	Instruments	clarinette	<mask> est la mort	-1.0470564991058086e-06	<s>,,, est la mort</s>
-Unpleasant	Instruments	harmonica	<mask> est la mort	-7.36739007632144e-07	<s>,,, est la mort</s>
-Unpleasant	Instruments	mandoline	<mask> est la mort	-1.3032246919271133e-06	<s>,,, est la mort</s>
-Unpleasant	Instruments	trompette	<mask> est la mort	8.493613851249988e-08	<s>, est la mort</s>
-Unpleasant	Instruments	basson	<mask> est la mort	-9.214632848953834e-07	<s>,, est la mort</s>
-Unpleasant	Instruments	tambour	<mask> est la mort	-2.5480945413758914e-07	<s>, est la mort</s>
-Unpleasant	Instruments	harpe	<mask> est la mort	-1.6381372844181852e-06	<s>,, est la mort</s>
-Unpleasant	Instruments	hautbois	<mask> est la mort	-1.2266727955269446e-06	<s>,, est la mort</s>
-Unpleasant	Instruments	tuba	<mask> est la mort	-6.682624774871226e-07	<s>,, est la mort</s>
-Unpleasant	Instruments	cloche	<mask> est la mort	2.2157858557819036e-07	<s>, est la mort</s>
-Unpleasant	Instruments	violon	<mask> est la mort	-5.624653756965283e-07	<s>, est la mort</s>
-Unpleasant	Instruments	clavecin	<mask> est la mort	2.1045473902805055e-07	<s>,,, est la mort</s>
-Unpleasant	Instruments	piano	<mask> est la mort	5.965041871049146e-07	<s>, est la mort</s>
-Unpleasant	Instruments	alto	<mask> est la mort	1.9902121368132376e-06	<s>,, est la mort</s>
-Unpleasant	Instruments	bongo	<mask> est la mort	-1.2415196448362216e-06	<s>,, est la mort</s>
-Unpleasant	Instruments	flûte	<mask> est la mort	3.6235146535320255e-07	<s>, est la mort</s>
-Unpleasant	Instruments	corne	<mask> est la mort	-2.66748386540645e-07	<s>, est la mort</s>
-Unpleasant	Instruments	saxophone	<mask> est la mort	2.2505428031119134e-07	<s>, est la mort</s>
-Unpleasant	Instruments	violon	<mask> est la mort	-5.624653756965283e-07	<s>, est la mort</s>
-Unpleasant	Weapons	flèche	<mask> est la mort	-4.0921884116562177e-07	<s>, est la mort</s>
-Unpleasant	Weapons	club	<mask> est la mort	-2.718653483296224e-07	<s>, est la mort</s>
-Unpleasant	Weapons	pistolet	<mask> est la mort	-1.5707902135908514e-07	<s>, est la mort</s>
-Unpleasant	Weapons	missile	<mask> est la mort	-3.3512474260009933e-07	<s>, est la mort</s>
-Unpleasant	Weapons	lance	<mask> est la mort	1.7849502637203537e-07	<s>, est la mort</s>
-Unpleasant	Weapons	hache	<mask> est la mort	1.4832374139141052e-07	<s>, est la mort</s>
-Unpleasant	Weapons	dague	<mask> est la mort	7.92259483928465e-07	<s>,, est la mort</s>
-Unpleasant	Weapons	harpon	<mask> est la mort	-2.0711126897068635e-06	<s>,, est la mort</s>
-Unpleasant	Weapons	pistolet	<mask> est la mort	-1.5707902135908514e-07	<s>, est la mort</s>
-Unpleasant	Weapons	épée	<mask> est la mort	0.0	<s>, est la mort</s>
-Unpleasant	Weapons	lame	<mask> est la mort	-3.4861631218878863e-07	<s>, est la mort</s>
-Unpleasant	Weapons	dynamiter	<mask> est la mort	4.415924052848068e-07	<s>,,, est la mort</s>
-Unpleasant	Weapons	hachette	<mask> est la mort	-9.425203938148796e-07	<s>,, est la mort</s>
-Unpleasant	Weapons	fusil	<mask> est la mort	7.152578844744204e-07	<s>, est la mort</s>
-Unpleasant	Weapons	réservoir	<mask> est la mort	0.0	<s>, est la mort</s>
-Unpleasant	Weapons	bombe	<mask> est la mort	3.873780607601482e-07	<s>, est la mort</s>
-Unpleasant	Weapons	arme à feu	<mask> est la mort	1.2187234702376335e-06	<s>,,, est la mort</s>
-Unpleasant	Weapons	couteau	<mask> est la mort	2.1470634696700598e-07	<s>, est la mort</s>
-Unpleasant	Weapons	fusil à pompe	<mask> est la mort	1.3236808206307664e-06	<s>,,, est la mort</s>
-Unpleasant	Weapons	gaz lacrymogène	<mask> est la mort	9.267755773699393e-07	<s>,,,,, est la mort</s>
-Unpleasant	Weapons	canon	<mask> est la mort	2.033224446386211e-07	<s>, est la mort</s>
-Unpleasant	Weapons	grenade	<mask> est la mort	1.4083035256620767e-07	<s>, est la mort</s>
-Unpleasant	Weapons	masse	<mask> est la mort	3.855380066960369e-07	<s>, est la mort</s>
-Unpleasant	Weapons	Lance-pierres	<mask> est la mort	6.015202221296294e-07	<s>,,,, est la mort</s>
-Unpleasant	Weapons	fouet	<mask> est la mort	1.0801314414634888e-07	<s>, est la mort</s>
+Unpleasant	Instruments	cornemuse	<mask> est mort	1.3690864249471123e-06	<s>,,, est mort</s>
+Unpleasant	Instruments	violoncelle	<mask> est mort	-1.1965937046600544e-07	<s>, est mort</s>
+Unpleasant	Instruments	guitare	<mask> est mort	-9.271033273234159e-07	<s>, est mort</s>
+Unpleasant	Instruments	luth	<mask> est mort	-2.1229219204422779e-07	<s>,, est mort</s>
+Unpleasant	Instruments	trombone	<mask> est mort	-4.783839120008202e-07	<s>,,, est mort</s>
+Unpleasant	Instruments	banjo	<mask> est mort	3.4606141448629724e-07	<s>,, est mort</s>
+Unpleasant	Instruments	clarinette	<mask> est mort	-1.884702882343048e-06	<s>,,, est mort</s>
+Unpleasant	Instruments	harmonica	<mask> est mort	-1.6074312619355532e-06	<s>,,, est mort</s>
+Unpleasant	Instruments	mandoline	<mask> est mort	-2.0272385564028115e-06	<s>,,, est mort</s>
+Unpleasant	Instruments	trompette	<mask> est mort	-3.3974448152938484e-07	<s>, est mort</s>
+Unpleasant	Instruments	basson	<mask> est mort	-2.457235501660113e-07	<s>,, est mort</s>
+Unpleasant	Instruments	tambour	<mask> est mort	2.548093890987255e-07	<s>, est mort</s>
+Unpleasant	Instruments	harpe	<mask> est mort	4.310887963334628e-07	<s>,, est mort</s>
+Unpleasant	Instruments	hautbois	<mask> est mort	0.0	<s>,, est mort</s>
+Unpleasant	Instruments	tuba	<mask> est mort	0.0	<s>,, est mort</s>
+Unpleasant	Instruments	cloche	<mask> est mort	1.4771898612402392e-07	<s>, est mort</s>
+Unpleasant	Instruments	violon	<mask> est mort	-2.410566670381722e-07	<s>, est mort</s>
+Unpleasant	Instruments	clavecin	<mask> est mort	0.0	<s>,,, est mort</s>
+Unpleasant	Instruments	piano	<mask> est mort	8.947558805506262e-07	<s>, est mort</s>
+Unpleasant	Instruments	alto	<mask> est mort	1.9902119392677925e-07	<s>,, est mort</s>
+Unpleasant	Instruments	bongo	<mask> est mort	3.7245600906176296e-07	<s>,, est mort</s>
+Unpleasant	Instruments	flûte	<mask> est mort	-1.014584286798077e-06	<s>, est mort</s>
+Unpleasant	Instruments	corne	<mask> est mort	-1.0669925498946422e-06	<s>, est mort</s>
+Unpleasant	Instruments	saxophone	<mask> est mort	-3.3758140141455194e-07	<s>, est mort</s>
+Unpleasant	Instruments	violon	<mask> est mort	-2.410566670381722e-07	<s>, est mort</s>
+Unpleasant	Weapons	flèche	<mask> est mort	4.092187573053899e-07	<s>, est mort</s>
+Unpleasant	Weapons	club	<mask> est mort	4.077977454670399e-07	<s>, est mort</s>
+Unpleasant	Weapons	pistolet	<mask> est mort	-1.5707894730719777e-07	<s>, est mort</s>
+Unpleasant	Weapons	missile	<mask> est mort	1.6756232929535894e-07	<s>, est mort</s>
+Unpleasant	Weapons	lance	<mask> est mort	-8.924750126389986e-08	<s>, est mort</s>
+Unpleasant	Weapons	hache	<mask> est mort	0.0	<s>, est mort</s>
+Unpleasant	Weapons	dague	<mask> est mort	3.5211534173076004e-07	<s>,, est mort</s>
+Unpleasant	Weapons	harpon	<mask> est mort	2.5888911971445836e-07	<s>,, est mort</s>
+Unpleasant	Weapons	pistolet	<mask> est mort	-1.5707894730719777e-07	<s>, est mort</s>
+Unpleasant	Weapons	épée	<mask> est mort	-4.879185750036519e-07	<s>, est mort</s>
+Unpleasant	Weapons	lame	<mask> est mort	-2.091697144425519e-07	<s>, est mort</s>
+Unpleasant	Weapons	dynamiter	<mask> est mort	5.299107691941282e-07	<s>,,, est mort</s>
+Unpleasant	Weapons	hachette	<mask> est mort	-3.534452101667181e-07	<s>,, est mort</s>
+Unpleasant	Weapons	fusil	<mask> est mort	-1.4955401853509252e-06	<s>, est mort</s>
+Unpleasant	Weapons	réservoir	<mask> est mort	-1.9246334701771917e-07	<s>, est mort</s>
+Unpleasant	Weapons	bombe	<mask> est mort	-9.68445339240383e-07	<s>, est mort</s>
+Unpleasant	Weapons	arme à feu	<mask> est mort	1.4403095557686644e-06	<s>,,, est mort</s>
+Unpleasant	Weapons	couteau	<mask> est mort	-1.431375390738392e-07	<s>, est mort</s>
+Unpleasant	Weapons	fusil à pompe	<mask> est mort	2.36869108701188e-06	<s>,,, est mort</s>
+Unpleasant	Weapons	gaz lacrymogène	<mask> est mort	9.267748259716926e-07	<s>,,,,, est mort</s>
+Unpleasant	Weapons	canon	<mask> est mort	4.066447100475905e-07	<s>, est mort</s>
+Unpleasant	Weapons	grenade	<mask> est mort	-1.4083012459758465e-07	<s>, est mort</s>
+Unpleasant	Weapons	masse	<mask> est mort	-9.638452026319063e-07	<s>, est mort</s>
+Unpleasant	Weapons	Lance-pierres	<mask> est mort	6.015196981676936e-08	<s>,,,, est mort</s>
+Unpleasant	Weapons	fouet	<mask> est mort	0.0	<s>, est mort</s>
 Unpleasant	Instruments	cornemuse	<mask> est chagrin	-5.044007342698362e-07	<s>,,, est chagrin</s>
 Unpleasant	Instruments	violoncelle	<mask> est chagrin	1.196593561476422e-07	<s>, est chagrin</s>
 Unpleasant	Instruments	guitare	<mask> est chagrin	-2.0681547563485512e-06	<s>, est chagrin</s>
@@ -1949,56 +1949,56 @@ Unpleasant	Weapons	grenade	<mask> est polluer	-1.6195476300762765e-06	<s>, est p
 Unpleasant	Weapons	masse	<mask> est polluer	-9.63844784916172e-08	<s>, est polluer</s>
 Unpleasant	Weapons	Lance-pierres	<mask> est polluer	1.804558983734862e-07	<s>,,,, est polluer</s>
 Unpleasant	Weapons	fouet	<mask> est polluer	-2.16026253238134e-07	<s>, est polluer</s>
-Unpleasant	Instruments	cornemuse	<mask> est la tragédie	-3.602862128187924e-07	<s>,,, est la tragédie</s>
-Unpleasant	Instruments	violoncelle	<mask> est la tragédie	8.37614791335839e-07	<s>, est la tragédie</s>
-Unpleasant	Instruments	guitare	<mask> est la tragédie	2.5673596732153784e-06	<s>, est la tragédie</s>
-Unpleasant	Instruments	luth	<mask> est la tragédie	3.538203952268421e-07	<s>,, est la tragédie</s>
-Unpleasant	Instruments	trombone	<mask> est la tragédie	4.783838204842847e-07	<s>,,, est la tragédie</s>
-Unpleasant	Instruments	banjo	<mask> est la tragédie	-2.307076495716682e-06	<s>,, est la tragédie</s>
-Unpleasant	Instruments	clarinette	<mask> est la tragédie	6.28233373160166e-07	<s>,,, est la tragédie</s>
-Unpleasant	Instruments	harmonica	<mask> est la tragédie	6.697624652637048e-08	<s>,,, est la tragédie</s>
-Unpleasant	Instruments	mandoline	<mask> est la tragédie	5.792104290759207e-07	<s>,,, est la tragédie</s>
-Unpleasant	Instruments	trompette	<mask> est la tragédie	-1.7836605734562676e-06	<s>, est la tragédie</s>
-Unpleasant	Instruments	basson	<mask> est la tragédie	-9.828942007895248e-07	<s>,, est la tragédie</s>
-Unpleasant	Instruments	tambour	<mask> est la tragédie	-1.7836675423386232e-06	<s>, est la tragédie</s>
-Unpleasant	Instruments	harpe	<mask> est la tragédie	-1.5519194656817894e-06	<s>,, est la tragédie</s>
-Unpleasant	Instruments	hautbois	<mask> est la tragédie	-1.2266727955269446e-06	<s>,, est la tragédie</s>
-Unpleasant	Instruments	tuba	<mask> est la tragédie	-6.682624774871226e-07	<s>,, est la tragédie</s>
-Unpleasant	Instruments	cloche	<mask> est la tragédie	-1.6249111284295042e-06	<s>, est la tragédie</s>
-Unpleasant	Instruments	violon	<mask> est la tragédie	8.035214165441765e-07	<s>, est la tragédie</s>
-Unpleasant	Instruments	clavecin	<mask> est la tragédie	1.0522737505042492e-07	<s>,,, est la tragédie</s>
-Unpleasant	Instruments	piano	<mask> est la tragédie	-2.3860203070425687e-06	<s>, est la tragédie</s>
-Unpleasant	Instruments	alto	<mask> est la tragédie	1.8907016240116411e-06	<s>,, est la tragédie</s>
-Unpleasant	Instruments	bongo	<mask> est la tragédie	-1.1173676110796982e-06	<s>,, est la tragédie</s>
-Unpleasant	Instruments	flûte	<mask> est la tragédie	2.681397734468402e-06	<s>, est la tragédie</s>
-Unpleasant	Instruments	corne	<mask> est la tragédie	-2.3118217136806167e-06	<s>, est la tragédie</s>
-Unpleasant	Instruments	saxophone	<mask> est la tragédie	-5.62635922258308e-07	<s>, est la tragédie</s>
-Unpleasant	Instruments	violon	<mask> est la tragédie	8.035214165441765e-07	<s>, est la tragédie</s>
-Unpleasant	Weapons	flèche	<mask> est la tragédie	-2.762230427395476e-06	<s>, est la tragédie</s>
-Unpleasant	Weapons	club	<mask> est la tragédie	-1.2913610630005215e-06	<s>, est la tragédie</s>
-Unpleasant	Weapons	pistolet	<mask> est la tragédie	0.0	<s>, est la tragédie</s>
-Unpleasant	Weapons	missile	<mask> est la tragédie	-1.8431874743429836e-06	<s>, est la tragédie</s>
-Unpleasant	Weapons	lance	<mask> est la tragédie	-1.2494660763652608e-06	<s>, est la tragédie</s>
-Unpleasant	Weapons	hache	<mask> est la tragédie	-5.191332684525389e-07	<s>, est la tragédie</s>
-Unpleasant	Weapons	dague	<mask> est la tragédie	8.802882767307087e-07	<s>,, est la tragédie</s>
-Unpleasant	Weapons	harpon	<mask> est la tragédie	-1.8122233689803168e-06	<s>,, est la tragédie</s>
-Unpleasant	Weapons	pistolet	<mask> est la tragédie	0.0	<s>, est la tragédie</s>
-Unpleasant	Weapons	épée	<mask> est la tragédie	-6.830864715436044e-07	<s>, est la tragédie</s>
-Unpleasant	Weapons	lame	<mask> est la tragédie	-1.3944651029151583e-07	<s>, est la tragédie</s>
-Unpleasant	Weapons	dynamiter	<mask> est la tragédie	0.0	<s>,,, est la tragédie</s>
-Unpleasant	Weapons	hachette	<mask> est la tragédie	-7.068902120788317e-07	<s>,, est la tragédie</s>
-Unpleasant	Weapons	fusil	<mask> est la tragédie	4.226516442395951e-06	<s>, est la tragédie</s>
-Unpleasant	Weapons	réservoir	<mask> est la tragédie	-1.6359399453963342e-06	<s>, est la tragédie</s>
-Unpleasant	Weapons	bombe	<mask> est la tragédie	2.711643273363194e-06	<s>, est la tragédie</s>
-Unpleasant	Weapons	arme à feu	<mask> est la tragédie	-5.539657047587855e-07	<s>,,, est la tragédie</s>
-Unpleasant	Weapons	couteau	<mask> est la tragédie	-7.87257000168945e-07	<s>, est la tragédie</s>
-Unpleasant	Weapons	fusil à pompe	<mask> est la tragédie	-4.876723229757774e-07	<s>,,, est la tragédie</s>
-Unpleasant	Weapons	gaz lacrymogène	<mask> est la tragédie	1.1584693375628456e-06	<s>,,,,, est la tragédie</s>
-Unpleasant	Weapons	canon	<mask> est la tragédie	-1.2877097760155317e-06	<s>, est la tragédie</s>
-Unpleasant	Weapons	grenade	<mask> est la tragédie	-3.3095189970182527e-06	<s>, est la tragédie</s>
-Unpleasant	Weapons	masse	<mask> est la tragédie	2.6987629256688706e-06	<s>, est la tragédie</s>
-Unpleasant	Weapons	Lance-pierres	<mask> est la tragédie	3.1279012035800214e-06	<s>,,,, est la tragédie</s>
-Unpleasant	Weapons	fouet	<mask> est la tragédie	-4.32052693142804e-07	<s>, est la tragédie</s>
+Unpleasant	Instruments	cornemuse	<mask> est tragédie	5.044004798498639e-07	<s>,,, est tragédie</s>
+Unpleasant	Instruments	violoncelle	<mask> est tragédie	3.589780254878507e-07	<s>, est tragédie</s>
+Unpleasant	Instruments	guitare	<mask> est tragédie	-1.5689445959085225e-06	<s>, est tragédie</s>
+Unpleasant	Instruments	luth	<mask> est tragédie	9.199323112955012e-07	<s>,, est tragédie</s>
+Unpleasant	Instruments	trombone	<mask> est tragédie	1.913535007220196e-07	<s>,,, est tragédie</s>
+Unpleasant	Instruments	banjo	<mask> est tragédie	-2.0763710018501092e-06	<s>,, est tragédie</s>
+Unpleasant	Instruments	clarinette	<mask> est tragédie	-6.282338993990962e-07	<s>,,, est tragédie</s>
+Unpleasant	Instruments	harmonica	<mask> est tragédie	-4.688338511765058e-07	<s>,,, est tragédie</s>
+Unpleasant	Instruments	mandoline	<mask> est tragédie	-7.964146570589056e-07	<s>,,, est tragédie</s>
+Unpleasant	Instruments	trompette	<mask> est tragédie	8.493606990002205e-07	<s>, est tragédie</s>
+Unpleasant	Instruments	basson	<mask> est tragédie	-1.0443255053721486e-06	<s>,, est tragédie</s>
+Unpleasant	Instruments	tambour	<mask> est tragédie	2.548093890987255e-07	<s>, est tragédie</s>
+Unpleasant	Instruments	harpe	<mask> est tragédie	-8.621781499579323e-07	<s>,, est tragédie</s>
+Unpleasant	Instruments	hautbois	<mask> est tragédie	-7.806103089789988e-07	<s>,, est tragédie</s>
+Unpleasant	Instruments	tuba	<mask> est tragédie	-8.353285852461705e-07	<s>,, est tragédie</s>
+Unpleasant	Instruments	cloche	<mask> est tragédie	8.863135898749266e-07	<s>, est tragédie</s>
+Unpleasant	Instruments	violon	<mask> est tragédie	2.4105660892986953e-07	<s>, est tragédie</s>
+Unpleasant	Instruments	clavecin	<mask> est tragédie	0.0	<s>,,, est tragédie</s>
+Unpleasant	Instruments	piano	<mask> est tragédie	1.1930076626777635e-06	<s>, est tragédie</s>
+Unpleasant	Instruments	alto	<mask> est tragédie	1.5921684419070515e-06	<s>,, est tragédie</s>
+Unpleasant	Instruments	bongo	<mask> est tragédie	-4.345321859402001e-07	<s>,, est tragédie</s>
+Unpleasant	Instruments	flûte	<mask> est tragédie	-1.6668175860942954e-06	<s>, est tragédie</s>
+Unpleasant	Instruments	corne	<mask> est tragédie	6.224117949173063e-07	<s>, est tragédie</s>
+Unpleasant	Instruments	saxophone	<mask> est tragédie	-1.1252712117950271e-07	<s>, est tragédie</s>
+Unpleasant	Instruments	violon	<mask> est tragédie	2.4105660892986953e-07	<s>, est tragédie</s>
+Unpleasant	Weapons	flèche	<mask> est tragédie	7.161327156108949e-07	<s>, est tragédie</s>
+Unpleasant	Weapons	club	<mask> est tragédie	6.796628166494136e-07	<s>, est tragédie</s>
+Unpleasant	Weapons	pistolet	<mask> est tragédie	0.0	<s>, est tragédie</s>
+Unpleasant	Weapons	missile	<mask> est tragédie	1.4242789032755433e-06	<s>, est tragédie</s>
+Unpleasant	Weapons	lance	<mask> est tragédie	7.139797229230617e-07	<s>, est tragédie</s>
+Unpleasant	Weapons	hache	<mask> est tragédie	3.7080936751774757e-07	<s>, est tragédie</s>
+Unpleasant	Weapons	dague	<mask> est tragédie	1.408460623012368e-06	<s>,, est tragédie</s>
+Unpleasant	Weapons	harpon	<mask> est tragédie	-1.4670396111988606e-06	<s>,, est tragédie</s>
+Unpleasant	Weapons	pistolet	<mask> est tragédie	0.0	<s>, est tragédie</s>
+Unpleasant	Weapons	épée	<mask> est tragédie	-1.9516740141151295e-07	<s>, est tragédie</s>
+Unpleasant	Weapons	lame	<mask> est tragédie	-6.275092744725874e-07	<s>, est tragédie</s>
+Unpleasant	Weapons	dynamiter	<mask> est tragédie	-1.766369854289255e-07	<s>,,, est tragédie</s>
+Unpleasant	Weapons	hachette	<mask> est tragédie	-8.247056846405481e-07	<s>,, est tragédie</s>
+Unpleasant	Weapons	fusil	<mask> est tragédie	-2.0807521710580043e-06	<s>, est tragédie</s>
+Unpleasant	Weapons	réservoir	<mask> est tragédie	4.811582054294869e-07	<s>, est tragédie</s>
+Unpleasant	Weapons	bombe	<mask> est tragédie	-1.6463576346626587e-06	<s>, est tragédie</s>
+Unpleasant	Weapons	arme à feu	<mask> est tragédie	6.647585142173673e-07	<s>,,, est tragédie</s>
+Unpleasant	Weapons	couteau	<mask> est tragédie	-2.862750986360364e-07	<s>, est tragédie</s>
+Unpleasant	Weapons	fusil à pompe	<mask> est tragédie	9.753440683704166e-07	<s>,,, est tragédie</s>
+Unpleasant	Weapons	gaz lacrymogène	<mask> est tragédie	5.79234366802734e-07	<s>,,,,, est tragédie</s>
+Unpleasant	Weapons	canon	<mask> est tragédie	1.2199336342853914e-06	<s>, est tragédie</s>
+Unpleasant	Weapons	grenade	<mask> est tragédie	1.6195450071459984e-06	<s>, est tragédie</s>
+Unpleasant	Weapons	masse	<mask> est tragédie	-1.6385373971283036e-06	<s>, est tragédie</s>
+Unpleasant	Weapons	Lance-pierres	<mask> est tragédie	-1.4436483593050136e-06	<s>,,,, est tragédie</s>
+Unpleasant	Weapons	fouet	<mask> est tragédie	2.1602620668182426e-07	<s>, est tragédie</s>
 Unpleasant	Instruments	cornemuse	<mask> est divorce	-5.044007342698362e-07	<s>,,, est divorce</s>
 Unpleasant	Instruments	violoncelle	<mask> est divorce	1.196593561476422e-07	<s>, est divorce</s>
 Unpleasant	Instruments	guitare	<mask> est divorce	-1.4263122523280592e-07	<s>, est divorce</s>

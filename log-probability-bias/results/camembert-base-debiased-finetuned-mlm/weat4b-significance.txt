@@ -11,4 +11,4 @@ Test statistic,	 1067.0
 p-value,	 0.16571744660475174
 
 Effect size,	 0.14925985240464235
-Permutation test p-value,	 0.20528
+Permutation test p-value,	 0.2008

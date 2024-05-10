@@ -1,7 +1,7 @@
 attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
 MaleTerms	Science	science	garçon aime <mask>	-2.1391625793903404e-07	<s> garçon aime,</s>
 MaleTerms	Science	technologie	garçon aime <mask>	-5.805384217599504e-07	<s> garçon aime,</s>
-MaleTerms	Science	la physique	garçon aime <mask>	8.347585675796887e-07	<s> garçon aime,</s>
+MaleTerms	Science	physique	garçon aime <mask>	-6.189391927052111e-07	<s> garçon aime,</s>
 MaleTerms	Science	chimie	garçon aime <mask>	-2.1507396035457905e-06	<s> garçon aime,</s>
 MaleTerms	Science	Einstein	garçon aime <mask>	3.372960845772764e-07	<s> garçon aime,</s>
 MaleTerms	Science	NASA	garçon aime <mask>	1.2897082356462641e-06	<s> garçon aime,</s>
@@ -17,7 +17,7 @@ MaleTerms	Arts	symphonie	garçon aime <mask>	-1.6883709091849808e-06	<s> garçon
 MaleTerms	Arts	drame	garçon aime <mask>	-7.322258758907982e-07	<s> garçon aime,</s>
 MaleTerms	Science	science	père aime <mask>	-7.843598363816349e-07	<s> père aime,</s>
 MaleTerms	Science	technologie	père aime <mask>	-8.70807759135319e-07	<s> père aime,</s>
-MaleTerms	Science	la physique	père aime <mask>	6.492567238922555e-07	<s> père aime,</s>
+MaleTerms	Science	physique	père aime <mask>	-1.3616667296249754e-06	<s> père aime,</s>
 MaleTerms	Science	chimie	père aime <mask>	-2.2702252726810798e-06	<s> père aime,</s>
 MaleTerms	Science	Einstein	père aime <mask>	-2.529721380381428e-07	<s> père aime,</s>
 MaleTerms	Science	NASA	père aime <mask>	1.0440496523873587e-06	<s> père aime,</s>
@@ -33,7 +33,7 @@ MaleTerms	Arts	symphonie	père aime <mask>	-1.829068613650987e-06	<s> père aime
 MaleTerms	Arts	drame	père aime <mask>	-8.054484929794993e-07	<s> père aime,</s>
 MaleTerms	Science	science	masculin aime <mask>	-9.982762621080737e-07	<s> masculin aime,</s>
 MaleTerms	Science	technologie	masculin aime <mask>	-1.9593185243125567e-06	<s> masculin aime,</s>
-MaleTerms	Science	la physique	masculin aime <mask>	2.040519713004258e-06	<s> masculin aime,</s>
+MaleTerms	Science	physique	masculin aime <mask>	-1.4854547060770281e-06	<s> masculin aime,</s>
 MaleTerms	Science	chimie	masculin aime <mask>	-2.4494538032085758e-06	<s> masculin aime,</s>
 MaleTerms	Science	Einstein	masculin aime <mask>	8.432403175461936e-08	<s> masculin aime,</s>
 MaleTerms	Science	NASA	masculin aime <mask>	2.702243918865707e-06	<s> masculin aime,</s>
@@ -49,7 +49,7 @@ MaleTerms	Arts	symphonie	masculin aime <mask>	-2.4622085286106764e-06	<s> mascul
 MaleTerms	Arts	drame	masculin aime <mask>	-6.590032641636485e-07	<s> masculin aime,</s>
 MaleTerms	Science	science	mari aime <mask>	-6.417489112086696e-07	<s> mari aime,</s>
 MaleTerms	Science	technologie	mari aime <mask>	-1.0885098174045368e-06	<s> mari aime,</s>
-MaleTerms	Science	la physique	mari aime <mask>	1.2985130262504911e-06	<s> mari aime,</s>
+MaleTerms	Science	physique	mari aime <mask>	-1.6711366994866054e-06	<s> mari aime,</s>
 MaleTerms	Science	chimie	mari aime <mask>	-3.1663682464363716e-06	<s> mari aime,</s>
 MaleTerms	Science	Einstein	mari aime <mask>	8.432403175461936e-08	<s> mari aime,</s>
 MaleTerms	Science	NASA	mari aime <mask>	2.45658568238607e-06	<s> mari aime,</s>
@@ -65,7 +65,7 @@ MaleTerms	Arts	symphonie	mari aime <mask>	-1.6883709091849808e-06	<s> mari aime,
 MaleTerms	Arts	drame	mari aime <mask>	-8.054484929794993e-07	<s> mari aime,</s>
 MaleTerms	Science	science	fils aime <mask>	-1.212192733705782e-06	<s> fils aime,</s>
 MaleTerms	Science	technologie	fils aime <mask>	-1.2336445491734415e-06	<s> fils aime,</s>
-MaleTerms	Science	la physique	fils aime <mask>	1.576765598442317e-06	<s> fils aime,</s>
+MaleTerms	Science	physique	fils aime <mask>	-8.665149770513382e-07	<s> fils aime,</s>
 MaleTerms	Science	chimie	fils aime <mask>	-2.6884252271401358e-06	<s> fils aime,</s>
 MaleTerms	Science	Einstein	fils aime <mask>	8.432403175461936e-08	<s> fils aime,</s>
 MaleTerms	Science	NASA	fils aime <mask>	2.45658568238607e-06	<s> fils aime,</s>
@@ -81,7 +81,7 @@ MaleTerms	Arts	symphonie	fils aime <mask>	-2.251161845713086e-06	<s> fils aime,<
 MaleTerms	Arts	drame	fils aime <mask>	-5.857806577980491e-07	<s> fils aime,</s>
 MaleTerms	Science	science	oncle aime <mask>	0.0	<s> oncle aime,</s>
 MaleTerms	Science	technologie	oncle aime <mask>	-9.433751065886968e-07	<s> oncle aime,</s>
-MaleTerms	Science	la physique	oncle aime <mask>	5.56505789144437e-07	<s> oncle aime,</s>
+MaleTerms	Science	physique	oncle aime <mask>	-9.90302892209569e-07	<s> oncle aime,</s>
 MaleTerms	Science	chimie	oncle aime <mask>	-1.971511126556389e-06	<s> oncle aime,</s>
 MaleTerms	Science	Einstein	oncle aime <mask>	0.0	<s> oncle aime,</s>
 MaleTerms	Science	NASA	oncle aime <mask>	9.826349970877233e-07	<s> oncle aime,</s>
@@ -97,7 +97,7 @@ MaleTerms	Arts	symphonie	oncle aime <mask>	-1.9697663379128397e-06	<s> oncle aim
 MaleTerms	Arts	drame	oncle aime <mask>	-1.0251163763038954e-06	<s> oncle aime,</s>
 MaleTerms	Science	science	homme aime <mask>	7.843592210507423e-07	<s> homme aime,</s>
 MaleTerms	Science	technologie	homme aime <mask>	7.982397796496838e-07	<s> homme aime,</s>
-MaleTerms	Science	la physique	homme aime <mask>	-6.492571454268227e-07	<s> homme aime,</s>
+MaleTerms	Science	physique	homme aime <mask>	-1.2378780789418808e-07	<s> homme aime,</s>
 MaleTerms	Science	chimie	homme aime <mask>	2.3897078147569593e-07	<s> homme aime,</s>
 MaleTerms	Science	Einstein	homme aime <mask>	4.2162008788973604e-07	<s> homme aime,</s>
 MaleTerms	Science	NASA	homme aime <mask>	-6.141473635927517e-07	<s> homme aime,</s>
@@ -113,7 +113,7 @@ MaleTerms	Arts	symphonie	homme aime <mask>	1.125579022460774e-06	<s> homme aime,
 MaleTerms	Arts	drame	homme aime <mask>	4.393352682469585e-07	<s> homme aime,</s>
 MaleTerms	Science	science	mâle aime <mask>	-4.991380064846e-07	<s> mâle aime,</s>
 MaleTerms	Science	technologie	mâle aime <mask>	-4.3540378477939034e-07	<s> mâle aime,</s>
-MaleTerms	Science	la physique	mâle aime <mask>	9.275094765193067e-07	<s> mâle aime,</s>
+MaleTerms	Science	physique	mâle aime <mask>	-9.90302892209569e-07	<s> mâle aime,</s>
 MaleTerms	Science	chimie	mâle aime <mask>	-1.493568678333295e-06	<s> mâle aime,</s>
 MaleTerms	Science	Einstein	mâle aime <mask>	8.432403175461936e-08	<s> mâle aime,</s>
 MaleTerms	Science	NASA	mâle aime <mask>	1.473952133653518e-06	<s> mâle aime,</s>
@@ -129,7 +129,7 @@ MaleTerms	Arts	symphonie	mâle aime <mask>	-1.125580289390336e-06	<s> mâle aime
 MaleTerms	Arts	drame	mâle aime <mask>	-5.125580567939995e-07	<s> mâle aime,</s>
 MaleTerms	Science	science	frère aime <mask>	-1.212192733705782e-06	<s> frère aime,</s>
 MaleTerms	Science	technologie	frère aime <mask>	-7.982404168369382e-07	<s> frère aime,</s>
-MaleTerms	Science	la physique	frère aime <mask>	7.420076500373389e-07	<s> frère aime,</s>
+MaleTerms	Science	physique	frère aime <mask>	-1.3616667296249754e-06	<s> frère aime,</s>
 MaleTerms	Science	chimie	frère aime <mask>	-1.7922826816898282e-06	<s> frère aime,</s>
 MaleTerms	Science	Einstein	frère aime <mask>	8.432403175461936e-08	<s> frère aime,</s>
 MaleTerms	Science	NASA	frère aime <mask>	7.983910087802991e-07	<s> frère aime,</s>
@@ -145,7 +145,7 @@ MaleTerms	Arts	symphonie	frère aime <mask>	-1.4069755597515094e-06	<s> frère a
 MaleTerms	Arts	drame	frère aime <mask>	-1.0983390148388093e-06	<s> frère aime,</s>
 FemaleTerms	Science	science	demoiselle aime <mask>	-8.556653065393105e-07	<s> demoiselle aime,</s>
 FemaleTerms	Science	technologie	demoiselle aime <mask>	-1.3062119230679511e-06	<s> demoiselle aime,</s>
-FemaleTerms	Science	la physique	demoiselle aime <mask>	1.576765598442317e-06	<s> demoiselle aime,</s>
+FemaleTerms	Science	physique	demoiselle aime <mask>	-1.4235607159355688e-06	<s> demoiselle aime,</s>
 FemaleTerms	Science	chimie	demoiselle aime <mask>	-3.405339841690079e-06	<s> demoiselle aime,</s>
 FemaleTerms	Science	Einstein	demoiselle aime <mask>	-8.43240388651623e-08	<s> demoiselle aime,</s>
 FemaleTerms	Science	NASA	demoiselle aime <mask>	3.2549747298536397e-06	<s> demoiselle aime,</s>
@@ -161,7 +161,7 @@ FemaleTerms	Arts	symphonie	demoiselle aime <mask>	-2.3918596293625126e-06	<s> de
 FemaleTerms	Arts	drame	demoiselle aime <mask>	-6.590032641636485e-07	<s> demoiselle aime,</s>
 FemaleTerms	Science	science	mère aime <mask>	-7.130543711974066e-07	<s> mère aime,</s>
 FemaleTerms	Science	technologie	mère aime <mask>	-6.531057482602771e-07	<s> mère aime,</s>
-FemaleTerms	Science	la physique	mère aime <mask>	8.347585675796887e-07	<s> mère aime,</s>
+FemaleTerms	Science	physique	mère aime <mask>	-2.4757563111179943e-07	<s> mère aime,</s>
 FemaleTerms	Science	chimie	mère aime <mask>	-1.7325398738357077e-06	<s> mère aime,</s>
 FemaleTerms	Science	Einstein	mère aime <mask>	-2.529721380381428e-07	<s> mère aime,</s>
 FemaleTerms	Science	NASA	mère aime <mask>	7.983910087802991e-07	<s> mère aime,</s>
@@ -177,7 +177,7 @@ FemaleTerms	Arts	symphonie	mère aime <mask>	-1.829068613650987e-06	<s> mère ai
 FemaleTerms	Arts	drame	mère aime <mask>	-7.322258758907982e-07	<s> mère aime,</s>
 FemaleTerms	Science	science	féminin aime <mask>	-8.556653065393105e-07	<s> féminin aime,</s>
 FemaleTerms	Science	technologie	féminin aime <mask>	-7.256730799155986e-07	<s> féminin aime,</s>
-FemaleTerms	Science	la physique	féminin aime <mask>	1.1130112685903531e-06	<s> féminin aime,</s>
+FemaleTerms	Science	physique	féminin aime <mask>	-3.0946954846689005e-07	<s> féminin aime,</s>
 FemaleTerms	Science	chimie	féminin aime <mask>	-2.2702252726810798e-06	<s> féminin aime,</s>
 FemaleTerms	Science	Einstein	féminin aime <mask>	8.432403175461936e-08	<s> féminin aime,</s>
 FemaleTerms	Science	NASA	féminin aime <mask>	1.0440496523873587e-06	<s> féminin aime,</s>
@@ -193,7 +193,7 @@ FemaleTerms	Arts	symphonie	féminin aime <mask>	-1.4069755597515094e-06	<s> fém
 FemaleTerms	Arts	drame	féminin aime <mask>	-2.928902860621634e-07	<s> féminin aime,</s>
 FemaleTerms	Science	science	épouse aime <mask>	-4.991380064846e-07	<s> épouse aime,</s>
 FemaleTerms	Science	technologie	épouse aime <mask>	-9.433751065886968e-07	<s> épouse aime,</s>
-FemaleTerms	Science	la physique	épouse aime <mask>	1.4840147497217779e-06	<s> épouse aime,</s>
+FemaleTerms	Science	physique	épouse aime <mask>	-4.951513235173072e-07	<s> épouse aime,</s>
 FemaleTerms	Science	chimie	épouse aime <mask>	-1.493568678333295e-06	<s> épouse aime,</s>
 FemaleTerms	Science	Einstein	épouse aime <mask>	-8.43240388651623e-08	<s> épouse aime,</s>
 FemaleTerms	Science	NASA	épouse aime <mask>	1.7810252213417745e-06	<s> épouse aime,</s>
@@ -209,7 +209,7 @@ FemaleTerms	Arts	symphonie	épouse aime <mask>	-1.9697663379128397e-06	<s> épou
 FemaleTerms	Arts	drame	épouse aime <mask>	-1.0983390148388093e-06	<s> épouse aime,</s>
 FemaleTerms	Science	science	fille aime <mask>	-1.283498234370291e-06	<s> fille aime,</s>
 FemaleTerms	Science	technologie	fille aime <mask>	-1.161077180655978e-06	<s> fille aime,</s>
-FemaleTerms	Science	la physique	fille aime <mask>	2.040519713004258e-06	<s> fille aime,</s>
+FemaleTerms	Science	physique	fille aime <mask>	-1.299772747145247e-06	<s> fille aime,</s>
 FemaleTerms	Science	chimie	fille aime <mask>	-2.6884252271401358e-06	<s> fille aime,</s>
 FemaleTerms	Science	Einstein	fille aime <mask>	4.2162008788973604e-07	<s> fille aime,</s>
 FemaleTerms	Science	NASA	fille aime <mask>	3.439218265772923e-06	<s> fille aime,</s>
@@ -225,7 +225,7 @@ FemaleTerms	Arts	symphonie	fille aime <mask>	-2.251161845713086e-06	<s> fille ai
 FemaleTerms	Arts	drame	fille aime <mask>	-8.786711154297523e-07	<s> fille aime,</s>
 FemaleTerms	Science	science	tante aime <mask>		<s> tante aime,</s>
 FemaleTerms	Science	technologie	tante aime <mask>		<s> tante aime,</s>
-FemaleTerms	Science	la physique	tante aime <mask>		<s> tante aime,</s>
+FemaleTerms	Science	physique	tante aime <mask>		<s> tante aime,</s>
 FemaleTerms	Science	chimie	tante aime <mask>		<s> tante aime,</s>
 FemaleTerms	Science	Einstein	tante aime <mask>		<s> tante aime,</s>
 FemaleTerms	Science	NASA	tante aime <mask>		<s> tante aime,</s>
@@ -241,7 +241,7 @@ FemaleTerms	Arts	symphonie	tante aime <mask>		<s> tante aime,</s>
 FemaleTerms	Arts	drame	tante aime <mask>		<s> tante aime,</s>
 FemaleTerms	Science	science	femme aime <mask>	-9.982762621080737e-07	<s> femme aime,</s>
 FemaleTerms	Science	technologie	femme aime <mask>	-1.0159424593080952e-06	<s> femme aime,</s>
-FemaleTerms	Science	la physique	femme aime <mask>	1.3912638923985178e-06	<s> femme aime,</s>
+FemaleTerms	Science	physique	femme aime <mask>	-1.6092426978525458e-06	<s> femme aime,</s>
 FemaleTerms	Science	chimie	femme aime <mask>	-2.9273967081790514e-06	<s> femme aime,</s>
 FemaleTerms	Science	Einstein	femme aime <mask>	-8.43240388651623e-08	<s> femme aime,</s>
 FemaleTerms	Science	NASA	femme aime <mask>	2.702243918865707e-06	<s> femme aime,</s>
@@ -257,7 +257,7 @@ FemaleTerms	Arts	symphonie	femme aime <mask>	-2.5325574328078084e-06	<s> femme a
 FemaleTerms	Arts	drame	femme aime <mask>	-8.054484929794993e-07	<s> femme aime,</s>
 FemaleTerms	Science	science	femelle aime <mask>	-1.283498234370291e-06	<s> femelle aime,</s>
 FemaleTerms	Science	technologie	femelle aime <mask>	-1.3062119230679511e-06	<s> femelle aime,</s>
-FemaleTerms	Science	la physique	femelle aime <mask>	1.1130112685903531e-06	<s> femelle aime,</s>
+FemaleTerms	Science	physique	femelle aime <mask>	-9.284089327150226e-07	<s> femelle aime,</s>
 FemaleTerms	Science	chimie	femelle aime <mask>	-2.7481680921015606e-06	<s> femelle aime,</s>
 FemaleTerms	Science	Einstein	femelle aime <mask>	8.432403175461936e-08	<s> femelle aime,</s>
 FemaleTerms	Science	NASA	femelle aime <mask>	9.826349970877233e-07	<s> femelle aime,</s>
@@ -273,7 +273,7 @@ FemaleTerms	Arts	symphonie	femelle aime <mask>	-2.3918596293625126e-06	<s> femel
 FemaleTerms	Arts	drame	femelle aime <mask>	-5.125580567939995e-07	<s> femelle aime,</s>
 FemaleTerms	Science	science	sœur aime <mask>	-1.0695817475191629e-06	<s> sœur aime,</s>
 FemaleTerms	Science	technologie	sœur aime <mask>	-1.0885098174045368e-06	<s> sœur aime,</s>
-FemaleTerms	Science	la physique	sœur aime <mask>	2.2260212986100453e-06	<s> sœur aime,</s>
+FemaleTerms	Science	physique	sœur aime <mask>	-1.6092426978525458e-06	<s> sœur aime,</s>
 FemaleTerms	Science	chimie	sœur aime <mask>	-2.9871395874173186e-06	<s> sœur aime,</s>
 FemaleTerms	Science	Einstein	sœur aime <mask>	-3.372961982349411e-07	<s> sœur aime,</s>
 FemaleTerms	Science	NASA	sœur aime <mask>	3.009316629378902e-06	<s> sœur aime,</s>
