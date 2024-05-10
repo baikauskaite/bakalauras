@@ -27,6 +27,14 @@ for fpath in sys.argv[1:]:
         targ1 = tmp[tmp.target == targets[0]].log_probs
         targ2 = tmp[tmp.target == targets[1]].log_probs
 
+        # If there are infinities or nans in the log-probabilities, 
+        # remove them from both targets
+        for i in range(len(targ1)):
+            if np.isinf(targ1.iloc[i]) or np.isnan(targ1.iloc[i]) or \
+                np.isinf(targ2.iloc[i]) or np.isnan(targ2.iloc[i]):
+                targ1 = targ1.drop(targ1.index[i])
+                targ2 = targ2.drop(targ2.index[i])
+
         targ1_mean = np.mean(targ1)
         targ2_mean = np.mean(targ2)
 
