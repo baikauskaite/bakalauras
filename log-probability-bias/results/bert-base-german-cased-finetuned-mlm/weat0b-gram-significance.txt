@@ -1,0 +1,14 @@
+**** FemaleNames ****
+GrammaticallyFemale mean,	 -0.9533578602811101
+GrammmaticalyMale mean,	 -0.895239055820504
+Test statistic,	 597884.0
+p-value,	 0.16677378946588772
+
+**** MaleNames ****
+GrammaticallyFemale mean,	 -0.7141255238130655
+GrammmaticalyMale mean,	 -0.307287805834644
+Test statistic,	 1029601.0
+p-value,	 5.31578134863194e-29
+
+Effect size,	 -0.3399689118470563
+Permutation test p-value,	 0.0

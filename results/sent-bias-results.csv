@@ -100,3 +100,27 @@ date,model,is_debiased,test_name,effect_size,p_value
 2024-05-05,gottbert_v2,true,sent-weat5 ,-0.02,0.528130000
 2024-05-05,gottbert_v2,true,sent-weat5b,-0.21,0.767170000
 2024-05-05,gottbert_v2,true,sent-weat6 ,-0.74,0.958870000
+
+
+2024-05-10,bert-base-german-cased,false,sent-weat0 ,0.45 ,0.023750000
+2024-05-10,bert-base-german-cased,false,sent-weat0b,0.09 ,0.342650000
+2024-05-10,bert-base-german-cased,false,sent-weat1 ,0.25 ,0.012130000
+2024-05-10,bert-base-german-cased,false,sent-weat2 ,0.22 ,0.026950000
+2024-05-10,bert-base-german-cased,false,sent-weat3 ,0.17 ,0.236990000
+2024-05-10,bert-base-german-cased,false,sent-weat3b,0.00 ,0.500390000
+2024-05-10,bert-base-german-cased,false,sent-weat4 ,-0.01,0.509650000
+2024-05-10,bert-base-german-cased,false,sent-weat4b,-0.39,0.937930000
+2024-05-10,bert-base-german-cased,false,sent-weat5 ,1.02 ,0.000090000
+2024-05-10,bert-base-german-cased,false,sent-weat5b,-1.27,1.000000000
+2024-05-10,bert-base-german-cased,false,sent-weat6 ,0.52 ,0.112870000
+2024-05-10,bert-base-german-cased,true,sent-weat0 ,0.55 ,0.002540000
+2024-05-10,bert-base-german-cased,true,sent-weat0b,-0.28,0.890860000
+2024-05-10,bert-base-german-cased,true,sent-weat1 ,0.21 ,0.024310000
+2024-05-10,bert-base-german-cased,true,sent-weat2 ,0.27 ,0.006660000
+2024-05-10,bert-base-german-cased,true,sent-weat3 ,-0.57,0.995350000
+2024-05-10,bert-base-german-cased,true,sent-weat3b,0.22 ,0.154180000
+2024-05-10,bert-base-german-cased,true,sent-weat4 ,0.14 ,0.436090000
+2024-05-10,bert-base-german-cased,true,sent-weat4b,0.08 ,0.333710000
+2024-05-10,bert-base-german-cased,true,sent-weat5 ,-0.41,0.886730000
+2024-05-10,bert-base-german-cased,true,sent-weat5b,0.56 ,0.012430000
+2024-05-10,bert-base-german-cased,true,sent-weat6 ,1.20 ,0.004260000
