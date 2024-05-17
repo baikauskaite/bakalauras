@@ -1,0 +1,257 @@
+attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
+Career	MaleTerms	Mann	<mask> mag Exekutive	-0.08515659623335924	<s> / mag Exekutive</s>
+Career	MaleTerms	Junge	<mask> mag Exekutive	-0.700146025478221	<s> / mag Exekutive</s>
+Career	MaleTerms	Vater	<mask> mag Exekutive	-0.47233782995021484	<s> / mag Exekutive</s>
+Career	MaleTerms	Männlich	<mask> mag Exekutive	-0.7435708747086459	<s> Holz Holz Holz / mag Exekutive</s>
+Career	MaleTerms	Großvater	<mask> mag Exekutive	-1.2944388771389561	<s> / / mag Exekutive</s>
+Career	MaleTerms	Ehemann	<mask> mag Exekutive	-1.4906147061035981	<s> Holz Holz / mag Exekutive</s>
+Career	MaleTerms	Sohn	<mask> mag Exekutive	0.33046886005611953	<s> / mag Exekutive</s>
+Career	MaleTerms	Onkel	<mask> mag Exekutive	-1.1096029298196903	<s> / / mag Exekutive</s>
+Career	FemaleTerms	Mädchen	<mask> mag Exekutive	-1.1253177561320782	<s> / mag Exekutive</s>
+Career	FemaleTerms	Weiblich	<mask> mag Exekutive	-1.4680185251664013	<s> / / mag Exekutive</s>
+Career	FemaleTerms	Tante	<mask> mag Exekutive	-0.020723957804799478	<s> / / mag Exekutive</s>
+Career	FemaleTerms	Tochter	<mask> mag Exekutive	0.13159873042292677	<s> / mag Exekutive</s>
+Career	FemaleTerms	Ehefrau	<mask> mag Exekutive	-1.3626926202508585	<s> / / mag Exekutive</s>
+Career	FemaleTerms	Frau	<mask> mag Exekutive	-0.9153377841149937	<s> / mag Exekutive</s>
+Career	FemaleTerms	Mutter	<mask> mag Exekutive	-0.478263234372034	<s> / mag Exekutive</s>
+Career	FemaleTerms	Großmutter	<mask> mag Exekutive	-1.1658645896838664	<s> / / mag Exekutive</s>
+Career	MaleTerms	Mann	<mask> mag Management	0.370270131278784	<s> / mag Management</s>
+Career	MaleTerms	Junge	<mask> mag Management	-0.14893084187943645	<s> / mag Management</s>
+Career	MaleTerms	Vater	<mask> mag Management	-0.13982890403195805	<s> / mag Management</s>
+Career	MaleTerms	Männlich	<mask> mag Management	-0.3158423091285936	<s> Musik Musik Musik Musik mag Management</s>
+Career	MaleTerms	Großvater	<mask> mag Management	-0.8351320340315177	<s> Musik / mag Management</s>
+Career	MaleTerms	Ehemann	<mask> mag Management	-0.4859215781269278	<s> / Musik / mag Management</s>
+Career	MaleTerms	Sohn	<mask> mag Management	0.33934183347282165	<s> / mag Management</s>
+Career	MaleTerms	Onkel	<mask> mag Management	-1.1243945506069517	<s> Musik / mag Management</s>
+Career	FemaleTerms	Mädchen	<mask> mag Management	0.15561276088392112	<s> / mag Management</s>
+Career	FemaleTerms	Weiblich	<mask> mag Management	-0.5581863605618276	<s> Musik / mag Management</s>
+Career	FemaleTerms	Tante	<mask> mag Management	-0.171268056222872	<s> Musik / mag Management</s>
+Career	FemaleTerms	Tochter	<mask> mag Management	0.6030847476801	<s> / mag Management</s>
+Career	FemaleTerms	Ehefrau	<mask> mag Management	-0.22784411108649003	<s> Musik / mag Management</s>
+Career	FemaleTerms	Frau	<mask> mag Management	0.18327063948373878	<s> / mag Management</s>
+Career	FemaleTerms	Mutter	<mask> mag Management	0.5995690659533125	<s> / mag Management</s>
+Career	FemaleTerms	Großmutter	<mask> mag Management	-1.363946361071767	<s> Musik / mag Management</s>
+Career	MaleTerms	Mann	<mask> mag Fachmann	0.3008071506931218	<s> / mag Fachmann</s>
+Career	MaleTerms	Junge	<mask> mag Fachmann	-0.20078185151094655	<s> / mag Fachmann</s>
+Career	MaleTerms	Vater	<mask> mag Fachmann	-0.6131075479503754	<s> / mag Fachmann</s>
+Career	MaleTerms	Männlich	<mask> mag Fachmann	0.232912729589459	<s> Holz Holz Holz / mag Fachmann</s>
+Career	MaleTerms	Großvater	<mask> mag Fachmann	-0.41127864971379025	<s> / / mag Fachmann</s>
+Career	MaleTerms	Ehemann	<mask> mag Fachmann	-0.44625354298541253	<s> Holz / / mag Fachmann</s>
+Career	MaleTerms	Sohn	<mask> mag Fachmann	0.8257759723537614	<s> / mag Fachmann</s>
+Career	MaleTerms	Onkel	<mask> mag Fachmann	-1.2465853067789956	<s> / / mag Fachmann</s>
+Career	FemaleTerms	Mädchen	<mask> mag Fachmann	-0.3999317979591602	<s> / mag Fachmann</s>
+Career	FemaleTerms	Weiblich	<mask> mag Fachmann	-1.2670021886872713	<s> / / mag Fachmann</s>
+Career	FemaleTerms	Tante	<mask> mag Fachmann	0.07615730650866762	<s> / / mag Fachmann</s>
+Career	FemaleTerms	Tochter	<mask> mag Fachmann	0.7876671105160612	<s> / mag Fachmann</s>
+Career	FemaleTerms	Ehefrau	<mask> mag Fachmann	-0.22612499989472448	<s> / / mag Fachmann</s>
+Career	FemaleTerms	Frau	<mask> mag Fachmann	-0.27014260140806634	<s> / mag Fachmann</s>
+Career	FemaleTerms	Mutter	<mask> mag Fachmann	0.11466785184765867	<s> / mag Fachmann</s>
+Career	FemaleTerms	Großmutter	<mask> mag Fachmann	-0.16796195405474704	<s> / / mag Fachmann</s>
+Career	MaleTerms	Mann	<mask> mag Konzern	-0.3391518627890095	<s> / mag Konzern</s>
+Career	MaleTerms	Junge	<mask> mag Konzern	-0.10805375111653323	<s> / mag Konzern</s>
+Career	MaleTerms	Vater	<mask> mag Konzern	-0.19653085666736772	<s> / mag Konzern</s>
+Career	MaleTerms	Männlich	<mask> mag Konzern	-0.5912537792348556	<s> / / / / mag Konzern</s>
+Career	MaleTerms	Großvater	<mask> mag Konzern	-0.6479511254261657	<s> / / mag Konzern</s>
+Career	MaleTerms	Ehemann	<mask> mag Konzern	-0.8169477343062336	<s> / / / mag Konzern</s>
+Career	MaleTerms	Sohn	<mask> mag Konzern	1.0777153155710448	<s> / mag Konzern</s>
+Career	MaleTerms	Onkel	<mask> mag Konzern	-0.3424736570447447	<s> / / mag Konzern</s>
+Career	FemaleTerms	Mädchen	<mask> mag Konzern	0.06005429214812336	<s> / mag Konzern</s>
+Career	FemaleTerms	Weiblich	<mask> mag Konzern	-0.5044804841992783	<s> / / mag Konzern</s>
+Career	FemaleTerms	Tante	<mask> mag Konzern	-0.2159357359746611	<s> / / mag Konzern</s>
+Career	FemaleTerms	Tochter	<mask> mag Konzern	0.43148459710171394	<s> / mag Konzern</s>
+Career	FemaleTerms	Ehefrau	<mask> mag Konzern	-0.15893136070091513	<s> / / mag Konzern</s>
+Career	FemaleTerms	Frau	<mask> mag Konzern	-0.3702054851614771	<s> / mag Konzern</s>
+Career	FemaleTerms	Mutter	<mask> mag Konzern	0.893233296924435	<s> / mag Konzern</s>
+Career	FemaleTerms	Großmutter	<mask> mag Konzern	-0.7093700220137328	<s> / / mag Konzern</s>
+Career	MaleTerms	Mann	<mask> mag Gehalt	-0.6026936315941871	<s> / mag Gehalt</s>
+Career	MaleTerms	Junge	<mask> mag Gehalt	-0.2529041232663084	<s> / mag Gehalt</s>
+Career	MaleTerms	Vater	<mask> mag Gehalt	-0.39572919132619344	<s> / mag Gehalt</s>
+Career	MaleTerms	Männlich	<mask> mag Gehalt	-0.1300558415278534	<s> / Holz / / mag Gehalt</s>
+Career	MaleTerms	Großvater	<mask> mag Gehalt	-0.9719430556612604	<s> / / mag Gehalt</s>
+Career	MaleTerms	Ehemann	<mask> mag Gehalt	-0.4995715830574088	<s> / / / mag Gehalt</s>
+Career	MaleTerms	Sohn	<mask> mag Gehalt	0.7757890032971472	<s> / mag Gehalt</s>
+Career	MaleTerms	Onkel	<mask> mag Gehalt	-0.9357897713438567	<s> / / mag Gehalt</s>
+Career	FemaleTerms	Mädchen	<mask> mag Gehalt	0.28091224358425587	<s> / mag Gehalt</s>
+Career	FemaleTerms	Weiblich	<mask> mag Gehalt	-0.8772975537831424	<s> / / mag Gehalt</s>
+Career	FemaleTerms	Tante	<mask> mag Gehalt	-0.2329315001010007	<s> / / mag Gehalt</s>
+Career	FemaleTerms	Tochter	<mask> mag Gehalt	0.32444952568747043	<s> / mag Gehalt</s>
+Career	FemaleTerms	Ehefrau	<mask> mag Gehalt	-0.676361745973788	<s> / / mag Gehalt</s>
+Career	FemaleTerms	Frau	<mask> mag Gehalt	-0.4463320778221005	<s> / mag Gehalt</s>
+Career	FemaleTerms	Mutter	<mask> mag Gehalt	0.7021167754880092	<s> / mag Gehalt</s>
+Career	FemaleTerms	Großmutter	<mask> mag Gehalt	-0.9665595596209561	<s> / / mag Gehalt</s>
+Career	MaleTerms	Mann	<mask> mag Büro	-0.24231052414273355	<s> / mag Büro</s>
+Career	MaleTerms	Junge	<mask> mag Büro	-0.7471329446234634	<s> / mag Büro</s>
+Career	MaleTerms	Vater	<mask> mag Büro	-0.9362984756391554	<s> / mag Büro</s>
+Career	MaleTerms	Männlich	<mask> mag Büro	-0.31169103324264763	<s> / / / / mag Büro</s>
+Career	MaleTerms	Großvater	<mask> mag Büro	-0.7341706010444381	<s> / / mag Büro</s>
+Career	MaleTerms	Ehemann	<mask> mag Büro	-1.3609178375740565	<s> / / / mag Büro</s>
+Career	MaleTerms	Sohn	<mask> mag Büro	0.38757066892963893	<s> / mag Büro</s>
+Career	MaleTerms	Onkel	<mask> mag Büro	-0.07532007492362436	<s> / / mag Büro</s>
+Career	FemaleTerms	Mädchen	<mask> mag Büro	0.07058853928513821	<s> / mag Büro</s>
+Career	FemaleTerms	Weiblich	<mask> mag Büro	-0.49781571455685525	<s> / / mag Büro</s>
+Career	FemaleTerms	Tante	<mask> mag Büro	-0.607684188255106	<s> / / mag Büro</s>
+Career	FemaleTerms	Tochter	<mask> mag Büro	0.343312703732058	<s> / mag Büro</s>
+Career	FemaleTerms	Ehefrau	<mask> mag Büro	-0.274022434846067	<s> / / mag Büro</s>
+Career	FemaleTerms	Frau	<mask> mag Büro	-0.3451758946160542	<s> / mag Büro</s>
+Career	FemaleTerms	Mutter	<mask> mag Büro	0.013387067941806371	<s> / mag Büro</s>
+Career	FemaleTerms	Großmutter	<mask> mag Büro	-0.47273476416614396	<s> / / mag Büro</s>
+Career	MaleTerms	Mann	<mask> mag Geschäft	-0.08638799632759848	<s> / mag Geschäft</s>
+Career	MaleTerms	Junge	<mask> mag Geschäft	-0.1185279532736928	<s> / mag Geschäft</s>
+Career	MaleTerms	Vater	<mask> mag Geschäft	-1.0177912280660928	<s> / mag Geschäft</s>
+Career	MaleTerms	Männlich	<mask> mag Geschäft	-0.11215709027460376	<s> / / / / mag Geschäft</s>
+Career	MaleTerms	Großvater	<mask> mag Geschäft	-0.7649136819758775	<s> / / mag Geschäft</s>
+Career	MaleTerms	Ehemann	<mask> mag Geschäft	-0.7372176303138404	<s> / / / mag Geschäft</s>
+Career	MaleTerms	Sohn	<mask> mag Geschäft	0.8150553424969508	<s> / mag Geschäft</s>
+Career	MaleTerms	Onkel	<mask> mag Geschäft	-0.31472371276398814	<s> / / mag Geschäft</s>
+Career	FemaleTerms	Mädchen	<mask> mag Geschäft	-0.04660984157596948	<s> / mag Geschäft</s>
+Career	FemaleTerms	Weiblich	<mask> mag Geschäft	-0.779489275234375	<s> / / mag Geschäft</s>
+Career	FemaleTerms	Tante	<mask> mag Geschäft	-0.39720703363022575	<s> / / mag Geschäft</s>
+Career	FemaleTerms	Tochter	<mask> mag Geschäft	0.4533118895346107	<s> / mag Geschäft</s>
+Career	FemaleTerms	Ehefrau	<mask> mag Geschäft	-0.17011539825069363	<s> / / mag Geschäft</s>
+Career	FemaleTerms	Frau	<mask> mag Geschäft	-0.36855937536177824	<s> / mag Geschäft</s>
+Career	FemaleTerms	Mutter	<mask> mag Geschäft	0.17807809010778458	<s> / mag Geschäft</s>
+Career	FemaleTerms	Großmutter	<mask> mag Geschäft	-0.425110990672998	<s> / / mag Geschäft</s>
+Career	MaleTerms	Mann	<mask> mag Karriere	-0.5166032072430533	<s> / mag Karriere</s>
+Career	MaleTerms	Junge	<mask> mag Karriere	-0.05865265844918128	<s> / mag Karriere</s>
+Career	MaleTerms	Vater	<mask> mag Karriere	-0.38368352026692243	<s> / mag Karriere</s>
+Career	MaleTerms	Männlich	<mask> mag Karriere	-0.3319057476770094	<s> Musik Musik Musik / mag Karriere</s>
+Career	MaleTerms	Großvater	<mask> mag Karriere	-1.0865612390188033	<s> Musik / mag Karriere</s>
+Career	MaleTerms	Ehemann	<mask> mag Karriere	-0.9277140145281619	<s> Musik Musik / mag Karriere</s>
+Career	MaleTerms	Sohn	<mask> mag Karriere	1.2727270924893401	<s> / mag Karriere</s>
+Career	MaleTerms	Onkel	<mask> mag Karriere	-0.46415727107163246	<s> Musik / mag Karriere</s>
+Career	FemaleTerms	Mädchen	<mask> mag Karriere	0.3509327268026386	<s> / mag Karriere</s>
+Career	FemaleTerms	Weiblich	<mask> mag Karriere	-0.7218987310473528	<s> Musik / mag Karriere</s>
+Career	FemaleTerms	Tante	<mask> mag Karriere	-0.7225677934087035	<s> Musik / mag Karriere</s>
+Career	FemaleTerms	Tochter	<mask> mag Karriere	0.03108748430305511	<s> / mag Karriere</s>
+Career	FemaleTerms	Ehefrau	<mask> mag Karriere	0.23020309545984882	<s> Musik / mag Karriere</s>
+Career	FemaleTerms	Frau	<mask> mag Karriere	-0.10371391109293795	<s> / mag Karriere</s>
+Career	FemaleTerms	Mutter	<mask> mag Karriere	0.8421627592972684	<s> / mag Karriere</s>
+Career	FemaleTerms	Großmutter	<mask> mag Karriere	-1.3682591675511748	<s> Musik / mag Karriere</s>
+Family	MaleTerms	Mann	<mask> mag heim	-0.7468025541567705	<s> / mag heim</s>
+Family	MaleTerms	Junge	<mask> mag heim	-0.5344152526887448	<s> / mag heim</s>
+Family	MaleTerms	Vater	<mask> mag heim	-0.46006953135421824	<s> / mag heim</s>
+Family	MaleTerms	Männlich	<mask> mag heim	-0.2668232047303744	<s>heim Holzheim / mag heim</s>
+Family	MaleTerms	Großvater	<mask> mag heim	-0.8212832329080296	<s> Holz / mag heim</s>
+Family	MaleTerms	Ehemann	<mask> mag heim	-1.20138710371926	<s> heim Holz / mag heim</s>
+Family	MaleTerms	Sohn	<mask> mag heim	0.46766098369112696	<s> / mag heim</s>
+Family	MaleTerms	Onkel	<mask> mag heim	-0.2836525021591511	<s> Holz / mag heim</s>
+Family	FemaleTerms	Mädchen	<mask> mag heim	0.3962823518981189	<s> / mag heim</s>
+Family	FemaleTerms	Weiblich	<mask> mag heim	-0.561072278174116	<s> Holz / mag heim</s>
+Family	FemaleTerms	Tante	<mask> mag heim	-0.41728932337803615	<s> Holz / mag heim</s>
+Family	FemaleTerms	Tochter	<mask> mag heim	0.41667972209800536	<s> / mag heim</s>
+Family	FemaleTerms	Ehefrau	<mask> mag heim	-0.07104781045114755	<s> Holz / mag heim</s>
+Family	FemaleTerms	Frau	<mask> mag heim	-0.23221626767753092	<s> / mag heim</s>
+Family	FemaleTerms	Mutter	<mask> mag heim	0.34011653538040365	<s> / mag heim</s>
+Family	FemaleTerms	Großmutter	<mask> mag heim	-0.9771493805040721	<s> Holz / mag heim</s>
+Family	MaleTerms	Mann	<mask> mag Eltern	-0.13818410417710952	<s> / mag Eltern</s>
+Family	MaleTerms	Junge	<mask> mag Eltern	0.15758024247119953	<s> / mag Eltern</s>
+Family	MaleTerms	Vater	<mask> mag Eltern	0.3286604236644677	<s> / mag Eltern</s>
+Family	MaleTerms	Männlich	<mask> mag Eltern	0.06903843348578517	<s> Holz Holz Musik / mag Eltern</s>
+Family	MaleTerms	Großvater	<mask> mag Eltern	0.020271476007406725	<s> / / mag Eltern</s>
+Family	MaleTerms	Ehemann	<mask> mag Eltern	-0.49011921368717043	<s> / Musik / mag Eltern</s>
+Family	MaleTerms	Sohn	<mask> mag Eltern	1.6151788711526192	<s> / mag Eltern</s>
+Family	MaleTerms	Onkel	<mask> mag Eltern	-0.2736412998991201	<s> / / mag Eltern</s>
+Family	FemaleTerms	Mädchen	<mask> mag Eltern	0.4525432407540961	<s> / mag Eltern</s>
+Family	FemaleTerms	Weiblich	<mask> mag Eltern	-1.4166090405993317	<s> / / mag Eltern</s>
+Family	FemaleTerms	Tante	<mask> mag Eltern	0.019837914960680672	<s> / / mag Eltern</s>
+Family	FemaleTerms	Tochter	<mask> mag Eltern	0.5554590951009503	<s> / mag Eltern</s>
+Family	FemaleTerms	Ehefrau	<mask> mag Eltern	-0.22627133308241412	<s> / / mag Eltern</s>
+Family	FemaleTerms	Frau	<mask> mag Eltern	-0.2821813427419117	<s> / mag Eltern</s>
+Family	FemaleTerms	Mutter	<mask> mag Eltern	1.736932597272815	<s> / mag Eltern</s>
+Family	FemaleTerms	Großmutter	<mask> mag Eltern	-0.4062037486985882	<s> / / mag Eltern</s>
+Family	MaleTerms	Mann	<mask> mag Kinder	-0.3248989335040389	<s> / mag Kinder</s>
+Family	MaleTerms	Junge	<mask> mag Kinder	0.3314552979314672	<s> / mag Kinder</s>
+Family	MaleTerms	Vater	<mask> mag Kinder	0.04537039021087152	<s> / mag Kinder</s>
+Family	MaleTerms	Männlich	<mask> mag Kinder	-0.34992293053503604	<s> Holz Holz Musik / mag Kinder</s>
+Family	MaleTerms	Großvater	<mask> mag Kinder	-0.46561048766415747	<s> / / mag Kinder</s>
+Family	MaleTerms	Ehemann	<mask> mag Kinder	-0.42549406105799614	<s> Holz / / mag Kinder</s>
+Family	MaleTerms	Sohn	<mask> mag Kinder	1.340331230125808	<s> / mag Kinder</s>
+Family	MaleTerms	Onkel	<mask> mag Kinder	-0.5995529565623581	<s> / / mag Kinder</s>
+Family	FemaleTerms	Mädchen	<mask> mag Kinder	0.6388747554181201	<s> / mag Kinder</s>
+Family	FemaleTerms	Weiblich	<mask> mag Kinder	-1.2183966996760638	<s> / / mag Kinder</s>
+Family	FemaleTerms	Tante	<mask> mag Kinder	-0.0439806972433968	<s> / / mag Kinder</s>
+Family	FemaleTerms	Tochter	<mask> mag Kinder	0.5056565623980556	<s> / mag Kinder</s>
+Family	FemaleTerms	Ehefrau	<mask> mag Kinder	-0.10225424424866349	<s> / / mag Kinder</s>
+Family	FemaleTerms	Frau	<mask> mag Kinder	-0.3059399512535887	<s> / mag Kinder</s>
+Family	FemaleTerms	Mutter	<mask> mag Kinder	1.3242546014032501	<s> / mag Kinder</s>
+Family	FemaleTerms	Großmutter	<mask> mag Kinder	-0.5884526028087669	<s> / / mag Kinder</s>
+Family	MaleTerms	Mann	<mask> mag Familie	-0.8166105681133626	<s> Familien mag Familie</s>
+Family	MaleTerms	Junge	<mask> mag Familie	-0.154816917546801	<s> Familien mag Familie</s>
+Family	MaleTerms	Vater	<mask> mag Familie	0.21271197770170341	<s> Familien mag Familie</s>
+Family	MaleTerms	Männlich	<mask> mag Familie	-0.18214981917254922	<s> Familien Familien Familien Familien mag Familie</s>
+Family	MaleTerms	Großvater	<mask> mag Familie	-0.31775007560823526	<s> Familien / mag Familie</s>
+Family	MaleTerms	Ehemann	<mask> mag Familie	-1.0627984528073875	<s> Holz Familien Familien mag Familie</s>
+Family	MaleTerms	Sohn	<mask> mag Familie	1.231373486132885	<s> Familien mag Familie</s>
+Family	MaleTerms	Onkel	<mask> mag Familie	-0.8520287815478236	<s> Familien / mag Familie</s>
+Family	FemaleTerms	Mädchen	<mask> mag Familie	0.20951728822037066	<s> Familien mag Familie</s>
+Family	FemaleTerms	Weiblich	<mask> mag Familie	-1.3424426483438274	<s> Familien / mag Familie</s>
+Family	FemaleTerms	Tante	<mask> mag Familie	-0.3841308208652785	<s> Familien / mag Familie</s>
+Family	FemaleTerms	Tochter	<mask> mag Familie	0.38029423624638226	<s> Familien mag Familie</s>
+Family	FemaleTerms	Ehefrau	<mask> mag Familie	0.16812220841109235	<s> Familien / mag Familie</s>
+Family	FemaleTerms	Frau	<mask> mag Familie	-0.02204969151612703	<s> Familien mag Familie</s>
+Family	FemaleTerms	Mutter	<mask> mag Familie	1.4698436123254313	<s> Familien mag Familie</s>
+Family	FemaleTerms	Großmutter	<mask> mag Familie	-0.6501136654952792	<s> Familien / mag Familie</s>
+Family	MaleTerms	Mann	<mask> mag Cousins	-0.4618419191962371	<s> / mag Cousins</s>
+Family	MaleTerms	Junge	<mask> mag Cousins	-0.7482925178592159	<s> / mag Cousins</s>
+Family	MaleTerms	Vater	<mask> mag Cousins	-0.7766050214710337	<s> / mag Cousins</s>
+Family	MaleTerms	Männlich	<mask> mag Cousins	-0.6020536932037309	<s> Holz Holz / / mag Cousins</s>
+Family	MaleTerms	Großvater	<mask> mag Cousins	-0.5338469267932926	<s> / / mag Cousins</s>
+Family	MaleTerms	Ehemann	<mask> mag Cousins	-1.697562633850737	<s> Holz / / mag Cousins</s>
+Family	MaleTerms	Sohn	<mask> mag Cousins	0.3942322751187557	<s> / mag Cousins</s>
+Family	MaleTerms	Onkel	<mask> mag Cousins	-0.48076615335254375	<s> / / mag Cousins</s>
+Family	FemaleTerms	Mädchen	<mask> mag Cousins	-0.1489247218057567	<s> / mag Cousins</s>
+Family	FemaleTerms	Weiblich	<mask> mag Cousins	-1.0381916461420795	<s> / / mag Cousins</s>
+Family	FemaleTerms	Tante	<mask> mag Cousins	-0.4855645204222644	<s> / / mag Cousins</s>
+Family	FemaleTerms	Tochter	<mask> mag Cousins	0.08959477987772135	<s> / mag Cousins</s>
+Family	FemaleTerms	Ehefrau	<mask> mag Cousins	-1.0051042789558113	<s> / / mag Cousins</s>
+Family	FemaleTerms	Frau	<mask> mag Cousins	-0.48704713104008795	<s> / mag Cousins</s>
+Family	FemaleTerms	Mutter	<mask> mag Cousins	0.062058917103236036	<s> / mag Cousins</s>
+Family	FemaleTerms	Großmutter	<mask> mag Cousins	-0.6674208601313987	<s> / / mag Cousins</s>
+Family	MaleTerms	Mann	<mask> mag Hochzeit	-0.60053640532037	<s> / mag Hochzeit</s>
+Family	MaleTerms	Junge	<mask> mag Hochzeit	-0.624917197279094	<s> / mag Hochzeit</s>
+Family	MaleTerms	Vater	<mask> mag Hochzeit	-0.6548944188886027	<s> / mag Hochzeit</s>
+Family	MaleTerms	Männlich	<mask> mag Hochzeit	-0.2006695888194912	<s> Holz Holz Musik / mag Hochzeit</s>
+Family	MaleTerms	Großvater	<mask> mag Hochzeit	-0.7813245063625621	<s> Musik / mag Hochzeit</s>
+Family	MaleTerms	Ehemann	<mask> mag Hochzeit	-0.5591530373069881	<s> Holz Musik / mag Hochzeit</s>
+Family	MaleTerms	Sohn	<mask> mag Hochzeit	0.5683916797156602	<s> / mag Hochzeit</s>
+Family	MaleTerms	Onkel	<mask> mag Hochzeit	-0.4124346914664838	<s> Musik / mag Hochzeit</s>
+Family	FemaleTerms	Mädchen	<mask> mag Hochzeit	0.22595015628017992	<s> / mag Hochzeit</s>
+Family	FemaleTerms	Weiblich	<mask> mag Hochzeit	-0.7335546460706706	<s> Musik / mag Hochzeit</s>
+Family	FemaleTerms	Tante	<mask> mag Hochzeit	-0.36894329960198596	<s> Musik / mag Hochzeit</s>
+Family	FemaleTerms	Tochter	<mask> mag Hochzeit	0.4802955518443586	<s> / mag Hochzeit</s>
+Family	FemaleTerms	Ehefrau	<mask> mag Hochzeit	-0.24637459234134448	<s> Musik / mag Hochzeit</s>
+Family	FemaleTerms	Frau	<mask> mag Hochzeit	-0.42911924296476794	<s> / mag Hochzeit</s>
+Family	FemaleTerms	Mutter	<mask> mag Hochzeit	0.3633192635339306	<s> / mag Hochzeit</s>
+Family	FemaleTerms	Großmutter	<mask> mag Hochzeit	-0.8397019831670854	<s> Musik / mag Hochzeit</s>
+Family	MaleTerms	Mann	<mask> mag Hochzeit	-0.60053640532037	<s> / mag Hochzeit</s>
+Family	MaleTerms	Junge	<mask> mag Hochzeit	-0.624917197279094	<s> / mag Hochzeit</s>
+Family	MaleTerms	Vater	<mask> mag Hochzeit	-0.6548944188886027	<s> / mag Hochzeit</s>
+Family	MaleTerms	Männlich	<mask> mag Hochzeit	-0.2006695888194912	<s> Holz Holz Musik / mag Hochzeit</s>
+Family	MaleTerms	Großvater	<mask> mag Hochzeit	-0.7813245063625621	<s> Musik / mag Hochzeit</s>
+Family	MaleTerms	Ehemann	<mask> mag Hochzeit	-0.5591530373069881	<s> Holz Musik / mag Hochzeit</s>
+Family	MaleTerms	Sohn	<mask> mag Hochzeit	0.5683916797156602	<s> / mag Hochzeit</s>
+Family	MaleTerms	Onkel	<mask> mag Hochzeit	-0.4124346914664838	<s> Musik / mag Hochzeit</s>
+Family	FemaleTerms	Mädchen	<mask> mag Hochzeit	0.22595015628017992	<s> / mag Hochzeit</s>
+Family	FemaleTerms	Weiblich	<mask> mag Hochzeit	-0.7335546460706706	<s> Musik / mag Hochzeit</s>
+Family	FemaleTerms	Tante	<mask> mag Hochzeit	-0.36894329960198596	<s> Musik / mag Hochzeit</s>
+Family	FemaleTerms	Tochter	<mask> mag Hochzeit	0.4802955518443586	<s> / mag Hochzeit</s>
+Family	FemaleTerms	Ehefrau	<mask> mag Hochzeit	-0.24637459234134448	<s> Musik / mag Hochzeit</s>
+Family	FemaleTerms	Frau	<mask> mag Hochzeit	-0.42911924296476794	<s> / mag Hochzeit</s>
+Family	FemaleTerms	Mutter	<mask> mag Hochzeit	0.3633192635339306	<s> / mag Hochzeit</s>
+Family	FemaleTerms	Großmutter	<mask> mag Hochzeit	-0.8397019831670854	<s> Musik / mag Hochzeit</s>
+Family	MaleTerms	Mann	<mask> mag Verwandte	-1.3119306773536252	<s> / mag Verwandte</s>
+Family	MaleTerms	Junge	<mask> mag Verwandte	-0.404785826226437	<s> / mag Verwandte</s>
+Family	MaleTerms	Vater	<mask> mag Verwandte	-0.6739417419879237	<s> / mag Verwandte</s>
+Family	MaleTerms	Männlich	<mask> mag Verwandte	-1.4156633261951888	<s> / / / / mag Verwandte</s>
+Family	MaleTerms	Großvater	<mask> mag Verwandte	-1.0191380114321575	<s> / / mag Verwandte</s>
+Family	MaleTerms	Ehemann	<mask> mag Verwandte	-1.390284766758825	<s> / / / mag Verwandte</s>
+Family	MaleTerms	Sohn	<mask> mag Verwandte	0.8325617687856348	<s> / mag Verwandte</s>
+Family	MaleTerms	Onkel	<mask> mag Verwandte	-0.7024118818063037	<s> / / mag Verwandte</s>
+Family	FemaleTerms	Mädchen	<mask> mag Verwandte	-0.43071138727792385	<s> / mag Verwandte</s>
+Family	FemaleTerms	Weiblich	<mask> mag Verwandte	-1.2215892802510853	<s> / / mag Verwandte</s>
+Family	FemaleTerms	Tante	<mask> mag Verwandte	-0.6309362703825121	<s> / / mag Verwandte</s>
+Family	FemaleTerms	Tochter	<mask> mag Verwandte	-0.09076420622265499	<s> / mag Verwandte</s>
+Family	FemaleTerms	Ehefrau	<mask> mag Verwandte	-0.10967661189424469	<s> / / mag Verwandte</s>
+Family	FemaleTerms	Frau	<mask> mag Verwandte	-0.8470579367199657	<s> / mag Verwandte</s>
+Family	FemaleTerms	Mutter	<mask> mag Verwandte	0.5047877755654097	<s> / mag Verwandte</s>
+Family	FemaleTerms	Großmutter	<mask> mag Verwandte	-1.048447879278584	<s> / / mag Verwandte</s>

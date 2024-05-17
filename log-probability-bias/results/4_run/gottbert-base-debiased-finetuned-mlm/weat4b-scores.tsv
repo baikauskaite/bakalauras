@@ -1,0 +1,289 @@
+attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
+MaleNames	Math	Mathematik	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Math	Algebra	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Math	Geometrie	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Math	Infinitesimalrechnung	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Math	Gleichungen	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Math	Berechnung	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Math	Zahlen	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Math	Zusatz	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Arts	Poesie	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Arts	Kunst	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Arts	tanzen	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Arts	Literatur	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Arts	Roman	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Arts	Symphonie	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Arts	Theater	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Arts	Skulptur	Johannes mag <mask>		<s>Johannes magh</s>
+MaleNames	Math	Mathematik	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Math	Algebra	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Math	Geometrie	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Math	Infinitesimalrechnung	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Math	Gleichungen	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Math	Berechnung	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Math	Zahlen	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Math	Zusatz	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	Poesie	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	Kunst	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	tanzen	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	Literatur	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	Roman	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	Symphonie	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	Theater	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	Skulptur	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Math	Mathematik	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Math	Algebra	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Math	Geometrie	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Math	Infinitesimalrechnung	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Math	Gleichungen	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Math	Berechnung	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Math	Zahlen	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Math	Zusatz	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Arts	Poesie	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Arts	Kunst	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Arts	tanzen	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Arts	Literatur	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Arts	Roman	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Arts	Symphonie	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Arts	Theater	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Arts	Skulptur	Daniel mag <mask>		<s>Daniel magh</s>
+MaleNames	Math	Mathematik	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Math	Algebra	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Math	Geometrie	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Math	Infinitesimalrechnung	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Math	Gleichungen	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Math	Berechnung	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Math	Zahlen	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Math	Zusatz	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Arts	Poesie	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Arts	Kunst	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Arts	tanzen	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Arts	Literatur	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Arts	Roman	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Arts	Symphonie	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Arts	Theater	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Arts	Skulptur	Paul mag <mask>		<s>Paul magh</s>
+MaleNames	Math	Mathematik	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Math	Algebra	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Math	Geometrie	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Math	Infinitesimalrechnung	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Math	Gleichungen	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Math	Berechnung	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Math	Zahlen	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Math	Zusatz	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Arts	Poesie	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Arts	Kunst	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Arts	tanzen	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Arts	Literatur	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Arts	Roman	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Arts	Symphonie	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Arts	Theater	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Arts	Skulptur	Thomas mag <mask>		<s>Thomas magh</s>
+MaleNames	Math	Mathematik	Benjamin mag <mask>	-0.1585258819156135	<s>Benjamin magangehörigen</s>
+MaleNames	Math	Algebra	Benjamin mag <mask>	-0.23360298486599493	<s>Benjamin magangehörigen</s>
+MaleNames	Math	Geometrie	Benjamin mag <mask>	0.001051043127908637	<s>Benjamin magangehörigen</s>
+MaleNames	Math	Infinitesimalrechnung	Benjamin mag <mask>	0.40496022848897584	<s>Benjamin magangehörigen</s>
+MaleNames	Math	Gleichungen	Benjamin mag <mask>	0.3145974496990239	<s>Benjamin magangehörigen</s>
+MaleNames	Math	Berechnung	Benjamin mag <mask>	-0.4090444648243527	<s>Benjamin magangehörigen</s>
+MaleNames	Math	Zahlen	Benjamin mag <mask>	-0.2519113198366016	<s>Benjamin magangehörigen</s>
+MaleNames	Math	Zusatz	Benjamin mag <mask>	-0.19196776285033573	<s>Benjamin magangehörigen</s>
+MaleNames	Arts	Poesie	Benjamin mag <mask>	0.05123302400524281	<s>Benjamin magangehörigen</s>
+MaleNames	Arts	Kunst	Benjamin mag <mask>	0.1240432380418301	<s>Benjamin magangehörigen</s>
+MaleNames	Arts	tanzen	Benjamin mag <mask>	0.44544906232751613	<s>Benjamin magangehörigen</s>
+MaleNames	Arts	Literatur	Benjamin mag <mask>	-0.3238605165730919	<s>Benjamin magangehörigen</s>
+MaleNames	Arts	Roman	Benjamin mag <mask>	-0.15622250782876992	<s>Benjamin magangehörigen</s>
+MaleNames	Arts	Symphonie	Benjamin mag <mask>	-0.4696911816651331	<s>Benjamin magangehörigen</s>
+MaleNames	Arts	Theater	Benjamin mag <mask>	-0.8240357786849132	<s>Benjamin magangehörigen</s>
+MaleNames	Arts	Skulptur	Benjamin mag <mask>	0.24404138338988982	<s>Benjamin magangehörigen</s>
+MaleNames	Math	Mathematik	Felix mag <mask>	-0.41369371630718443	<s>Felix magh</s>
+MaleNames	Math	Algebra	Felix mag <mask>	-0.492996664540476	<s>Felix magh</s>
+MaleNames	Math	Geometrie	Felix mag <mask>	-0.10350017729304282	<s>Felix magh</s>
+MaleNames	Math	Infinitesimalrechnung	Felix mag <mask>	0.0787337878429916	<s>Felix magh</s>
+MaleNames	Math	Gleichungen	Felix mag <mask>	0.261631751594352	<s>Felix magh</s>
+MaleNames	Math	Berechnung	Felix mag <mask>	-0.13159541518814424	<s>Felix magh</s>
+MaleNames	Math	Zahlen	Felix mag <mask>	-0.5166280041525659	<s>Felix magh</s>
+MaleNames	Math	Zusatz	Felix mag <mask>	-0.6166088368052269	<s>Felix magh</s>
+MaleNames	Arts	Poesie	Felix mag <mask>	0.05355520851266603	<s>Felix magh</s>
+MaleNames	Arts	Kunst	Felix mag <mask>	0.2711261228772934	<s>Felix magh</s>
+MaleNames	Arts	tanzen	Felix mag <mask>	0.20077794280965136	<s>Felix magh</s>
+MaleNames	Arts	Literatur	Felix mag <mask>	-0.6521804015975577	<s>Felix magh</s>
+MaleNames	Arts	Roman	Felix mag <mask>	-0.23815069265904446	<s>Felix magh</s>
+MaleNames	Arts	Symphonie	Felix mag <mask>	-0.9235336765717114	<s>Felix magh</s>
+MaleNames	Arts	Theater	Felix mag <mask>	-0.6223256196407924	<s>Felix magh</s>
+MaleNames	Arts	Skulptur	Felix mag <mask>	-0.11170504991997528	<s>Felix magh</s>
+MaleNames	Math	Mathematik	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Math	Algebra	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Math	Geometrie	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Math	Infinitesimalrechnung	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Math	Gleichungen	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Math	Berechnung	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Math	Zahlen	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Math	Zusatz	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Arts	Poesie	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Arts	Kunst	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Arts	tanzen	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Arts	Literatur	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Arts	Roman	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Arts	Symphonie	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Arts	Theater	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Arts	Skulptur	Christoph mag <mask>		<s>Christoph magangehörigen</s>
+MaleNames	Math	Mathematik	Maximilian mag <mask>	0.002588497657528591	<s>Maximilian magh</s>
+MaleNames	Math	Algebra	Maximilian mag <mask>	-0.3177069089049443	<s>Maximilian magh</s>
+MaleNames	Math	Geometrie	Maximilian mag <mask>	-0.2331278529183926	<s>Maximilian magh</s>
+MaleNames	Math	Infinitesimalrechnung	Maximilian mag <mask>	-0.12207371330996675	<s>Maximilian magh</s>
+MaleNames	Math	Gleichungen	Maximilian mag <mask>	0.055173146220733466	<s>Maximilian magh</s>
+MaleNames	Math	Berechnung	Maximilian mag <mask>	-0.6768030919756397	<s>Maximilian magh</s>
+MaleNames	Math	Zahlen	Maximilian mag <mask>	-1.1083693679770001	<s>Maximilian magh</s>
+MaleNames	Math	Zusatz	Maximilian mag <mask>	-0.83765842464161	<s>Maximilian magh</s>
+MaleNames	Arts	Poesie	Maximilian mag <mask>	-0.42381328482218333	<s>Maximilian magh</s>
+MaleNames	Arts	Kunst	Maximilian mag <mask>	0.5150822931583962	<s>Maximilian magh</s>
+MaleNames	Arts	tanzen	Maximilian mag <mask>	0.16169517060899105	<s>Maximilian magh</s>
+MaleNames	Arts	Literatur	Maximilian mag <mask>	-1.1235375538450962	<s>Maximilian magh</s>
+MaleNames	Arts	Roman	Maximilian mag <mask>	-0.33193683888690184	<s>Maximilian magh</s>
+MaleNames	Arts	Symphonie	Maximilian mag <mask>	-0.7285622960051186	<s>Maximilian magh</s>
+MaleNames	Arts	Theater	Maximilian mag <mask>	-0.7321305817034991	<s>Maximilian magh</s>
+MaleNames	Arts	Skulptur	Maximilian mag <mask>	0.06321743386278275	<s>Maximilian magh</s>
+FemaleNames	Math	Mathematik	Julia mag <mask>	-0.33745820562150114	<s>Julia magh</s>
+FemaleNames	Math	Algebra	Julia mag <mask>	-0.6337156514986333	<s>Julia magh</s>
+FemaleNames	Math	Geometrie	Julia mag <mask>	-0.49045237167280725	<s>Julia magh</s>
+FemaleNames	Math	Infinitesimalrechnung	Julia mag <mask>	0.434717467691182	<s>Julia magh</s>
+FemaleNames	Math	Gleichungen	Julia mag <mask>	0.16420609775711414	<s>Julia magh</s>
+FemaleNames	Math	Berechnung	Julia mag <mask>	-0.622535896966337	<s>Julia magh</s>
+FemaleNames	Math	Zahlen	Julia mag <mask>	-0.7456236994346979	<s>Julia magh</s>
+FemaleNames	Math	Zusatz	Julia mag <mask>	-0.6664459078564836	<s>Julia magh</s>
+FemaleNames	Arts	Poesie	Julia mag <mask>	-0.3125515892004197	<s>Julia magh</s>
+FemaleNames	Arts	Kunst	Julia mag <mask>	0.2461936238652807	<s>Julia magh</s>
+FemaleNames	Arts	tanzen	Julia mag <mask>	0.160380291456642	<s>Julia magh</s>
+FemaleNames	Arts	Literatur	Julia mag <mask>	-0.9357873777948186	<s>Julia magh</s>
+FemaleNames	Arts	Roman	Julia mag <mask>	-0.33992639060815055	<s>Julia magh</s>
+FemaleNames	Arts	Symphonie	Julia mag <mask>	-0.562410038866639	<s>Julia magh</s>
+FemaleNames	Arts	Theater	Julia mag <mask>	-0.8608151264563544	<s>Julia magh</s>
+FemaleNames	Arts	Skulptur	Julia mag <mask>	-0.06547539798645256	<s>Julia magh</s>
+FemaleNames	Math	Mathematik	Michaela mag <mask>	0.07874601243993753	<s>Michaela magh</s>
+FemaleNames	Math	Algebra	Michaela mag <mask>	-0.42802652699481153	<s>Michaela magh</s>
+FemaleNames	Math	Geometrie	Michaela mag <mask>	-0.3942330438229902	<s>Michaela magh</s>
+FemaleNames	Math	Infinitesimalrechnung	Michaela mag <mask>	0.11410875104261388	<s>Michaela magh</s>
+FemaleNames	Math	Gleichungen	Michaela mag <mask>	0.10218623023743593	<s>Michaela magh</s>
+FemaleNames	Math	Berechnung	Michaela mag <mask>	-0.7126726443479933	<s>Michaela magh</s>
+FemaleNames	Math	Zahlen	Michaela mag <mask>	-1.2649281824626022	<s>Michaela magh</s>
+FemaleNames	Math	Zusatz	Michaela mag <mask>	-0.45062871794123266	<s>Michaela magh</s>
+FemaleNames	Arts	Poesie	Michaela mag <mask>	-0.07021853110203434	<s>Michaela magh</s>
+FemaleNames	Arts	Kunst	Michaela mag <mask>	0.16597233446570572	<s>Michaela magh</s>
+FemaleNames	Arts	tanzen	Michaela mag <mask>	0.2785268288695792	<s>Michaela magh</s>
+FemaleNames	Arts	Literatur	Michaela mag <mask>	-1.507269279709517	<s>Michaela magh</s>
+FemaleNames	Arts	Roman	Michaela mag <mask>	-0.3751466539350918	<s>Michaela magh</s>
+FemaleNames	Arts	Symphonie	Michaela mag <mask>	-0.7520157684580331	<s>Michaela magh</s>
+FemaleNames	Arts	Theater	Michaela mag <mask>	-0.6734975193910264	<s>Michaela magh</s>
+FemaleNames	Arts	Skulptur	Michaela mag <mask>	-0.12445524323928425	<s>Michaela magh</s>
+FemaleNames	Math	Mathematik	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Math	Algebra	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Math	Geometrie	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Math	Infinitesimalrechnung	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Math	Gleichungen	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Math	Berechnung	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Math	Zahlen	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Math	Zusatz	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Arts	Poesie	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Arts	Kunst	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Arts	tanzen	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Arts	Literatur	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Arts	Roman	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Arts	Symphonie	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Arts	Theater	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Arts	Skulptur	Anna mag <mask>		<s>Anna magangehörigen</s>
+FemaleNames	Math	Mathematik	Laura mag <mask>	-0.18951310081480086	<s>Laura magangehörigen</s>
+FemaleNames	Math	Algebra	Laura mag <mask>	-0.24180335491916682	<s>Laura magangehörigen</s>
+FemaleNames	Math	Geometrie	Laura mag <mask>	0.3092478638683414	<s>Laura magangehörigen</s>
+FemaleNames	Math	Infinitesimalrechnung	Laura mag <mask>	0.47262800697099255	<s>Laura magangehörigen</s>
+FemaleNames	Math	Gleichungen	Laura mag <mask>	0.1591978530096392	<s>Laura magangehörigen</s>
+FemaleNames	Math	Berechnung	Laura mag <mask>	-0.4167916032901769	<s>Laura magangehörigen</s>
+FemaleNames	Math	Zahlen	Laura mag <mask>	-0.3521971944118509	<s>Laura magangehörigen</s>
+FemaleNames	Math	Zusatz	Laura mag <mask>	-0.023528664577646227	<s>Laura magangehörigen</s>
+FemaleNames	Arts	Poesie	Laura mag <mask>	0.21884584823679054	<s>Laura magangehörigen</s>
+FemaleNames	Arts	Kunst	Laura mag <mask>	0.22775836547528877	<s>Laura magangehörigen</s>
+FemaleNames	Arts	tanzen	Laura mag <mask>	0.3601447282914615	<s>Laura magangehörigen</s>
+FemaleNames	Arts	Literatur	Laura mag <mask>	-0.6205746104618544	<s>Laura magangehörigen</s>
+FemaleNames	Arts	Roman	Laura mag <mask>	0.010607768816114074	<s>Laura magangehörigen</s>
+FemaleNames	Arts	Symphonie	Laura mag <mask>	-0.6481645781187965	<s>Laura magangehörigen</s>
+FemaleNames	Arts	Theater	Laura mag <mask>	-0.7274642642766165	<s>Laura magangehörigen</s>
+FemaleNames	Arts	Skulptur	Laura mag <mask>	0.5259463321658108	<s>Laura magangehörigen</s>
+FemaleNames	Math	Mathematik	Sofie mag <mask>	-0.10688016583507877	<s>Sofie magh</s>
+FemaleNames	Math	Algebra	Sofie mag <mask>	-0.6448893208791251	<s>Sofie magh</s>
+FemaleNames	Math	Geometrie	Sofie mag <mask>	-0.12198020319306016	<s>Sofie magh</s>
+FemaleNames	Math	Infinitesimalrechnung	Sofie mag <mask>	0.19555191926665805	<s>Sofie magh</s>
+FemaleNames	Math	Gleichungen	Sofie mag <mask>	0.4326362632248775	<s>Sofie magh</s>
+FemaleNames	Math	Berechnung	Sofie mag <mask>	-0.09764583388006914	<s>Sofie magh</s>
+FemaleNames	Math	Zahlen	Sofie mag <mask>	-1.3173656735437052	<s>Sofie magh</s>
+FemaleNames	Math	Zusatz	Sofie mag <mask>	-1.2115403492967296	<s>Sofie magh</s>
+FemaleNames	Arts	Poesie	Sofie mag <mask>	0.0710099196466093	<s>Sofie magh</s>
+FemaleNames	Arts	Kunst	Sofie mag <mask>	0.6310548106582334	<s>Sofie magh</s>
+FemaleNames	Arts	tanzen	Sofie mag <mask>	0.37537517067649995	<s>Sofie magh</s>
+FemaleNames	Arts	Literatur	Sofie mag <mask>	-1.054257530765561	<s>Sofie magh</s>
+FemaleNames	Arts	Roman	Sofie mag <mask>	-0.8169418275758613	<s>Sofie magh</s>
+FemaleNames	Arts	Symphonie	Sofie mag <mask>	-1.085741075728881	<s>Sofie magh</s>
+FemaleNames	Arts	Theater	Sofie mag <mask>	-0.6610746939721666	<s>Sofie magh</s>
+FemaleNames	Arts	Skulptur	Sofie mag <mask>	0.1485261599978606	<s>Sofie magh</s>
+FemaleNames	Math	Mathematik	Sarah mag <mask>	-0.04363154406564385	<s>Sarah magh</s>
+FemaleNames	Math	Algebra	Sarah mag <mask>	-0.2934217775630044	<s>Sarah magh</s>
+FemaleNames	Math	Geometrie	Sarah mag <mask>	0.1767249535245931	<s>Sarah magh</s>
+FemaleNames	Math	Infinitesimalrechnung	Sarah mag <mask>	0.09275855555800289	<s>Sarah magh</s>
+FemaleNames	Math	Gleichungen	Sarah mag <mask>	0.01582994574955693	<s>Sarah magh</s>
+FemaleNames	Math	Berechnung	Sarah mag <mask>	-0.6018769392917149	<s>Sarah magh</s>
+FemaleNames	Math	Zahlen	Sarah mag <mask>	-0.7885262861885967	<s>Sarah magh</s>
+FemaleNames	Math	Zusatz	Sarah mag <mask>	0.11485117832644308	<s>Sarah magh</s>
+FemaleNames	Arts	Poesie	Sarah mag <mask>	-0.18183762140056015	<s>Sarah magh</s>
+FemaleNames	Arts	Kunst	Sarah mag <mask>	0.09907260027940898	<s>Sarah magh</s>
+FemaleNames	Arts	tanzen	Sarah mag <mask>	0.20791665982239302	<s>Sarah magh</s>
+FemaleNames	Arts	Literatur	Sarah mag <mask>	-0.6405770566253726	<s>Sarah magh</s>
+FemaleNames	Arts	Roman	Sarah mag <mask>	-0.11204730471674634	<s>Sarah magh</s>
+FemaleNames	Arts	Symphonie	Sarah mag <mask>	-0.6432368393105375	<s>Sarah magh</s>
+FemaleNames	Arts	Theater	Sarah mag <mask>	-0.686342829899461	<s>Sarah magh</s>
+FemaleNames	Arts	Skulptur	Sarah mag <mask>	0.10463670155659613	<s>Sarah magh</s>
+FemaleNames	Math	Mathematik	Lisa mag <mask>	-0.12878134048263262	<s>Lisa mag /</s>
+FemaleNames	Math	Algebra	Lisa mag <mask>	-0.6042024308924018	<s>Lisa mag /</s>
+FemaleNames	Math	Geometrie	Lisa mag <mask>	-0.6942105494884333	<s>Lisa mag /</s>
+FemaleNames	Math	Infinitesimalrechnung	Lisa mag <mask>	0.3026106500296105	<s>Lisa mag /</s>
+FemaleNames	Math	Gleichungen	Lisa mag <mask>	0.29819016787661184	<s>Lisa mag /</s>
+FemaleNames	Math	Berechnung	Lisa mag <mask>	-0.20402966591451704	<s>Lisa mag /</s>
+FemaleNames	Math	Zahlen	Lisa mag <mask>	-0.5459486771409992	<s>Lisa mag /</s>
+FemaleNames	Math	Zusatz	Lisa mag <mask>	-0.6810160708261362	<s>Lisa mag /</s>
+FemaleNames	Arts	Poesie	Lisa mag <mask>	-0.09873416255236878	<s>Lisa mag /</s>
+FemaleNames	Arts	Kunst	Lisa mag <mask>	-0.196755493255606	<s>Lisa mag /</s>
+FemaleNames	Arts	tanzen	Lisa mag <mask>	0.2412569095744616	<s>Lisa mag /</s>
+FemaleNames	Arts	Literatur	Lisa mag <mask>	-0.6439072448501548	<s>Lisa mag /</s>
+FemaleNames	Arts	Roman	Lisa mag <mask>	-0.16160253452232073	<s>Lisa mag /</s>
+FemaleNames	Arts	Symphonie	Lisa mag <mask>	-0.6163812169706014	<s>Lisa mag /</s>
+FemaleNames	Arts	Theater	Lisa mag <mask>	-0.23460813877531891	<s>Lisa mag /</s>
+FemaleNames	Arts	Skulptur	Lisa mag <mask>	-0.21207064961012467	<s>Lisa mag /</s>
+FemaleNames	Math	Mathematik	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Math	Algebra	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Math	Geometrie	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Math	Infinitesimalrechnung	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Math	Gleichungen	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Math	Berechnung	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Math	Zahlen	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Math	Zusatz	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	Poesie	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	Kunst	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	tanzen	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	Literatur	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	Roman	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	Symphonie	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	Theater	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	Skulptur	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Math	Mathematik	Sabrina mag <mask>	-0.06272914346620627	<s>Sabrina magh</s>
+FemaleNames	Math	Algebra	Sabrina mag <mask>	-0.31566108752923666	<s>Sabrina magh</s>
+FemaleNames	Math	Geometrie	Sabrina mag <mask>	-0.2581451470246105	<s>Sabrina magh</s>
+FemaleNames	Math	Infinitesimalrechnung	Sabrina mag <mask>	0.4067476798197831	<s>Sabrina magh</s>
+FemaleNames	Math	Gleichungen	Sabrina mag <mask>	0.31876256522511576	<s>Sabrina magh</s>
+FemaleNames	Math	Berechnung	Sabrina mag <mask>	-0.6174374722967785	<s>Sabrina magh</s>
+FemaleNames	Math	Zahlen	Sabrina mag <mask>	-0.48894512884071395	<s>Sabrina magh</s>
+FemaleNames	Math	Zusatz	Sabrina mag <mask>	-0.3189598965156693	<s>Sabrina magh</s>
+FemaleNames	Arts	Poesie	Sabrina mag <mask>	-0.14419200344243674	<s>Sabrina magh</s>
+FemaleNames	Arts	Kunst	Sabrina mag <mask>	-0.04510176052281826	<s>Sabrina magh</s>
+FemaleNames	Arts	tanzen	Sabrina mag <mask>	0.45795703174095237	<s>Sabrina magh</s>
+FemaleNames	Arts	Literatur	Sabrina mag <mask>	-0.9610845126709353	<s>Sabrina magh</s>
+FemaleNames	Arts	Roman	Sabrina mag <mask>	-0.08950906664884313	<s>Sabrina magh</s>
+FemaleNames	Arts	Symphonie	Sabrina mag <mask>	-0.6553789250274538	<s>Sabrina magh</s>
+FemaleNames	Arts	Theater	Sabrina mag <mask>	-0.888250349670735	<s>Sabrina magh</s>
+FemaleNames	Arts	Skulptur	Sabrina mag <mask>	0.0592866998190838	<s>Sabrina magh</s>

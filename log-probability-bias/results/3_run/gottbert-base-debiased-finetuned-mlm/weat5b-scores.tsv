@@ -1,0 +1,289 @@
+attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
+MaleNames	Science	Wissenschaft	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Science	Technologie	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Science	Physik	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Science	Chemie	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Science	Einstein	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Science	NASA	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Science	Experiment	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Science	Astronomie	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Arts	Poesie	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Arts	Kunst	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Arts	Shakespeare	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Arts	tanzen	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Arts	Literatur	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Arts	Roman	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Arts	Symphonie	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Arts	Theater	Johannes mag <mask>		<s>Johannes mag /</s>
+MaleNames	Science	Wissenschaft	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Science	Technologie	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Science	Physik	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Science	Chemie	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Science	Einstein	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Science	NASA	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Science	Experiment	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Science	Astronomie	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	Poesie	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	Kunst	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	Shakespeare	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	tanzen	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	Literatur	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	Roman	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	Symphonie	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Arts	Theater	Lukas mag <mask>		<s>Lukas mag Musik</s>
+MaleNames	Science	Wissenschaft	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Science	Technologie	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Science	Physik	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Science	Chemie	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Science	Einstein	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Science	NASA	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Science	Experiment	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Science	Astronomie	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Arts	Poesie	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Arts	Kunst	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Arts	Shakespeare	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Arts	tanzen	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Arts	Literatur	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Arts	Roman	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Arts	Symphonie	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Arts	Theater	Daniel mag <mask>		<s>Daniel mag /</s>
+MaleNames	Science	Wissenschaft	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Science	Technologie	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Science	Physik	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Science	Chemie	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Science	Einstein	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Science	NASA	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Science	Experiment	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Science	Astronomie	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Arts	Poesie	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Arts	Kunst	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Arts	Shakespeare	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Arts	tanzen	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Arts	Literatur	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Arts	Roman	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Arts	Symphonie	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Arts	Theater	Paul mag <mask>		<s>Paul mag /</s>
+MaleNames	Science	Wissenschaft	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Science	Technologie	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Science	Physik	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Science	Chemie	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Science	Einstein	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Science	NASA	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Science	Experiment	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Science	Astronomie	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Arts	Poesie	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Arts	Kunst	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Arts	Shakespeare	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Arts	tanzen	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Arts	Literatur	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Arts	Roman	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Arts	Symphonie	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Arts	Theater	Thomas mag <mask>		<s>Thomas mag Prof</s>
+MaleNames	Science	Wissenschaft	Benjamin mag <mask>	-0.16350537626296605	<s>Benjamin mag /</s>
+MaleNames	Science	Technologie	Benjamin mag <mask>	0.45564461585250265	<s>Benjamin mag /</s>
+MaleNames	Science	Physik	Benjamin mag <mask>	-0.13624180518124207	<s>Benjamin mag /</s>
+MaleNames	Science	Chemie	Benjamin mag <mask>	0.19544118825111176	<s>Benjamin mag /</s>
+MaleNames	Science	Einstein	Benjamin mag <mask>	0.4651180267347088	<s>Benjamin mag /</s>
+MaleNames	Science	NASA	Benjamin mag <mask>	-0.5272332194245262	<s>Benjamin mag /</s>
+MaleNames	Science	Experiment	Benjamin mag <mask>	-0.34772502418351686	<s>Benjamin mag /</s>
+MaleNames	Science	Astronomie	Benjamin mag <mask>	0.20847640851988863	<s>Benjamin mag /</s>
+MaleNames	Arts	Poesie	Benjamin mag <mask>	-0.037193306644946154	<s>Benjamin mag /</s>
+MaleNames	Arts	Kunst	Benjamin mag <mask>	-0.05980139273273375	<s>Benjamin mag /</s>
+MaleNames	Arts	Shakespeare	Benjamin mag <mask>	-0.5520207794874418	<s>Benjamin mag /</s>
+MaleNames	Arts	tanzen	Benjamin mag <mask>	0.17944166156946173	<s>Benjamin mag /</s>
+MaleNames	Arts	Literatur	Benjamin mag <mask>	-0.1577319217683289	<s>Benjamin mag /</s>
+MaleNames	Arts	Roman	Benjamin mag <mask>	0.020090636459877367	<s>Benjamin mag /</s>
+MaleNames	Arts	Symphonie	Benjamin mag <mask>	-0.19847275459770106	<s>Benjamin mag /</s>
+MaleNames	Arts	Theater	Benjamin mag <mask>	-0.6655529086117422	<s>Benjamin mag /</s>
+MaleNames	Science	Wissenschaft	Felix mag <mask>	-0.2366619280448818	<s>Felix mag /</s>
+MaleNames	Science	Technologie	Felix mag <mask>	0.668191326944025	<s>Felix mag /</s>
+MaleNames	Science	Physik	Felix mag <mask>	0.014660777354931176	<s>Felix mag /</s>
+MaleNames	Science	Chemie	Felix mag <mask>	-0.536055851327399	<s>Felix mag /</s>
+MaleNames	Science	Einstein	Felix mag <mask>	0.43106878593891956	<s>Felix mag /</s>
+MaleNames	Science	NASA	Felix mag <mask>	-0.8892554673717012	<s>Felix mag /</s>
+MaleNames	Science	Experiment	Felix mag <mask>	-0.22471247895453317	<s>Felix mag /</s>
+MaleNames	Science	Astronomie	Felix mag <mask>	0.00997962153117107	<s>Felix mag /</s>
+MaleNames	Arts	Poesie	Felix mag <mask>	-0.34605833544139564	<s>Felix mag /</s>
+MaleNames	Arts	Kunst	Felix mag <mask>	-0.16182560171139226	<s>Felix mag /</s>
+MaleNames	Arts	Shakespeare	Felix mag <mask>	-0.9472279900754896	<s>Felix mag /</s>
+MaleNames	Arts	tanzen	Felix mag <mask>	-0.11383597006261736	<s>Felix mag /</s>
+MaleNames	Arts	Literatur	Felix mag <mask>	-0.34301388590694215	<s>Felix mag /</s>
+MaleNames	Arts	Roman	Felix mag <mask>	-0.030553793024035228	<s>Felix mag /</s>
+MaleNames	Arts	Symphonie	Felix mag <mask>	-0.7603341444384185	<s>Felix mag /</s>
+MaleNames	Arts	Theater	Felix mag <mask>	-0.5796462641633148	<s>Felix mag /</s>
+MaleNames	Science	Wissenschaft	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Science	Technologie	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Science	Physik	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Science	Chemie	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Science	Einstein	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Science	NASA	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Science	Experiment	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Science	Astronomie	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Arts	Poesie	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Arts	Kunst	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Arts	Shakespeare	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Arts	tanzen	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Arts	Literatur	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Arts	Roman	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Arts	Symphonie	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Arts	Theater	Christoph mag <mask>		<s>Christoph mag /</s>
+MaleNames	Science	Wissenschaft	Maximilian mag <mask>	-0.5789296032397704	<s>Maximilian mag /</s>
+MaleNames	Science	Technologie	Maximilian mag <mask>	0.3899319452550682	<s>Maximilian mag /</s>
+MaleNames	Science	Physik	Maximilian mag <mask>	-0.29658138591376093	<s>Maximilian mag /</s>
+MaleNames	Science	Chemie	Maximilian mag <mask>	-0.36683574459219376	<s>Maximilian mag /</s>
+MaleNames	Science	Einstein	Maximilian mag <mask>	0.08433467155161443	<s>Maximilian mag /</s>
+MaleNames	Science	NASA	Maximilian mag <mask>	-0.42936978368354195	<s>Maximilian mag /</s>
+MaleNames	Science	Experiment	Maximilian mag <mask>	-0.8182310588038227	<s>Maximilian mag /</s>
+MaleNames	Science	Astronomie	Maximilian mag <mask>	-0.2542811839474067	<s>Maximilian mag /</s>
+MaleNames	Arts	Poesie	Maximilian mag <mask>	-0.5244762326382637	<s>Maximilian mag /</s>
+MaleNames	Arts	Kunst	Maximilian mag <mask>	0.02681285196156048	<s>Maximilian mag /</s>
+MaleNames	Arts	Shakespeare	Maximilian mag <mask>	-0.7647578386110232	<s>Maximilian mag /</s>
+MaleNames	Arts	tanzen	Maximilian mag <mask>	0.025441261344063153	<s>Maximilian mag /</s>
+MaleNames	Arts	Literatur	Maximilian mag <mask>	-0.840840546160776	<s>Maximilian mag /</s>
+MaleNames	Arts	Roman	Maximilian mag <mask>	-0.35419379356744757	<s>Maximilian mag /</s>
+MaleNames	Arts	Symphonie	Maximilian mag <mask>	-0.6616298648165955	<s>Maximilian mag /</s>
+MaleNames	Arts	Theater	Maximilian mag <mask>	-0.5505258908314551	<s>Maximilian mag /</s>
+FemaleNames	Science	Wissenschaft	Julia mag <mask>	-0.4901661277951463	<s>Julia mag /</s>
+FemaleNames	Science	Technologie	Julia mag <mask>	0.43744429599369616	<s>Julia mag /</s>
+FemaleNames	Science	Physik	Julia mag <mask>	-0.5096635403852298	<s>Julia mag /</s>
+FemaleNames	Science	Chemie	Julia mag <mask>	-0.22073011006512944	<s>Julia mag /</s>
+FemaleNames	Science	Einstein	Julia mag <mask>	0.2317537504645099	<s>Julia mag /</s>
+FemaleNames	Science	NASA	Julia mag <mask>	-0.9076739319461297	<s>Julia mag /</s>
+FemaleNames	Science	Experiment	Julia mag <mask>	-0.7524462178989698	<s>Julia mag /</s>
+FemaleNames	Science	Astronomie	Julia mag <mask>	-0.1637409948082746	<s>Julia mag /</s>
+FemaleNames	Arts	Poesie	Julia mag <mask>	-0.5244155210448702	<s>Julia mag /</s>
+FemaleNames	Arts	Kunst	Julia mag <mask>	-0.26759658717283397	<s>Julia mag /</s>
+FemaleNames	Arts	Shakespeare	Julia mag <mask>	-0.8362520799952785	<s>Julia mag /</s>
+FemaleNames	Arts	tanzen	Julia mag <mask>	-0.18112194642503152	<s>Julia mag /</s>
+FemaleNames	Arts	Literatur	Julia mag <mask>	-0.4209670195216843	<s>Julia mag /</s>
+FemaleNames	Arts	Roman	Julia mag <mask>	-0.0413078045344936	<s>Julia mag /</s>
+FemaleNames	Arts	Symphonie	Julia mag <mask>	-0.4748891651348894	<s>Julia mag /</s>
+FemaleNames	Arts	Theater	Julia mag <mask>	-0.6409367620609147	<s>Julia mag /</s>
+FemaleNames	Science	Wissenschaft	Michaela mag <mask>	-1.167843612749433	<s>Michaela mag Prof</s>
+FemaleNames	Science	Technologie	Michaela mag <mask>	0.04554803326777931	<s>Michaela mag Prof</s>
+FemaleNames	Science	Physik	Michaela mag <mask>	-0.49572538784908227	<s>Michaela mag Prof</s>
+FemaleNames	Science	Chemie	Michaela mag <mask>	0.08637334828636235	<s>Michaela mag Prof</s>
+FemaleNames	Science	Einstein	Michaela mag <mask>	0.06515990813603692	<s>Michaela mag Prof</s>
+FemaleNames	Science	NASA	Michaela mag <mask>	-0.2137359153638403	<s>Michaela mag Prof</s>
+FemaleNames	Science	Experiment	Michaela mag <mask>	-0.6563669545447348	<s>Michaela mag Prof</s>
+FemaleNames	Science	Astronomie	Michaela mag <mask>	-0.13314483966174465	<s>Michaela mag Prof</s>
+FemaleNames	Arts	Poesie	Michaela mag <mask>	-0.3272018259032414	<s>Michaela mag Prof</s>
+FemaleNames	Arts	Kunst	Michaela mag <mask>	-0.2305443196319616	<s>Michaela mag Prof</s>
+FemaleNames	Arts	Shakespeare	Michaela mag <mask>	-0.8285393102736709	<s>Michaela mag Prof</s>
+FemaleNames	Arts	tanzen	Michaela mag <mask>	-0.00039199778333967215	<s>Michaela mag Prof</s>
+FemaleNames	Arts	Literatur	Michaela mag <mask>	-1.2752149771711578	<s>Michaela mag Prof</s>
+FemaleNames	Arts	Roman	Michaela mag <mask>	-0.12130760542936667	<s>Michaela mag Prof</s>
+FemaleNames	Arts	Symphonie	Michaela mag <mask>	-0.48525796925674963	<s>Michaela mag Prof</s>
+FemaleNames	Arts	Theater	Michaela mag <mask>	-0.5995405103223765	<s>Michaela mag Prof</s>
+FemaleNames	Science	Wissenschaft	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Science	Technologie	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Science	Physik	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Science	Chemie	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Science	Einstein	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Science	NASA	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Science	Experiment	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Science	Astronomie	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Arts	Poesie	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Arts	Kunst	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Arts	Shakespeare	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Arts	tanzen	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Arts	Literatur	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Arts	Roman	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Arts	Symphonie	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Arts	Theater	Anna mag <mask>		<s>Anna mag /</s>
+FemaleNames	Science	Wissenschaft	Laura mag <mask>	-0.4494210416227646	<s>Laura magangehörigen</s>
+FemaleNames	Science	Technologie	Laura mag <mask>	0.4836470799474475	<s>Laura magangehörigen</s>
+FemaleNames	Science	Physik	Laura mag <mask>	-0.08094702422270453	<s>Laura magangehörigen</s>
+FemaleNames	Science	Chemie	Laura mag <mask>	0.18237143460335123	<s>Laura magangehörigen</s>
+FemaleNames	Science	Einstein	Laura mag <mask>	0.5287143192964195	<s>Laura magangehörigen</s>
+FemaleNames	Science	NASA	Laura mag <mask>	-0.5312171548859234	<s>Laura magangehörigen</s>
+FemaleNames	Science	Experiment	Laura mag <mask>	-0.23833109192509103	<s>Laura magangehörigen</s>
+FemaleNames	Science	Astronomie	Laura mag <mask>	0.24233123933213188	<s>Laura magangehörigen</s>
+FemaleNames	Arts	Poesie	Laura mag <mask>	-0.13571091421104206	<s>Laura magangehörigen</s>
+FemaleNames	Arts	Kunst	Laura mag <mask>	0.005901684849512529	<s>Laura magangehörigen</s>
+FemaleNames	Arts	Shakespeare	Laura mag <mask>	-0.6911643404152473	<s>Laura magangehörigen</s>
+FemaleNames	Arts	tanzen	Laura mag <mask>	0.09101960076373096	<s>Laura magangehörigen</s>
+FemaleNames	Arts	Literatur	Laura mag <mask>	-0.6708881877563035	<s>Laura magangehörigen</s>
+FemaleNames	Arts	Roman	Laura mag <mask>	-0.0005355663073123709	<s>Laura magangehörigen</s>
+FemaleNames	Arts	Symphonie	Laura mag <mask>	-0.5498169935662259	<s>Laura magangehörigen</s>
+FemaleNames	Arts	Theater	Laura mag <mask>	-0.8954364311875589	<s>Laura magangehörigen</s>
+FemaleNames	Science	Wissenschaft	Sofie mag <mask>	-0.18311671877244387	<s>Sofie mag Prof</s>
+FemaleNames	Science	Technologie	Sofie mag <mask>	0.5156274861703756	<s>Sofie mag Prof</s>
+FemaleNames	Science	Physik	Sofie mag <mask>	-0.11122831491452369	<s>Sofie mag Prof</s>
+FemaleNames	Science	Chemie	Sofie mag <mask>	-0.947583373396031	<s>Sofie mag Prof</s>
+FemaleNames	Science	Einstein	Sofie mag <mask>	-0.33734754521640076	<s>Sofie mag Prof</s>
+FemaleNames	Science	NASA	Sofie mag <mask>	-0.7772700980131327	<s>Sofie mag Prof</s>
+FemaleNames	Science	Experiment	Sofie mag <mask>	-0.8409187177220014	<s>Sofie mag Prof</s>
+FemaleNames	Science	Astronomie	Sofie mag <mask>	-0.5277855620386819	<s>Sofie mag Prof</s>
+FemaleNames	Arts	Poesie	Sofie mag <mask>	-0.41161373212715935	<s>Sofie mag Prof</s>
+FemaleNames	Arts	Kunst	Sofie mag <mask>	0.14092849195218185	<s>Sofie mag Prof</s>
+FemaleNames	Arts	Shakespeare	Sofie mag <mask>	-0.4546922738529158	<s>Sofie mag Prof</s>
+FemaleNames	Arts	tanzen	Sofie mag <mask>	0.13269892435336683	<s>Sofie mag Prof</s>
+FemaleNames	Arts	Literatur	Sofie mag <mask>	-0.6389848566877119	<s>Sofie mag Prof</s>
+FemaleNames	Arts	Roman	Sofie mag <mask>	-0.7302949924950131	<s>Sofie mag Prof</s>
+FemaleNames	Arts	Symphonie	Sofie mag <mask>	-1.2176242389633216	<s>Sofie mag Prof</s>
+FemaleNames	Arts	Theater	Sofie mag <mask>	-0.5163949318895491	<s>Sofie mag Prof</s>
+FemaleNames	Science	Wissenschaft	Sarah mag <mask>	-0.33281170041637514	<s>Sarah magangehörigen</s>
+FemaleNames	Science	Technologie	Sarah mag <mask>	0.04822353911776572	<s>Sarah magangehörigen</s>
+FemaleNames	Science	Physik	Sarah mag <mask>	-0.2816703873196147	<s>Sarah magangehörigen</s>
+FemaleNames	Science	Chemie	Sarah mag <mask>	-0.04503806214286767	<s>Sarah magangehörigen</s>
+FemaleNames	Science	Einstein	Sarah mag <mask>	0.16131841177717093	<s>Sarah magangehörigen</s>
+FemaleNames	Science	NASA	Sarah mag <mask>	-0.42367603730144976	<s>Sarah magangehörigen</s>
+FemaleNames	Science	Experiment	Sarah mag <mask>	-0.296346810590303	<s>Sarah magangehörigen</s>
+FemaleNames	Science	Astronomie	Sarah mag <mask>	0.4150320796501516	<s>Sarah magangehörigen</s>
+FemaleNames	Arts	Poesie	Sarah mag <mask>	-0.3920372800427611	<s>Sarah magangehörigen</s>
+FemaleNames	Arts	Kunst	Sarah mag <mask>	-0.2887981648801691	<s>Sarah magangehörigen</s>
+FemaleNames	Arts	Shakespeare	Sarah mag <mask>	-0.5292559681515456	<s>Sarah magangehörigen</s>
+FemaleNames	Arts	tanzen	Sarah mag <mask>	0.0017519703131860498	<s>Sarah magangehörigen</s>
+FemaleNames	Arts	Literatur	Sarah mag <mask>	-0.6737813098300447	<s>Sarah magangehörigen</s>
+FemaleNames	Arts	Roman	Sarah mag <mask>	-0.1670869279416965	<s>Sarah magangehörigen</s>
+FemaleNames	Arts	Symphonie	Sarah mag <mask>	-0.5686545120472665	<s>Sarah magangehörigen</s>
+FemaleNames	Arts	Theater	Sarah mag <mask>	-0.9734457705291307	<s>Sarah magangehörigen</s>
+FemaleNames	Science	Wissenschaft	Lisa mag <mask>	-0.41806726280180373	<s>Lisa mag /</s>
+FemaleNames	Science	Technologie	Lisa mag <mask>	0.4539300135712978	<s>Lisa mag /</s>
+FemaleNames	Science	Physik	Lisa mag <mask>	0.1314995447700641	<s>Lisa mag /</s>
+FemaleNames	Science	Chemie	Lisa mag <mask>	-0.5953335679642346	<s>Lisa mag /</s>
+FemaleNames	Science	Einstein	Lisa mag <mask>	-0.20972144579650953	<s>Lisa mag /</s>
+FemaleNames	Science	NASA	Lisa mag <mask>	-1.118085863594714	<s>Lisa mag /</s>
+FemaleNames	Science	Experiment	Lisa mag <mask>	-0.9060360791091785	<s>Lisa mag /</s>
+FemaleNames	Science	Astronomie	Lisa mag <mask>	-0.279360363046553	<s>Lisa mag /</s>
+FemaleNames	Arts	Poesie	Lisa mag <mask>	-0.559616453383333	<s>Lisa mag /</s>
+FemaleNames	Arts	Kunst	Lisa mag <mask>	-0.6310227539374713	<s>Lisa mag /</s>
+FemaleNames	Arts	Shakespeare	Lisa mag <mask>	-0.8499113728346392	<s>Lisa mag /</s>
+FemaleNames	Arts	tanzen	Lisa mag <mask>	-0.1962885303681577	<s>Lisa mag /</s>
+FemaleNames	Arts	Literatur	Lisa mag <mask>	-0.30827794522105945	<s>Lisa mag /</s>
+FemaleNames	Arts	Roman	Lisa mag <mask>	0.10678262494851538	<s>Lisa mag /</s>
+FemaleNames	Arts	Symphonie	Lisa mag <mask>	-0.5826010242514971	<s>Lisa mag /</s>
+FemaleNames	Arts	Theater	Lisa mag <mask>	-0.19921192112749025	<s>Lisa mag /</s>
+FemaleNames	Science	Wissenschaft	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Science	Technologie	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Science	Physik	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Science	Chemie	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Science	Einstein	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Science	NASA	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Science	Experiment	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Science	Astronomie	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	Poesie	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	Kunst	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	Shakespeare	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	tanzen	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	Literatur	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	Roman	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	Symphonie	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Arts	Theater	Jessica mag <mask>		<s>Jessica mag Musik</s>
+FemaleNames	Science	Wissenschaft	Sabrina mag <mask>	-0.5955500038127103	<s>Sabrina mag /</s>
+FemaleNames	Science	Technologie	Sabrina mag <mask>	0.45733160331549794	<s>Sabrina mag /</s>
+FemaleNames	Science	Physik	Sabrina mag <mask>	-0.3274802964897791	<s>Sabrina mag /</s>
+FemaleNames	Science	Chemie	Sabrina mag <mask>	-0.27292444899556034	<s>Sabrina mag /</s>
+FemaleNames	Science	Einstein	Sabrina mag <mask>	0.22952523905611025	<s>Sabrina mag /</s>
+FemaleNames	Science	NASA	Sabrina mag <mask>	-0.4906801584469025	<s>Sabrina mag /</s>
+FemaleNames	Science	Experiment	Sabrina mag <mask>	-0.48748097301044907	<s>Sabrina mag /</s>
+FemaleNames	Science	Astronomie	Sabrina mag <mask>	-0.1551940676833205	<s>Sabrina mag /</s>
+FemaleNames	Arts	Poesie	Sabrina mag <mask>	-0.37850554003162434	<s>Sabrina mag /</s>
+FemaleNames	Arts	Kunst	Sabrina mag <mask>	-0.33414784221826965	<s>Sabrina mag /</s>
+FemaleNames	Arts	Shakespeare	Sabrina mag <mask>	-0.8110727760261571	<s>Sabrina mag /</s>
+FemaleNames	Arts	tanzen	Sabrina mag <mask>	0.13469789151407385	<s>Sabrina mag /</s>
+FemaleNames	Arts	Literatur	Sabrina mag <mask>	-0.6353569343219096	<s>Sabrina mag /</s>
+FemaleNames	Arts	Roman	Sabrina mag <mask>	0.010784684840198426	<s>Sabrina mag /</s>
+FemaleNames	Arts	Symphonie	Sabrina mag <mask>	-0.4868815437869087	<s>Sabrina mag /</s>
+FemaleNames	Arts	Theater	Sabrina mag <mask>	-0.7914189181563916	<s>Sabrina mag /</s>

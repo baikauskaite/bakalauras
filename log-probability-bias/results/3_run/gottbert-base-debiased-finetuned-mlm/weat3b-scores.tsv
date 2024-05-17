@@ -1,0 +1,289 @@
+attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
+Career	MaleNames	Johannes	<mask> mag Exekutive	-0.3909764035757376	<s> / mag Exekutive</s>
+Career	MaleNames	Lukas	<mask> mag Exekutive	0.024727028155280616	<s> Holz Holz / mag Exekutive</s>
+Career	MaleNames	Daniel	<mask> mag Exekutive	-1.6486000289148406	<s> / mag Exekutive</s>
+Career	MaleNames	Paul	<mask> mag Exekutive	-0.0973726161920305	<s> / mag Exekutive</s>
+Career	MaleNames	Thomas	<mask> mag Exekutive	0.3900243718578067	<s> / mag Exekutive</s>
+Career	MaleNames	Benjamin	<mask> mag Exekutive	1.052427342539889	<s> Holz / mag Exekutive</s>
+Career	MaleNames	Felix	<mask> mag Exekutive	-1.3089178424377061	<s> Holz / mag Exekutive</s>
+Career	MaleNames	Christoph	<mask> mag Exekutive	-1.050055554204849	<s> / mag Exekutive</s>
+Career	MaleNames	Maximilian	<mask> mag Exekutive	-0.5534641861078836	<s> Holz / mag Exekutive</s>
+Career	FemaleNames	Julia	<mask> mag Exekutive	-0.07437549080235686	<s> Holz / mag Exekutive</s>
+Career	FemaleNames	Michaela	<mask> mag Exekutive	-1.1546315946374115	<s> Holz / mag Exekutive</s>
+Career	FemaleNames	Anna	<mask> mag Exekutive	-0.9436656325478368	<s> / mag Exekutive</s>
+Career	FemaleNames	Laura	<mask> mag Exekutive	-1.109660921695666	<s> Holz / mag Exekutive</s>
+Career	FemaleNames	Sofie	<mask> mag Exekutive	1.2404640066552184	<s> Holz / mag Exekutive</s>
+Career	FemaleNames	Sarah	<mask> mag Exekutive	-2.4678382753076327	<s> Holz / mag Exekutive</s>
+Career	FemaleNames	Lisa	<mask> mag Exekutive	-0.015260250234508712	<s> Holz / mag Exekutive</s>
+Career	FemaleNames	Jessica	<mask> mag Exekutive	-1.5371886019761334	<s> Holz Holz / mag Exekutive</s>
+Career	FemaleNames	Sabrina	<mask> mag Exekutive	-0.19611888440766054	<s> Holz / mag Exekutive</s>
+Career	MaleNames	Johannes	<mask> mag Management	-0.0513003703652175	<s> / mag Management</s>
+Career	MaleNames	Lukas	<mask> mag Management	-0.23931740175327648	<s> / Musik / mag Management</s>
+Career	MaleNames	Daniel	<mask> mag Management	-1.2677527654611545	<s> / mag Management</s>
+Career	MaleNames	Paul	<mask> mag Management	0.24782965953665945	<s> / mag Management</s>
+Career	MaleNames	Thomas	<mask> mag Management	1.6754497961525385	<s> / mag Management</s>
+Career	MaleNames	Benjamin	<mask> mag Management	0.7902800732579446	<s> Musik / mag Management</s>
+Career	MaleNames	Felix	<mask> mag Management	-1.0160444953033718	<s> Musik / mag Management</s>
+Career	MaleNames	Christoph	<mask> mag Management	-0.9703855235425899	<s> / mag Management</s>
+Career	MaleNames	Maximilian	<mask> mag Management	-0.29200588895700247	<s> Musik / mag Management</s>
+Career	FemaleNames	Julia	<mask> mag Management	-0.24610476263386966	<s> Musik / mag Management</s>
+Career	FemaleNames	Michaela	<mask> mag Management	-0.49093946380547393	<s> Musik / mag Management</s>
+Career	FemaleNames	Anna	<mask> mag Management	0.2543302602486429	<s> / mag Management</s>
+Career	FemaleNames	Laura	<mask> mag Management	-0.5830142723427304	<s> Musik / mag Management</s>
+Career	FemaleNames	Sofie	<mask> mag Management	-0.2636157318848736	<s> Musik / mag Management</s>
+Career	FemaleNames	Sarah	<mask> mag Management	-1.1094090355641293	<s> Musik / mag Management</s>
+Career	FemaleNames	Lisa	<mask> mag Management	-0.49143105451712865	<s> Musik / mag Management</s>
+Career	FemaleNames	Jessica	<mask> mag Management	-0.812096686796369	<s> / Musik / mag Management</s>
+Career	FemaleNames	Sabrina	<mask> mag Management	0.8334036119260239	<s> Musik / mag Management</s>
+Career	MaleNames	Johannes	<mask> mag Fachmann	-0.03396438237575465	<s> / mag Fachmann</s>
+Career	MaleNames	Lukas	<mask> mag Fachmann	-0.45330912422352404	<s> mag Prof / mag Fachmann</s>
+Career	MaleNames	Daniel	<mask> mag Fachmann	-1.0121218837738974	<s> / mag Fachmann</s>
+Career	MaleNames	Paul	<mask> mag Fachmann	-0.019174038368990672	<s> / mag Fachmann</s>
+Career	MaleNames	Thomas	<mask> mag Fachmann	1.5045529502524444	<s> / mag Fachmann</s>
+Career	MaleNames	Benjamin	<mask> mag Fachmann	0.047040172041726176	<s> Prof / mag Fachmann</s>
+Career	MaleNames	Felix	<mask> mag Fachmann	-0.5844789730478085	<s> Prof / mag Fachmann</s>
+Career	MaleNames	Christoph	<mask> mag Fachmann	-0.5491670070994893	<s> / mag Fachmann</s>
+Career	MaleNames	Maximilian	<mask> mag Fachmann	-1.402593373100186	<s> Prof / mag Fachmann</s>
+Career	FemaleNames	Julia	<mask> mag Fachmann	-0.708783256937792	<s> Prof / mag Fachmann</s>
+Career	FemaleNames	Michaela	<mask> mag Fachmann	-0.5527704459082401	<s> Prof / mag Fachmann</s>
+Career	FemaleNames	Anna	<mask> mag Fachmann	-0.3637506608049247	<s> / mag Fachmann</s>
+Career	FemaleNames	Laura	<mask> mag Fachmann	-1.9416934133962338	<s> Prof / mag Fachmann</s>
+Career	FemaleNames	Sofie	<mask> mag Fachmann	0.6071206270534136	<s> Prof / mag Fachmann</s>
+Career	FemaleNames	Sarah	<mask> mag Fachmann	-2.378566191694229	<s> Prof / mag Fachmann</s>
+Career	FemaleNames	Lisa	<mask> mag Fachmann	-1.0776618468253811	<s> Prof / mag Fachmann</s>
+Career	FemaleNames	Jessica	<mask> mag Fachmann	-0.48801704291685044	<s> mag Prof / mag Fachmann</s>
+Career	FemaleNames	Sabrina	<mask> mag Fachmann	-0.84268589853945	<s> Prof / mag Fachmann</s>
+Career	MaleNames	Johannes	<mask> mag Konzern	0.22504631914758538	<s> / mag Konzern</s>
+Career	MaleNames	Lukas	<mask> mag Konzern	-0.41946260246371647	<s> / / / mag Konzern</s>
+Career	MaleNames	Daniel	<mask> mag Konzern	-0.8596786039246438	<s> / mag Konzern</s>
+Career	MaleNames	Paul	<mask> mag Konzern	0.014066382844993971	<s> / mag Konzern</s>
+Career	MaleNames	Thomas	<mask> mag Konzern	1.3157765366009304	<s> / mag Konzern</s>
+Career	MaleNames	Benjamin	<mask> mag Konzern	0.8295220103336577	<s> / / mag Konzern</s>
+Career	MaleNames	Felix	<mask> mag Konzern	-1.014619024116657	<s> / / mag Konzern</s>
+Career	MaleNames	Christoph	<mask> mag Konzern	-0.1448097402338865	<s> / mag Konzern</s>
+Career	MaleNames	Maximilian	<mask> mag Konzern	-0.26410961284832213	<s> / / mag Konzern</s>
+Career	FemaleNames	Julia	<mask> mag Konzern	-0.01324491746654337	<s> / / mag Konzern</s>
+Career	FemaleNames	Michaela	<mask> mag Konzern	-0.6294077228412372	<s> / / mag Konzern</s>
+Career	FemaleNames	Anna	<mask> mag Konzern	0.3158350867557152	<s> / mag Konzern</s>
+Career	FemaleNames	Laura	<mask> mag Konzern	-0.6793592004323978	<s> / / mag Konzern</s>
+Career	FemaleNames	Sofie	<mask> mag Konzern	0.4817778303581576	<s> / / mag Konzern</s>
+Career	FemaleNames	Sarah	<mask> mag Konzern	-1.094359155613119	<s> / / mag Konzern</s>
+Career	FemaleNames	Lisa	<mask> mag Konzern	-0.5968561572889908	<s> / / mag Konzern</s>
+Career	FemaleNames	Jessica	<mask> mag Konzern	-0.8978607841289392	<s> / / / mag Konzern</s>
+Career	FemaleNames	Sabrina	<mask> mag Konzern	0.24025966499971735	<s> / / mag Konzern</s>
+Career	MaleNames	Johannes	<mask> mag Gehalt	0.3917012465482962	<s> / mag Gehalt</s>
+Career	MaleNames	Lukas	<mask> mag Gehalt	0.04758645314661944	<s> Holz Holz / mag Gehalt</s>
+Career	MaleNames	Daniel	<mask> mag Gehalt	-0.8890230725959751	<s> / mag Gehalt</s>
+Career	MaleNames	Paul	<mask> mag Gehalt	0.140975186092643	<s> / mag Gehalt</s>
+Career	MaleNames	Thomas	<mask> mag Gehalt	1.5922275318629744	<s> / mag Gehalt</s>
+Career	MaleNames	Benjamin	<mask> mag Gehalt	0.8732065226164354	<s> Holz / mag Gehalt</s>
+Career	MaleNames	Felix	<mask> mag Gehalt	-1.0028005957064863	<s> Holz / mag Gehalt</s>
+Career	MaleNames	Christoph	<mask> mag Gehalt	-0.9222314375487219	<s> / mag Gehalt</s>
+Career	MaleNames	Maximilian	<mask> mag Gehalt	-0.6057012555935368	<s> Holz / mag Gehalt</s>
+Career	FemaleNames	Julia	<mask> mag Gehalt	0.0978411214741812	<s> Holz / mag Gehalt</s>
+Career	FemaleNames	Michaela	<mask> mag Gehalt	-0.1437365444452871	<s> Holz / mag Gehalt</s>
+Career	FemaleNames	Anna	<mask> mag Gehalt	0.17462238437898245	<s> / mag Gehalt</s>
+Career	FemaleNames	Laura	<mask> mag Gehalt	-0.03665923928758997	<s> Holz / mag Gehalt</s>
+Career	FemaleNames	Sofie	<mask> mag Gehalt	0.356843991804572	<s> Holz / mag Gehalt</s>
+Career	FemaleNames	Sarah	<mask> mag Gehalt	-1.0069619298298536	<s> Holz / mag Gehalt</s>
+Career	FemaleNames	Lisa	<mask> mag Gehalt	-0.09862177131404037	<s> Holz / mag Gehalt</s>
+Career	FemaleNames	Jessica	<mask> mag Gehalt	-0.38844537003847657	<s> Holz Holz / mag Gehalt</s>
+Career	FemaleNames	Sabrina	<mask> mag Gehalt	0.3899912060074432	<s> Holz / mag Gehalt</s>
+Career	MaleNames	Johannes	<mask> mag Büro	0.2901136854912148	<s> / mag Büro</s>
+Career	MaleNames	Lukas	<mask> mag Büro	-0.476616060924105	<s> Holz Holz / mag Büro</s>
+Career	MaleNames	Daniel	<mask> mag Büro	-0.7523027334492954	<s> / mag Büro</s>
+Career	MaleNames	Paul	<mask> mag Büro	-0.009234292708713268	<s> / mag Büro</s>
+Career	MaleNames	Thomas	<mask> mag Büro	0.35811732160135074	<s> / mag Büro</s>
+Career	MaleNames	Benjamin	<mask> mag Büro	0.7432663037847014	<s> Holz / mag Büro</s>
+Career	MaleNames	Felix	<mask> mag Büro	-0.5851192125358683	<s> Holz / mag Büro</s>
+Career	MaleNames	Christoph	<mask> mag Büro	-0.6238953224759818	<s> / mag Büro</s>
+Career	MaleNames	Maximilian	<mask> mag Büro	-0.6093694238223333	<s> Holz / mag Büro</s>
+Career	FemaleNames	Julia	<mask> mag Büro	-0.0741788941470746	<s> Holz / mag Büro</s>
+Career	FemaleNames	Michaela	<mask> mag Büro	-0.5426466124797702	<s> Holz / mag Büro</s>
+Career	FemaleNames	Anna	<mask> mag Büro	-0.013343823116717966	<s> / mag Büro</s>
+Career	FemaleNames	Laura	<mask> mag Büro	-0.5198082969175316	<s> Holz / mag Büro</s>
+Career	FemaleNames	Sofie	<mask> mag Büro	0.09283126106029614	<s> Holz / mag Büro</s>
+Career	FemaleNames	Sarah	<mask> mag Büro	-1.4861320705586432	<s> Holz / mag Büro</s>
+Career	FemaleNames	Lisa	<mask> mag Büro	-0.6656129304564188	<s> Holz / mag Büro</s>
+Career	FemaleNames	Jessica	<mask> mag Büro	-0.036991355270775766	<s> Holz Holz / mag Büro</s>
+Career	FemaleNames	Sabrina	<mask> mag Büro	0.31283624321440295	<s> Holz / mag Büro</s>
+Career	MaleNames	Johannes	<mask> mag Geschäft	0.2638281088416326	<s> / mag Geschäft</s>
+Career	MaleNames	Lukas	<mask> mag Geschäft	-0.34114377378172017	<s> / / / mag Geschäft</s>
+Career	MaleNames	Daniel	<mask> mag Geschäft	-1.3435134867558711	<s> / mag Geschäft</s>
+Career	MaleNames	Paul	<mask> mag Geschäft	0.12370631147268507	<s> / mag Geschäft</s>
+Career	MaleNames	Thomas	<mask> mag Geschäft	0.5266498411833073	<s> / mag Geschäft</s>
+Career	MaleNames	Benjamin	<mask> mag Geschäft	0.735356609173185	<s> Holz / mag Geschäft</s>
+Career	MaleNames	Felix	<mask> mag Geschäft	-0.902817678593286	<s> Holz / mag Geschäft</s>
+Career	MaleNames	Christoph	<mask> mag Geschäft	-0.7603214167352765	<s> / mag Geschäft</s>
+Career	MaleNames	Maximilian	<mask> mag Geschäft	-0.2866050840744674	<s> Holz / mag Geschäft</s>
+Career	FemaleNames	Julia	<mask> mag Geschäft	-0.23383100744206906	<s> Holz / mag Geschäft</s>
+Career	FemaleNames	Michaela	<mask> mag Geschäft	-0.6514007889100053	<s> Holz / mag Geschäft</s>
+Career	FemaleNames	Anna	<mask> mag Geschäft	0.16406409908945485	<s> / mag Geschäft</s>
+Career	FemaleNames	Laura	<mask> mag Geschäft	-0.9186908703228236	<s> Holz / mag Geschäft</s>
+Career	FemaleNames	Sofie	<mask> mag Geschäft	0.6071459421281751	<s> Holz / mag Geschäft</s>
+Career	FemaleNames	Sarah	<mask> mag Geschäft	-1.579730609834802	<s> Holz / mag Geschäft</s>
+Career	FemaleNames	Lisa	<mask> mag Geschäft	-0.8943218505226889	<s> Holz / mag Geschäft</s>
+Career	FemaleNames	Jessica	<mask> mag Geschäft	-0.7742797638833616	<s> / / / mag Geschäft</s>
+Career	FemaleNames	Sabrina	<mask> mag Geschäft	-0.391841463097539	<s> Holz / mag Geschäft</s>
+Career	MaleNames	Johannes	<mask> mag Karriere	0.17802693510725742	<s> / mag Karriere</s>
+Career	MaleNames	Lukas	<mask> mag Karriere	-0.3426251291761655	<s> Holz / / mag Karriere</s>
+Career	MaleNames	Daniel	<mask> mag Karriere	-1.429248447840328	<s> / mag Karriere</s>
+Career	MaleNames	Paul	<mask> mag Karriere	-0.3629942626176859	<s> / mag Karriere</s>
+Career	MaleNames	Thomas	<mask> mag Karriere	0.6102133227142599	<s> / mag Karriere</s>
+Career	MaleNames	Benjamin	<mask> mag Karriere	0.3810575888676145	<s> Musik / mag Karriere</s>
+Career	MaleNames	Felix	<mask> mag Karriere	-0.26245649164726303	<s> Musik / mag Karriere</s>
+Career	MaleNames	Christoph	<mask> mag Karriere	-0.6009021768962761	<s> / mag Karriere</s>
+Career	MaleNames	Maximilian	<mask> mag Karriere	-0.5477954681299086	<s> Musik / mag Karriere</s>
+Career	FemaleNames	Julia	<mask> mag Karriere	-0.046887179360500505	<s> Musik / mag Karriere</s>
+Career	FemaleNames	Michaela	<mask> mag Karriere	-0.5726697537625951	<s> Musik / mag Karriere</s>
+Career	FemaleNames	Anna	<mask> mag Karriere	0.5276501562578193	<s> / mag Karriere</s>
+Career	FemaleNames	Laura	<mask> mag Karriere	0.30056636809727877	<s> Musik / mag Karriere</s>
+Career	FemaleNames	Sofie	<mask> mag Karriere	-0.14524189207344454	<s> Musik / mag Karriere</s>
+Career	FemaleNames	Sarah	<mask> mag Karriere	-0.7958242991543388	<s> Musik / mag Karriere</s>
+Career	FemaleNames	Lisa	<mask> mag Karriere	-0.3507283255685806	<s> Musik / mag Karriere</s>
+Career	FemaleNames	Jessica	<mask> mag Karriere	-0.6799544246430015	<s> Holz / / mag Karriere</s>
+Career	FemaleNames	Sabrina	<mask> mag Karriere	1.0306949733783415	<s> Musik / mag Karriere</s>
+Family	MaleNames	Johannes	<mask> mag heim	0.6107087218868228	<s> / mag heim</s>
+Family	MaleNames	Lukas	<mask> mag heim	-0.1072161398774136	<s> Holz Holz / mag heim</s>
+Family	MaleNames	Daniel	<mask> mag heim	-1.011778974415512	<s> / mag heim</s>
+Family	MaleNames	Paul	<mask> mag heim	-0.759520150920712	<s> / mag heim</s>
+Family	MaleNames	Thomas	<mask> mag heim	0.4880242763262841	<s> / mag heim</s>
+Family	MaleNames	Benjamin	<mask> mag heim	0.5363583573507932	<s> Holz / mag heim</s>
+Family	MaleNames	Felix	<mask> mag heim	-0.6147135424028306	<s> Holz / mag heim</s>
+Family	MaleNames	Christoph	<mask> mag heim	-0.19421512015091388	<s> / mag heim</s>
+Family	MaleNames	Maximilian	<mask> mag heim	-0.7332303609913794	<s> Holz / mag heim</s>
+Family	FemaleNames	Julia	<mask> mag heim	-0.06802836795948321	<s> Holz / mag heim</s>
+Family	FemaleNames	Michaela	<mask> mag heim	-0.10525850902437346	<s> Holz / mag heim</s>
+Family	FemaleNames	Anna	<mask> mag heim	0.1745503795446997	<s> / mag heim</s>
+Family	FemaleNames	Laura	<mask> mag heim	-0.27844248809894484	<s> Holz / mag heim</s>
+Family	FemaleNames	Sofie	<mask> mag heim	0.6123655240145708	<s> Holz / mag heim</s>
+Family	FemaleNames	Sarah	<mask> mag heim	-1.3354607928815803	<s> Holz / mag heim</s>
+Family	FemaleNames	Lisa	<mask> mag heim	-0.8296116375247028	<s> Holz / mag heim</s>
+Family	FemaleNames	Jessica	<mask> mag heim	-0.17339628986689817	<s> Holz Holz / mag heim</s>
+Family	FemaleNames	Sabrina	<mask> mag heim	-0.14377307500317577	<s> Holz / mag heim</s>
+Family	MaleNames	Johannes	<mask> mag Eltern	0.14808779735568545	<s> / mag Eltern</s>
+Family	MaleNames	Lukas	<mask> mag Eltern	-0.46902487685368044	<s> Holz Musik / mag Eltern</s>
+Family	MaleNames	Daniel	<mask> mag Eltern	-2.0840188654330603	<s> / mag Eltern</s>
+Family	MaleNames	Paul	<mask> mag Eltern	-0.17261021649177202	<s> / mag Eltern</s>
+Family	MaleNames	Thomas	<mask> mag Eltern	1.1812921207492764	<s> / mag Eltern</s>
+Family	MaleNames	Benjamin	<mask> mag Eltern	1.4832083511503835	<s> Musik / mag Eltern</s>
+Family	MaleNames	Felix	<mask> mag Eltern	-1.1097473495594683	<s> Musik / mag Eltern</s>
+Family	MaleNames	Christoph	<mask> mag Eltern	-0.564824165081385	<s> / mag Eltern</s>
+Family	MaleNames	Maximilian	<mask> mag Eltern	-0.7118163567287898	<s> Musik / mag Eltern</s>
+Family	FemaleNames	Julia	<mask> mag Eltern	-0.30566967152449076	<s> Musik / mag Eltern</s>
+Family	FemaleNames	Michaela	<mask> mag Eltern	-0.38302739687184995	<s> Musik / mag Eltern</s>
+Family	FemaleNames	Anna	<mask> mag Eltern	0.9711396638378728	<s> / mag Eltern</s>
+Family	FemaleNames	Laura	<mask> mag Eltern	-0.8335159649445201	<s> Musik / mag Eltern</s>
+Family	FemaleNames	Sofie	<mask> mag Eltern	0.15805679187468086	<s> Musik / mag Eltern</s>
+Family	FemaleNames	Sarah	<mask> mag Eltern	-1.0247267564253981	<s> Musik / mag Eltern</s>
+Family	FemaleNames	Lisa	<mask> mag Eltern	-0.9061707074882301	<s> Musik / mag Eltern</s>
+Family	FemaleNames	Jessica	<mask> mag Eltern	-0.8308495641311584	<s> Holz Musik / mag Eltern</s>
+Family	FemaleNames	Sabrina	<mask> mag Eltern	-0.05095026727619737	<s> Musik / mag Eltern</s>
+Family	MaleNames	Johannes	<mask> mag Kinder	0.7154652236979391	<s> / mag Kinder</s>
+Family	MaleNames	Lukas	<mask> mag Kinder	-0.14893936490458237	<s> Holz Holz / mag Kinder</s>
+Family	MaleNames	Daniel	<mask> mag Kinder	-0.6572032884955938	<s> / mag Kinder</s>
+Family	MaleNames	Paul	<mask> mag Kinder	0.32847699172111317	<s> / mag Kinder</s>
+Family	MaleNames	Thomas	<mask> mag Kinder	1.3427729272136233	<s> / mag Kinder</s>
+Family	MaleNames	Benjamin	<mask> mag Kinder	0.9807414158509444	<s> Holz / mag Kinder</s>
+Family	MaleNames	Felix	<mask> mag Kinder	-0.5281410496958667	<s> Holz / mag Kinder</s>
+Family	MaleNames	Christoph	<mask> mag Kinder	-0.0017091049739422848	<s> / mag Kinder</s>
+Family	MaleNames	Maximilian	<mask> mag Kinder	-0.6911944898370509	<s> Holz / mag Kinder</s>
+Family	FemaleNames	Julia	<mask> mag Kinder	0.33989730530089607	<s> Holz / mag Kinder</s>
+Family	FemaleNames	Michaela	<mask> mag Kinder	-0.2511224339388689	<s> Holz / mag Kinder</s>
+Family	FemaleNames	Anna	<mask> mag Kinder	0.6023241114976491	<s> / mag Kinder</s>
+Family	FemaleNames	Laura	<mask> mag Kinder	-0.03746112501785438	<s> Holz / mag Kinder</s>
+Family	FemaleNames	Sofie	<mask> mag Kinder	0.30959882474405226	<s> Holz / mag Kinder</s>
+Family	FemaleNames	Sarah	<mask> mag Kinder	-0.8962642840436189	<s> Holz / mag Kinder</s>
+Family	FemaleNames	Lisa	<mask> mag Kinder	-0.3589136928373964	<s> Holz / mag Kinder</s>
+Family	FemaleNames	Jessica	<mask> mag Kinder	-0.5992408127624025	<s> Holz Holz / mag Kinder</s>
+Family	FemaleNames	Sabrina	<mask> mag Kinder	0.8516061089150672	<s> Holz / mag Kinder</s>
+Family	MaleNames	Johannes	<mask> mag Familie	-0.22004839861207043	<s> / mag Familie</s>
+Family	MaleNames	Lukas	<mask> mag Familie	-0.4533802207921941	<s> mag Musik / mag Familie</s>
+Family	MaleNames	Daniel	<mask> mag Familie	-1.3021787374088698	<s> / mag Familie</s>
+Family	MaleNames	Paul	<mask> mag Familie	-0.19426399251765444	<s> / mag Familie</s>
+Family	MaleNames	Thomas	<mask> mag Familie	0.8142015807466872	<s> / mag Familie</s>
+Family	MaleNames	Benjamin	<mask> mag Familie	0.9248423558584004	<s> Musik / mag Familie</s>
+Family	MaleNames	Felix	<mask> mag Familie	-0.7691135614236138	<s> Musik / mag Familie</s>
+Family	MaleNames	Christoph	<mask> mag Familie	-0.28587469438646484	<s> / mag Familie</s>
+Family	MaleNames	Maximilian	<mask> mag Familie	-0.9320876043042371	<s> Musik / mag Familie</s>
+Family	FemaleNames	Julia	<mask> mag Familie	0.6162992364405933	<s> Musik / mag Familie</s>
+Family	FemaleNames	Michaela	<mask> mag Familie	-0.11485443913161734	<s> Musik / mag Familie</s>
+Family	FemaleNames	Anna	<mask> mag Familie	0.03805279967802826	<s> / mag Familie</s>
+Family	FemaleNames	Laura	<mask> mag Familie	-0.32757820425416906	<s> Musik / mag Familie</s>
+Family	FemaleNames	Sofie	<mask> mag Familie	0.03900660373786094	<s> Musik / mag Familie</s>
+Family	FemaleNames	Sarah	<mask> mag Familie	-0.8846467003638864	<s> Musik / mag Familie</s>
+Family	FemaleNames	Lisa	<mask> mag Familie	-0.4954023356344158	<s> Musik / mag Familie</s>
+Family	FemaleNames	Jessica	<mask> mag Familie	-0.5686859414934664	<s> mag Musik / mag Familie</s>
+Family	FemaleNames	Sabrina	<mask> mag Familie	0.07640025628891454	<s> Musik / mag Familie</s>
+Family	MaleNames	Johannes	<mask> mag Cousins	0.13835754074715917	<s> / mag Cousins</s>
+Family	MaleNames	Lukas	<mask> mag Cousins	-0.35283822206781285	<s> Holz Musik / mag Cousins</s>
+Family	MaleNames	Daniel	<mask> mag Cousins	-0.7092686416216677	<s> / mag Cousins</s>
+Family	MaleNames	Paul	<mask> mag Cousins	0.2778847586978875	<s> / mag Cousins</s>
+Family	MaleNames	Thomas	<mask> mag Cousins	-0.34928957232546626	<s> / mag Cousins</s>
+Family	MaleNames	Benjamin	<mask> mag Cousins	1.0976667928338681	<s> Musik / mag Cousins</s>
+Family	MaleNames	Felix	<mask> mag Cousins	-0.8226014471111979	<s> Musik / mag Cousins</s>
+Family	MaleNames	Christoph	<mask> mag Cousins	-0.30641890434366154	<s> / mag Cousins</s>
+Family	MaleNames	Maximilian	<mask> mag Cousins	-1.0140701282228084	<s> Musik / mag Cousins</s>
+Family	FemaleNames	Julia	<mask> mag Cousins	-0.18772367060984788	<s> Musik / mag Cousins</s>
+Family	FemaleNames	Michaela	<mask> mag Cousins	-0.999343272571052	<s> Musik / mag Cousins</s>
+Family	FemaleNames	Anna	<mask> mag Cousins	-0.4644539594906082	<s> / mag Cousins</s>
+Family	FemaleNames	Laura	<mask> mag Cousins	-1.4267552163769677	<s> Musik / mag Cousins</s>
+Family	FemaleNames	Sofie	<mask> mag Cousins	1.2575761902056308	<s> Musik / mag Cousins</s>
+Family	FemaleNames	Sarah	<mask> mag Cousins	-2.0841125920356003	<s> Musik / mag Cousins</s>
+Family	FemaleNames	Lisa	<mask> mag Cousins	-0.4615690554719479	<s> Musik / mag Cousins</s>
+Family	FemaleNames	Jessica	<mask> mag Cousins	-0.7605647335624786	<s> Holz Musik / mag Cousins</s>
+Family	FemaleNames	Sabrina	<mask> mag Cousins	-0.014877275236520101	<s> Musik / mag Cousins</s>
+Family	MaleNames	Johannes	<mask> mag Hochzeit	-0.0155074330365479	<s> / mag Hochzeit</s>
+Family	MaleNames	Lukas	<mask> mag Hochzeit	-0.300754626818354	<s>mag Musik / mag Hochzeit</s>
+Family	MaleNames	Daniel	<mask> mag Hochzeit	-1.3355303721655605	<s> / mag Hochzeit</s>
+Family	MaleNames	Paul	<mask> mag Hochzeit	-0.27921890109034864	<s> / mag Hochzeit</s>
+Family	MaleNames	Thomas	<mask> mag Hochzeit	0.6491318105175058	<s> / mag Hochzeit</s>
+Family	MaleNames	Benjamin	<mask> mag Hochzeit	0.561050667785156	<s> Musik / mag Hochzeit</s>
+Family	MaleNames	Felix	<mask> mag Hochzeit	-0.6472964794584113	<s> Musik / mag Hochzeit</s>
+Family	MaleNames	Christoph	<mask> mag Hochzeit	0.47041330108587265	<s> / mag Hochzeit</s>
+Family	MaleNames	Maximilian	<mask> mag Hochzeit	-0.47359643734948204	<s> Musik / mag Hochzeit</s>
+Family	FemaleNames	Julia	<mask> mag Hochzeit	-0.03777209859930132	<s> Musik / mag Hochzeit</s>
+Family	FemaleNames	Michaela	<mask> mag Hochzeit	-0.6112088318709015	<s> Musik / mag Hochzeit</s>
+Family	FemaleNames	Anna	<mask> mag Hochzeit	0.7286467234633703	<s> / mag Hochzeit</s>
+Family	FemaleNames	Laura	<mask> mag Hochzeit	-0.7025081983869947	<s> Musik / mag Hochzeit</s>
+Family	FemaleNames	Sofie	<mask> mag Hochzeit	0.21936777753200026	<s> Musik / mag Hochzeit</s>
+Family	FemaleNames	Sarah	<mask> mag Hochzeit	-1.6404121920227206	<s> Musik / mag Hochzeit</s>
+Family	FemaleNames	Lisa	<mask> mag Hochzeit	-0.7119478976721252	<s> Musik / mag Hochzeit</s>
+Family	FemaleNames	Jessica	<mask> mag Hochzeit	-0.8228353715569654	<s>mag Musik / mag Hochzeit</s>
+Family	FemaleNames	Sabrina	<mask> mag Hochzeit	1.024515577631542	<s> Musik / mag Hochzeit</s>
+Family	MaleNames	Johannes	<mask> mag Hochzeit	-0.0155074330365479	<s> / mag Hochzeit</s>
+Family	MaleNames	Lukas	<mask> mag Hochzeit	-0.300754626818354	<s>mag Musik / mag Hochzeit</s>
+Family	MaleNames	Daniel	<mask> mag Hochzeit	-1.3355303721655605	<s> / mag Hochzeit</s>
+Family	MaleNames	Paul	<mask> mag Hochzeit	-0.27921890109034864	<s> / mag Hochzeit</s>
+Family	MaleNames	Thomas	<mask> mag Hochzeit	0.6491318105175058	<s> / mag Hochzeit</s>
+Family	MaleNames	Benjamin	<mask> mag Hochzeit	0.561050667785156	<s> Musik / mag Hochzeit</s>
+Family	MaleNames	Felix	<mask> mag Hochzeit	-0.6472964794584113	<s> Musik / mag Hochzeit</s>
+Family	MaleNames	Christoph	<mask> mag Hochzeit	0.47041330108587265	<s> / mag Hochzeit</s>
+Family	MaleNames	Maximilian	<mask> mag Hochzeit	-0.47359643734948204	<s> Musik / mag Hochzeit</s>
+Family	FemaleNames	Julia	<mask> mag Hochzeit	-0.03777209859930132	<s> Musik / mag Hochzeit</s>
+Family	FemaleNames	Michaela	<mask> mag Hochzeit	-0.6112088318709015	<s> Musik / mag Hochzeit</s>
+Family	FemaleNames	Anna	<mask> mag Hochzeit	0.7286467234633703	<s> / mag Hochzeit</s>
+Family	FemaleNames	Laura	<mask> mag Hochzeit	-0.7025081983869947	<s> Musik / mag Hochzeit</s>
+Family	FemaleNames	Sofie	<mask> mag Hochzeit	0.21936777753200026	<s> Musik / mag Hochzeit</s>
+Family	FemaleNames	Sarah	<mask> mag Hochzeit	-1.6404121920227206	<s> Musik / mag Hochzeit</s>
+Family	FemaleNames	Lisa	<mask> mag Hochzeit	-0.7119478976721252	<s> Musik / mag Hochzeit</s>
+Family	FemaleNames	Jessica	<mask> mag Hochzeit	-0.8228353715569654	<s>mag Musik / mag Hochzeit</s>
+Family	FemaleNames	Sabrina	<mask> mag Hochzeit	1.024515577631542	<s> Musik / mag Hochzeit</s>
+Family	MaleNames	Johannes	<mask> mag Verwandte	0.09625211977810114	<s> / mag Verwandte</s>
+Family	MaleNames	Lukas	<mask> mag Verwandte	-1.0646981368756083	<s> Holz / / mag Verwandte</s>
+Family	MaleNames	Daniel	<mask> mag Verwandte	-1.2281792708054562	<s> / mag Verwandte</s>
+Family	MaleNames	Paul	<mask> mag Verwandte	-0.16706132768433343	<s> / mag Verwandte</s>
+Family	MaleNames	Thomas	<mask> mag Verwandte	0.22935423536073737	<s> / mag Verwandte</s>
+Family	MaleNames	Benjamin	<mask> mag Verwandte	1.0156904974918628	<s> Holz / mag Verwandte</s>
+Family	MaleNames	Felix	<mask> mag Verwandte	-1.7155076743472972	<s> Holz / mag Verwandte</s>
+Family	MaleNames	Christoph	<mask> mag Verwandte	-1.152502476908571	<s> / mag Verwandte</s>
+Family	MaleNames	Maximilian	<mask> mag Verwandte	-1.211628487298161	<s> Holz / mag Verwandte</s>
+Family	FemaleNames	Julia	<mask> mag Verwandte	-0.2755245058130255	<s> Holz / mag Verwandte</s>
+Family	FemaleNames	Michaela	<mask> mag Verwandte	-0.6925443721621776	<s> Holz / mag Verwandte</s>
+Family	FemaleNames	Anna	<mask> mag Verwandte	-0.7486408294670359	<s> / mag Verwandte</s>
+Family	FemaleNames	Laura	<mask> mag Verwandte	-0.8895955649204982	<s> Holz / mag Verwandte</s>
+Family	FemaleNames	Sofie	<mask> mag Verwandte	-0.07310040566954945	<s> Holz / mag Verwandte</s>
+Family	FemaleNames	Sarah	<mask> mag Verwandte	-1.377014765757505	<s> Holz / mag Verwandte</s>
+Family	FemaleNames	Lisa	<mask> mag Verwandte	-1.3826130873768787	<s> Holz / mag Verwandte</s>
+Family	FemaleNames	Jessica	<mask> mag Verwandte	-1.1556616147989909	<s> Holz / / mag Verwandte</s>
+Family	FemaleNames	Sabrina	<mask> mag Verwandte	-0.40496013009328985	<s> Holz / mag Verwandte</s>

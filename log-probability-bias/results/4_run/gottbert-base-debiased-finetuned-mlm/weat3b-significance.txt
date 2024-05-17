@@ -1,0 +1,14 @@
+**** Career ****
+FemaleNames mean,	 -0.3677678464031552
+MaleNames mean,	 -0.2347537230583361
+Test statistic,	 1107.0
+p-value,	 0.24538963041124262
+
+**** Family ****
+FemaleNames mean,	 -0.29462549757115386
+MaleNames mean,	 -0.14835473571860505
+Test statistic,	 1056.0
+p-value,	 0.14766108526853935
+
+Effect size,	 -0.10599549182955634
+Permutation test p-value,	 0.36949

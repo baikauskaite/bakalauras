@@ -1,0 +1,257 @@
+attribute	target	tgt_word	tgt_sent	log_probs	pred_sent
+MaleTerms	Math	Mathematik	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Math	Algebra	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Math	Geometrie	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Math	Infinitesimalrechnung	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Math	Gleichungen	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Math	Berechnung	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Math	Zahlen	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Math	Zusatz	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Arts	Poesie	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Arts	Kunst	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Arts	tanzen	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Arts	Literatur	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Arts	Roman	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Arts	Symphonie	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Arts	Theater	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Arts	Skulptur	Mann mag <mask>		<s>Mann magangehörigen</s>
+MaleTerms	Math	Mathematik	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Math	Algebra	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Math	Geometrie	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Math	Infinitesimalrechnung	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Math	Gleichungen	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Math	Berechnung	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Math	Zahlen	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Math	Zusatz	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Arts	Poesie	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Arts	Kunst	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Arts	tanzen	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Arts	Literatur	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Arts	Roman	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Arts	Symphonie	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Arts	Theater	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Arts	Skulptur	Junge mag <mask>		<s>Junge mag /</s>
+MaleTerms	Math	Mathematik	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Math	Algebra	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Math	Geometrie	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Math	Infinitesimalrechnung	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Math	Gleichungen	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Math	Berechnung	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Math	Zahlen	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Math	Zusatz	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Arts	Poesie	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Arts	Kunst	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Arts	tanzen	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Arts	Literatur	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Arts	Roman	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Arts	Symphonie	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Arts	Theater	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Arts	Skulptur	Vater mag <mask>		<s>Vater mag Holz</s>
+MaleTerms	Math	Mathematik	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Math	Algebra	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Math	Geometrie	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Math	Infinitesimalrechnung	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Math	Gleichungen	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Math	Berechnung	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Math	Zahlen	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Math	Zusatz	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Arts	Poesie	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Arts	Kunst	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Arts	tanzen	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Arts	Literatur	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Arts	Roman	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Arts	Symphonie	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Arts	Theater	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Arts	Skulptur	Männlich mag <mask>		<s>Männlich mag Musik</s>
+MaleTerms	Math	Mathematik	Großvater mag <mask>	-0.006871810041885795	<s>Großvater mag Musik</s>
+MaleTerms	Math	Algebra	Großvater mag <mask>	-0.782575958125077	<s>Großvater mag Musik</s>
+MaleTerms	Math	Geometrie	Großvater mag <mask>	-0.18866441030837158	<s>Großvater mag Musik</s>
+MaleTerms	Math	Infinitesimalrechnung	Großvater mag <mask>	-0.2250677984831739	<s>Großvater mag Musik</s>
+MaleTerms	Math	Gleichungen	Großvater mag <mask>	0.5062550641231287	<s>Großvater mag Musik</s>
+MaleTerms	Math	Berechnung	Großvater mag <mask>	0.09696257778933272	<s>Großvater mag Musik</s>
+MaleTerms	Math	Zahlen	Großvater mag <mask>	-0.3336669899607224	<s>Großvater mag Musik</s>
+MaleTerms	Math	Zusatz	Großvater mag <mask>	0.4410635559846624	<s>Großvater mag Musik</s>
+MaleTerms	Arts	Poesie	Großvater mag <mask>	-0.2535125969491114	<s>Großvater mag Musik</s>
+MaleTerms	Arts	Kunst	Großvater mag <mask>	0.1590793524845335	<s>Großvater mag Musik</s>
+MaleTerms	Arts	tanzen	Großvater mag <mask>	0.2320853110905548	<s>Großvater mag Musik</s>
+MaleTerms	Arts	Literatur	Großvater mag <mask>	0.27338098406853256	<s>Großvater mag Musik</s>
+MaleTerms	Arts	Roman	Großvater mag <mask>	-0.006018460114099737	<s>Großvater mag Musik</s>
+MaleTerms	Arts	Symphonie	Großvater mag <mask>	-0.10570958363818199	<s>Großvater mag Musik</s>
+MaleTerms	Arts	Theater	Großvater mag <mask>	-0.2760622675238696	<s>Großvater mag Musik</s>
+MaleTerms	Arts	Skulptur	Großvater mag <mask>	0.06212129526366531	<s>Großvater mag Musik</s>
+MaleTerms	Math	Mathematik	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Math	Algebra	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Math	Geometrie	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Math	Infinitesimalrechnung	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Math	Gleichungen	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Math	Berechnung	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Math	Zahlen	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Math	Zusatz	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Arts	Poesie	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Arts	Kunst	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Arts	tanzen	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Arts	Literatur	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Arts	Roman	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Arts	Symphonie	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Arts	Theater	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Arts	Skulptur	Ehemann mag <mask>		<s>Ehemann mag Musik</s>
+MaleTerms	Math	Mathematik	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Math	Algebra	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Math	Geometrie	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Math	Infinitesimalrechnung	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Math	Gleichungen	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Math	Berechnung	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Math	Zahlen	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Math	Zusatz	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Arts	Poesie	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Arts	Kunst	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Arts	tanzen	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Arts	Literatur	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Arts	Roman	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Arts	Symphonie	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Arts	Theater	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Arts	Skulptur	Sohn mag <mask>		<s>Sohn mag /</s>
+MaleTerms	Math	Mathematik	Onkel mag <mask>	-0.27852096410883653	<s>Onkel mag Musik</s>
+MaleTerms	Math	Algebra	Onkel mag <mask>	-0.6712843749933315	<s>Onkel mag Musik</s>
+MaleTerms	Math	Geometrie	Onkel mag <mask>	-0.06866874240834243	<s>Onkel mag Musik</s>
+MaleTerms	Math	Infinitesimalrechnung	Onkel mag <mask>	0.040962689364577254	<s>Onkel mag Musik</s>
+MaleTerms	Math	Gleichungen	Onkel mag <mask>	0.32159735650985366	<s>Onkel mag Musik</s>
+MaleTerms	Math	Berechnung	Onkel mag <mask>	0.3476141012223663	<s>Onkel mag Musik</s>
+MaleTerms	Math	Zahlen	Onkel mag <mask>	-0.38446428201902244	<s>Onkel mag Musik</s>
+MaleTerms	Math	Zusatz	Onkel mag <mask>	0.3233928935113633	<s>Onkel mag Musik</s>
+MaleTerms	Arts	Poesie	Onkel mag <mask>	-0.3171376306895288	<s>Onkel mag Musik</s>
+MaleTerms	Arts	Kunst	Onkel mag <mask>	-0.2633257853771222	<s>Onkel mag Musik</s>
+MaleTerms	Arts	tanzen	Onkel mag <mask>	-0.08552740708773006	<s>Onkel mag Musik</s>
+MaleTerms	Arts	Literatur	Onkel mag <mask>	0.2900857057937608	<s>Onkel mag Musik</s>
+MaleTerms	Arts	Roman	Onkel mag <mask>	0.06837893817676097	<s>Onkel mag Musik</s>
+MaleTerms	Arts	Symphonie	Onkel mag <mask>	-0.5576453545295614	<s>Onkel mag Musik</s>
+MaleTerms	Arts	Theater	Onkel mag <mask>	-0.37645911124285936	<s>Onkel mag Musik</s>
+MaleTerms	Arts	Skulptur	Onkel mag <mask>	0.2292040210168437	<s>Onkel mag Musik</s>
+FemaleTerms	Math	Mathematik	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Math	Algebra	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Math	Geometrie	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Math	Infinitesimalrechnung	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Math	Gleichungen	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Math	Berechnung	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Math	Zahlen	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Math	Zusatz	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Arts	Poesie	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Arts	Kunst	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Arts	tanzen	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Arts	Literatur	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Arts	Roman	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Arts	Symphonie	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Arts	Theater	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Arts	Skulptur	Mädchen mag <mask>		<s>Mädchen mag Musik</s>
+FemaleTerms	Math	Mathematik	Weiblich mag <mask>	-0.43094674528388793	<s>Weiblich mag Prof</s>
+FemaleTerms	Math	Algebra	Weiblich mag <mask>	-0.6416113772008051	<s>Weiblich mag Prof</s>
+FemaleTerms	Math	Geometrie	Weiblich mag <mask>	-0.22706675424398615	<s>Weiblich mag Prof</s>
+FemaleTerms	Math	Infinitesimalrechnung	Weiblich mag <mask>	0.2619430147507058	<s>Weiblich mag Prof</s>
+FemaleTerms	Math	Gleichungen	Weiblich mag <mask>	0.6208739164872557	<s>Weiblich mag Prof</s>
+FemaleTerms	Math	Berechnung	Weiblich mag <mask>	-0.05900252777216043	<s>Weiblich mag Prof</s>
+FemaleTerms	Math	Zahlen	Weiblich mag <mask>	-0.9017358751385068	<s>Weiblich mag Prof</s>
+FemaleTerms	Math	Zusatz	Weiblich mag <mask>	0.07390064452224171	<s>Weiblich mag Prof</s>
+FemaleTerms	Arts	Poesie	Weiblich mag <mask>	-0.5843490765562046	<s>Weiblich mag Prof</s>
+FemaleTerms	Arts	Kunst	Weiblich mag <mask>	-0.10129410959365635	<s>Weiblich mag Prof</s>
+FemaleTerms	Arts	tanzen	Weiblich mag <mask>	0.10671497251977097	<s>Weiblich mag Prof</s>
+FemaleTerms	Arts	Literatur	Weiblich mag <mask>	-0.3990779749019692	<s>Weiblich mag Prof</s>
+FemaleTerms	Arts	Roman	Weiblich mag <mask>	-0.2882181736666238	<s>Weiblich mag Prof</s>
+FemaleTerms	Arts	Symphonie	Weiblich mag <mask>	-0.9112115479442237	<s>Weiblich mag Prof</s>
+FemaleTerms	Arts	Theater	Weiblich mag <mask>	-0.6491800769706672	<s>Weiblich mag Prof</s>
+FemaleTerms	Arts	Skulptur	Weiblich mag <mask>	0.03826310042247704	<s>Weiblich mag Prof</s>
+FemaleTerms	Math	Mathematik	Tante mag <mask>	-0.3645886254083027	<s>Tante mag Musik</s>
+FemaleTerms	Math	Algebra	Tante mag <mask>	-0.7515753631605809	<s>Tante mag Musik</s>
+FemaleTerms	Math	Geometrie	Tante mag <mask>	0.09257959210655868	<s>Tante mag Musik</s>
+FemaleTerms	Math	Infinitesimalrechnung	Tante mag <mask>	0.3194076959167995	<s>Tante mag Musik</s>
+FemaleTerms	Math	Gleichungen	Tante mag <mask>	0.34471807268125126	<s>Tante mag Musik</s>
+FemaleTerms	Math	Berechnung	Tante mag <mask>	0.4287264053076766	<s>Tante mag Musik</s>
+FemaleTerms	Math	Zahlen	Tante mag <mask>	-0.4202849270442488	<s>Tante mag Musik</s>
+FemaleTerms	Math	Zusatz	Tante mag <mask>	0.3611720007256398	<s>Tante mag Musik</s>
+FemaleTerms	Arts	Poesie	Tante mag <mask>	-0.021488121569168416	<s>Tante mag Musik</s>
+FemaleTerms	Arts	Kunst	Tante mag <mask>	-0.030888581344618152	<s>Tante mag Musik</s>
+FemaleTerms	Arts	tanzen	Tante mag <mask>	0.022331408627499192	<s>Tante mag Musik</s>
+FemaleTerms	Arts	Literatur	Tante mag <mask>	-0.09827395659003796	<s>Tante mag Musik</s>
+FemaleTerms	Arts	Roman	Tante mag <mask>	-0.09399087745247603	<s>Tante mag Musik</s>
+FemaleTerms	Arts	Symphonie	Tante mag <mask>	-0.6946049036963627	<s>Tante mag Musik</s>
+FemaleTerms	Arts	Theater	Tante mag <mask>	-0.413177249858458	<s>Tante mag Musik</s>
+FemaleTerms	Arts	Skulptur	Tante mag <mask>	0.1842318518504915	<s>Tante mag Musik</s>
+FemaleTerms	Math	Mathematik	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Math	Algebra	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Math	Geometrie	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Math	Infinitesimalrechnung	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Math	Gleichungen	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Math	Berechnung	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Math	Zahlen	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Math	Zusatz	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Arts	Poesie	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Arts	Kunst	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Arts	tanzen	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Arts	Literatur	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Arts	Roman	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Arts	Symphonie	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Arts	Theater	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Arts	Skulptur	Tochter mag <mask>		<s>Tochter mag /</s>
+FemaleTerms	Math	Mathematik	Ehefrau mag <mask>	-0.23815978287316442	<s>Ehefrau mag /</s>
+FemaleTerms	Math	Algebra	Ehefrau mag <mask>	-0.7390486966018696	<s>Ehefrau mag /</s>
+FemaleTerms	Math	Geometrie	Ehefrau mag <mask>	-0.22978846621059057	<s>Ehefrau mag /</s>
+FemaleTerms	Math	Infinitesimalrechnung	Ehefrau mag <mask>	0.3709798042534944	<s>Ehefrau mag /</s>
+FemaleTerms	Math	Gleichungen	Ehefrau mag <mask>	0.4676551981290421	<s>Ehefrau mag /</s>
+FemaleTerms	Math	Berechnung	Ehefrau mag <mask>	-0.13600644490170613	<s>Ehefrau mag /</s>
+FemaleTerms	Math	Zahlen	Ehefrau mag <mask>	-0.9074582398478426	<s>Ehefrau mag /</s>
+FemaleTerms	Math	Zusatz	Ehefrau mag <mask>	0.035682703478457756	<s>Ehefrau mag /</s>
+FemaleTerms	Arts	Poesie	Ehefrau mag <mask>	-0.4391475339081766	<s>Ehefrau mag /</s>
+FemaleTerms	Arts	Kunst	Ehefrau mag <mask>	-0.17390875451117244	<s>Ehefrau mag /</s>
+FemaleTerms	Arts	tanzen	Ehefrau mag <mask>	0.0623060929262051	<s>Ehefrau mag /</s>
+FemaleTerms	Arts	Literatur	Ehefrau mag <mask>	-0.9037790790928459	<s>Ehefrau mag /</s>
+FemaleTerms	Arts	Roman	Ehefrau mag <mask>	-0.344128184609628	<s>Ehefrau mag /</s>
+FemaleTerms	Arts	Symphonie	Ehefrau mag <mask>	-0.6087962519132374	<s>Ehefrau mag /</s>
+FemaleTerms	Arts	Theater	Ehefrau mag <mask>	-1.1943015970076003	<s>Ehefrau mag /</s>
+FemaleTerms	Arts	Skulptur	Ehefrau mag <mask>	-0.12694235853412156	<s>Ehefrau mag /</s>
+FemaleTerms	Math	Mathematik	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Math	Algebra	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Math	Geometrie	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Math	Infinitesimalrechnung	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Math	Gleichungen	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Math	Berechnung	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Math	Zahlen	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Math	Zusatz	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Arts	Poesie	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Arts	Kunst	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Arts	tanzen	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Arts	Literatur	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Arts	Roman	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Arts	Symphonie	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Arts	Theater	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Arts	Skulptur	Frau mag <mask>		<s>Frau mag Prof</s>
+FemaleTerms	Math	Mathematik	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Math	Algebra	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Math	Geometrie	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Math	Infinitesimalrechnung	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Math	Gleichungen	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Math	Berechnung	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Math	Zahlen	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Math	Zusatz	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Arts	Poesie	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Arts	Kunst	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Arts	tanzen	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Arts	Literatur	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Arts	Roman	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Arts	Symphonie	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Arts	Theater	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Arts	Skulptur	Mutter mag <mask>		<s>Mutter mag Holz</s>
+FemaleTerms	Math	Mathematik	Großmutter mag <mask>	-0.08943671809686221	<s>Großmutter mag Musik</s>
+FemaleTerms	Math	Algebra	Großmutter mag <mask>	-0.6622009298419845	<s>Großmutter mag Musik</s>
+FemaleTerms	Math	Geometrie	Großmutter mag <mask>	-0.3699472661553665	<s>Großmutter mag Musik</s>
+FemaleTerms	Math	Infinitesimalrechnung	Großmutter mag <mask>	0.13589882918675292	<s>Großmutter mag Musik</s>
+FemaleTerms	Math	Gleichungen	Großmutter mag <mask>	0.7417968194747228	<s>Großmutter mag Musik</s>
+FemaleTerms	Math	Berechnung	Großmutter mag <mask>	-0.08515332002686704	<s>Großmutter mag Musik</s>
+FemaleTerms	Math	Zahlen	Großmutter mag <mask>	-0.6085324204178602	<s>Großmutter mag Musik</s>
+FemaleTerms	Math	Zusatz	Großmutter mag <mask>	-0.1633963623502344	<s>Großmutter mag Musik</s>
+FemaleTerms	Arts	Poesie	Großmutter mag <mask>	-0.5056392878457975	<s>Großmutter mag Musik</s>
+FemaleTerms	Arts	Kunst	Großmutter mag <mask>	-0.06359631940594976	<s>Großmutter mag Musik</s>
+FemaleTerms	Arts	tanzen	Großmutter mag <mask>	0.29402049487068854	<s>Großmutter mag Musik</s>
+FemaleTerms	Arts	Literatur	Großmutter mag <mask>	-0.3487734924552633	<s>Großmutter mag Musik</s>
+FemaleTerms	Arts	Roman	Großmutter mag <mask>	-0.2423988164060983	<s>Großmutter mag Musik</s>
+FemaleTerms	Arts	Symphonie	Großmutter mag <mask>	-0.37336892330565435	<s>Großmutter mag Musik</s>
+FemaleTerms	Arts	Theater	Großmutter mag <mask>	-0.41984423421920636	<s>Großmutter mag Musik</s>
+FemaleTerms	Arts	Skulptur	Großmutter mag <mask>	-0.2862388238973682	<s>Großmutter mag Musik</s>
