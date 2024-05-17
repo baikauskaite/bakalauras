@@ -1,0 +1,200 @@
+Parsed args: 
+Namespace(tests='sent-weat0,sent-weat0b,sent-weat1,sent-weat2,sent-weat3,sent-weat3b,sent-weat4,sent-weat4b,sent-weat5,sent-weat5b,sent-weat6', models='gottbert-base', seed=42, log_file='/home/viktorija/bakalaurinis/sent-bias/results/gottbert-base/log.log', results_path=None, ignore_cached_encs=True, dont_cache_encs=False, data_dir='/home/viktorija/bakalaurinis/sent-bias/tests/german', exp_dir='/home/viktorija/bakalaurinis/sent-bias/results/gottbert-base', n_samples=100000, parametric=False, use_cpu=False, glove_path=None, model_version='uklfr/gottbert-base')
+Tests selected:
+	sent-weat0
+	sent-weat0b
+	sent-weat1
+	sent-weat2
+	sent-weat3
+	sent-weat3b
+	sent-weat4
+	sent-weat4b
+	sent-weat5
+	sent-weat5b
+	sent-weat6
+Models selected:
+	gottbert-base
+Running tests for model gottbert-base
+Running test sent-weat0 for model gottbert-base
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/german/sent-weat0.jsonl...
+Computing sentence encodings
+Removed 1 examples from targ1
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/gottbert-base/gottbert-base.sent-weat0.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between MaleTerms and FemaleTerms in association to attributes GrammmaticalyMale and GrammaticallyFemale
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.27033
+computing effect size...
+esize: 0.13888
+Running test sent-weat0b for model gottbert-base
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/german/sent-weat0b.jsonl...
+Computing sentence encodings
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/gottbert-base/gottbert-base.sent-weat0b.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between MaleNames and FemaleNames in association to attributes GrammmaticalyMale and GrammaticallyFemale
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.8714
+computing effect size...
+esize: -0.238161
+Running test sent-weat1 for model gottbert-base
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/german/sent-weat1.jsonl...
+Computing sentence encodings
+Removed 12 examples from targ1
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/gottbert-base/gottbert-base.sent-weat1.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between Flowers and Insects in association to attributes Pleasant and Unpleasant
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.01646
+computing effect size...
+esize: 0.235946
+Running test sent-weat2 for model gottbert-base
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/german/sent-weat2.jsonl...
+Computing sentence encodings
+Removed 6 examples from targ2
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/gottbert-base/gottbert-base.sent-weat2.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between Instruments and Weapons in association to attributes Pleasant and Unpleasant
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.0002
+computing effect size...
+esize: 0.394336
+Running test sent-weat3 for model gottbert-base
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/german/sent-weat3.jsonl...
+Computing sentence encodings
+Removed 1 examples from targ1
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/gottbert-base/gottbert-base.sent-weat3.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between MaleTerms and FemaleTerms in association to attributes Career and Family
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.75347
+computing effect size...
+esize: -0.155653
+Running test sent-weat3b for model gottbert-base
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/german/sent-weat3b.jsonl...
+Computing sentence encodings
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/gottbert-base/gottbert-base.sent-weat3b.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between MaleNames and FemaleNames in association to attributes Career and Family
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.19402
+computing effect size...
+esize: 0.184138
+Running test sent-weat4 for model gottbert-base
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/german/sent-weat4.jsonl...
+Computing sentence encodings
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/gottbert-base/gottbert-base.sent-weat4.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between Math and Arts in association to attributes MaleTerms and FemaleTerms
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.99483
+computing effect size...
+esize: -0.633566
+Running test sent-weat4b for model gottbert-base
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/german/sent-weat4b.jsonl...
+Computing sentence encodings
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/gottbert-base/gottbert-base.sent-weat4b.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between Math and Arts in association to attributes MaleNames and FemaleNames
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.00298
+computing effect size...
+esize: 0.673878
+Running test sent-weat5 for model gottbert-base
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/german/sent-weat5.jsonl...
+Computing sentence encodings
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/gottbert-base/gottbert-base.sent-weat5.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between Science and Arts in association to attributes MaleTerms and FemaleTerms
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.58597
+computing effect size...
+esize: -0.0609836
+Running test sent-weat5b for model gottbert-base
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/german/sent-weat5b.jsonl...
+Computing sentence encodings
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/gottbert-base/gottbert-base.sent-weat5b.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between Science and Arts in association to attributes MaleNames and FemaleNames
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.38215
+computing effect size...
+esize: 0.0886257
+Running test sent-weat6 for model gottbert-base
+Loading /home/viktorija/bakalaurinis/sent-bias/tests/german/sent-weat6.jsonl...
+Computing sentence encodings
+Removed 1 examples from targ1
+	Done!
+Saving encodings to /home/viktorija/bakalaurinis/sent-bias/results/gottbert-base/gottbert-base.sent-weat6.h5
+Running SEAT...
+Representation dimension: 768
+Computing cosine similarities...
+Null hypothesis: no difference between MentalDisease and PhysicalDisease in association to attributes Temporary and Permanent
+Computing pval...
+Using non-parametric test
+Drawing 99999 samples (and biasing by 1)
+pval: 0.02073
+computing effect size...
+esize: 0.857751
+Model: gottbert-base
+Options: version=uklfr/gottbert-base
+	Test sent-weat0:	p-val: 0.270330000	esize: 0.14
+	Test sent-weat0b:	p-val: 0.871400000	esize: -0.24
+	Test sent-weat1:	p-val: 0.016460000	esize: 0.24
+	Test sent-weat2:	p-val: 0.000200000	esize: 0.39
+	Test sent-weat3:	p-val: 0.753470000	esize: -0.16
+	Test sent-weat3b:	p-val: 0.194020000	esize: 0.18
+	Test sent-weat4:	p-val: 0.994830000	esize: -0.63
+	Test sent-weat4b:	p-val: 0.002980000	esize: 0.67
+	Test sent-weat5:	p-val: 0.585970000	esize: -0.06
+	Test sent-weat5b:	p-val: 0.382150000	esize: 0.09
+	Test sent-weat6:	p-val: 0.020730000	esize: 0.86
